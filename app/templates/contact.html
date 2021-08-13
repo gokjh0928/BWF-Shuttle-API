@@ -1,0 +1,48 @@
+{% extends 'layout.html' %}
+{% block content %}
+<div class="container">
+    <h2 class="mb-3 d-flex justify-content-center text-center">Get in touch</h2>
+    <p class="mb-3 d-flex justify-content-center text-center">If you wanna get in touch, suggest additional features, alert me of errors in the data, or
+        just say hi,
+        fill up the form below and let's talk!</p>
+    <hr />
+    <form action="{{ url_for('main.contact') }}" method="POST" class="needs-validation col-10 offset-1 text-center" enctype="multipart/form-data" novalidate>
+        <div class="form-row">
+            <div class="col">
+                <div class="form-group">
+                    <input type="text" class="form-control" name="input-name" id="input-name" placeholder="Name" required>
+                    <div class="invalid-feedback">
+                        Please put in your name.
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="form-group">
+                    <input type="email" class="form-control" name="input-email" id="input-email" placeholder="Email" required>
+                    <div class="invalid-feedback">
+                        Please put in a valid email.
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <input type="text" class="form-control" name="input-subject" id="input-subject" placeholder="Subject" required>
+            <div class="invalid-feedback">
+                Please put in a subject.
+            </div>
+        </div>
+        <div class="form-group">
+            <textarea class="form-control" name="input-message" id="input-message" rows="5" placeholder="Message" required></textarea>
+            <div class="invalid-feedback">
+                Please put in a message.
+            </div>
+        </div>
+        <button class="btn btn-primary btn-lg btn-block" type="submit">Submit</button>
+    </form>
+
+
+
+
+</div>
+
+{% endblock content %}

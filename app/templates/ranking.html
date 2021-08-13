@@ -1,0 +1,46 @@
+{% extends 'layout.html' %}
+{% block content %}
+<div class="col-8 offset-2">
+    <h2 class="mb-3 d-flex justify-content-center text-center">BWF World Rankings</h2>
+</div>
+<hr />
+<form action="{{ url_for('rankings.table') }}" class="top-spacing" method="POST" enctype="multipart/form-data">
+    <div class="form-row d-flex justify-content-center">
+        <div class="col-7">
+            <p class="text-muted justify-content-center text-center">
+                * Win/Loss and Prize Money data isn't logged for dates before 2012-11-08
+            </p>
+            <div class="form-group">
+                <label for="category-select" class="lead mb-4 d-flex justify-content-center text-center">Select a
+                    Category</label>
+                <div class="input-group spec-input">
+                    <select class="form-control b-m" name="category-select">
+                        <option value="MS">Men's Singles</option>
+                        <option value="WS">Women's Singles</option>
+                        <option value="MD">Men's Doubles</option>
+                        <option value="WD">Women's Doubles</option>
+                        <option value="XD">Mixed Doubles</option>
+                    </select>
+                </div>
+                <label for="num-rows" class="lead mb-4 d-flex justify-content-center text-center">Enter Number of
+                    Players/Pairs to
+                    View</label>
+                <div class="input-group spec-input">
+                    <input type="number" class="form-control b-m" min="0" name="num-rows" id="num-rows"
+                        placeholder='25' oninput="validity.valid || (value='');"/>
+                </div>
+
+                <label for="date" class="lead mb-4 d-flex justify-content-center text-center">Select a Date</label>
+                <div class="input-group spec-input">
+                    <select class="form-control b-m" name="date" id="date">
+                        {% for date in dates %}
+                        <option>{{ date[0] }} {{ date[1] }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <button type="submit" onclick="loading()" class="btn btn-primary btn-lg btn-block">Submit</button>
+            </div>
+        </div>
+    </div>
+</form>
+{% endblock content %}

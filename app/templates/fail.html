@@ -1,0 +1,10 @@
+{% extends 'layout.html' %}
+{% block content %}
+<div class="container bottom-spacing">
+    <div class="col-6 offset-3 text-center b-t-20 b-p-20">
+        <h2 class="mb-3 d-flex justify-content-center pb-3">Something went wrong... Try again later!</h2>
+        <a href="{{ url_for('main.home') }}" class="btn btn-primary btn-block btn-lg">Back to Home</a>
+    </div>
+</div>
+
+{% endblock content %}

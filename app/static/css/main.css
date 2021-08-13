@@ -1,0 +1,253 @@
+
+
+body {
+    font-family: "Roboto",Helvetica,Arial,"Lucida Grande",sans-serif;
+    font-weight: 300;
+    background-color: #F8F9FA;
+}
+
+main.container {
+    background-color: white;
+}
+
+h2 {
+    padding-top: 10px;
+}
+
+p {
+    text-align: center;
+}
+
+/* table styles */
+
+table {
+    margin-bottom: 0 !important;
+}
+
+td, tr {
+    text-align: center;
+}
+
+.table-scroll {
+    position: relative;
+    height: 500px;
+    overflow: auto;
+}
+
+.table-scroll-y {
+    display: block;
+}
+
+
+/* Copying the color scheme of the BWF website */
+.navbar-custom {
+    background-color: #DF2028;
+    border-bottom: 30px solid #960E15;
+}
+
+ul#no-margin {
+    margin-top: 0 !important;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text,
+.nav-item,
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: lightgray;
+}
+
+.nav-logo {
+    height: 50px;
+    margin-top: -3px;
+}
+
+span.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='white' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+    color: white;
+}
+span.navbar-toggler-icon:active {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='grey' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+    color: #EFEFEF;
+}
+
+
+
+button.navbar-toggler {
+  border-color: white;
+}
+
+/* button styles */
+
+.btn {
+    margin: 0 3px;
+}
+
+
+.return-button {
+    margin-bottom: 5px;
+    background-color: #DF2028;
+    border: none;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.return-button:hover {
+    color: lightgray;
+    background-color: #DF2028;
+}
+
+
+.downloads {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+
+button:focus {
+    outline: none;
+}
+
+
+
+/* bottom margin 10% */
+.b-m {
+    margin-bottom: 13px !important;
+}
+
+.top-spacing {
+    padding-top: 20px;
+}
+
+.bottom-p-spacing {
+    padding-bottom: 30px;
+}
+
+.b-p-20 {
+    padding-top: 15%;
+}
+
+.b-p-20 {
+    padding-bottom: 15%;
+}
+
+/* For the Rankings page specification inputs */
+.spec-input {
+    margin-top: -10px;
+    margin-bottom: 15px;
+}
+
+/* div that contains content that will be loaded on click of a button */
+div#loading {
+    text-align: center;
+    margin: 10%;
+}
+
+.typewriter h2 {
+    overflow: hidden; /* Ensures the content is not revealed until the animation */
+    border-right: .15em solid #DF2028; /* The typwriter cursor */
+    white-space: nowrap; /* Keeps the content on a single line */
+    margin: 10% auto; /* Gives that scrolling effect as the typing happens */
+    letter-spacing: .15em; /* Adjust as needed */
+    animation: 
+        typing 2.5s steps(40, end),
+        blink-caret .75s step-end infinite;
+}
+
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: #DF2028; }
+}
+
+
+
+.social-icon .fa {
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    width: 30px;
+    height: 30px !important;
+    line-height: 1;
+    font-size: 14px;
+    -webkit-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+    color: #fff;
+    background: none
+}
+
+.social-icon:hover .fa {
+    opacity: .8
+}
+
+
+.social-icon .fa-facebook {
+    background-color: #3b5998
+}
+
+
+
+.social-icon .fa-linkedin {
+    background-color: #007bb6
+}
+
+
+.social-icon .fa-github-alt {
+    background-color: #333333
+}
+
+
+.social-icon .fa-instagram {
+    background-color: #E74764
+}
+
+.social-icon-large {
+    margin-right: 20px
+}
+
+.social-icon-large .fa {
+    font-size: 25px;
+    background: transparent;
+    color: #000;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    width: 60px;
+    height: 60px !important;
+    line-height: 1;
+    -webkit-transition: all 0.4s ease;
+    transition: all 0.4s ease
+}
+
+.social-icon-large:hover .fa {
+    color: #fff
+}
+
+.social-icon-large:hover .fa-facebook {
+    background-color: #3b5998
+}
+
+.social-icon-large:hover .fa-linkedin {
+    background-color: #007bb6
+}
+
+.social-icon-large:hover .fa-github-alt {
+    background-color: #333333
+}
+
+.social-icon-large:hover .fa-instagram {
+    background-color: #fb3958
+}
+
+
+.btn-round {
+    border-radius: 4px !important
+}

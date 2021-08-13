@@ -1,0 +1,1863 @@
+rank,country/territory,player,change_+/-,win/lose,prize_money,points/tmts,link,member_id
+1,MAS,LEE Chong Wei,0,545 - 112,"$1,359,295.00","100,523 / 13",https://bwfbadminton.com/player/50152/lee-chong-wei,50152
+2,CHN,CHEN Long,0,223 - 55,"$756,812.50","79,185 / 11",https://bwfbadminton.com/player/75787/chen-long,75787
+3,DEN,Jan O JORGENSEN,+1,262 - 155,"$287,922.00","65,868 / 16",https://bwfbadminton.com/player/54431/jan-o-jorgensen,54431
+4,JPN,Kenichi TAGO,+1,177 - 100,"$186,225.50","64,195 / 13",https://bwfbadminton.com/player/63707/kenichi-tago,63707
+5,INA,Tommy SUGIARTO,-2,222 - 111,"$165,551.00","62,348 / 15",https://bwfbadminton.com/player/14587/tommy-sugiarto,14587
+6,CHN,DU Pengyu,+1,137 - 69,"$191,797.50","61,790 / 12",https://bwfbadminton.com/player/55380/du-pengyu,55380
+7,CHN,WANG Zhengming,+1,113 - 58,"$172,797.50","55,890 / 13",https://bwfbadminton.com/player/23736/wang-zhengming,23736
+8,THA,Boonsak PONSANA,-2,334 - 206,"$211,527.50","55,588 / 17",https://bwfbadminton.com/player/11959/boonsak-ponsana,11959
+9,KOR,SON Wanho,0,154 - 83,"$167,007.50","54,690 / 16",https://bwfbadminton.com/player/54346/son-wanho,54346
+10,VIE,Tien Minh NGUYEN,0,289 - 117,"$175,443.00","51,177 / 15",https://bwfbadminton.com/player/14107/tien-minh-nguyen,14107
+11,HKG,HU Yun,+3,141 - 104,"$131,992.50","46,969 / 17",https://bwfbadminton.com/player/14869/hu-yun,14869
+12,GER,Marc ZWIEBLER,-1,273 - 141,"$124,343.00","45,908 / 13",https://bwfbadminton.com/player/50858/marc-zwiebler,50858
+13,DEN,Hans-Kristian Solberg VITTINGHUS,0,198 - 113,"$95,261.60","45,066 / 16",https://bwfbadminton.com/player/53753/hans-kristian-solberg-vittinghus,53753
+14,DEN,Viktor AXELSEN,+1,141 - 55,"$101,814.50","44,575 / 19",https://bwfbadminton.com/player/25831/viktor-axelsen,25831
+15,JPN,Kento MOMOTA,-3,101 - 43,"$128,806.00","44,540 / 16",https://bwfbadminton.com/player/89785/kento-momota,89785
+16,IND,KIDAMBI Srikanth,+9,58 - 29,"$130,072.50","43,380 / 12",https://bwfbadminton.com/player/93627/kidambi-srikanth,93627
+17,INA,Dionysius Hayom RUMBAKA,+3,144 - 92,"$93,347.50","43,349 / 15",https://bwfbadminton.com/player/66990/dionysius-hayom-rumbaka,66990
+18,INA,Sony Dwi KUNCORO,0,266 - 133,"$217,222.50","43,120 / 10",https://bwfbadminton.com/player/50427/sony-dwi-kuncoro,50427
+19,IND,PARUPALLI Kashyap,0,172 - 129,"$100,662.50","43,112 / 15",https://bwfbadminton.com/player/53944/parupalli-kashyap,53944
+20,MAS,CHONG Wei Feng,-4,149 - 101,"$57,293.50","41,640 / 11",https://bwfbadminton.com/player/52030/chong-wei-feng,52030
+21,THA,Tanongsak SAENSOMBOONSUK,+2,153 - 120,"$55,925.00","41,418 / 17",https://bwfbadminton.com/player/54513/tanongsak-saensomboonsuk,54513
+22,TPE,CHOU Tien Chen,-1,123 - 78,"$95,346.00","40,630 / 16",https://bwfbadminton.com/player/34810/chou-tien-chen,34810
+23,JPN,Sho SASAKI,-1,289 - 178,"$119,830.00","40,410 / 14",https://bwfbadminton.com/player/50905/sho-sasaki,50905
+24,JPN,Takuma UEDA,-7,107 - 68,"$53,932.50","40,265 / 17",https://bwfbadminton.com/player/47181/takuma-ueda,47181
+25,CHN,TIAN Houwei,+2,45 - 22,"$83,232.50","38,230 / 10",https://bwfbadminton.com/player/12903/tian-houwei,12903
+26,ENG,Rajiv OUSEPH,-2,221 - 140,"$63,052.80","37,384 / 15",https://bwfbadminton.com/player/51613/rajiv-ouseph,51613
+27,TPE,HSU Jen Hao,-1,130 - 86,"$49,118.50","36,950 / 20",https://bwfbadminton.com/player/67100/hsu-jen-hao,67100
+28,NED,Eric PANG,+1,298 - 198,"$40,596.05","35,821 / 19",https://bwfbadminton.com/player/10319/eric-pang,10319
+29,FRA,Brice LEVERDEZ,+1,218 - 139,"$48,866.75","35,338 / 17",https://bwfbadminton.com/player/52968/brice-leverdez,52968
+30,IND,Ajay JAYARAM,-2,133 - 105,"$42,756.00","34,880 / 10",https://bwfbadminton.com/player/55351/ajay-jayaram,55351
+31,KOR,LEE Dong Keun,+4,69 - 41,"$27,762.50","34,636 / 19",https://bwfbadminton.com/player/64933/lee-dong-keun,64933
+32,INA,Simon SANTOSO,+20,234 - 114,"$260,442.50","34,490 / 8",https://bwfbadminton.com/player/51599/simon-santoso,51599
+33,IND,Sourabh VERMA,-2,89 - 53,"$23,273.00","34,150 / 12",https://bwfbadminton.com/player/25925/sourabh-verma,25925
+34,CHN,GAO Huan,+7,61 - 30,"$28,965.00","34,100 / 9",https://bwfbadminton.com/player/93496/gao-huan,93496
+35,CHN,Yuekun CHEN,+2,57 - 36,"$30,340.00","33,650 / 10",https://bwfbadminton.com/player/42369/yuekun-chen,42369
+36,HKG,WONG Wing Ki Vincent,-2,118 - 99,"$72,432.50","33,296 / 12",https://bwfbadminton.com/player/55280/wong-wing-ki-vincent,55280
+37,SWE,Henri HURSKAINEN,-1,175 - 123,"$19,067.00","32,510 / 15",https://bwfbadminton.com/player/52325/henri-hurskainen,52325
+38,HKG,WEI Nan,+2,77 - 46,"$32,565.00","32,330 / 15",https://bwfbadminton.com/player/53054/wei-nan,53054
+39,FIN,Ville LANG,-1,274 - 138,"$29,900.00","32,199 / 21",https://bwfbadminton.com/player/15453/ville-lang,15453
+40,IND,GURUSAIDUTT R. M. V.,-8,118 - 81,"$32,437.50","32,170 / 9",https://bwfbadminton.com/player/32722/gurusaidutt-r-m-v,32722
+41,IND,PRANNOY H. S.,+8,70 - 43,"$32,211.00","31,640 / 13",https://bwfbadminton.com/player/83950/prannoy-h-s,83950
+42,SGP,Zi Liang Derek WONG,+1,124 - 105,"$24,618.00","30,670 / 16",https://bwfbadminton.com/player/52701/zi-liang-derek-wong,52701
+43,JPN,Kazumasa SAKAI,-4,69 - 31,"$20,021.50","30,580 / 12",https://bwfbadminton.com/player/91280/kazumasa-sakai,91280
+44,IND,SAI PRANEETH B.,+6,88 - 41,"$19,502.50","29,780 / 11",https://bwfbadminton.com/player/42776/sai-praneeth-b,42776
+45,IND,Anand PAWAR,-3,172 - 120,"$24,557.50","29,720 / 17",https://bwfbadminton.com/player/51598/anand-pawar,51598
+46,RUS,Vladimir IVANOV,-2,119 - 93,"$31,170.50","29,460 / 11",https://bwfbadminton.com/player/53924/vladimir-ivanov,53924
+47,MAS,Chun Seang TAN,-2,187 - 104,"$24,598.50","29,340 / 16",https://bwfbadminton.com/player/52867/chun-seang-tan,52867
+48,CHN,XUE Song,-15,51 - 17,"$35,142.50","29,170 / 9",https://bwfbadminton.com/player/78769/xue-song,78769
+49,MAS,Misbun Ramdan MOHMED MISBUN,-2,95 - 52,"$10,567.00","28,780 / 20",https://bwfbadminton.com/player/72703/misbun-ramdan-mohmed-misbun,72703
+50,UKR,Dmytro ZAVADSKY,-2,201 - 112,"$19,476.50","28,683 / 13",https://bwfbadminton.com/player/54439/dmytro-zavadsky,54439
+51,INA,Andre Kurniawan TEDJONO,-5,220 - 100,"$47,813.50","28,460 / 12",https://bwfbadminton.com/player/52738/andre-kurniawan-tedjono,52738
+52,ESP,Pablo ABIAN,-2,232 - 112,"$26,713.50","28,340 / 11",https://bwfbadminton.com/player/14251/pablo-abian,14251
+53,DEN,Emil HOLST,+1,96 - 45,"$10,915.50","27,074 / 16",https://bwfbadminton.com/player/83122/emil-holst,83122
+54,CUB,Osleni GUERRERO,+1,97 - 27,"$10,060.00","26,680 / 11",https://bwfbadminton.com/player/52364/osleni-guerrero,52364
+55,RUS,Vladimir MALKOV,+2,154 - 107,"$19,102.00","26,475 / 17",https://bwfbadminton.com/player/51682/vladimir-malkov,51682
+56,ISR,Misha ZILBERMAN,-3,116 - 121,"$8,398.50","26,084 / 18",https://bwfbadminton.com/player/52953/misha-zilberman,52953
+57,GER,Dieter DOMKE,+4,141 - 94,"$13,083.00","25,469 / 17",https://bwfbadminton.com/player/51886/dieter-domke,51886
+58,MAS,Zulfadli ZULKIFFLI,0,99 - 67,"$10,227.50","25,270 / 15",https://bwfbadminton.com/player/89511/zulfadli-zulkiffli,89511
+59,TPE,WANG Tzu Wei,+3,75 - 35,"$8,566.00","25,220 / 12",https://bwfbadminton.com/player/87375/wang-tzu-wei,87375
+60,USA,Sattawat PONGNAIRAT,-1,85 - 74,"$4,542.50","24,910 / 17",https://bwfbadminton.com/player/74872/sattawat-pongnairat,74872
+61,FRA,Lucas CORVEE,+2,85 - 43,"$3,678.50","24,683 / 18",https://bwfbadminton.com/player/89416/lucas-corvee,89416
+62,THA,Suppanyu AVIHINGSANON,-2,108 - 81,"$14,617.50","24,370 / 11",https://bwfbadminton.com/player/46874/suppanyu-avihingsanon,46874
+63,MAS,LIEW Daren,-7,120 - 102,"$41,849.00","24,350 / 8",https://bwfbadminton.com/player/52864/liew-daren,52864
+64,DEN,Joachim PERSSON,0,243 - 150,"$56,750.00","24,270 / 17",https://bwfbadminton.com/player/51053/joachim-persson,51053
+65,IRL,Scott EVANS,+1,178 - 171,"$21,044.30","21,744 / 14",https://bwfbadminton.com/player/15241/scott-evans,15241
+66,FRA,Thomas ROUXEL,+1,80 - 71,"$4,006.50","21,736 / 20",https://bwfbadminton.com/player/38500/thomas-rouxel,38500
+67,HKG,CHAN Yan Kit,+9,164 - 155,"$39,376.50","21,440 / 11",https://bwfbadminton.com/player/51306/chan-yan-kit,51306
+68,SGP,Yong Zhao Ashton CHEN,+1,108 - 86,"$9,052.50","20,870 / 16",https://bwfbadminton.com/player/52860/yong-zhao-ashton-chen,52860
+69,CZE,Petr KOUKAL,+1,226 - 189,"$11,887.75","20,820 / 14",https://bwfbadminton.com/player/15585/petr-koukal,15585
+70,USA,Howard SHU,+5,68 - 54,"$3,007.50","20,719 / 16",https://bwfbadminton.com/player/46776/howard-shu,46776
+71,GER,Lukas SCHMIDT,+13,101 - 65,"$2,822.00","20,680 / 14",https://bwfbadminton.com/player/55099/lukas-schmidt,55099
+72,SUI,Jan FROHLICH,+5,242 - 187,"$5,012.25","20,412 / 19",https://bwfbadminton.com/player/10565/jan-frohlich,10565
+73,DEN,Rasmus FLADBERG,-2,88 - 46,"$9,646.00","20,400 / 11",https://bwfbadminton.com/player/70937/rasmus-fladberg,70937
+74,EST,Raul MUST,-1,204 - 140,"$12,126.50","20,151 / 17",https://bwfbadminton.com/player/51531/raul-must,51531
+75,USA,Kwong Beng CHAN,-1,99 - 90,"$10,426.00","20,120 / 14",https://bwfbadminton.com/player/52041/kwong-beng-chan,52041
+76,IND,Arvind BHAT,-11,218 - 137,"$30,963.50","20,040 / 9",https://bwfbadminton.com/player/15319/arvind-bhat,15319
+77,SCO,Kieran MERRILEES,+2,108 - 82,"$4,478.00","19,539 / 14",https://bwfbadminton.com/player/54204/kieran-merrilees,54204
+78,FIN,Eetu HEINO,+2,93 - 93,"$4,478.40","19,506 / 17",https://bwfbadminton.com/player/54484/eetu-heino,54484
+79,USA,Bjorn SEGUIN,+2,89 - 79,"$1,935.00","19,390 / 15",https://bwfbadminton.com/player/60178/bjorn-seguin,60178
+80,DEN,Christian LIND THOMSEN,+2,160 - 128,"$8,337.00","19,370 / 17",https://bwfbadminton.com/player/53825/christian-lind-thomsen,53825
+81,TPE,HSUEH Hsuan Yi,+2,104 - 83,"$21,757.50","19,258 / 8",https://bwfbadminton.com/player/52983/hsueh-hsuan-yi,52983
+82,SRI,Niluka KARUNARATNE,+20,164 - 88,"$10,089.50","18,911 / 10",https://bwfbadminton.com/player/14004/niluka-karunaratne,14004
+83,DEN,Flemming QUACH,+3,65 - 43,"$3,894.00","18,860 / 10",https://bwfbadminton.com/player/94321/flemming-quach,94321
+84,BRA,Daniel PAIOLA,+8,102 - 78,"$3,780.00","18,224 / 11",https://bwfbadminton.com/player/62506/daniel-paiola,62506
+85,IND,Anup SRIDHAR,+4,151 - 121,"$20,248.00","18,170 / 11",https://bwfbadminton.com/player/51310/anup-sridhar,51310
+86,IND,Subhankar DEY,+4,35 - 17,"$2,685.00","18,170 / 10",https://bwfbadminton.com/player/60967/subhankar-dey,60967
+87,IND,Chetan ANAND,+1,277 - 162,"$51,163.50","18,070 / 12",https://bwfbadminton.com/player/11691/chetan-anand,11691
+88,AUT,David OBERNOSTERER,+9,97 - 96,"$5,973.00","17,993 / 18",https://bwfbadminton.com/player/54459/david-obernosterer,54459
+89,INA,Wisnu Yuli PRASETYO,-17,53 - 31,"$12,115.00","17,950 / 8",https://bwfbadminton.com/player/99280/wisnu-yuli-prasetyo,99280
+90,POL,Michal ROGALSKI,+1,66 - 62,"$2,142.50","17,670 / 20",https://bwfbadminton.com/player/53381/michal-rogalski,53381
+91,SWE,Mattias BORG,-4,74 - 62,"$2,445.50","17,497 / 16",https://bwfbadminton.com/player/67656/mattias-borg,67656
+92,SUI,Iztok UTROSA,+1,92 - 89,"$3,181.00","17,476 / 15",https://bwfbadminton.com/player/53872/iztok-utrosa,53872
+93,MAS,Iskandar ZULKARNAIN,+1,63 - 48,"$7,655.50","17,450 / 8",https://bwfbadminton.com/player/31871/iskandar-zulkarnain,31871
+94,SWE,Gabriel ULLDAHL,+1,93 - 77,"$1,821.50","17,278 / 13",https://bwfbadminton.com/player/42705/gabriel-ulldahl,42705
+95,BEL,Yuhan TAN,+1,162 - 132,"$13,321.00","17,246 / 15",https://bwfbadminton.com/player/51690/yuhan-tan,51690
+96,TPE,Chia-Hsin WAN,-11,40 - 24,"$2,770.50","17,240 / 12",https://bwfbadminton.com/player/91977/chia-hsin-wan,91977
+97,NZL,Joe WU,+1,101 - 85,"$1,683.75","17,174 / 21",https://bwfbadminton.com/player/14739/joe-wu,14739
+98,TPE,LIN Yu Hsien,+1,50 - 32,"$7,382.50","17,030 / 11",https://bwfbadminton.com/player/91665/lin-yu-hsien,91665
+99,MAS,Mohamad Arif Ab Latif ARIF,+1,132 - 93,"$20,631.00","17,000 / 10",https://bwfbadminton.com/player/53131/mohamad-arif-ab-latif-arif,53131
+100,FRA,Lucas CLAERBOUT,+9,0 - 0,0,"16,374 / 18",https://bwfbadminton.com/player/89506/lucas-claerbout,89506
+101,SRI,Dinuka KARUNARATNA,+10,0 - 0,0,"16,333 / 9",https://bwfbadminton.com/player/52229/dinuka-karunaratna,52229
+102,FRA,Matthieu LO YING PING,-1,0 - 0,0,"16,320 / 13",https://bwfbadminton.com/player/53011/matthieu-lo-ying-ping,53011
+103,HKG,NG Ka Long Angus,-25,0 - 0,0,"15,970 / 9",https://bwfbadminton.com/player/45171/ng-ka-long-angus,45171
+104,CHN,LIN Dan,-1,0 - 0,0,"15,850 / 2",https://bwfbadminton.com/player/50906/lin-dan,50906
+105,BEL,Maxime MOREELS,0,0 - 0,0,"15,767 / 17",https://bwfbadminton.com/player/25625/maxime-moreels,25625
+106,INA,Alamsyah YUNUS,0,0 - 0,0,"15,610 / 5",https://bwfbadminton.com/player/14553/alamsyah-yunus,14553
+107,UKR,Valeriy ATRASHCHENKOV,0,0 - 0,0,"15,401 / 15",https://bwfbadminton.com/player/52290/valeriy-atrashchenkov,52290
+108,THA,Sitthikom THAMMASIN,+18,0 - 0,0,"15,180 / 5",https://bwfbadminton.com/player/58963/sitthikom-thammasin,58963
+109,JPN,Riichi TAKESHITA,-41,0 - 0,0,"15,090 / 7",https://bwfbadminton.com/player/61799/riichi-takeshita,61799
+110,HKG,TAM Chun Hei,0,0 - 0,0,"15,050 / 8",https://bwfbadminton.com/player/30163/tam-chun-hei,30163
+111,THA,Khosit PHETPRADAB,+2,0 - 0,0,"14,790 / 11",https://bwfbadminton.com/player/29449/khosit-phetpradab,29449
+112,MAS,Beryno Jiann Tze WONG,-8,0 - 0,0,"14,510 / 11",https://bwfbadminton.com/player/52699/beryno-jiann-tze-wong,52699
+113,CHN,HUANG Yu Xiang,+1,0 - 0,0,"14,370 / 7",https://bwfbadminton.com/player/71261/huang-yu-xiang,71261
+114,NED,Erik MEIJS,+1,0 - 0,0,"14,351 / 18",https://bwfbadminton.com/player/88679/erik-meijs,88679
+115,TPE,SHIH Kuei Chun,+1,0 - 0,0,"14,350 / 12",https://bwfbadminton.com/player/67096/shih-kuei-chun,67096
+116,INA,Andre MARTEEN,+4,0 - 0,0,"14,030 / 10",https://bwfbadminton.com/player/67795/andre-marteen,67795
+117,INA,Riyanto SUBAGJA,-9,0 - 0,0,"14,010 / 8",https://bwfbadminton.com/player/65705/riyanto-subagja,65705
+118,ITA,Giovanni GRECO,+6,0 - 0,0,"13,733 / 11",https://bwfbadminton.com/player/54314/giovanni-greco,54314
+119,INA,Jonatan CHRISTIE,+2,0 - 0,0,"13,730 / 7",https://bwfbadminton.com/player/73442/jonatan-christie,73442
+120,AUT,Michael LAHNSTEINER,-3,0 - 0,0,"13,659 / 11",https://bwfbadminton.com/player/15031/michael-lahnsteiner,15031
+121,AUT,Luka WRABER,-3,0 - 0,0,"13,519 / 18",https://bwfbadminton.com/player/56274/luka-wraber,56274
+122,DEN,Steffen RASMUSSEN,-3,0 - 0,0,"13,340 / 12",https://bwfbadminton.com/player/37669/steffen-rasmussen,37669
+123,INA,Evert SUKAMTA,-11,0 - 0,0,"13,340 / 10",https://bwfbadminton.com/player/69546/evert-sukamta,69546
+124,INA,DHARMA Alrie Guna,-1,0 - 0,0,"13,250 / 10",https://bwfbadminton.com/player/98949/dharma-alrie-guna,98949
+125,NZL,Michael FOWKE,0,0 - 0,0,"13,031 / 11",https://bwfbadminton.com/player/89001/michael-fowke,89001
+126,USA,Hock Lai LEE,+48,0 - 0,0,"12,950 / 6",https://bwfbadminton.com/player/53132/hock-lai-lee,53132
+127,NED,Jordy HILBINK,0,0 - 0,0,"12,910 / 11",https://bwfbadminton.com/player/67174/jordy-hilbink,67174
+128,DEN,Kim BRUUN,0,0 - 0,0,"12,820 / 13",https://bwfbadminton.com/player/96545/kim-bruun,96545
+129,ENG,Toby PENTY,0,0 - 0,0,"12,808 / 9",https://bwfbadminton.com/player/88523/toby-penty,88523
+130,NED,Nick FRANSMAN,0,0 - 0,0,"12,782 / 16",https://bwfbadminton.com/player/48202/nick-fransman,48202
+131,RUS,Anton IVANOV,0,0 - 0,0,"12,680 / 19",https://bwfbadminton.com/player/67066/anton-ivanov,67066
+132,BRA,Alex Yuwan TJONG,+5,0 - 0,0,"12,570 / 10",https://bwfbadminton.com/player/73532/alex-yuwan-tjong,73532
+133,KOR,JONG SOO HWANG,-11,0 - 0,0,"12,540 / 5",https://bwfbadminton.com/player/98828/jong-soo-hwang,98828
+134,ITA,Rosario MADDALONI,0,0 - 0,0,"12,470 / 12",https://bwfbadminton.com/player/15286/rosario-maddaloni,15286
+135,FRA,Marin BAUMANN,+10,0 - 0,0,"12,360 / 16",https://bwfbadminton.com/player/86516/marin-baumann,86516
+136,ITA,Indra Bagus ADE CHANDRA,-4,0 - 0,0,"12,100 / 6",https://bwfbadminton.com/player/54234/indra-bagus-ade-chandra,54234
+137,WAL,Daniel FONT,+1,0 - 0,0,"11,973 / 18",https://bwfbadminton.com/player/63977/daniel-font,63977
+138,MAS,SOO Teck Zhi,-5,0 - 0,0,"11,970 / 7",https://bwfbadminton.com/player/76106/soo-teck-zhi,76106
+139,SVK,Jarolim VICEN,-4,0 - 0,0,"11,831 / 17",https://bwfbadminton.com/player/55330/jarolim-vicen,55330
+140,GUA,HUMBLERS HEYMARD,+17,0 - 0,0,"11,820 / 8",https://bwfbadminton.com/player/23996/humblers-heymard,23996
+141,RUS,Nikita KHAKIMOV,-5,0 - 0,0,"11,781 / 14",https://bwfbadminton.com/player/17576/nikita-khakimov,17576
+142,TPE,YANG Chih Hsun,-2,0 - 0,0,"11,490 / 9",https://bwfbadminton.com/player/90800/yang-chih-hsun,90800
+143,POL,Adrian DZIOLKO,-2,0 - 0,0,"11,370 / 10",https://bwfbadminton.com/player/48962/adrian-dziolko,48962
+144,NOR,Marius MYHRE,-5,0 - 0,0,"11,336 / 19",https://bwfbadminton.com/player/20711/marius-myhre,20711
+145,REU,Arnaud GENIN,+5,0 - 0,0,"11,160 / 13",https://bwfbadminton.com/player/67062/arnaud-genin,67062
+146,AUT,Matthias ALMER,+6,0 - 0,0,"11,133 / 16",https://bwfbadminton.com/player/88065/matthias-almer,88065
+147,MAS,GOH Soon Huat,-1,0 - 0,0,"11,010 / 6",https://bwfbadminton.com/player/92593/goh-soon-huat,92593
+148,MAS,Jiann Shiarng CHIANG,-5,0 - 0,0,"10,840 / 15",https://bwfbadminton.com/player/11701/jiann-shiarng-chiang,11701
+149,TPE,LIN Chia Hsuan,0,0 - 0,0,"10,840 / 6",https://bwfbadminton.com/player/39748/lin-chia-hsuan,39748
+150,DOM,William CABRERA,+1,0 - 0,0,"10,694 / 10",https://bwfbadminton.com/player/13654/william-cabrera,13654
+151,SGP,Robin GONANSA,-7,0 - 0,0,"10,680 / 9",https://bwfbadminton.com/player/30924/robin-gonansa,30924
+152,INA,Nathaniel Ernestan SULISTYO,+1,0 - 0,0,"10,640 / 14",https://bwfbadminton.com/player/83378/nathaniel-ernestan-sulistyo,83378
+153,RSA,Jacob MALIEKAL,+5,0 - 0,0,"10,299 / 9",https://bwfbadminton.com/player/38907/jacob-maliekal,38907
+154,SWE,Mattias WIGARDT,+6,0 - 0,0,"10,250 / 10",https://bwfbadminton.com/player/53246/mattias-wigardt,53246
+155,PER,Andres CORPANCHO,-13,0 - 0,0,"10,072 / 8",https://bwfbadminton.com/player/13762/andres-corpancho,13762
+156,JPN,Kenta NISHIMOTO,-1,0 - 0,0,"10,030 / 5",https://bwfbadminton.com/player/85394/kenta-nishimoto,85394
+157,FIN,Kasper LEHIKOINEN,+6,0 - 0,0,"10,000 / 11",https://bwfbadminton.com/player/42726/kasper-lehikoinen,42726
+158,TPE,HSU Jui Ting,+6,0 - 0,0,"9,950 / 9",https://bwfbadminton.com/player/72027/hsu-jui-ting,72027
+159,INA,. SISWANTO,+8,0 - 0,0,"9,930 / 11",https://bwfbadminton.com/player/2111/siswanto,2111
+160,INA,Mahbub THOMI AZIZAN,+5,0 - 0,0,"9,930 / 7",https://bwfbadminton.com/player/62187/mahbub-thomi-azizan,62187
+161,MAS,KHRISHNAN Yogendran,-5,0 - 0,0,"9,910 / 5",https://bwfbadminton.com/player/12377/khrishnan-yogendran,12377
+162,SLO,Alen ROJ,+11,0 - 0,0,"9,901 / 13",https://bwfbadminton.com/player/79391/alen-roj,79391
+163,CZE,Pavel FLORIAN,+5,0 - 0,0,"9,836 / 19",https://bwfbadminton.com/player/53043/pavel-florian,53043
+164,INA,Ivanudin RIFAN FAUZIN,+5,0 - 0,0,"9,830 / 7",https://bwfbadminton.com/player/71739/ivanudin-rifan-fauzin,71739
+165,BRA,Luiz dos SANTOS,-4,0 - 0,0,"9,775 / 10",https://bwfbadminton.com/player/36925/luiz-dos-santos,36925
+166,INA,Fikri Ihsandi HADMADI,+4,0 - 0,0,"9,760 / 6",https://bwfbadminton.com/player/86149/fikri-ihsandi-hadmadi,86149
+167,GER,Richard DOMKE,+4,0 - 0,0,"9,698 / 8",https://bwfbadminton.com/player/85035/richard-domke,85035
+168,NED,Vincent DE VRIES,+4,0 - 0,0,"9,670 / 13",https://bwfbadminton.com/player/48766/vincent-de-vries,48766
+169,GUA,Rodolfo RAMIREZ,-21,0 - 0,0,"9,616 / 7",https://bwfbadminton.com/player/52347/rodolfo-ramirez,52347
+170,CHN,GUO Kai,-16,0 - 0,0,"9,430 / 5",https://bwfbadminton.com/player/83303/guo-kai,83303
+171,BUL,Blagovest KISYOV,+6,0 - 0,0,"9,226 / 14",https://bwfbadminton.com/player/15085/blagovest-kisyov,15085
+172,THA,Parinyawat THONGNUAM,-25,0 - 0,0,"9,030 / 9",https://bwfbadminton.com/player/73786/parinyawat-thongnuam,73786
+173,DEN,Mikkel MIKKELSEN,-7,0 - 0,0,"9,020 / 10",https://bwfbadminton.com/player/76031/mikkel-mikkelsen,76031
+174,MAS,WOON Kok Hong,+1,0 - 0,0,"8,940 / 13",https://bwfbadminton.com/player/99888/woon-kok-hong,99888
+175,NGR,Jinkan Ifraimu BULUS,+1,0 - 0,0,"8,892 / 6",https://bwfbadminton.com/player/51968/jinkan-ifraimu-bulus,51968
+176,ENG,Rhys WALKER,+6,0 - 0,0,"8,836 / 16",https://bwfbadminton.com/player/64936/rhys-walker,64936
+177,MEX,Lino MUNOZ,-18,0 - 0,0,"8,778 / 8",https://bwfbadminton.com/player/96461/lino-munoz,96461
+178,NGR,Enejoh ABAH,0,0 - 0,0,"8,760 / 6",https://bwfbadminton.com/player/44496/enejoh-abah,44496
+179,MAS,CHONG Yee Han,0,0 - 0,0,"8,750 / 6",https://bwfbadminton.com/player/79695/chong-yee-han,79695
+179,CAN,Sergiy SHATENKO,0,0 - 0,0,"8,750 / 6",https://bwfbadminton.com/player/89556/sergiy-shatenko,89556
+181,IND,Sameer VERMA,0,0 - 0,0,"8,740 / 5",https://bwfbadminton.com/player/77003/sameer-verma,77003
+182,MAS,Kok Pong LOKE,+1,0 - 0,0,"8,570 / 15",https://bwfbadminton.com/player/72238/kok-pong-loke,72238
+183,TPE,LU Chia Hung,+1,0 - 0,0,"8,560 / 8",https://bwfbadminton.com/player/91254/lu-chia-hung,91254
+184,IND,Aditya PRAKASH,+2,0 - 0,0,"8,520 / 4",https://bwfbadminton.com/player/46574/aditya-prakash,46574
+185,RUS,Anatoliy YARTSEV,+2,0 - 0,0,"8,481 / 14",https://bwfbadminton.com/player/60783/anatoliy-yartsev,60783
+186,INA,Ihsan Maulana MUSTOFA,+2,0 - 0,0,"8,480 / 8",https://bwfbadminton.com/player/74154/ihsan-maulana-mustofa,74154
+187,MAS,SOONG Joo Ven,+2,0 - 0,0,"8,460 / 5",https://bwfbadminton.com/player/87117/soong-joo-ven,87117
+188,UKR,Kyrylo LEONOV,+2,0 - 0,0,"8,430 / 10",https://bwfbadminton.com/player/82280/kyrylo-leonov,82280
+189,FRA,Yoann TURLAN,+2,0 - 0,0,"8,340 / 15",https://bwfbadminton.com/player/54072/yoann-turlan,54072
+190,KOR,PARK Sung Min,-28,0 - 0,0,"8,180 / 8",https://bwfbadminton.com/player/92121/park-sung-min,92121
+191,FIN,Kalle KOLJONEN,+30,0 - 0,0,"8,159 / 12",https://bwfbadminton.com/player/92655/kalle-koljonen,92655
+192,DEN,Kian ANDERSEN,0,0 - 0,0,"8,120 / 7",https://bwfbadminton.com/player/88335/kian-andersen,88335
+193,TPE,CHU Han Chou,+1,0 - 0,0,"8,010 / 5",https://bwfbadminton.com/player/53858/chu-han-chou,53858
+194,MAS,Shahzan Shah MISFAHUL,+2,0 - 0,0,"7,720 / 8",https://bwfbadminton.com/player/91261/shahzan-shah-misfahul,91261
+195,MEX,Job CASTILLO,+20,0 - 0,0,"7,650 / 6",https://bwfbadminton.com/player/93101/job-castillo,93101
+196,DEN,Rasmus MESSERSCHMIDT,+1,0 - 0,0,"7,600 / 10",https://bwfbadminton.com/player/81860/rasmus-messerschmidt,81860
+197,NED,Mark CALJOUW,+1,0 - 0,0,"7,595 / 10",https://bwfbadminton.com/player/76973/mark-caljouw,76973
+198,ESP,Ernesto VELAZQUEZ,+1,0 - 0,0,"7,590 / 4",https://bwfbadminton.com/player/54432/ernesto-velazquez,54432
+199,MAS,Nur Mohd Azriyn Ayub AZRIYN,+1,0 - 0,0,"7,550 / 5",https://bwfbadminton.com/player/70443/nur-mohd-azriyn-ayub-azriyn,70443
+200,CZE,Jakub BITMAN,+5,0 - 0,0,"7,530 / 15",https://bwfbadminton.com/player/54443/jakub-bitman,54443
+201,FIN,Anton KAISTI,0,0 - 0,0,"7,522 / 11",https://bwfbadminton.com/player/83131/anton-kaisti,83131
+202,GER,Ary TRISNANTO,-9,0 - 0,0,"7,470 / 9",https://bwfbadminton.com/player/75986/ary-trisnanto,75986
+203,TPE,HSU Shao Wen,0,0 - 0,0,"7,410 / 7",https://bwfbadminton.com/player/49231/hsu-shao-wen,49231
+204,AUT,Daniel GRASSMUCK,-9,0 - 0,0,"7,387 / 14",https://bwfbadminton.com/player/53368/daniel-grassmuck,53368
+205,DOM,Nelson JAVIER,-1,0 - 0,0,"7,373 / 8",https://bwfbadminton.com/player/15591/nelson-javier,15591
+206,INA,Wibowo SETYALDI PUTRA,0,0 - 0,0,"7,330 / 6",https://bwfbadminton.com/player/99488/wibowo-setyaldi-putra,99488
+207,INA,Muhammad Bayu PANGISTHU,0,0 - 0,0,"7,330 / 5",https://bwfbadminton.com/player/77437/muhammad-bayu-pangisthu,77437
+208,UKR,Artem POCHTAROV,0,0 - 0,0,"7,323 / 10",https://bwfbadminton.com/player/20301/artem-pochtarov,20301
+209,TPE,Sheng-Jie YANG,0,0 - 0,0,"7,300 / 7",https://bwfbadminton.com/player/95759/sheng-jie-yang,95759
+210,MAS,Beng Hong KUAN,-8,0 - 0,0,"7,230 / 9",https://bwfbadminton.com/player/13133/beng-hong-kuan,13133
+211,THA,Karnphop ATTHAVIROJ,-1,0 - 0,0,"7,190 / 8",https://bwfbadminton.com/player/89086/karnphop-atthaviroj,89086
+212,MAS,TAN Kian Meng,-1,0 - 0,0,"7,170 / 6",https://bwfbadminton.com/player/67654/tan-kian-meng,67654
+213,RSA,Prakash VIJAYANATH,-1,0 - 0,0,"7,120 / 6",https://bwfbadminton.com/player/81606/prakash-vijayanath,81606
+214,BOT,Gaone TAWANA,-1,0 - 0,0,"7,073 / 6",https://bwfbadminton.com/player/77223/gaone-tawana,77223
+215,ENG,Sam PARSONS,-1,0 - 0,0,"7,060 / 13",https://bwfbadminton.com/player/90842/sam-parsons,90842
+216,IND,Abhimanyu SINGH,0,0 - 0,0,"7,050 / 5",https://bwfbadminton.com/player/8601/abhimanyu-singh,8601
+217,KOR,LEE Hyun Il,0,0 - 0,0,"7,000 / 1",https://bwfbadminton.com/player/11704/lee-hyun-il,11704
+218,MAS,Wong KIN YIK,+4,0 - 0,0,"6,980 / 9",https://bwfbadminton.com/player/76356/wong-kin-yik,76356
+219,GUA,Anibal MARROQUIN,+6,0 - 0,0,"6,807 / 8",https://bwfbadminton.com/player/93965/anibal-marroquin,93965
+220,LTU,Kestutis NAVICKAS,+54,0 - 0,0,"6,731 / 6",https://bwfbadminton.com/player/13460/kestutis-navickas,13460
+221,IRL,Jonathan DOLAN,-2,0 - 0,0,"6,644 / 9",https://bwfbadminton.com/player/93539/jonathan-dolan,93539
+222,CRO,Zvonimir DURKINJAK,+13,0 - 0,0,"6,640 / 9",https://bwfbadminton.com/player/52250/zvonimir-durkinjak,52250
+223,MAS,Wei Sheng LOH,-3,0 - 0,0,"6,630 / 5",https://bwfbadminton.com/player/99682/wei-sheng-loh,99682
+224,KOR,HONG Ji Hoon,-39,0 - 0,0,"6,610 / 2",https://bwfbadminton.com/player/53856/hong-ji-hoon,53856
+225,MAS,AI Wei Jian,-2,0 - 0,0,"6,530 / 9",https://bwfbadminton.com/player/85074/ai-wei-jian,85074
+226,IND,K. Ajay Kumar,-2,0 - 0,0,"6,450 / 6",https://bwfbadminton.com/player/99772/k-ajay-kumar,99772
+227,INA,Panji Akbar SUDRAJAT,-1,0 - 0,0,"6,370 / 5",https://bwfbadminton.com/player/64874/panji-akbar-sudrajat,64874
+228,UKR,Vitaly KONOV,-1,0 - 0,0,"6,330 / 7",https://bwfbadminton.com/player/54467/vitaly-konov,54467
+229,AUT,Adi PRATAMA,0,0 - 0,0,"6,320 / 6",https://bwfbadminton.com/player/32326/adi-pratama,32326
+230,SWE,Jacob NILSSON,-12,0 - 0,0,"6,319 / 10",https://bwfbadminton.com/player/76972/jacob-nilsson,76972
+231,UKR,ZINUKHOV Andriy,+14,0 - 0,0,"6,300 / 13",https://bwfbadminton.com/player/94176/zinukhov-andriy,94176
+232,CZE,Milan LUDIK,-2,0 - 0,0,"6,290 / 11",https://bwfbadminton.com/player/95385/milan-ludik,95385
+233,CAN,Timothy CHIU,-2,0 - 0,0,"6,270 / 10",https://bwfbadminton.com/player/61666/timothy-chiu,61666
+234,THA,Poodchalat PISIT,0,0 - 0,0,"6,200 / 4",https://bwfbadminton.com/player/67161/poodchalat-pisit,67161
+235,CAN,Andrew D'SOUZA,+1,0 - 0,0,"6,160 / 5",https://bwfbadminton.com/player/89988/andrew-d-souza,89988
+236,INA,Senatria Agus SETIA PUTRA,+1,0 - 0,0,"6,130 / 4",https://bwfbadminton.com/player/46930/senatria-agus-setia-putra,46930
+237,JPN,Yugo KOBAYASHI,+2,0 - 0,0,"6,120 / 4",https://bwfbadminton.com/player/67903/yugo-kobayashi,67903
+238,DEN,Kasper DINESEN,+2,0 - 0,0,"6,110 / 5",https://bwfbadminton.com/player/78813/kasper-dinesen,78813
+239,ENG,Michael SPENCER-SMITH,+9,0 - 0,0,"6,040 / 17",https://bwfbadminton.com/player/93386/michael-spencer-smith,93386
+240,GER,Tobias WADENKA,+14,0 - 0,0,"6,020 / 11",https://bwfbadminton.com/player/27744/tobias-wadenka,27744
+241,DOM,Alberto RAPOSO,-3,0 - 0,0,"6,020 / 7",https://bwfbadminton.com/player/63816/alberto-raposo,63816
+242,TPE,Kuo PO CHENG,-1,0 - 0,0,"5,950 / 5",https://bwfbadminton.com/player/74445/kuo-po-cheng,74445
+243,CHN,LIAO Junwei,-1,0 - 0,0,"5,950 / 3",https://bwfbadminton.com/player/63943/liao-junwei,63943
+244,CAN,Luke COUTURE,+15,0 - 0,0,"5,900 / 10",https://bwfbadminton.com/player/91094/luke-couture,91094
+245,FRA,Maxime MICHEL,-2,0 - 0,0,"5,880 / 10",https://bwfbadminton.com/player/62901/maxime-michel,62901
+246,TTO,Nicholas BONKOWSKY,-18,0 - 0,0,"5,860 / 6",https://bwfbadminton.com/player/26459/nicholas-bonkowsky,26459
+247,GRE,Georgios CHARALAMBIDIS,-1,0 - 0,0,"5,750 / 13",https://bwfbadminton.com/player/13568/georgios-charalambidis,13568
+248,BRA,Filipe TOLEDO,-15,0 - 0,0,"5,640 / 10",https://bwfbadminton.com/player/53981/filipe-toledo,53981
+249,IND,Shreyansh JAISWAL,+1,0 - 0,0,"5,640 / 5",https://bwfbadminton.com/player/83243/shreyansh-jaiswal,83243
+250,BUL,Stilian MAKARSKI,+1,0 - 0,0,"5,562 / 11",https://bwfbadminton.com/player/15084/stilian-makarski,15084
+251,AUS,Ashwant GOBINATHAN,+2,0 - 0,0,"5,558 / 6",https://bwfbadminton.com/player/20295/ashwant-gobinathan,20295
+252,USA,Mark Shelley ALCALA,+6,0 - 0,0,"5,409 / 7",https://bwfbadminton.com/player/87610/mark-shelley-alcala,87610
+253,THA,Pannawit THONGNUAM,+23,0 - 0,0,"5,350 / 7",https://bwfbadminton.com/player/80800/pannawit-thongnuam,80800
+254,JPN,Tatsuya WATANABE,+6,0 - 0,0,"5,280 / 3",https://bwfbadminton.com/player/79979/tatsuya-watanabe,79979
+255,GER,Kai SCHAEFER,+70,0 - 0,0,"5,240 / 3",https://bwfbadminton.com/player/20808/kai-schaefer,20808
+256,IND,N. V. S. Vijetha,+5,0 - 0,0,"5,210 / 8",https://bwfbadminton.com/player/81171/n-v-s-vijetha,81171
+257,SGP,Chao HUANG,+23,0 - 0,0,"5,200 / 7",https://bwfbadminton.com/player/53773/chao-huang,53773
+258,SWE,Mikael WESTERBACK,+5,0 - 0,0,"5,180 / 10",https://bwfbadminton.com/player/85430/mikael-westerback,85430
+259,KOR,KIM DongHun,+5,0 - 0,0,"5,180 / 4",https://bwfbadminton.com/player/99672/kim-donghun,99672
+260,USA,Agusriadi Wijaya AMPHIE,+5,0 - 0,0,"5,170 / 4",https://bwfbadminton.com/player/54318/agusriadi-wijaya-amphie,54318
+261,VIE,Hoang Nam NGUYEN,+5,0 - 0,0,"5,140 / 6",https://bwfbadminton.com/player/54660/hoang-nam-nguyen,54660
+262,NGR,Victor MAKANJU,+5,0 - 0,0,"5,110 / 5",https://bwfbadminton.com/player/39982/victor-makanju,39982
+263,MAS,Muhammad Hafiz HASHIM,-7,0 - 0,0,"5,090 / 5",https://bwfbadminton.com/player/12370/muhammad-hafiz-hashim,12370
+264,DOM,Freddy LOPEZ,-15,0 - 0,0,"5,082 / 8",https://bwfbadminton.com/player/75288/freddy-lopez,75288
+265,AUS,Nathan TANG,-10,0 - 0,0,"5,080 / 5",https://bwfbadminton.com/player/64561/nathan-tang,64561
+266,VIE,Cao Cuong PHAM,+2,0 - 0,0,"5,079 / 5",https://bwfbadminton.com/player/87628/cao-cuong-pham,87628
+267,KOR,JEON Hyeok Jin,+2,0 - 0,0,"5,060 / 4",https://bwfbadminton.com/player/65580/jeon-hyeok-jin,65580
+268,JPN,Jun TAKEMURA,+2,0 - 0,0,"5,040 / 1",https://bwfbadminton.com/player/54530/jun-takemura,54530
+268,CHN,ZHOU Wenlong,+2,0 - 0,0,"5,040 / 1",https://bwfbadminton.com/player/67259/zhou-wenlong,67259
+270,ARG,Federico DIAZ,-18,0 - 0,0,"5,000 / 8",https://bwfbadminton.com/player/87574/federico-diaz,87574
+271,AUS,Jeff THO,+2,0 - 0,0,"5,000 / 1",https://bwfbadminton.com/player/52666/jeff-tho,52666
+272,ENG,Sam DOBSON,+22,0 - 0,0,"4,980 / 11",https://bwfbadminton.com/player/33374/sam-dobson,33374
+273,EGY,Abdelrahman KASHKAL,+4,0 - 0,0,"4,865 / 6",https://bwfbadminton.com/player/24294/abdelrahman-kashkal,24294
+274,SGP,LOH Kean Yew,+43,0 - 0,0,"4,820 / 8",https://bwfbadminton.com/player/76115/loh-kean-yew,76115
+275,GER,Daniel BENZ,+4,0 - 0,0,"4,820 / 7",https://bwfbadminton.com/player/53949/daniel-benz,53949
+276,KOR,HAN Ki Hoon,+5,0 - 0,0,"4,770 / 2",https://bwfbadminton.com/player/53855/han-ki-hoon,53855
+277,PHI,Antonio Benjamin GADI,+5,0 - 0,0,"4,768 / 4",https://bwfbadminton.com/player/23318/antonio-benjamin-gadi,23318
+278,INA,Kaizar Bobby ALEXANDER,+5,0 - 0,0,"4,760 / 9",https://bwfbadminton.com/player/62455/kaizar-bobby-alexander,62455
+279,JAM,Gareth HENRY,+52,0 - 0,0,"4,754 / 7",https://bwfbadminton.com/player/29498/gareth-henry,29498
+280,USA,Ryan CHEW,-48,0 - 0,0,"4,740 / 7",https://bwfbadminton.com/player/93167/ryan-chew,93167
+281,KOR,HEO Kwanghee,+3,0 - 0,0,"4,730 / 4",https://bwfbadminton.com/player/68718/heo-kwanghee,68718
+282,INA,Anthony Sinisuka GINTING,+3,0 - 0,0,"4,700 / 4",https://bwfbadminton.com/player/95661/anthony-sinisuka-ginting,95661
+283,RUS,Sergey SHUMILKIN,+3,0 - 0,0,"4,630 / 5",https://bwfbadminton.com/player/67065/sergey-shumilkin,67065
+284,MEX,Arturo HERNANDEZ,-22,0 - 0,0,"4,610 / 5",https://bwfbadminton.com/player/66431/arturo-hernandez,66431
+285,JPN,Hiroki TAKEUCHI,+3,0 - 0,0,"4,580 / 4",https://bwfbadminton.com/player/93639/hiroki-takeuchi,93639
+286,TPE,YU Chun Hsien,+3,0 - 0,0,"4,570 / 3",https://bwfbadminton.com/player/89893/yu-chun-hsien,89893
+287,INA,Arif RAMADHAN,-40,0 - 0,0,"4,560 / 5",https://bwfbadminton.com/player/14514/arif-ramadhan,14514
+288,JPN,Kazuteru KOZAI,+3,0 - 0,0,"4,520 / 2",https://bwfbadminton.com/player/52032/kazuteru-kozai,52032
+289,AUS,Daniel GUDA,+3,0 - 0,0,"4,515 / 4",https://bwfbadminton.com/player/90603/daniel-guda,90603
+290,FIN,Henri AARNIO,+59,0 - 0,0,"4,490 / 10",https://bwfbadminton.com/player/62470/henri-aarnio,62470
+291,DEN,Mathias MUNDBJERG,-47,0 - 0,0,"4,490 / 5",https://bwfbadminton.com/player/78243/mathias-mundbjerg,78243
+292,MAS,GOH Giap Chin,+1,0 - 0,0,"4,480 / 5",https://bwfbadminton.com/player/73534/goh-giap-chin,73534
+293,AUS,Pit Seng LOW,-18,0 - 0,0,"4,480 / 3",https://bwfbadminton.com/player/86104/pit-seng-low,86104
+294,RUS,Vadim NOVOSELOV,-22,0 - 0,0,"4,460 / 4",https://bwfbadminton.com/player/97028/vadim-novoselov,97028
+295,AUS,Wesley CAULKETT,0,0 - 0,0,"4,450 / 2",https://bwfbadminton.com/player/18911/wesley-caulkett,18911
+296,MEX,Antonio OCEGUEDA,+6,0 - 0,0,"4,410 / 5",https://bwfbadminton.com/player/85781/antonio-ocegueda,85781
+297,CHI,Ivan LEON,-1,0 - 0,0,"4,410 / 4",https://bwfbadminton.com/player/85008/ivan-leon,85008
+298,SWE,Adam KHAN,+14,0 - 0,0,"4,400 / 12",https://bwfbadminton.com/player/84881/adam-khan,84881
+299,SVK,Matej HLINICAN,+33,0 - 0,0,"4,382 / 9",https://bwfbadminton.com/player/50266/matej-hlinican,50266
+300,IND,C. Rohit Yadav,-3,0 - 0,0,"4,380 / 5",https://bwfbadminton.com/player/91072/c-rohit-yadav,91072
+301,CUB,Leodannis MARTINEZ PALACIO,-2,0 - 0,0,"4,360 / 4",https://bwfbadminton.com/player/50573/leodannis-martinez-palacio,50573
+302,IND,Mayank BEHAL,-2,0 - 0,0,"4,350 / 7",https://bwfbadminton.com/player/53029/mayank-behal,53029
+303,AUT,Wolfgang GNEDT,-25,0 - 0,0,"4,310 / 6",https://bwfbadminton.com/player/61916/wolfgang-gnedt,61916
+304,INA,Shesar Hiren RHUSTAVITO,-1,0 - 0,0,"4,300 / 3",https://bwfbadminton.com/player/81887/shesar-hiren-rhustavito,81887
+305,SWE,Albin Carl HJELM,-18,0 - 0,0,"4,250 / 11",https://bwfbadminton.com/player/69306/albin-carl-hjelm,69306
+306,IND,Ketan CHAHAL,+1,0 - 0,0,"4,210 / 4",https://bwfbadminton.com/player/56508/ketan-chahal,56508
+306,IND,Deepak KHATRI,+1,0 - 0,0,"4,210 / 4",https://bwfbadminton.com/player/80059/deepak-khatri,80059
+308,DEN,Søren TOFT,-7,0 - 0,0,"4,200 / 10",https://bwfbadminton.com/player/94838/soren-toft,94838
+309,SCO,Alistair CASEY,0,0 - 0,0,"4,200 / 4",https://bwfbadminton.com/player/13641/alistair-casey,13641
+310,KOR,KIM MIn Ki,0,0 - 0,0,"4,100 / 5",https://bwfbadminton.com/player/59991/kim-min-ki,59991
+311,MAS,Ikmal Hussain JAAFAR,0,0 - 0,0,"4,070 / 9",https://bwfbadminton.com/player/71405/ikmal-hussain-jaafar,71405
+312,TUR,Ramazan OZTURK,+58,0 - 0,0,"4,064 / 7",https://bwfbadminton.com/player/60570/ramazan-ozturk,60570
+313,AUS,Luke CHONG,0,0 - 0,0,"4,050 / 2",https://bwfbadminton.com/player/67202/luke-chong,67202
+314,DEN,Rasmus Grill NOES,+62,0 - 0,0,"4,000 / 7",https://bwfbadminton.com/player/74325/rasmus-grill-noes,74325
+315,IND,Venkat Gaurav PRASAD,-1,0 - 0,0,"3,970 / 7",https://bwfbadminton.com/player/78600/venkat-gaurav-prasad,78600
+316,RUS,Denis GRACHEV,-1,0 - 0,0,"3,970 / 5",https://bwfbadminton.com/player/53663/denis-grachev,53663
+317,MAS,YEOH Seng Zoe,-1,0 - 0,0,"3,960 / 3",https://bwfbadminton.com/player/95952/yeoh-seng-zoe,95952
+318,GUA,Kevin CORDON,-28,0 - 0,0,"3,950 / 2",https://bwfbadminton.com/player/54897/kevin-cordon,54897
+319,KOR,CHOI SolGyu,-1,0 - 0,0,"3,930 / 4",https://bwfbadminton.com/player/67810/choi-solgyu,67810
+320,INA,Febriyan IRVANNALDY,-1,0 - 0,0,"3,930 / 3",https://bwfbadminton.com/player/95925/febriyan-irvannaldy,95925
+321,AUT,Rüdiger GNEDT,+1,0 - 0,0,"3,910 / 11",https://bwfbadminton.com/player/98331/ruediger-gnedt,98331
+322,BRA,Lucas ALVES PINTO,+1,0 - 0,0,"3,910 / 5",https://bwfbadminton.com/player/88626/lucas-alves-pinto,88626
+322,CAN,Nyl YAKURA,+65,0 - 0,0,"3,910 / 5",https://bwfbadminton.com/player/25322/nyl-yakura,25322
+324,SWE,Daniel OJAAAR,+35,0 - 0,0,"3,890 / 9",https://bwfbadminton.com/player/80036/daniel-ojaaar,80036
+325,INA,Viky ANINDITA,-1,0 - 0,0,"3,880 / 10",https://bwfbadminton.com/player/69331/viky-anindita,69331
+326,IND,Aditya JOSHI,-1,0 - 0,0,"3,870 / 2",https://bwfbadminton.com/player/60649/aditya-joshi,60649
+327,POL,Mateusz DUBOWSKI,0,0 - 0,0,"3,860 / 9",https://bwfbadminton.com/player/37432/mateusz-dubowski,37432
+328,KOR,HWANG Jung Woon,0,0 - 0,0,"3,850 / 1",https://bwfbadminton.com/player/53319/hwang-jung-woon,53319
+328,TPE,CHI Hung Ming,0,0 - 0,0,"3,850 / 1",https://bwfbadminton.com/player/21740/chi-hung-ming,21740
+330,SCO,Matthew CARDER,0,0 - 0,0,"3,841 / 10",https://bwfbadminton.com/player/62711/matthew-carder,62711
+331,SUI,Anthony DUMARTHERAY,+2,0 - 0,0,"3,821 / 10",https://bwfbadminton.com/player/54041/anthony-dumartheray,54041
+332,CRO,Luka ZDENJAK,-34,0 - 0,0,"3,820 / 6",https://bwfbadminton.com/player/52251/luka-zdenjak,52251
+333,SLO,Kek JAMNIK,-12,0 - 0,0,"3,819 / 8",https://bwfbadminton.com/player/19255/kek-jamnik,19255
+334,GHA,Emmanuel YAW DONKOR,0,0 - 0,0,"3,800 / 6",https://bwfbadminton.com/player/91881/emmanuel-yaw-donkor,91881
+334,MAS,Muhammad Adib Haiqal NURIZWAN,0,0 - 0,0,"3,800 / 6",https://bwfbadminton.com/player/58382/muhammad-adib-haiqal-nurizwan,58382
+336,THA,Kittiphon CHAIROJKANJANA,0,0 - 0,0,"3,800 / 4",https://bwfbadminton.com/player/91704/kittiphon-chairojkanjana,91704
+337,GER,Philipp DISCHER,0,0 - 0,0,"3,780 / 9",https://bwfbadminton.com/player/66597/philipp-discher,66597
+338,PER,Mario CUBA,0,0 - 0,0,"3,771 / 3",https://bwfbadminton.com/player/54555/mario-cuba,54555
+339,ENG,Alex LANE,+1,0 - 0,0,"3,750 / 6",https://bwfbadminton.com/player/79109/alex-lane,79109
+340,BUL,Gergin NEDYALKOV,+1,0 - 0,0,"3,740 / 6",https://bwfbadminton.com/player/43409/gergin-nedyalkov,43409
+341,CAN,Stefan WOJCIKIEWICZ,+65,0 - 0,0,"3,720 / 5",https://bwfbadminton.com/player/13310/stefan-wojcikiewicz,13310
+342,MAS,LIM Chi Wing,0,0 - 0,0,"3,720 / 4",https://bwfbadminton.com/player/93857/lim-chi-wing,93857
+343,CHN,GAO Tianyu,0,0 - 0,0,"3,660 / 3",https://bwfbadminton.com/player/66141/gao-tianyu,66141
+344,IND,KAMALUDHEEN Dilshad,0,0 - 0,0,"3,630 / 5",https://bwfbadminton.com/player/68427/kamaludheen-dilshad,68427
+345,CHN,TANG Jincheng,0,0 - 0,0,"3,600 / 1",https://bwfbadminton.com/player/67432/tang-jincheng,67432
+345,JPN,Yuichi IKEDA,0,0 - 0,0,"3,600 / 1",https://bwfbadminton.com/player/14260/yuichi-ikeda,14260
+347,BRN,Heri SETIAWAN,+1,0 - 0,0,"3,580 / 3",https://bwfbadminton.com/player/58686/heri-setiawan,58686
+348,CAN,Andrew ZHUANG,+2,0 - 0,0,"3,560 / 4",https://bwfbadminton.com/player/55335/andrew-zhuang,55335
+348,CAN,Nathan OSBORNE,+2,0 - 0,0,"3,560 / 4",https://bwfbadminton.com/player/86440/nathan-osborne,86440
+350,BRA,Rodolfo Augusto SALLES,+2,0 - 0,0,"3,540 / 7",https://bwfbadminton.com/player/71210/rodolfo-augusto-salles,71210
+351,TPE,CHENG Po Wei,-94,0 - 0,0,"3,500 / 4",https://bwfbadminton.com/player/57555/cheng-po-wei,57555
+352,JPN,Akira KOGA,+1,0 - 0,0,"3,470 / 3",https://bwfbadminton.com/player/88405/akira-koga,88405
+353,INA,Henrikho KHO WIBOWO,+1,0 - 0,0,"3,420 / 4",https://bwfbadminton.com/player/76618/henrikho-kho-wibowo,76618
+354,NOR,Pal WITHERS,+1,0 - 0,0,"3,390 / 13",https://bwfbadminton.com/player/61968/pal-withers,61968
+355,CZE,Lukas ZEVL,+1,0 - 0,0,"3,390 / 7",https://bwfbadminton.com/player/44932/lukas-zevl,44932
+356,ENG,Joshua Green,+2,0 - 0,0,"3,360 / 3",https://bwfbadminton.com/player/83130/joshua-green,83130
+357,USA,Curtis STENSLAND,-53,0 - 0,0,"3,350 / 3",https://bwfbadminton.com/player/65369/curtis-stensland,65369
+358,INA,Andrew SUSANTO,+2,0 - 0,0,"3,340 / 5",https://bwfbadminton.com/player/73773/andrew-susanto,73773
+359,IND,P. Vinay Kumar Reddy,+3,0 - 0,0,"3,280 / 3",https://bwfbadminton.com/player/39019/p-vinay-kumar-reddy,39019
+360,TPE,Yi-Hsiang YANG,+3,0 - 0,0,"3,260 / 5",https://bwfbadminton.com/player/65390/yi-hsiang-yang,65390
+361,DEN,Joshua EIPE,+56,0 - 0,0,"3,240 / 3",https://bwfbadminton.com/player/64800/joshua-eipe,64800
+362,IND,Pratul JOSHI,+3,0 - 0,0,"3,210 / 3",https://bwfbadminton.com/player/95512/pratul-joshi,95512
+363,MDV,Mohamed Ajfan RASHEED,+3,0 - 0,0,"3,200 / 4",https://bwfbadminton.com/player/67237/mohamed-ajfan-rasheed,67237
+364,BUL,Ivan RUSEV,+3,0 - 0,0,"3,198 / 7",https://bwfbadminton.com/player/98589/ivan-rusev,98589
+365,BOT,Orideetse THELA,+3,0 - 0,0,"3,180 / 5",https://bwfbadminton.com/player/13414/orideetse-thela,13414
+366,UGA,Edwin EKIRING,+3,0 - 0,0,"3,170 / 2",https://bwfbadminton.com/player/52645/edwin-ekiring,52645
+367,ENG,Ben BECKMAN,+4,0 - 0,0,"3,142 / 3",https://bwfbadminton.com/player/46898/ben-beckman,46898
+368,RUS,Sergey SIRANT,+4,0 - 0,0,"3,110 / 6",https://bwfbadminton.com/player/93878/sergey-sirant,93878
+369,INA,Hermansah .,+4,0 - 0,0,"3,100 / 3",https://bwfbadminton.com/player/71211/hermansah,71211
+369,INA,Adnan FAUZI,+4,0 - 0,0,"3,100 / 3",https://bwfbadminton.com/player/54019/adnan-fauzi,54019
+371,INA,Eka Fajar KUSUMA,+4,0 - 0,0,"3,090 / 4",https://bwfbadminton.com/player/62856/eka-fajar-kusuma,62856
+372,INA,Reksy Aureza MEGANANDA,+5,0 - 0,0,"3,080 / 2",https://bwfbadminton.com/player/60413/reksy-aureza-megananda,60413
+373,FRA,Sylvain TERNON,+5,0 - 0,0,"3,070 / 5",https://bwfbadminton.com/player/67067/sylvain-ternon,67067
+373,IND,Prakash JOLLY,+5,0 - 0,0,"3,070 / 5",https://bwfbadminton.com/player/22712/prakash-jolly,22712
+375,ZAM,Juma MUWOWO,+5,0 - 0,0,"3,070 / 4",https://bwfbadminton.com/player/12665/juma-muwowo,12665
+376,IND,Arun Kumar ASHOK KUMAR,+5,0 - 0,0,"3,060 / 6",https://bwfbadminton.com/player/88026/arun-kumar-ashok-kumar,88026
+376,MAS,Krishna Kumar S,+5,0 - 0,0,"3,060 / 6",https://bwfbadminton.com/player/93465/krishna-kumar-s,93465
+378,RUS,Sergey MOLODOV,+5,0 - 0,0,"3,050 / 4",https://bwfbadminton.com/player/95346/sergey-molodov,95346
+378,IND,Kirtesh DHINDHWAL,-72,0 - 0,0,"3,050 / 4",https://bwfbadminton.com/player/86856/kirtesh-dhindhwal,86856
+380,DEN,Peter CORRELL,+5,0 - 0,0,"3,040 / 5",https://bwfbadminton.com/player/56015/peter-correll,56015
+381,DEN,Rune ULSING,+5,0 - 0,0,"3,040 / 2",https://bwfbadminton.com/player/51303/rune-ulsing,51303
+382,VIE,Ha Anh LE,+6,0 - 0,0,"2,990 / 3",https://bwfbadminton.com/player/63935/ha-anh-le,63935
+383,LTU,Povilas BARTUSIS,+6,0 - 0,0,"2,985 / 8",https://bwfbadminton.com/player/85443/povilas-bartusis,85443
+384,BRN,JAFFER EBRAHIM,+6,0 - 0,0,"2,960 / 4",https://bwfbadminton.com/player/14009/jaffer-ebrahim,14009
+385,RUS,Maxim ROMANOV,+7,0 - 0,0,"2,930 / 5",https://bwfbadminton.com/player/57809/maxim-romanov,57809
+386,NZL,Asher RICHARDSON,-29,0 - 0,0,"2,920 / 2",https://bwfbadminton.com/player/97075/asher-richardson,97075
+387,FIN,Iikka HEINO,+6,0 - 0,0,"2,910 / 8",https://bwfbadminton.com/player/88856/iikka-heino,88856
+388,RUS,Konstantin ABRAMOV,+6,0 - 0,0,"2,910 / 5",https://bwfbadminton.com/player/60635/konstantin-abramov,60635
+389,MAS,Ridzwan RAHMAT,+6,0 - 0,0,"2,880 / 10",https://bwfbadminton.com/player/61739/ridzwan-rahmat,61739
+390,MAS,Khai Siang TEOH,+6,0 - 0,0,"2,880 / 8",https://bwfbadminton.com/player/62204/khai-siang-teoh,62204
+391,AUS,Anthony JOE,+6,0 - 0,0,"2,880 / 3",https://bwfbadminton.com/player/58754/anthony-joe,58754
+392,UKR,Sergiy GARIST,+6,0 - 0,0,"2,870 / 8",https://bwfbadminton.com/player/45410/sergiy-garist,45410
+393,GER,Jonathan PERSSON,+6,0 - 0,0,"2,870 / 4",https://bwfbadminton.com/player/60652/jonathan-persson,60652
+394,TUR,Emre VURAL,+104,0 - 0,0,"2,860 / 6",https://bwfbadminton.com/player/95196/emre-vural,95196
+395,KOR,LEE Hong Je,+6,0 - 0,0,"2,860 / 2",https://bwfbadminton.com/player/82907/lee-hong-je,82907
+396,CUB,Ernesto REYES,+7,0 - 0,0,"2,850 / 4",https://bwfbadminton.com/player/89178/ernesto-reyes,89178
+397,JPN,Rei SATO,+7,0 - 0,0,"2,840 / 3",https://bwfbadminton.com/player/97931/rei-sato,97931
+398,AUS,Michael FARIMAN,-37,0 - 0,0,"2,840 / 2",https://bwfbadminton.com/player/80176/michael-fariman,80176
+398,CAN,Dang KAI,+7,0 - 0,0,"2,840 / 2",https://bwfbadminton.com/player/37778/dang-kai,37778
+400,NZL,Luke CHARLESWORTH,-36,0 - 0,0,"2,800 / 3",https://bwfbadminton.com/player/454/luke-charlesworth,454
+400,NZL,Luke CHARLESWORTH,-36,0 - 0,0,"2,800 / 3",https://bwfbadminton.com/player/454/luke-charlesworth,454
+402,JPN,Takuto INOUE,+6,0 - 0,0,"2,800 / 1",https://bwfbadminton.com/player/59419/takuto-inoue,59419
+403,SGP,Kwan Ting Sean LEE,+101,0 - 0,0,"2,790 / 6",https://bwfbadminton.com/player/87566/kwan-ting-sean-lee,87566
+404,CAN,Toby NG,-100,0 - 0,0,"2,750 / 3",https://bwfbadminton.com/player/53930/toby-ng,53930
+405,NZL,Maika PHILLIPS,-85,0 - 0,0,"2,750 / 1",https://bwfbadminton.com/player/88652/maika-phillips,88652
+406,NCL,Carl NGUELA,+4,0 - 0,0,"2,749 / 4",https://bwfbadminton.com/player/86710/carl-nguela,86710
+407,NGR,Isaac MINAPHEE,+4,0 - 0,0,"2,740 / 2",https://bwfbadminton.com/player/98850/isaac-minaphee,98850
+408,NED,Justin TEEUWEN,+4,0 - 0,0,"2,730 / 6",https://bwfbadminton.com/player/77646/justin-teeuwen,77646
+409,TUR,Sİnan ZORLU,+27,0 - 0,0,"2,730 / 5",https://bwfbadminton.com/player/80148/s%C4%B0nan-zorlu,80148
+410,KOR,JUNG Ki Hwa,+3,0 - 0,0,"2,720 / 1",https://bwfbadminton.com/player/82792/jung-ki-hwa,82792
+410,KOR,HA Young Woong,+3,0 - 0,0,"2,720 / 1",https://bwfbadminton.com/player/16714/ha-young-woong,16714
+412,VIE,Tuan Duc DO,+3,0 - 0,0,"2,710 / 4",https://bwfbadminton.com/player/50748/tuan-duc-do,50748
+413,THA,Kittisak NAMDASH,+3,0 - 0,0,"2,690 / 5",https://bwfbadminton.com/player/65754/kittisak-namdash,65754
+414,BRA,Francielton FARIAS,-67,0 - 0,0,"2,670 / 3",https://bwfbadminton.com/player/65478/francielton-farias,65478
+415,MRI,Aatish LUBAH,+3,0 - 0,0,"2,668 / 5",https://bwfbadminton.com/player/66071/aatish-lubah,66071
+416,INA,Taufik HIDAYAT,+3,0 - 0,0,"2,660 / 1",https://bwfbadminton.com/player/10337/taufik-hidayat,10337
+417,THA,Tara RUENGSAKVICHIT,+3,0 - 0,0,"2,650 / 3",https://bwfbadminton.com/player/43607/tara-ruengsakvichit,43607
+418,GHA,Daniel SAM,+3,0 - 0,0,"2,622 / 5",https://bwfbadminton.com/player/82852/daniel-sam,82852
+419,MAS,Ahmadi SAMAN,+3,0 - 0,0,"2,620 / 5",https://bwfbadminton.com/player/54764/ahmadi-saman,54764
+419,KEN,Patrick Kinyua MBOGO,+3,0 - 0,0,"2,620 / 5",https://bwfbadminton.com/player/54586/patrick-kinyua-mbogo,54586
+421,SWE,Petter YNGVESSON,+3,0 - 0,0,"2,610 / 8",https://bwfbadminton.com/player/1453/petter-yngvesson,1453
+422,MEX,Lopez ANDRES,-83,0 - 0,0,"2,600 / 4",https://bwfbadminton.com/player/45386/lopez-andres,45386
+423,KOR,Cheol Woo LEE,+2,0 - 0,0,"2,590 / 2",https://bwfbadminton.com/player/69812/cheol-woo-lee,69812
+423,GER,Marcel REUTER,+2,0 - 0,0,"2,590 / 2",https://bwfbadminton.com/player/15147/marcel-reuter,15147
+425,MRI,Gilles ALLET,+2,0 - 0,0,"2,570 / 3",https://bwfbadminton.com/player/6/gilles-allet,6
+426,MAS,Vincent Cheng Wei PHUAH,+2,0 - 0,0,"2,560 / 4",https://bwfbadminton.com/player/80173/vincent-cheng-wei-phuah,80173
+427,CAN,Joseph ROGERS,+2,0 - 0,0,"2,560 / 2",https://bwfbadminton.com/player/55410/joseph-rogers,55410
+428,TUR,Emre LALE,+61,0 - 0,0,"2,542 / 6",https://bwfbadminton.com/player/66694/emre-lale,66694
+429,USA,Mathew FOGARTY,+2,0 - 0,0,"2,540 / 5",https://bwfbadminton.com/player/11268/mathew-fogarty,11268
+430,LTU,Alan PLAVIN,+3,0 - 0,0,"2,533 / 8",https://bwfbadminton.com/player/83712/alan-plavin,83712
+431,CAN,Brandon WYNN - MORRIS,+3,0 - 0,0,"2,530 / 4",https://bwfbadminton.com/player/64502/brandon-wynn-morris,64502
+432,SCO,Josh NEIL,+3,0 - 0,0,"2,520 / 6",https://bwfbadminton.com/player/95858/josh-neil,95858
+433,INA,Julian ARBITAMA,+5,0 - 0,0,"2,500 / 8",https://bwfbadminton.com/player/68610/julian-arbitama,68610
+434,ENG,Sam PHILLIPS,+5,0 - 0,0,"2,500 / 6",https://bwfbadminton.com/player/66880/sam-phillips,66880
+435,TPE,Feng Tse HSIEH,+5,0 - 0,0,"2,490 / 3",https://bwfbadminton.com/player/34812/feng-tse-hsieh,34812
+436,RUS,Andrey PARAKHODIN,+5,0 - 0,0,"2,480 / 10",https://bwfbadminton.com/player/85632/andrey-parakhodin,85632
+437,TUR,Enis SESALAN,+9,0 - 0,0,"2,480 / 7",https://bwfbadminton.com/player/72548/enis-sesalan,72548
+438,AUS,Athi SELLADURAI,+5,0 - 0,0,"2,470 / 2",https://bwfbadminton.com/player/72215/athi-selladurai,72215
+439,RUS,Dmitiy BALANDIN,+5,0 - 0,0,"2,450 / 3",https://bwfbadminton.com/player/56404/dmitiy-balandin,56404
+440,CZE,Zdenek SVATA,+7,0 - 0,0,"2,440 / 5",https://bwfbadminton.com/player/53966/zdenek-svata,53966
+441,ZAM,Ngosa CHONGO,+7,0 - 0,0,"2,420 / 5",https://bwfbadminton.com/player/74887/ngosa-chongo,74887
+442,AUT,Vilson VATTANIRAPPEL,+137,0 - 0,0,"2,410 / 11",https://bwfbadminton.com/player/78464/vilson-vattanirappel,78464
+443,GER,Fabian ROTH,+6,0 - 0,0,"2,410 / 4",https://bwfbadminton.com/player/57297/fabian-roth,57297
+444,NZL,Chance CHENG,-44,0 - 0,0,"2,410 / 2",https://bwfbadminton.com/player/51511/chance-cheng,51511
+445,MAS,CHEAM June Wei,+5,0 - 0,0,"2,390 / 3",https://bwfbadminton.com/player/92796/cheam-june-wei,92796
+446,POL,Maciej POULAKOWSKI,+5,0 - 0,0,"2,340 / 10",https://bwfbadminton.com/player/80805/maciej-poulakowski,80805
+447,THA,Chavapat TOCHAREONBODEE,+5,0 - 0,0,"2,340 / 4",https://bwfbadminton.com/player/82541/chavapat-tochareonbodee,82541
+447,USA,Sujay KARVE,+5,0 - 0,0,"2,340 / 4",https://bwfbadminton.com/player/32482/sujay-karve,32482
+449,RUS,Andrey DOLOTOV,+5,0 - 0,0,"2,320 / 3",https://bwfbadminton.com/player/74134/andrey-dolotov,74134
+450,TAH,Rauhiri GOGUENHEIM,+5,0 - 0,0,"2,300 / 3",https://bwfbadminton.com/player/90987/rauhiri-goguenheim,90987
+450,NCL,Loic MENNESSON,+5,0 - 0,0,"2,300 / 3",https://bwfbadminton.com/player/52615/loic-mennesson,52615
+450,THA,Pollawat BOONPAN,+5,0 - 0,0,"2,300 / 3",https://bwfbadminton.com/player/69265/pollawat-boonpan,69265
+453,EGY,Mahmoud EL SAYAD,+5,0 - 0,0,"2,297 / 3",https://bwfbadminton.com/player/91759/mahmoud-el-sayad,91759
+454,MAS,SHIA Chun Kang,+5,0 - 0,0,"2,290 / 2",https://bwfbadminton.com/player/66114/shia-chun-kang,66114
+455,CAN,Andrew LAU,+5,0 - 0,0,"2,280 / 2",https://bwfbadminton.com/player/89667/andrew-lau,89667
+456,TPE,LIAO Sheng Shiun,+5,0 - 0,0,"2,270 / 4",https://bwfbadminton.com/player/50283/liao-sheng-shiun,50283
+457,JPN,Shu WADA,+5,0 - 0,0,"2,270 / 3",https://bwfbadminton.com/player/20531/shu-wada,20531
+458,THA,Boonyakorn THUMPANICHWONG,+5,0 - 0,0,"2,240 / 5",https://bwfbadminton.com/player/72520/boonyakorn-thumpanichwong,72520
+459,BRU,Jaspar Woon Chai YU,+5,0 - 0,0,"2,230 / 6",https://bwfbadminton.com/player/53615/jaspar-woon-chai-yu,53615
+460,MAS,Zulhelmi ZULKIFFLI,+64,0 - 0,0,"2,230 / 5",https://bwfbadminton.com/player/64155/zulhelmi-zulkiffli,64155
+461,RUS,Alexander BUTOVETSTKIY,+4,0 - 0,0,"2,200 / 5",https://bwfbadminton.com/player/72488/alexander-butovetstkiy,72488
+462,IND,Vipul SAINI,+4,0 - 0,0,"2,200 / 3",https://bwfbadminton.com/player/55828/vipul-saini,55828
+463,CHN,LIU Zejia,+4,0 - 0,0,"2,200 / 1",https://bwfbadminton.com/player/69623/liu-zejia,69623
+463,CHN,ZHOU Ze Qi,+4,0 - 0,0,"2,200 / 1",https://bwfbadminton.com/player/91093/zhou-ze-qi,91093
+465,USA,Siraroj PHANPUCHARA,+4,0 - 0,0,"2,190 / 3",https://bwfbadminton.com/player/95150/siraroj-phanpuchara,95150
+466,IND,Harsheel DANI,+5,0 - 0,0,"2,180 / 2",https://bwfbadminton.com/player/85472/harsheel-dani,85472
+466,IND,Mohit KAMAT,+5,0 - 0,0,"2,180 / 2",https://bwfbadminton.com/player/19550/mohit-kamat,19550
+468,NCL,Julien PACTAT,+5,0 - 0,0,"2,164 / 4",https://bwfbadminton.com/player/24000/julien-pactat,24000
+469,GER,Gustaf Mochamad FIRDAUS,+5,0 - 0,0,"2,160 / 4",https://bwfbadminton.com/player/70980/gustaf-mochamad-firdaus,70980
+470,INA,Gesstano Ganendra ADWITYA,+5,0 - 0,0,"2,150 / 4",https://bwfbadminton.com/player/82534/gesstano-ganendra-adwitya,82534
+471,THA,TANKMANUSTONG Warut,+5,0 - 0,0,"2,140 / 5",https://bwfbadminton.com/player/36967/tankmanustong-warut,36967
+472,CHN,ZHAO Jun Peng,+5,0 - 0,0,"2,130 / 2",https://bwfbadminton.com/player/95930/zhao-jun-peng,95930
+472,AUS,Nathan DAVID,+5,0 - 0,0,"2,130 / 2",https://bwfbadminton.com/player/67211/nathan-david,67211
+474,VIE,Dinh Tuan Kiet NGUYEN,+5,0 - 0,0,"2,090 / 2",https://bwfbadminton.com/player/18639/dinh-tuan-kiet-nguyen,18639
+474,ENG,Alex MARRITT,+5,0 - 0,0,"2,090 / 2",https://bwfbadminton.com/player/90072/alex-marritt,90072
+476,ARG,Pablo MACAGNO,-85,0 - 0,0,"2,085 / 6",https://bwfbadminton.com/player/92346/pablo-macagno,92346
+477,IRI,Soroush ESKANDARI VATANNEJAD,+4,0 - 0,0,"2,070 / 2",https://bwfbadminton.com/player/24470/soroush-eskandari-vatannejad,24470
+478,CHN,LIN Gui Pu,+4,0 - 0,0,"2,050 / 2",https://bwfbadminton.com/player/58500/lin-gui-pu,58500
+479,INA,Januari ARI,+4,0 - 0,0,"2,030 / 2",https://bwfbadminton.com/player/59117/januari-ari,59117
+479,IND,Ashish SHARMA,+4,0 - 0,0,"2,030 / 2",https://bwfbadminton.com/player/78971/ashish-sharma,78971
+479,IND,Srujan NANDALURI,+4,0 - 0,0,"2,030 / 2",https://bwfbadminton.com/player/61750/srujan-nandaluri,61750
+482,UGA,Herbert EBAYO,+4,0 - 0,0,"2,020 / 3",https://bwfbadminton.com/player/90265/herbert-ebayo,90265
+483,NCL,Morgan PAITIO,+4,0 - 0,0,"2,010 / 4",https://bwfbadminton.com/player/76417/morgan-paitio,76417
+484,AUS,Lewis WANG,+4,0 - 0,0,"2,010 / 3",https://bwfbadminton.com/player/90427/lewis-wang,90427
+485,SUI,Lukas NUSSBAUMER,-55,0 - 0,0,"1,999 / 9",https://bwfbadminton.com/player/92682/lukas-nussbaumer,92682
+486,USA,YE Binghong,+4,0 - 0,0,"1,980 / 2",https://bwfbadminton.com/player/56702/ye-binghong,56702
+487,JAM,Samuel O’Brien RICKETTS,+4,0 - 0,0,"1,972 / 5",https://bwfbadminton.com/player/81655/samuel-o%E2%80%99brien-ricketts,81655
+488,CZE,Adam MENDREK,-18,0 - 0,0,"1,970 / 9",https://bwfbadminton.com/player/91381/adam-mendrek,91381
+489,NGR,Gideon BABALOLA,+3,0 - 0,0,"1,970 / 2",https://bwfbadminton.com/player/94697/gideon-babalola,94697
+490,BEL,Marijn PUT,+3,0 - 0,0,"1,966 / 7",https://bwfbadminton.com/player/72034/marijn-put,72034
+491,FRA,Romain EUDELINE,+3,0 - 0,0,"1,960 / 6",https://bwfbadminton.com/player/86743/romain-eudeline,86743
+492,AUS,Edwin LUK,+3,0 - 0,0,"1,960 / 2",https://bwfbadminton.com/player/77881/edwin-luk,77881
+492,AUS,Chun-Bong WONG,+3,0 - 0,0,"1,960 / 2",https://bwfbadminton.com/player/97449/chun-bong-wong,97449
+494,EST,Rainer KALJUMAE,+3,0 - 0,0,"1,943 / 4",https://bwfbadminton.com/player/53706/rainer-kaljumae,53706
+495,THA,Peeranat BOONTUN,+4,0 - 0,0,"1,940 / 3",https://bwfbadminton.com/player/77413/peeranat-boontun,77413
+496,CZE,Jaromir JANACEK,-55,0 - 0,0,"1,930 / 9",https://bwfbadminton.com/player/87933/jaromir-janacek,87933
+497,RUS,Pavel KOTSARENKO,+3,0 - 0,0,"1,920 / 1",https://bwfbadminton.com/player/70806/pavel-kotsarenko,70806
+497,AUS,Simon Wing Hang LEUNG,+3,0 - 0,0,"1,920 / 1",https://bwfbadminton.com/player/89199/simon-wing-hang-leung,89199
+499,IRL,Tony STEPHENSON,+22,0 - 0,0,"1,919 / 9",https://bwfbadminton.com/player/16797/tony-stephenson,16797
+500,FRA,Bruno LUCAS,+2,0 - 0,0,"1,910 / 7",https://bwfbadminton.com/player/69075/bruno-lucas,69075
+501,THA,Kritnat NGEAJAROENKUL,+3,0 - 0,0,"1,910 / 5",https://bwfbadminton.com/player/81457/kritnat-ngeajaroenkul,81457
+502,ISR,Ariel SHAINSKI,+4,0 - 0,0,"1,905 / 3",https://bwfbadminton.com/player/76587/ariel-shainski,76587
+503,SRI,Kasun Madusanka RATHNAYAKESENARATGE,+4,0 - 0,0,"1,880 / 2",https://bwfbadminton.com/player/65150/kasun-madusanka-rathnayakesenaratge,65150
+503,TPE,HSIEH Yu Cheng,+4,0 - 0,0,"1,880 / 2",https://bwfbadminton.com/player/27651/hsieh-yu-cheng,27651
+505,ALG,Adel HAMEK,+4,0 - 0,0,"1,870 / 3",https://bwfbadminton.com/player/98896/adel-hamek,98896
+506,MEX,Luis Ramon GARRIDO,+4,0 - 0,0,"1,860 / 6",https://bwfbadminton.com/player/97943/luis-ramon-garrido,97943
+507,UZB,Timurbek KARIMOV,+4,0 - 0,0,"1,850 / 4",https://bwfbadminton.com/player/81859/timurbek-karimov,81859
+508,RUS,Dmitrii RIABOV,+4,0 - 0,0,"1,840 / 4",https://bwfbadminton.com/player/96437/dmitrii-riabov,96437
+509,AUS,Hoe Keat OON,+4,0 - 0,0,"1,840 / 3",https://bwfbadminton.com/player/34021/hoe-keat-oon,34021
+510,TPE,YANG Chih Chieh,+4,0 - 0,0,"1,840 / 2",https://bwfbadminton.com/player/85790/yang-chih-chieh,85790
+510,BRA,Ygor COELHO,+231,0 - 0,0,"1,840 / 2",https://bwfbadminton.com/player/96429/ygor-coelho,96429
+510,EGY,Ahmed SALAH,+4,0 - 0,0,"1,840 / 2",https://bwfbadminton.com/player/55949/ahmed-salah,55949
+510,UGA,Brian SSUNNA,+4,0 - 0,0,"1,840 / 2",https://bwfbadminton.com/player/66616/brian-ssunna,66616
+510,HUN,Henrik TOTH,+4,0 - 0,0,"1,840 / 2",https://bwfbadminton.com/player/14311/henrik-toth,14311
+515,MAS,CHEN Tang Jie,+4,0 - 0,0,"1,830 / 3",https://bwfbadminton.com/player/91090/chen-tang-jie,91090
+516,CHN,SHI Yu Qi,+4,0 - 0,0,"1,830 / 2",https://bwfbadminton.com/player/57945/shi-yu-qi,57945
+517,HUN,Gergely KRAUSZ,+5,0 - 0,0,"1,810 / 10",https://bwfbadminton.com/player/56755/gergely-krausz,56755
+518,MAS,Kay Ee YEOH,+5,0 - 0,0,"1,800 / 5",https://bwfbadminton.com/player/76457/kay-ee-yeoh,76457
+519,FIN,Joonas KORHONEN,+6,0 - 0,0,"1,790 / 6",https://bwfbadminton.com/player/64512/joonas-korhonen,64512
+520,KEN,Matheri Joseph GITHITU,+6,0 - 0,0,"1,770 / 4",https://bwfbadminton.com/player/84238/matheri-joseph-githitu,84238
+521,KOR,Hyun Seok JANG,+6,0 - 0,0,"1,750 / 3",https://bwfbadminton.com/player/93022/hyun-seok-jang,93022
+521,GER,Alexander ROOVERS,+6,0 - 0,0,"1,750 / 3",https://bwfbadminton.com/player/55505/alexander-roovers,55505
+523,NGR,Clement KROBAKPO,+6,0 - 0,0,"1,750 / 1",https://bwfbadminton.com/player/94754/clement-krobakpo,94754
+523,NGR,Adamu A,+6,0 - 0,0,"1,750 / 1",https://bwfbadminton.com/player/56863/adamu-a,56863
+525,SUI,Mathias BONNY,+53,0 - 0,0,"1,748 / 10",https://bwfbadminton.com/player/82717/mathias-bonny,82717
+526,SCO,Gordon THOMSON,+5,0 - 0,0,"1,740 / 2",https://bwfbadminton.com/player/52288/gordon-thomson,52288
+527,RUS,Alexandr KOZYREV,+5,0 - 0,0,"1,730 / 2",https://bwfbadminton.com/player/99289/alexandr-kozyrev,99289
+527,MAS,Satheishtharan RAMACHANDRAN,+5,0 - 0,0,"1,730 / 2",https://bwfbadminton.com/player/94306/satheishtharan-ramachandran,94306
+527,JOR,Bani Mustafa HASAN ALI,+5,0 - 0,0,"1,730 / 2",https://bwfbadminton.com/player/78920/bani-mustafa-hasan-ali,78920
+530,NGR,Paul FAGBEMI,+5,0 - 0,0,"1,720 / 2",https://bwfbadminton.com/player/51678/paul-fagbemi,51678
+530,EGY,Kareem SHEDEED,+5,0 - 0,0,"1,720 / 2",https://bwfbadminton.com/player/13865/kareem-shedeed,13865
+532,IND,Oscar BANSAL,+5,0 - 0,0,"1,710 / 3",https://bwfbadminton.com/player/41087/oscar-bansal,41087
+533,NEP,Ratnajit TAMANG,+7,0 - 0,0,"1,690 / 2",https://bwfbadminton.com/player/80608/ratnajit-tamang,80608
+533,NEP,Bikash SHRESTHA,+7,0 - 0,0,"1,690 / 2",https://bwfbadminton.com/player/72616/bikash-shrestha,72616
+535,SUI,Christian KIRCHMAYR,+25,0 - 0,0,"1,680 / 8",https://bwfbadminton.com/player/98222/christian-kirchmayr,98222
+536,MAC,Wai Chi WAN,+7,0 - 0,0,"1,670 / 1",https://bwfbadminton.com/player/81142/wai-chi-wan,81142
+536,IND,Sachin RAWAT,+7,0 - 0,0,"1,670 / 1",https://bwfbadminton.com/player/95556/sachin-rawat,95556
+536,KOR,Seung Yeop HAN,+7,0 - 0,0,"1,670 / 1",https://bwfbadminton.com/player/75144/seung-yeop-han,75144
+536,IND,Kaushal DHARMAMER,+7,0 - 0,0,"1,670 / 1",https://bwfbadminton.com/player/82670/kaushal-dharmamer,82670
+536,IND,Abhishek YELIGAR,+7,0 - 0,0,"1,670 / 1",https://bwfbadminton.com/player/95489/abhishek-yeligar,95489
+536,KOR,KIM Dong Ryung,+7,0 - 0,0,"1,670 / 1",https://bwfbadminton.com/player/67232/kim-dong-ryung,67232
+536,CAM,Kanora NGOUN,+7,0 - 0,0,"1,670 / 1",https://bwfbadminton.com/player/58051/kanora-ngoun,58051
+536,KOR,JOO Myung Gyun,+7,0 - 0,0,"1,670 / 1",https://bwfbadminton.com/player/71177/joo-myung-gyun,71177
+536,USA,Calvin LIN,+7,0 - 0,0,"1,670 / 1",https://bwfbadminton.com/player/55435/calvin-lin,55435
+536,KOR,JUNG Hoon Min,+7,0 - 0,0,"1,670 / 1",https://bwfbadminton.com/player/52772/jung-hoon-min,52772
+536,INA,Bandar Sigit PAMUNGKAS,+7,0 - 0,0,"1,670 / 1",https://bwfbadminton.com/player/54244/bandar-sigit-pamungkas,54244
+536,IND,Saurav KAPOOR,+7,0 - 0,0,"1,670 / 1",https://bwfbadminton.com/player/37482/saurav-kapoor,37482
+548,MAR,Bilal EL HARAB,+7,0 - 0,0,"1,660 / 4",https://bwfbadminton.com/player/96600/bilal-el-harab,96600
+548,IRL,Joshua MAGEE,+7,0 - 0,0,"1,660 / 4",https://bwfbadminton.com/player/59068/joshua-magee,59068
+550,SCO,Ben TORRANCE,+7,0 - 0,0,"1,650 / 6",https://bwfbadminton.com/player/78485/ben-torrance,78485
+551,NGR,Ibrahim ADAMU,+7,0 - 0,0,"1,650 / 3",https://bwfbadminton.com/player/50675/ibrahim-adamu,50675
+552,IND,Neeraj VASHIST,+7,0 - 0,0,"1,650 / 2",https://bwfbadminton.com/player/61889/neeraj-vashist,61889
+553,FRA,Tanguy CITRON,+7,0 - 0,0,"1,640 / 7",https://bwfbadminton.com/player/85196/tanguy-citron,85196
+554,DEN,Victor SVENDSEN,+8,0 - 0,0,"1,640 / 3",https://bwfbadminton.com/player/59420/victor-svendsen,59420
+555,UKR,Sergey DON,+9,0 - 0,0,"1,630 / 3",https://bwfbadminton.com/player/78224/sergey-don,78224
+556,NED,Marco DE JAGER,+10,0 - 0,0,"1,620 / 7",https://bwfbadminton.com/player/29701/marco-de-jager,29701
+557,SRB,Jovica RUJEVIC,-15,0 - 0,0,"1,620 / 5",https://bwfbadminton.com/player/8394/jovica-rujevic,8394
+558,TUR,Murat SEN,+142,0 - 0,0,"1,619 / 3",https://bwfbadminton.com/player/52056/murat-sen,52056
+559,TUR,Huseyin ORUC,+43,0 - 0,0,"1,600 / 5",https://bwfbadminton.com/player/28851/huseyin-oruc,28851
+560,BRA,Luiz Eduardo MARTINEZ,-124,0 - 0,0,"1,600 / 3",https://bwfbadminton.com/player/65228/luiz-eduardo-martinez,65228
+561,MAS,Jinn Ye TAN,+6,0 - 0,0,"1,590 / 5",https://bwfbadminton.com/player/92141/jinn-ye-tan,92141
+561,MAS,"Jimmy, Yu Lun TAY",+6,0 - 0,0,"1,590 / 5",https://bwfbadminton.com/player/66577/jimmy%2C-yu-lun-tay,66577
+563,USA,Tahtat POJANAKANOKPORN,+7,0 - 0,0,"1,580 / 2",https://bwfbadminton.com/player/95877/tahtat-pojanakanokporn,95877
+563,IND,Nigel D'SA,+7,0 - 0,0,"1,580 / 2",https://bwfbadminton.com/player/25358/nigel-d-sa,25358
+565,FRA,Loic MITTELHEISSER,+7,0 - 0,0,"1,570 / 8",https://bwfbadminton.com/player/91226/loic-mittelheisser,91226
+566,THA,Nonpakorn NANTATHEERO,+7,0 - 0,0,"1,570 / 3",https://bwfbadminton.com/player/78861/nonpakorn-nantatheero,78861
+566,INA,Prasojo Adi ANDRIANUS,+7,0 - 0,0,"1,570 / 3",https://bwfbadminton.com/player/55547/prasojo-adi-andrianus,55547
+566,PHI,Kevin DALISAY,+7,0 - 0,0,"1,570 / 3",https://bwfbadminton.com/player/31794/kevin-dalisay,31794
+569,TGA,Metuisela Talakai VAINIKOLO,+7,0 - 0,0,"1,560 / 3",https://bwfbadminton.com/player/79791/metuisela-talakai-vainikolo,79791
+570,DEN,David KIM,+7,0 - 0,0,"1,540 / 2",https://bwfbadminton.com/player/80203/david-kim,80203
+571,RSA,Andries MALAN,+9,0 - 0,0,"1,520 / 2",https://bwfbadminton.com/player/63109/andries-malan,63109
+572,CHN,ZHU Siyuan,+9,0 - 0,0,"1,520 / 1",https://bwfbadminton.com/player/98574/zhu-siyuan,98574
+572,TPE,Ming Hsien HUNG,+9,0 - 0,0,"1,520 / 1",https://bwfbadminton.com/player/89077/ming-hsien-hung,89077
+572,CHN,WU Xin,+9,0 - 0,0,"1,520 / 1",https://bwfbadminton.com/player/93052/wu-xin,93052
+572,CHN,REN Peng Bo,+9,0 - 0,0,"1,520 / 1",https://bwfbadminton.com/player/91204/ren-peng-bo,91204
+572,PUR,Habimael VELEZ VELAZQUEZ,+9,0 - 0,0,"1,520 / 1",https://bwfbadminton.com/player/83405/habimael-velez-velazquez,83405
+572,BRA,Gabriel SALGADO,+9,0 - 0,0,"1,520 / 1",https://bwfbadminton.com/player/77502/gabriel-salgado,77502
+572,BRA,Mateus Carrijo CUTTI,+9,0 - 0,0,"1,520 / 1",https://bwfbadminton.com/player/71248/mateus-carrijo-cutti,71248
+572,CAN,Andrew HARRISON,+9,0 - 0,0,"1,520 / 1",https://bwfbadminton.com/player/92652/andrew-harrison,92652
+572,IND,Talar LAA,+9,0 - 0,0,"1,520 / 1",https://bwfbadminton.com/player/67508/talar-laa,67508
+572,CHN,HE Liu,+9,0 - 0,0,"1,520 / 1",https://bwfbadminton.com/player/64229/he-liu,64229
+572,ENG,Tom ARMSTRONG,+9,0 - 0,0,"1,520 / 1",https://bwfbadminton.com/player/54474/tom-armstrong,54474
+572,CHN,LIU Kai,+9,0 - 0,0,"1,520 / 1",https://bwfbadminton.com/player/95811/liu-kai,95811
+572,JPN,Ryotaro MARUO,+9,0 - 0,0,"1,520 / 1",https://bwfbadminton.com/player/69659/ryotaro-maruo,69659
+572,BAN,Md Rais UDDIN,+9,0 - 0,0,"1,520 / 1",https://bwfbadminton.com/player/53025/md-rais-uddin,53025
+572,JAM,Charles PYNE,+9,0 - 0,0,"1,520 / 1",https://bwfbadminton.com/player/12008/charles-pyne,12008
+572,IRI,Hasan MOTAGHI,+9,0 - 0,0,"1,520 / 1",https://bwfbadminton.com/player/54390/hasan-motaghi,54390
+572,THA,Pakkawat VILAILAK,+9,0 - 0,0,"1,520 / 1",https://bwfbadminton.com/player/58064/pakkawat-vilailak,58064
+572,RUS,Ivan NIKITIN,+9,0 - 0,0,"1,520 / 1",https://bwfbadminton.com/player/31339/ivan-nikitin,31339
+572,NED,Koen RIDDER,+9,0 - 0,0,"1,520 / 1",https://bwfbadminton.com/player/51602/koen-ridder,51602
+572,IND,Aditya ELANGO,+9,0 - 0,0,"1,520 / 1",https://bwfbadminton.com/player/28799/aditya-elango,28799
+592,DEN,Mathias WEBER ESTRUP,+16,0 - 0,0,"1,510 / 3",https://bwfbadminton.com/player/95050/mathias-weber-estrup,95050
+592,PUR,Torres HERIBERTO,+9,0 - 0,0,"1,510 / 3",https://bwfbadminton.com/player/16891/torres-heriberto,16891
+594,SUR,Mitchel WONGSODIKROMO,+9,0 - 0,0,"1,500 / 2",https://bwfbadminton.com/player/12898/mitchel-wongsodikromo,12898
+595,CAN,Him LAM,+90,0 - 0,0,"1,490 / 5",https://bwfbadminton.com/player/80691/him-lam,80691
+596,RUS,Ryhor VARABYOU,+8,0 - 0,0,"1,480 / 8",https://bwfbadminton.com/player/76853/ryhor-varabyou,76853
+597,USA,G J WATTS,+8,0 - 0,0,"1,480 / 3",https://bwfbadminton.com/player/72921/g-j-watts,72921
+597,GER,Sebastian SCHOETTLER,+8,0 - 0,0,"1,480 / 3",https://bwfbadminton.com/player/14926/sebastian-schoettler,14926
+599,SUI,Kyrill SCHAFFLUETZEL,+8,0 - 0,0,"1,470 / 6",https://bwfbadminton.com/player/89306/kyrill-schaffluetzel,89306
+600,BRN,Saied TAKI,+8,0 - 0,0,"1,470 / 2",https://bwfbadminton.com/player/68794/saied-taki,68794
+600,BRN,Saied TAKI,+8,0 - 0,0,"1,470 / 2",https://bwfbadminton.com/player/68794/saied-taki,68794
+600,MEX,Mauricio CASILLAS,+8,0 - 0,0,"1,470 / 2",https://bwfbadminton.com/player/71784/mauricio-casillas,71784
+603,FRA,Samson GRADT-URBAN,+9,0 - 0,0,"1,450 / 4",https://bwfbadminton.com/player/60379/samson-gradt-urban,60379
+604,ZAM,Mark BANDA,+9,0 - 0,0,"1,450 / 3",https://bwfbadminton.com/player/62126/mark-banda,62126
+605,RUS,Maxim MUZHEVLEV,+10,0 - 0,0,"1,420 / 3",https://bwfbadminton.com/player/85571/maxim-muzhevlev,85571
+606,DEN,Patrick BJERREGAARD,-197,0 - 0,0,"1,410 / 5",https://bwfbadminton.com/player/95604/patrick-bjerregaard,95604
+607,MAS,Chun Quan CHONG,+9,0 - 0,0,"1,410 / 3",https://bwfbadminton.com/player/96826/chun-quan-chong,96826
+607,BAR,Dakeil Jonathan THORPE,+9,0 - 0,0,"1,410 / 3",https://bwfbadminton.com/player/61939/dakeil-jonathan-thorpe,61939
+607,BAR,Andre PADMORE,+9,0 - 0,0,"1,410 / 3",https://bwfbadminton.com/player/14852/andre-padmore,14852
+610,CRO,Josip UGLESIC,-107,0 - 0,0,"1,400 / 6",https://bwfbadminton.com/player/90812/josip-uglesic,90812
+611,RSA,EDWARDS IAN,+8,0 - 0,0,"1,400 / 3",https://bwfbadminton.com/player/86419/edwards-ian,86419
+612,POL,MATEUSZ SWIERCZYNSKI,+8,0 - 0,0,"1,380 / 7",https://bwfbadminton.com/player/80607/mateusz-swierczynski,80607
+613,TAH,Glen LEFOLL,+8,0 - 0,0,"1,380 / 2",https://bwfbadminton.com/player/87411/glen-lefoll,87411
+613,TAH,Leo CUCUEL,+8,0 - 0,0,"1,380 / 2",https://bwfbadminton.com/player/87440/leo-cucuel,87440
+613,AUS,Toby WONG,+8,0 - 0,0,"1,380 / 2",https://bwfbadminton.com/player/82379/toby-wong,82379
+613,AUS,Mitchell WHELLER,+8,0 - 0,0,"1,380 / 2",https://bwfbadminton.com/player/70877/mitchell-wheller,70877
+613,BRA,Thomas MORETTI,+8,0 - 0,0,"1,380 / 2",https://bwfbadminton.com/player/46231/thomas-moretti,46231
+613,PER,Martin DEL VALLE,+469,0 - 0,0,"1,380 / 2",https://bwfbadminton.com/player/14324/martin-del-valle,14324
+613,GER,Patrick KAEMNITZ,+8,0 - 0,0,"1,380 / 2",https://bwfbadminton.com/player/58996/patrick-kaemnitz,58996
+620,INA,Wirawan IHSAN ADAM,+9,0 - 0,0,"1,370 / 5",https://bwfbadminton.com/player/79281/wirawan-ihsan-adam,79281
+621,MAR,KSIKES AMINE,+10,0 - 0,0,"1,370 / 1",https://bwfbadminton.com/player/82958/ksikes-amine,82958
+621,NZL,Niccolo TAGLE,-52,0 - 0,0,"1,370 / 1",https://bwfbadminton.com/player/82961/niccolo-tagle,82961
+621,GUA,Luis ARRIOLA,+10,0 - 0,0,"1,370 / 1",https://bwfbadminton.com/player/54894/luis-arriola,54894
+621,GHA,Ben Noah AYIM,+10,0 - 0,0,"1,370 / 1",https://bwfbadminton.com/player/15784/ben-noah-ayim,15784
+621,NZL,James EUNSON,-189,0 - 0,0,"1,370 / 1",https://bwfbadminton.com/player/54337/james-eunson,54337
+626,SWE,Felix BURESTEDT,+8,0 - 0,0,"1,360 / 6",https://bwfbadminton.com/player/83985/felix-burestedt,83985
+627,TTO,Anil SEEPAUL,+8,0 - 0,0,"1,360 / 3",https://bwfbadminton.com/player/9630/anil-seepaul,9630
+628,ISL,Kari GUNNARSSON,+8,0 - 0,0,"1,347 / 2",https://bwfbadminton.com/player/98118/kari-gunnarsson,98118
+629,IND,Prem Singh CHOUHAN,+8,0 - 0,0,"1,320 / 4",https://bwfbadminton.com/player/78917/prem-singh-chouhan,78917
+630,MAC,Hok Man LOU,+8,0 - 0,0,"1,320 / 2",https://bwfbadminton.com/player/65604/hok-man-lou,65604
+630,MAC,Jason King Ching LO,+8,0 - 0,0,"1,320 / 2",https://bwfbadminton.com/player/84704/jason-king-ching-lo,84704
+630,MAC,LEONG Kin Fai,+8,0 - 0,0,"1,320 / 2",https://bwfbadminton.com/player/14841/leong-kin-fai,14841
+633,ENG,BONSELS Jamie,-250,0 - 0,0,"1,300 / 3",https://bwfbadminton.com/player/39736/bonsels-jamie,39736
+634,SWE,Douglas LIDMAN,+33,0 - 0,0,"1,290 / 5",https://bwfbadminton.com/player/75279/douglas-lidman,75279
+635,IND,Manish GUPTA,+6,0 - 0,0,"1,280 / 4",https://bwfbadminton.com/player/84242/manish-gupta,84242
+636,MRI,Shane NG CHIN HING,+6,0 - 0,0,"1,280 / 3",https://bwfbadminton.com/player/43707/shane-ng-chin-hing,43707
+636,RUS,Artemii KARPOV,+6,0 - 0,0,"1,280 / 3",https://bwfbadminton.com/player/65360/artemii-karpov,65360
+638,SRI,Buwaneka GOONETHILLEKA,+6,0 - 0,0,"1,280 / 2",https://bwfbadminton.com/player/68845/buwaneka-goonethilleka,68845
+638,PHI,Oba-Ob RABBIE JAYSON,+6,0 - 0,0,"1,280 / 2",https://bwfbadminton.com/player/77921/oba-ob-rabbie-jayson,77921
+638,JOR,Bahaedeen Ahmad ALSHANNIK,+6,0 - 0,0,"1,280 / 2",https://bwfbadminton.com/player/95425/bahaedeen-ahmad-alshannik,95425
+638,MAS,Teck Han TAN,+6,0 - 0,0,"1,280 / 2",https://bwfbadminton.com/player/95412/teck-han-tan,95412
+638,MAS,Victor Jing Khai ONG,+6,0 - 0,0,"1,280 / 2",https://bwfbadminton.com/player/59062/victor-jing-khai-ong,59062
+638,RUS,Alexandr SOROKIN,+6,0 - 0,0,"1,280 / 2",https://bwfbadminton.com/player/93992/alexandr-sorokin,93992
+638,MAS,Kein Hiung CHONG,-194,0 - 0,0,"1,280 / 2",https://bwfbadminton.com/player/69337/kein-hiung-chong,69337
+638,GUA,Brandon SAMAYOA,+103,0 - 0,0,"1,280 / 2",https://bwfbadminton.com/player/66806/brandon-samayoa,66806
+638,IRQ,Yara AZAD,+6,0 - 0,0,"1,280 / 2",https://bwfbadminton.com/player/53281/yara-azad,53281
+638,GER,Yoga PRATAMA,+6,0 - 0,0,"1,280 / 2",https://bwfbadminton.com/player/55019/yoga-pratama,55019
+648,MAS,Kiam Yong YAP,+4,0 - 0,0,"1,270 / 3",https://bwfbadminton.com/player/61261/kiam-yong-yap,61261
+649,TAH,Antoine BEAUBOIS,+4,0 - 0,0,"1,270 / 2",https://bwfbadminton.com/player/76915/antoine-beaubois,76915
+649,SUR,Soren OPTI,+4,0 - 0,0,"1,270 / 2",https://bwfbadminton.com/player/78198/soren-opti,78198
+649,DOM,Miguel MARINEZ,+4,0 - 0,0,"1,270 / 2",https://bwfbadminton.com/player/61687/miguel-marinez,61687
+649,KEN,Victor Odra MUNGA,+4,0 - 0,0,"1,270 / 2",https://bwfbadminton.com/player/14501/victor-odra-munga,14501
+649,CHI,Esteban MUJICA,+4,0 - 0,0,"1,270 / 2",https://bwfbadminton.com/player/13782/esteban-mujica,13782
+654,POL,Piotr WASILUK,+4,0 - 0,0,"1,240 / 5",https://bwfbadminton.com/player/75108/piotr-wasiluk,75108
+655,MRI,Saheer RAMRAKHA,+4,0 - 0,0,"1,240 / 4",https://bwfbadminton.com/player/14942/saheer-ramrakha,14942
+656,THA,Adulrach NAMKUL,-117,0 - 0,0,"1,240 / 2",https://bwfbadminton.com/player/77315/adulrach-namkul,77315
+656,GER,Thomas NIRSCHL,+4,0 - 0,0,"1,240 / 2",https://bwfbadminton.com/player/15141/thomas-nirschl,15141
+658,FRA,William GOUDALLIER,+4,0 - 0,0,"1,210 / 7",https://bwfbadminton.com/player/68696/william-goudallier,68696
+659,AUS,Matthew NEVETT,+4,0 - 0,0,"1,210 / 2",https://bwfbadminton.com/player/56381/matthew-nevett,56381
+659,MAS,Buchinaidu RAJES,+4,0 - 0,0,"1,210 / 2",https://bwfbadminton.com/player/55457/buchinaidu-rajes,55457
+659,AUS,Eric VUONG,+4,0 - 0,0,"1,210 / 2",https://bwfbadminton.com/player/66618/eric-vuong,66618
+662,FRA,Pierrick CAJOT,+4,0 - 0,0,"1,190 / 6",https://bwfbadminton.com/player/88054/pierrick-cajot,88054
+663,TUR,Muhammed Ali KURT,+5,0 - 0,0,"1,170 / 3",https://bwfbadminton.com/player/63081/muhammed-ali-kurt,63081
+664,CAN,Jakob KRYCZKA,+5,0 - 0,0,"1,170 / 1",https://bwfbadminton.com/player/89300/jakob-kryczka,89300
+664,CAN,Alex LIN,+5,0 - 0,0,"1,170 / 1",https://bwfbadminton.com/player/69437/alex-lin,69437
+664,CAN,Joshua LIU,+5,0 - 0,0,"1,170 / 1",https://bwfbadminton.com/player/67280/joshua-liu,67280
+664,ETH,Teera RETA,+5,0 - 0,0,"1,170 / 1",https://bwfbadminton.com/player/76691/teera-reta,76691
+664,AUS,Yip Ming WONG,+5,0 - 0,0,"1,170 / 1",https://bwfbadminton.com/player/78105/yip-ming-wong,78105
+664,AUS,David CUTRONI,+5,0 - 0,0,"1,170 / 1",https://bwfbadminton.com/player/55835/david-cutroni,55835
+664,USA,Ilian PEREZ,+5,0 - 0,0,"1,170 / 1",https://bwfbadminton.com/player/15030/ilian-perez,15030
+671,NCL,Thibaut JOUANNET,+6,0 - 0,0,"1,166 / 3",https://bwfbadminton.com/player/67710/thibaut-jouannet,67710
+672,VIE,Hong Nam PHAM,+6,0 - 0,0,"1,160 / 4",https://bwfbadminton.com/player/67497/hong-nam-pham,67497
+673,MRI,Denneshsing BABOOLALL,+6,0 - 0,0,"1,152 / 3",https://bwfbadminton.com/player/54710/denneshsing-baboolall,54710
+674,UGA,Ian SENOGA,+6,0 - 0,0,"1,150 / 2",https://bwfbadminton.com/player/89358/ian-senoga,89358
+674,UGA,Jacob MUSISI,+6,0 - 0,0,"1,150 / 2",https://bwfbadminton.com/player/91594/jacob-musisi,91594
+674,SUR,Redon COULOR,+6,0 - 0,0,"1,150 / 2",https://bwfbadminton.com/player/14854/redon-coulor,14854
+677,UKR,Kyryll NESTERENKO,+6,0 - 0,0,"1,140 / 7",https://bwfbadminton.com/player/20332/kyryll-nesterenko,20332
+678,IRL,Tony MURPHY,+17,0 - 0,0,"1,130 / 8",https://bwfbadminton.com/player/58355/tony-murphy,58355
+679,MAR,Hamza HOUMIDA,+7,0 - 0,0,"1,130 / 3",https://bwfbadminton.com/player/79946/hamza-houmida,79946
+680,BRN,Muhamed Munawar ABDUL KADER,+7,0 - 0,0,"1,130 / 2",https://bwfbadminton.com/player/85208/muhamed-munawar-abdul-kader,85208
+680,VEN,Jesus Manuel SANCHEZ LAMA,+7,0 - 0,0,"1,130 / 2",https://bwfbadminton.com/player/82173/jesus-manuel-sanchez-lama,82173
+680,DEN,Mads Storgaard SORENSEN,+7,0 - 0,0,"1,130 / 2",https://bwfbadminton.com/player/94538/mads-storgaard-sorensen,94538
+680,TPE,Meng-Jui TSAI,+7,0 - 0,0,"1,130 / 2",https://bwfbadminton.com/player/89246/meng-jui-tsai,89246
+680,VIE,Khanh Tan LUONG,+7,0 - 0,0,"1,130 / 2",https://bwfbadminton.com/player/81332/khanh-tan-luong,81332
+685,MAS,Wan Mas Ami WAN ABU BAKAR SIDIK,+8,0 - 0,0,"1,120 / 3",https://bwfbadminton.com/player/98707/wan-mas-ami-wan-abu-bakar-sidik,98707
+686,USA,Timothy LAM,+8,0 - 0,0,"1,120 / 2",https://bwfbadminton.com/player/80787/timothy-lam,80787
+687,IRL,Stuart LIGHTBODY,+133,0 - 0,0,"1,110 / 6",https://bwfbadminton.com/player/72687/stuart-lightbody,72687
+688,FIN,Mika KONGAS,+14,0 - 0,0,"1,090 / 10",https://bwfbadminton.com/player/87512/mika-kongas,87512
+689,SUI,Marco FUX,+7,0 - 0,0,"1,090 / 3",https://bwfbadminton.com/player/51839/marco-fux,51839
+689,UKR,Ruslan SARSEKENOV,+7,0 - 0,0,"1,090 / 3",https://bwfbadminton.com/player/83641/ruslan-sarsekenov,83641
+691,RUS,Ivan MEDVEDEV,+7,0 - 0,0,"1,090 / 2",https://bwfbadminton.com/player/35439/ivan-medvedev,35439
+692,INA,KUSUMAH Seo Danu,+7,0 - 0,0,"1,080 / 3",https://bwfbadminton.com/player/31111/kusumah-seo-danu,31111
+693,SUI,Nicolas BLONDEL,-128,0 - 0,0,"1,075 / 4",https://bwfbadminton.com/player/57918/nicolas-blondel,57918
+694,SVK,Martin VICEN,+7,0 - 0,0,"1,050 / 10",https://bwfbadminton.com/player/63008/martin-vicen,63008
+695,TTO,Naim MOHAMMED,+8,0 - 0,0,"1,050 / 2",https://bwfbadminton.com/player/50606/naim-mohammed,50606
+695,GHA,Abraham AYITTEY,+8,0 - 0,0,"1,050 / 2",https://bwfbadminton.com/player/80134/abraham-ayittey,80134
+695,INA,Yoga SIDIK,+8,0 - 0,0,"1,050 / 2",https://bwfbadminton.com/player/83788/yoga-sidik,83788
+695,INA,Ryan Fajar SATRIO,+8,0 - 0,0,"1,050 / 2",https://bwfbadminton.com/player/62343/ryan-fajar-satrio,62343
+699,ESP,Jesus LORENZO,+8,0 - 0,0,"1,040 / 4",https://bwfbadminton.com/player/73037/jesus-lorenzo,73037
+700,BAR,Bradley PILGRIM,+8,0 - 0,0,"1,040 / 3",https://bwfbadminton.com/player/98189/bradley-pilgrim,98189
+700,BAR,Bradley PILGRIM,+8,0 - 0,0,"1,040 / 3",https://bwfbadminton.com/player/98189/bradley-pilgrim,98189
+702,SLO,Luka PETRIC,+8,0 - 0,0,"1,033 / 2",https://bwfbadminton.com/player/13560/luka-petric,13560
+703,EST,Heiko ZOOBER,+9,0 - 0,0,"1,028 / 4",https://bwfbadminton.com/player/96966/heiko-zoober,96966
+704,CZE,Maximilian KORENY,+9,0 - 0,0,"1,020 / 9",https://bwfbadminton.com/player/56024/maximilian-koreny,56024
+705,CAN,Ryan GIESBRECHT,+10,0 - 0,0,"1,020 / 2",https://bwfbadminton.com/player/81450/ryan-giesbrecht,81450
+705,NZL,Abhinav MANOTA,+10,0 - 0,0,"1,020 / 2",https://bwfbadminton.com/player/58628/abhinav-manota,58628
+705,IND,Velavan VASUDEVAN,+10,0 - 0,0,"1,020 / 2",https://bwfbadminton.com/player/58680/velavan-vasudevan,58680
+705,TPE,LAI Chien Cheng,+10,0 - 0,0,"1,020 / 2",https://bwfbadminton.com/player/51611/lai-chien-cheng,51611
+705,MDV,Thoif Ahmed MOHAMED,+10,0 - 0,0,"1,020 / 2",https://bwfbadminton.com/player/93676/thoif-ahmed-mohamed,93676
+705,IRI,Mohamad Reza KHANJANI,+10,0 - 0,0,"1,020 / 2",https://bwfbadminton.com/player/76058/mohamad-reza-khanjani,76058
+705,GER,Sven Eric KASTENS,+10,0 - 0,0,"1,020 / 2",https://bwfbadminton.com/player/14922/sven-eric-kastens,14922
+712,MAS,Mohmed Misbun MISBUN SHAWAL,+10,0 - 0,0,"1,010 / 6",https://bwfbadminton.com/player/49853/mohmed-misbun-misbun-shawal,49853
+713,CAN,Bao Thien VO,+10,0 - 0,0,"1,010 / 2",https://bwfbadminton.com/player/73528/bao-thien-vo,73528
+713,VIE,Thanh Long TRUONG,+10,0 - 0,0,"1,010 / 2",https://bwfbadminton.com/player/94891/thanh-long-truong,94891
+713,SUR,Virgil SOEROREDJO,+10,0 - 0,0,"1,010 / 2",https://bwfbadminton.com/player/52222/virgil-soeroredjo,52222
+716,INA,Kaesar AKBAR,+13,0 - 0,0,"1,000 / 4",https://bwfbadminton.com/player/78059/kaesar-akbar,78059
+717,RUS,Yaroslav EGEREV,+13,0 - 0,0,990 / 4,https://bwfbadminton.com/player/42490/yaroslav-egerev,42490
+717,RUS,Gordey KOSENKO,+13,0 - 0,0,990 / 4,https://bwfbadminton.com/player/53656/gordey-kosenko,53656
+719,RUS,Mikhail SMIRNOV,+13,0 - 0,0,990 / 2,https://bwfbadminton.com/player/70007/mikhail-smirnov,70007
+720,MAC,LAM Chi Man,+13,0 - 0,0,980 / 2,https://bwfbadminton.com/player/55382/lam-chi-man,55382
+721,MAS,IAN WONG Jien Sern,-107,0 - 0,0,970 / 4,https://bwfbadminton.com/player/80831/ian-wong-jien-sern,80831
+721,ENG,Ben Muir,+13,0 - 0,0,970 / 4,https://bwfbadminton.com/player/73231/ben-muir,73231
+723,IRI,Salar BAYAT,+12,0 - 0,0,960 / 2,https://bwfbadminton.com/player/81642/salar-bayat,81642
+724,DOM,Reimi Starling CABRERA ROSARIO,+12,0 - 0,0,950 / 2,https://bwfbadminton.com/player/76657/reimi-starling-cabrera-rosario,76657
+724,ECU,Emilio ZAMBRANO,+12,0 - 0,0,950 / 2,https://bwfbadminton.com/player/79938/emilio-zambrano,79938
+726,FRA,Vanmael HERIAU,+12,0 - 0,0,930 / 6,https://bwfbadminton.com/player/76624/vanmael-heriau,76624
+727,SWE,Robin ZAINUDDIN,+104,0 - 0,0,930 / 5,https://bwfbadminton.com/player/73702/robin-zainuddin,73702
+728,THA,Rachata CHANDAWAN,+11,0 - 0,0,930 / 3,https://bwfbadminton.com/player/88930/rachata-chandawan,88930
+729,ESP,Luís Enrique PEÑALVER,+11,0 - 0,0,922 / 2,https://bwfbadminton.com/player/71221/luis-enrique-pe%C3%91alver,71221
+730,JPN,Keita OGAWA,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/65326/keita-ogawa,65326
+730,JPN,Yoshitaka OGURA,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/58721/yoshitaka-ogura,58721
+730,CHN,Yujie ZHOU,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/66590/yujie-zhou,66590
+730,TPE,Hsuan Ming LEE,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/96968/hsuan-ming-lee,96968
+730,TPE,LIAO I Liang,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/88253/liao-i-liang,88253
+730,CHN,XU Yi Ming,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/96222/xu-yi-ming,96222
+730,TPE,Chi-Hung LIAO,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/77983/chi-hung-liao,77983
+730,BAR,Cory FANUS,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/76241/cory-fanus,76241
+730,BAR,Sabeel FOSTER,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/51012/sabeel-foster,51012
+730,BAN,Md. Rahad Kabir KHALED,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/71309/md-rahad-kabir-khaled,71309
+730,NED,Joris VAN SOERLAND,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/3374/joris-van-soerland,3374
+730,MAR,Ahmed Amine KSIKES,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/65350/ahmed-amine-ksikes,65350
+730,CAN,Dugas PHILIBERT,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/70087/dugas-philibert,70087
+730,NGR,"Usman , Ayo ISIAQ",+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/68313/usman-%2C-ayo-isiaq,68313
+730,BRA,Thomas De Almeida PADILHA,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/80685/thomas-de-almeida-padilha,80685
+730,BRA,Leonardo Ferreira DA ROCHA,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/96422/leonardo-ferreira-da-rocha,96422
+730,INA,Hardianto HARDIANTO,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/69003/hardianto-hardianto,69003
+730,RUS,Roman TERENTYEV,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/88270/roman-terentyev,88270
+730,AUS,Lyman Tze Kin NGIAM,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/70081/lyman-tze-kin-ngiam,70081
+730,CAN,Joshua HURLBURT-YU,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/69194/joshua-hurlburt-yu,69194
+730,TPE,TIEN Jen Chieh,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/57427/tien-jen-chieh,57427
+730,CAN,Jackie YEUNG,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/99402/jackie-yeung,99402
+730,NZL,Edwin Chaijing LAU,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/51706/edwin-chaijing-lau,51706
+730,DEN,Johnny HAST HANSEN,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/50868/johnny-hast-hansen,50868
+730,BRA,Vinicius Alecrim PAULA,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/94878/vinicius-alecrim-paula,94878
+730,DEN,Rasmus GEMKE,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/62855/rasmus-gemke,62855
+730,FRA,Leo ROSSI,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/96690/leo-rossi,96690
+730,TAH,Hugo LEVAIQUE,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/59055/hugo-levaique,59055
+730,NZL,Daniel HILLIER,-7,0 - 0,0,920 / 1,https://bwfbadminton.com/player/78535/daniel-hillier,78535
+730,CUB,Bryan VELIZ ARBOLAY,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/91203/bryan-veliz-arbolay,91203
+730,ETH,ASRAR Seid,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/94856/asrar-seid,94856
+730,ETH,MARKOS Demis,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/88543/markos-demis,88543
+730,BRA,Matheus de Souza NAKAO,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/62949/matheus-de-souza-nakao,62949
+730,BRA,Lucas ISHIOKA,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/86242/lucas-ishioka,86242
+730,BRA,Lucas Constant da SILVA,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/67356/lucas-constant-da-silva,67356
+730,GUA,HERNANDEZ MORALES Alejandro Jose,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/59655/hernandez-morales-alejandro-jose,59655
+730,INA,Hariawan AGI,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/73527/hariawan-agi,73527
+730,NZL,Kent PALMER,-109,0 - 0,0,920 / 1,https://bwfbadminton.com/player/53514/kent-palmer,53514
+730,NZL,Tony FANG,-109,0 - 0,0,920 / 1,https://bwfbadminton.com/player/96242/tony-fang,96242
+730,TAH,Anthony GITTON,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/89103/anthony-gitton,89103
+730,TAH,Patrick ROSSI,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/80916/patrick-rossi,80916
+730,IRI,Seyed Armin ZAKI ZADEH,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/94389/seyed-armin-zaki-zadeh,94389
+730,BAN,Chand LAL,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/47312/chand-lal,47312
+730,BRA,Felippe Cury FONSECA,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/64051/felippe-cury-fonseca,64051
+730,BRA,Igor IBRAHIM,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/59597/igor-ibrahim,59597
+730,NZL,Dylan SOEDJASA,-46,0 - 0,0,920 / 1,https://bwfbadminton.com/player/82683/dylan-soedjasa,82683
+730,IRI,Mehran SHAHBAZI,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/62864/mehran-shahbazi,62864
+730,MEX,Gerson QUEZADA,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/82083/gerson-quezada,82083
+730,INA,Tan TONY,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/64295/tan-tony,64295
+730,BRA,Victor ALVES,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/56006/victor-alves,56006
+730,BRA,Fabrício DUARTE,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/57468/fabricio-duarte,57468
+730,GUA,Adams RODRIGUEZ,-216,0 - 0,0,920 / 1,https://bwfbadminton.com/player/73292/adams-rodriguez,73292
+730,GUA,Jose ESPNOZA,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/74728/jose-espnoza,74728
+730,TAH,Remi ROSSI,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/55838/remi-rossi,55838
+730,TAH,Quentin ROSSI,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/92167/quentin-rossi,92167
+730,RUS,Kirill ROMANYUK,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/88944/kirill-romanyuk,88944
+730,TAH,Sebastien BEDRUNE,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/69130/sebastien-bedrune,69130
+730,NGR,Ocholi EDICHA,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/50682/ocholi-edicha,50682
+730,IRI,Alireza FAGHFOURI,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/81567/alireza-faghfouri,81567
+730,IRI,Ashkan FESAHATI,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/57027/ashkan-fesahati,57027
+730,SUR,Alroy TONEY,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/95309/alroy-toney,95309
+730,SUR,Alrick TONEY,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/97944/alrick-toney,97944
+730,GUA,Daniel HUMBLERS,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/96180/daniel-humblers,96180
+730,MEX,GARRIDO Marcos,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/55129/garrido-marcos,55129
+730,BRA,Gabriel GANDARA,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/68435/gabriel-gandara,68435
+730,NCL,Thomas LAHAUT,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/39654/thomas-lahaut,39654
+730,NCL,Florian TJOHOREDJO,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/20008/florian-tjohoredjo,20008
+730,SYR,Kareem JAHD,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/94776/kareem-jahd,94776
+730,UGA,Abraham Kennedy WOGUTE,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/52955/abraham-kennedy-wogute,52955
+730,NGR,Olorunfemi ELEWA,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/53961/olorunfemi-elewa,53961
+730,AUS,Le The Hung PHAM,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/8234/le-the-hung-pham,8234
+730,AUS,Le The Hung PHAM,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/8234/le-the-hung-pham,8234
+730,ISR,Aviv SADE,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/42720/aviv-sade,42720
+730,KOR,LEE Cheol Ho,+11,0 - 0,0,920 / 1,https://bwfbadminton.com/player/52773/lee-cheol-ho,52773
+804,BRA,Matheus VOIGT,+10,0 - 0,0,910 / 2,https://bwfbadminton.com/player/85056/matheus-voigt,85056
+804,MAS,Man Hung WOON,+10,0 - 0,0,910 / 2,https://bwfbadminton.com/player/56725/man-hung-woon,56725
+804,MAS,Winson NEO,-174,0 - 0,0,910 / 2,https://bwfbadminton.com/player/67974/winson-neo,67974
+804,SUI,Yohannes HOGIANTO,+10,0 - 0,0,910 / 2,https://bwfbadminton.com/player/50426/yohannes-hogianto,50426
+804,RUS,Stepan YAROSLAVCEV,+10,0 - 0,0,910 / 2,https://bwfbadminton.com/player/42004/stepan-yaroslavcev,42004
+809,BEL,Nathan VERVAEKE,+9,0 - 0,0,909 / 3,https://bwfbadminton.com/player/83881/nathan-vervaeke,83881
+810,KEN,John Muiruri MBURU,+11,0 - 0,0,900 / 2,https://bwfbadminton.com/player/93986/john-muiruri-mburu,93986
+810,NGR,Kayode OLATUNJI,+11,0 - 0,0,900 / 2,https://bwfbadminton.com/player/54717/kayode-olatunji,54717
+812,DEN,Nicklas MATHIASEN,+11,0 - 0,0,890 / 4,https://bwfbadminton.com/player/89633/nicklas-mathiasen,89633
+813,INA,Rafael VALENTINO,+11,0 - 0,0,890 / 3,https://bwfbadminton.com/player/72831/rafael-valentino,72831
+814,KOR,Seung Hoon LEE,+11,0 - 0,0,880 / 1,https://bwfbadminton.com/player/74598/seung-hoon-lee,74598
+814,CHN,ZHENG Si Wei,+11,0 - 0,0,880 / 1,https://bwfbadminton.com/player/83046/zheng-si-wei,83046
+816,ALG,Mohamed Abderrahime BELARBI,+11,0 - 0,0,870 / 3,https://bwfbadminton.com/player/99187/mohamed-abderrahime-belarbi,99187
+817,BUL,Alex VLAAR,+11,0 - 0,0,850 / 5,https://bwfbadminton.com/player/65723/alex-vlaar,65723
+818,POL,Jacek KOLUMBAJEW,+11,0 - 0,0,850 / 4,https://bwfbadminton.com/player/7958/jacek-kolumbajew,7958
+819,CRO,Zvonimir HOELBLING,0,0 - 0,0,840 / 8,https://bwfbadminton.com/player/29793/zvonimir-hoelbling,29793
+820,ENG,Darren ADAMSON,+10,0 - 0,0,840 / 6,https://bwfbadminton.com/player/93027/darren-adamson,93027
+821,IND,Suraj RAYADURGA,+11,0 - 0,0,830 / 2,https://bwfbadminton.com/player/71542/suraj-rayadurga,71542
+821,IND,B. Kiran Kumar,+11,0 - 0,0,830 / 2,https://bwfbadminton.com/player/50146/b-kiran-kumar,50146
+821,MGL,Tsolmon MUNKHBAT,+11,0 - 0,0,830 / 2,https://bwfbadminton.com/player/69238/tsolmon-munkhbat,69238
+824,DEN,Mathias Rud PEDERSEN,-286,0 - 0,0,820 / 4,https://bwfbadminton.com/player/79903/mathias-rud-pedersen,79903
+825,ENG,Thomas Joseph STANFORD,+10,0 - 0,0,820 / 3,https://bwfbadminton.com/player/72661/thomas-joseph-stanford,72661
+826,TTO,Roger MOORE,+10,0 - 0,0,810 / 2,https://bwfbadminton.com/player/63460/roger-moore,63460
+827,FRA,Antoine LODIOT,+10,0 - 0,0,800 / 5,https://bwfbadminton.com/player/88016/antoine-lodiot,88016
+828,POL,Krzysztof JAKOWCZUK,+10,0 - 0,0,800 / 4,https://bwfbadminton.com/player/65554/krzysztof-jakowczuk,65554
+829,MAC,U Ieong IEK,+10,0 - 0,0,790 / 2,https://bwfbadminton.com/player/98757/u-ieong-iek,98757
+829,TPE,LU Chi Yuan,+10,0 - 0,0,790 / 2,https://bwfbadminton.com/player/67095/lu-chi-yuan,67095
+831,UKR,Mykola DMITRISHIN,+10,0 - 0,0,780 / 5,https://bwfbadminton.com/player/89235/mykola-dmitrishin,89235
+832,THA,Thanadol JUMPANOI,+10,0 - 0,0,780 / 3,https://bwfbadminton.com/player/60536/thanadol-jumpanoi,60536
+833,SUI,Pierrick DESCHENAUX,+10,0 - 0,0,770 / 3,https://bwfbadminton.com/player/99797/pierrick-deschenaux,99797
+833,SUI,Joel KÖNIG,+10,0 - 0,0,770 / 3,https://bwfbadminton.com/player/58631/joel-kOenig,58631
+835,SWE,Christian PETTERSON,+127,0 - 0,0,760 / 5,https://bwfbadminton.com/player/56406/christian-petterson,56406
+836,IRQ,Hasan Makki Ali ALNAIES,+9,0 - 0,0,760 / 3,https://bwfbadminton.com/player/70391/hasan-makki-ali-alnaies,70391
+836,IRQ,Baqer AL-JADOOA,+9,0 - 0,0,760 / 3,https://bwfbadminton.com/player/80815/baqer-al-jadooa,80815
+838,VEN,Quijada WILLFER,+10,0 - 0,0,760 / 2,https://bwfbadminton.com/player/94859/quijada-willfer,94859
+839,ENG,Joshua YOUNG,+10,0 - 0,0,750 / 3,https://bwfbadminton.com/player/72201/joshua-young,72201
+839,POL,Milosz BOCHAT,+10,0 - 0,0,750 / 3,https://bwfbadminton.com/player/72701/milosz-bochat,72701
+841,VIE,Quang Tuan BUI,+11,0 - 0,0,740 / 3,https://bwfbadminton.com/player/67181/quang-tuan-bui,67181
+842,NZL,Shane MASINIPENI,+11,0 - 0,0,730 / 4,https://bwfbadminton.com/player/82164/shane-masinipeni,82164
+843,SUI,Benedikt SCHALLER,+11,0 - 0,0,730 / 2,https://bwfbadminton.com/player/85365/benedikt-schaller,85365
+843,SUI,Yoann FREYSINGER,+11,0 - 0,0,730 / 2,https://bwfbadminton.com/player/87661/yoann-freysinger,87661
+843,ENG,Andrew KINDRED,+11,0 - 0,0,730 / 2,https://bwfbadminton.com/player/99900/andrew-kindred,99900
+843,INA,Nugroho Andi SAPUTRO,+11,0 - 0,0,730 / 2,https://bwfbadminton.com/player/66989/nugroho-andi-saputro,66989
+847,RUS,Nikita IVANOV,+11,0 - 0,0,720 / 2,https://bwfbadminton.com/player/87740/nikita-ivanov,87740
+847,BRA,Cristian LEITE,+11,0 - 0,0,720 / 2,https://bwfbadminton.com/player/72409/cristian-leite,72409
+847,MDV,Sarim MOHAMED,+11,0 - 0,0,720 / 2,https://bwfbadminton.com/player/68507/sarim-mohamed,68507
+847,SUR,Dylan DARMOHOETOMO,+117,0 - 0,0,720 / 2,https://bwfbadminton.com/player/69570/dylan-darmohoetomo,69570
+851,FRA,Alexandre HAMMER,+10,0 - 0,0,710 / 5,https://bwfbadminton.com/player/59151/alexandre-hammer,59151
+852,SUI,Stefan KRADOLFER,+10,0 - 0,0,700 / 3,https://bwfbadminton.com/player/61234/stefan-kradolfer,61234
+852,ENG,Gregory MAIRS,+10,0 - 0,0,700 / 3,https://bwfbadminton.com/player/58180/gregory-mairs,58180
+854,BRU,Jasmain TAY,+10,0 - 0,0,700 / 2,https://bwfbadminton.com/player/86938/jasmain-tay,86938
+854,GER,Manuel HEUMANN,+10,0 - 0,0,700 / 2,https://bwfbadminton.com/player/90760/manuel-heumann,90760
+856,SRB,Ilija PAVLOVIC,-5,0 - 0,0,680 / 7,https://bwfbadminton.com/player/35779/ilija-pavlovic,35779
+857,GUY,Nicholas ALI,+9,0 - 0,0,680 / 2,https://bwfbadminton.com/player/95306/nicholas-ali,95306
+857,ALG,Youcef Sabri MEDEL,+9,0 - 0,0,680 / 2,https://bwfbadminton.com/player/63846/youcef-sabri-medel,63846
+857,ALG,Mohamed Mahmoud DJITLI,+9,0 - 0,0,680 / 2,https://bwfbadminton.com/player/78919/mohamed-mahmoud-djitli,78919
+857,SUR,Irfan DJABAR,+9,0 - 0,0,680 / 2,https://bwfbadminton.com/player/33865/irfan-djabar,33865
+861,TTO,Jason RAMJASS,+9,0 - 0,0,670 / 3,https://bwfbadminton.com/player/92857/jason-ramjass,92857
+862,AUS,Nicholas KAM,-17,0 - 0,0,670 / 2,https://bwfbadminton.com/player/69646/nicholas-kam,69646
+862,AUS,Dennis WONG,+9,0 - 0,0,670 / 2,https://bwfbadminton.com/player/77510/dennis-wong,77510
+862,AUS,Gavin HO,+9,0 - 0,0,670 / 2,https://bwfbadminton.com/player/99015/gavin-ho,99015
+862,AUS,Brandon OLVER,+9,0 - 0,0,670 / 2,https://bwfbadminton.com/player/96881/brandon-olver,96881
+862,AUS,Kyle FINDLAY,+9,0 - 0,0,670 / 2,https://bwfbadminton.com/player/81307/kyle-findlay,81307
+862,USA,Dean SCHOPPE,+9,0 - 0,0,670 / 2,https://bwfbadminton.com/player/1085/dean-schoppe,1085
+868,SUI,Rinoy MANAVALAN,+12,0 - 0,0,660 / 1,https://bwfbadminton.com/player/83337/rinoy-manavalan,83337
+868,IND,Pavan MALIK,+12,0 - 0,0,660 / 1,https://bwfbadminton.com/player/63246/pavan-malik,63246
+868,IND,Ansal YADAV,+12,0 - 0,0,660 / 1,https://bwfbadminton.com/player/81106/ansal-yadav,81106
+868,IND,Saurav AGRAWAL,+12,0 - 0,0,660 / 1,https://bwfbadminton.com/player/69242/saurav-agrawal,69242
+868,KOR,Se Sung AHN,+12,0 - 0,0,660 / 1,https://bwfbadminton.com/player/89243/se-sung-ahn,89243
+868,KOR,Dong Wook KIM,+12,0 - 0,0,660 / 1,https://bwfbadminton.com/player/83859/dong-wook-kim,83859
+868,INA,Yohanes Timothy Yacob RAMBITAN,+12,0 - 0,0,660 / 1,https://bwfbadminton.com/player/67246/yohanes-timothy-yacob-rambitan,67246
+868,INA,Elham Saptono MULYO,+12,0 - 0,0,660 / 1,https://bwfbadminton.com/player/90687/elham-saptono-mulyo,90687
+868,TPE,Ming Sheng FAN CHIANG,+12,0 - 0,0,660 / 1,https://bwfbadminton.com/player/60979/ming-sheng-fan-chiang,60979
+868,CAM,Cheng PHORROM,+12,0 - 0,0,660 / 1,https://bwfbadminton.com/player/97245/cheng-phorrom,97245
+868,MGL,Khuvituguldur BYAMBAJAV,+12,0 - 0,0,660 / 1,https://bwfbadminton.com/player/93554/khuvituguldur-byambajav,93554
+868,MAC,Kin Hei TAI,+12,0 - 0,0,660 / 1,https://bwfbadminton.com/player/60106/kin-hei-tai,60106
+868,KOR,Sung Joon CHO,+12,0 - 0,0,660 / 1,https://bwfbadminton.com/player/98936/sung-joon-cho,98936
+868,SUI,Joshua PANIER,+12,0 - 0,0,660 / 1,https://bwfbadminton.com/player/66822/joshua-panier,66822
+868,KOR,Hyun Ho CHOI,+12,0 - 0,0,660 / 1,https://bwfbadminton.com/player/75492/hyun-ho-choi,75492
+868,KOR,Joo Young YOON,+12,0 - 0,0,660 / 1,https://bwfbadminton.com/player/73569/joo-young-yoon,73569
+868,UZB,Rafael ZAKIROV,+12,0 - 0,0,660 / 1,https://bwfbadminton.com/player/32400/rafael-zakirov,32400
+868,KOR,JUNG Suk Hoon,+12,0 - 0,0,660 / 1,https://bwfbadminton.com/player/81194/jung-suk-hoon,81194
+868,MGL,Batdavaa MUNKHBAT,+12,0 - 0,0,660 / 1,https://bwfbadminton.com/player/67753/batdavaa-munkhbat,67753
+868,INA,Briand CHRISTOFLE,+12,0 - 0,0,660 / 1,https://bwfbadminton.com/player/55721/briand-christofle,55721
+868,IND,Abhinav PRAKASH,+12,0 - 0,0,660 / 1,https://bwfbadminton.com/player/99587/abhinav-prakash,99587
+868,KOR,KIM Kyung Tae,+12,0 - 0,0,660 / 1,https://bwfbadminton.com/player/64290/kim-kyung-tae,64290
+868,MEX,Andres QUADRI,+12,0 - 0,0,660 / 1,https://bwfbadminton.com/player/95212/andres-quadri,95212
+868,MGL,Enkhmandakh PUREVSUREN,+12,0 - 0,0,660 / 1,https://bwfbadminton.com/player/86376/enkhmandakh-purevsuren,86376
+868,TPE,Tsai Hsin WU,+12,0 - 0,0,660 / 1,https://bwfbadminton.com/player/29999/tsai-hsin-wu,29999
+868,PHI,Gabriel VILLANUEVA,+12,0 - 0,0,660 / 1,https://bwfbadminton.com/player/35297/gabriel-villanueva,35297
+868,KOR,YIM Jong Woo,+12,0 - 0,0,660 / 1,https://bwfbadminton.com/player/19694/yim-jong-woo,19694
+868,UZB,Oleg SAVATUGIN,+12,0 - 0,0,660 / 1,https://bwfbadminton.com/player/13362/oleg-savatugin,13362
+868,KOR,JANG Young Soo,+12,0 - 0,0,660 / 1,https://bwfbadminton.com/player/50955/jang-young-soo,50955
+868,GER,Christopher SKRZEBA,+12,0 - 0,0,660 / 1,https://bwfbadminton.com/player/87635/christopher-skrzeba,87635
+868,GER,Sebastian RDUCH,+12,0 - 0,0,660 / 1,https://bwfbadminton.com/player/37473/sebastian-rduch,37473
+868,KOR,RHO Ye Wook,+12,0 - 0,0,660 / 1,https://bwfbadminton.com/player/89137/rho-ye-wook,89137
+900,RUS,Arseniy FISTIN,+13,0 - 0,0,650 / 6,https://bwfbadminton.com/player/51815/arseniy-fistin,51815
+901,POL,Pawel PRADZINSKI,+13,0 - 0,0,650 / 4,https://bwfbadminton.com/player/30038/pawel-pradzinski,30038
+902,ENG,Sean VENDY,+13,0 - 0,0,630 / 2,https://bwfbadminton.com/player/72478/sean-vendy,72478
+902,AUS,Adam DOLMAN,+13,0 - 0,0,630 / 2,https://bwfbadminton.com/player/70141/adam-dolman,70141
+904,INA,Rudi Cahyadi BUDHIAWAN,+14,0 - 0,0,620 / 3,https://bwfbadminton.com/player/97720/rudi-cahyadi-budhiawan,97720
+904,SCO,Steven STEWART,+14,0 - 0,0,620 / 3,https://bwfbadminton.com/player/74571/steven-stewart,74571
+906,TUR,Emre ASLAN,+14,0 - 0,0,610 / 3,https://bwfbadminton.com/player/42311/emre-aslan,42311
+907,ZAM,Kalonde CHARLES,+14,0 - 0,0,610 / 2,https://bwfbadminton.com/player/84424/kalonde-charles,84424
+907,ISR,Afik ASULIN,+14,0 - 0,0,610 / 2,https://bwfbadminton.com/player/72393/afik-asulin,72393
+909,JPN,Koji NAITO,+14,0 - 0,0,600 / 2,https://bwfbadminton.com/player/85350/koji-naito,85350
+909,SUI,Takahiro HIRAMATSU,+14,0 - 0,0,600 / 2,https://bwfbadminton.com/player/53669/takahiro-hiramatsu,53669
+911,DOM,Angel Argenis MARINEZ ULLOA,+14,0 - 0,0,600 / 1,https://bwfbadminton.com/player/67852/angel-argenis-marinez-ulloa,67852
+911,DOM,Luis Alejandro RODRIGUEZ,+14,0 - 0,0,600 / 1,https://bwfbadminton.com/player/91196/luis-alejandro-rodriguez,91196
+911,KEN,Allan KARAU,+14,0 - 0,0,600 / 1,https://bwfbadminton.com/player/93124/allan-karau,93124
+911,ETH,ABDULKADIR Tofik,+14,0 - 0,0,600 / 1,https://bwfbadminton.com/player/67936/abdulkadir-tofik,67936
+911,ETH,KEDIR Nuredin,+14,0 - 0,0,600 / 1,https://bwfbadminton.com/player/71214/kedir-nuredin,71214
+911,ETH,TEKLU Endale,+14,0 - 0,0,600 / 1,https://bwfbadminton.com/player/58987/teklu-endale,58987
+911,KEN,Mit PATEL,+14,0 - 0,0,600 / 1,https://bwfbadminton.com/player/58198/mit-patel,58198
+911,ETH,Mekonen GEBRELU,+14,0 - 0,0,600 / 1,https://bwfbadminton.com/player/78295/mekonen-gebrelu,78295
+911,ETH,Ermiyas Tamrat DEGEFE,+14,0 - 0,0,600 / 1,https://bwfbadminton.com/player/97870/ermiyas-tamrat-degefe,97870
+911,ETH,Asnake Getachew SAHILU,+14,0 - 0,0,600 / 1,https://bwfbadminton.com/player/57750/asnake-getachew-sahilu,57750
+911,BRA,Italo HAUER,+14,0 - 0,0,600 / 1,https://bwfbadminton.com/player/80108/italo-hauer,80108
+911,NCL,Mathieu MARTAUD,+14,0 - 0,0,600 / 1,https://bwfbadminton.com/player/72023/mathieu-martaud,72023
+911,KEN,Abner ORWARU,+14,0 - 0,0,600 / 1,https://bwfbadminton.com/player/86763/abner-orwaru,86763
+911,UGA,Daniel MIHIGO,+14,0 - 0,0,600 / 1,https://bwfbadminton.com/player/17922/daniel-mihigo,17922
+911,NCL,Florian FERRER,+14,0 - 0,0,600 / 1,https://bwfbadminton.com/player/39281/florian-ferrer,39281
+911,NCL,Joey SANTINO,+14,0 - 0,0,600 / 1,https://bwfbadminton.com/player/45077/joey-santino,45077
+911,PUR,Roman ALEANDRO,+14,0 - 0,0,600 / 1,https://bwfbadminton.com/player/97795/roman-aleandro,97795
+911,ECU,Santiago ZAMBRANO,+14,0 - 0,0,600 / 1,https://bwfbadminton.com/player/9577/santiago-zambrano,9577
+929,THA,Takdanai BOONRAWD,+14,0 - 0,0,590 / 3,https://bwfbadminton.com/player/55142/takdanai-boonrawd,55142
+930,AUS,BUENDIA Honesto,+14,0 - 0,0,590 / 2,https://bwfbadminton.com/player/41797/buendia-honesto,41797
+931,SRB,Igor BJELAN,+145,0 - 0,0,570 / 7,https://bwfbadminton.com/player/39443/igor-bjelan,39443
+932,ZAM,MABO DONALD,+14,0 - 0,0,570 / 4,https://bwfbadminton.com/player/99795/mabo-donald,99795
+933,RUS,Roman KULAGA,+14,0 - 0,0,570 / 3,https://bwfbadminton.com/player/58365/roman-kulaga,58365
+934,BRN,Togi MATHEW,+14,0 - 0,0,570 / 2,https://bwfbadminton.com/player/95494/togi-mathew,95494
+934,JOR,Ayham ABD ELEDDIN,+14,0 - 0,0,570 / 2,https://bwfbadminton.com/player/89189/ayham-abd-eleddin,89189
+934,FRA,Renaud ARNOU,+14,0 - 0,0,570 / 2,https://bwfbadminton.com/player/76345/renaud-arnou,76345
+934,MAS,Vi Hen TAN,-223,0 - 0,0,570 / 2,https://bwfbadminton.com/player/95132/vi-hen-tan,95132
+934,BRN,Randy BACIA,+14,0 - 0,0,570 / 2,https://bwfbadminton.com/player/82431/randy-bacia,82431
+934,BRN,Adnan EBRAHIM,+14,0 - 0,0,570 / 2,https://bwfbadminton.com/player/80189/adnan-ebrahim,80189
+934,JOR,Baha’aldeen Rateb JALLOD,+14,0 - 0,0,570 / 2,https://bwfbadminton.com/player/80783/baha%E2%80%99aldeen-rateb-jallod,80783
+934,BRN,Junith MOTTIL,+14,0 - 0,0,570 / 2,https://bwfbadminton.com/player/35165/junith-mottil,35165
+934,BRN,Jayakumar PULLANI,+14,0 - 0,0,570 / 2,https://bwfbadminton.com/player/59698/jayakumar-pullani,59698
+934,RUS,Vasily KUZNETSOV,+14,0 - 0,0,570 / 2,https://bwfbadminton.com/player/33253/vasily-kuznetsov,33253
+944,GRE,Dimitris ORLIS,-65,0 - 0,0,560 / 4,https://bwfbadminton.com/player/55091/dimitris-orlis,55091
+945,MAD,Hery-Zo Maminiaina RAKOTOHERINIVO,+12,0 - 0,0,560 / 2,https://bwfbadminton.com/player/75245/hery-zo-maminiaina-rakotoherinivo,75245
+945,BOT,PEREKISI Tshepo,+12,0 - 0,0,560 / 2,https://bwfbadminton.com/player/65164/perekisi-tshepo,65164
+945,MAS,Zulfaiz Bin ZULKIFFLI,+556,0 - 0,0,560 / 2,https://bwfbadminton.com/player/94898/zulfaiz-bin-zulkiffli,94898
+945,MRI,Christopher PAUL,+12,0 - 0,0,560 / 2,https://bwfbadminton.com/player/42001/christopher-paul,42001
+945,RSA,James Hilton MCMANUS,+12,0 - 0,0,560 / 2,https://bwfbadminton.com/player/43156/james-hilton-mcmanus,43156
+950,KAZ,Artur NIYAZOV,+11,0 - 0,0,557 / 4,https://bwfbadminton.com/player/77551/artur-niyazov,77551
+951,HUN,Peter LETSCH,-39,0 - 0,0,550 / 6,https://bwfbadminton.com/player/91859/peter-letsch,91859
+952,ESP,Manuel VAZQUEZ,+11,0 - 0,0,550 / 3,https://bwfbadminton.com/player/75634/manuel-vazquez,75634
+953,CUB,Lazaro Yovani MADERA PADRINO,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/89888/lazaro-yovani-madera-padrino,89888
+953,MEX,Hugo GUTIERREZ,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/70177/hugo-gutierrez,70177
+953,MEX,Diego MORALES,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/67512/diego-morales,67512
+953,MEX,Luis Daniel ROMERO,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/87704/luis-daniel-romero,87704
+953,SUR,Jamal Jared THIJSSEN,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/62325/jamal-jared-thijssen,62325
+953,SUR,Patrick VIGELANDZOON,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/81568/patrick-vigelandzoon,81568
+953,SUR,"Mitch, Aubrey NAI CHUNG TONG",+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/79201/mitch%2C-aubrey-nai-chung-tong,79201
+953,SUR,Denzel SWEET,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/84842/denzel-sweet,84842
+953,MAR,Mehdi ERRAIHANI,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/59202/mehdi-erraihani,59202
+953,ISR,Daniel CHISLOV,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/91907/daniel-chislov,91907
+953,ISR,Oleg KHUTORANER,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/55577/oleg-khutoraner,55577
+953,ISR,Omer DEGANI,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/56716/omer-degani,56716
+953,ISR,Ilan YUSIM,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/80370/ilan-yusim,80370
+953,ISR,Ben BAR DAVID,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/76199/ben-bar-david,76199
+953,ISR,Eyal BACHAR,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/46890/eyal-bachar,46890
+953,ISR,Daniel BEDRACK,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/87765/daniel-bedrack,87765
+953,ISR,Ami ABEKASIS,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/73346/ami-abekasis,73346
+953,NGR,Jafar Salihu UMAR,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/60946/jafar-salihu-umar,60946
+953,NGR,Adolphus AZUINE,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/51679/adolphus-azuine,51679
+953,NGR,Mustaopha MUHAMMED,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/72988/mustaopha-muhammed,72988
+953,NGR,Emmanuel BENJAMIN,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/51973/emmanuel-benjamin,51973
+953,NGR,Micheal Otega ONWE,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/87225/micheal-otega-onwe,87225
+953,NGR,Habeeb Temitope BELLO,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/73154/habeeb-temitope-bello,73154
+953,GUA,David MORALES,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/65905/david-morales,65905
+953,GUA,LAY QUAN Julio Cesar,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/74737/lay-quan-julio-cesar,74737
+953,GUA,Mario Roberto MARIO ESTRADA MANCIO,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/65284/mario-roberto-mario-estrada-mancio,65284
+953,GUA,MARCHENA SALGUERO Rudy Omar,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/71125/marchena-salguero-rudy-omar,71125
+953,GUA,GORDILLO GALINDO Marion Estuardo,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/83418/gordillo-galindo-marion-estuardo,83418
+953,VEN,Ivan ELYOURI PEROZO,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/71570/ivan-elyouri-perozo,71570
+953,VEN,LITVAC MORENO Freddy Jose,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/67657/litvac-moreno-freddy-jose,67657
+953,VEN,MARTÍNEZ RODRÍGUEZ Joel Augusto,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/68830/martinez-rodriguez-joel-augusto,68830
+953,SGP,NG Zin Rei Ryan,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/97703/ng-zin-rei-ryan,97703
+953,MAS,Amir Al Razi SYAZWAN,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/73625/amir-al-razi-syazwan,73625
+953,NZL,Karl DOWLAND,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/67054/karl-dowland,67054
+953,NZL,Thomas DHARMAWAN,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/58440/thomas-dharmawan,58440
+953,ARG,Pablo DAFFIS,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/65410/pablo-daffis,65410
+953,BRA,Adriano FIORI,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/96746/adriano-fiori,96746
+953,BRA,Felipe Augusto FARIA,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/62753/felipe-augusto-faria,62753
+953,BRA,Matheus MARCHI,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/60095/matheus-marchi,60095
+953,IND,Love KUMAR,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/68417/love-kumar,68417
+953,CUB,Juan Marcos LAZO CASTILLO,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/63422/juan-marcos-lazo-castillo,63422
+953,ISR,Oron SHALEM,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/99453/oron-shalem,99453
+953,ISR,Amit ELAZAR,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/82486/amit-elazar,82486
+953,SUR,Kevin Yao Lin ZOU,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/78237/kevin-yao-lin-zou,78237
+953,BRA,Matheus CHIESA,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/79017/matheus-chiesa,79017
+953,BRA,Alisson NOGUEIRA MORENO,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/60548/alisson-nogueira-moreno,60548
+953,GUA,HERNANDEZ MORALES Rodrigo Eduardo,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/90358/hernandez-morales-rodrigo-eduardo,90358
+953,GUA,UMANA RUIZ Mario,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/69987/umana-ruiz-mario,69987
+953,GUA,UMANA RUIZ Mario,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/69987/umana-ruiz-mario,69987
+953,BRA,Alisson VASCONCELLOS,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/65183/alisson-vasconcellos,65183
+953,NZL,Vivian Joshua WASHINGTON,-230,0 - 0,0,550 / 1,https://bwfbadminton.com/player/58202/vivian-joshua-washington,58202
+953,AUS,Andrew HE,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/81545/andrew-he,81545
+953,UGA,Fred KIRABO,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/48084/fred-kirabo,48084
+953,SUR,Earvin ASIN,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/76541/earvin-asin,76541
+953,VEN,Jose LAZO,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/61185/jose-lazo,61185
+953,BUL,Vladimir SHISHKOV,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/56055/vladimir-shishkov,56055
+953,VEN,Wilmer Josue RAMIREZ CAÑIZALES,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/79454/wilmer-josue-ramirez-ca%C3%91izales,79454
+953,BAR,Damien HOWELL,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/14850/damien-howell,14850
+953,AUS,Eric kwan SIU CHAN,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/71927/eric-kwan-siu-chan,71927
+953,CUB,Michel Roberto FERRER CEPERO,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/95627/michel-roberto-ferrer-cepero,95627
+953,VEN,Jose ARAUJO,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/92401/jose-araujo,92401
+953,CUB,Gonzalo VEGA PADILLA,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/80521/gonzalo-vega-padilla,80521
+953,UGA,Bruno MASAABA,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/82399/bruno-masaaba,82399
+953,TPE,TENG Shih Hua,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/88098/teng-shih-hua,88098
+953,BOT,Adams NTUNGAMILI,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/63047/adams-ntungamili,63047
+953,MEX,Daniel MARTINEZ,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/76974/daniel-martinez,76974
+953,MAS,Yu Fu LIM,-230,0 - 0,0,550 / 1,https://bwfbadminton.com/player/76325/yu-fu-lim,76325
+953,VEN,Leonard UZCATEGUI,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/93344/leonard-uzcategui,93344
+953,GUA,Ruben CASTELLANOS,-345,0 - 0,0,550 / 1,https://bwfbadminton.com/player/90459/ruben-castellanos,90459
+953,ISR,Vladi CHESLOV,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/46893/vladi-cheslov,46893
+953,CUB,Lisbel GOMEZ,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/77535/lisbel-gomez,77535
+953,NZL,THACKHAM Robbie,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/70575/thackham-robbie,70575
+953,BRA,Aleksander SILVA,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/52905/aleksander-silva,52905
+953,SUR,Jair LIEW,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/16245/jair-liew,16245
+953,UGA,Alishan SHALWAN,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/9643/alishan-shalwan,9643
+953,UGA,Ivan MAYEGA,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/45725/ivan-mayega,45725
+953,UGA,Innocent KABAGAMBE,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/95995/innocent-kabagambe,95995
+953,NGR,Ola FAGBEMI,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/39324/ola-fagbemi,39324
+953,BRA,Pedro CHEN,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/67559/pedro-chen,67559
+953,THA,Siriwat MATAYANUMATI,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/15094/siriwat-matayanumati,15094
+953,GUA,Raul ANGUIANO,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/6493/raul-anguiano,6493
+953,RUS,Sergey SCHERBIN,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/81481/sergey-scherbin,81481
+953,MAS,Kam Chung KUAN,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/54170/kam-chung-kuan,54170
+953,ENG,Andrew SMITH,+11,0 - 0,0,550 / 1,https://bwfbadminton.com/player/14078/andrew-smith,14078
+1037,SRI,Laskhitha Jayamani MADUWAGE,+10,0 - 0,0,530 / 2,https://bwfbadminton.com/player/87087/laskhitha-jayamani-maduwage,87087
+1037,SRI,Sachin DIAS,+10,0 - 0,0,530 / 2,https://bwfbadminton.com/player/83966/sachin-dias,83966
+1037,ZAM,Eli MAMBWE,+10,0 - 0,0,530 / 2,https://bwfbadminton.com/player/4187/eli-mambwe,4187
+1037,NEP,Sajan Krishna TAMRAKAR,+10,0 - 0,0,530 / 2,https://bwfbadminton.com/player/4252/sajan-krishna-tamrakar,4252
+1037,POR,Nuno SANTOS,+10,0 - 0,0,530 / 2,https://bwfbadminton.com/player/14191/nuno-santos,14191
+1042,LTU,Edgaras SLUSNYS,+10,0 - 0,0,522 / 3,https://bwfbadminton.com/player/84442/edgaras-slusnys,84442
+1043,SLO,Primoz FLIS,+10,0 - 0,0,520 / 7,https://bwfbadminton.com/player/89492/primoz-flis,89492
+1044,BRA,Pedro ABREU,+10,0 - 0,0,520 / 2,https://bwfbadminton.com/player/63005/pedro-abreu,63005
+1044,IRL,Liam O’ LEARY,+10,0 - 0,0,520 / 2,https://bwfbadminton.com/player/82658/liam-o%E2%80%99-leary,82658
+1046,CRO,Filip SPOLJAREC,-332,0 - 0,0,510 / 6,https://bwfbadminton.com/player/83212/filip-spoljarec,83212
+1047,IRL,Andrew MCKEE,+9,0 - 0,0,510 / 5,https://bwfbadminton.com/player/82171/andrew-mckee,82171
+1048,INA,Ellen Frederika SETIAWAN,+10,0 - 0,0,500 / 8,https://bwfbadminton.com/player/94045/ellen-frederika-setiawan,94045
+1049,KAZ,Khaitmurat KULMATOV,+10,0 - 0,0,500 / 5,https://bwfbadminton.com/player/84342/khaitmurat-kulmatov,84342
+1050,FIN,Petri HAUTALA,+10,0 - 0,0,490 / 5,https://bwfbadminton.com/player/96355/petri-hautala,96355
+1051,MAS,A`Aamar HASHIM,+10,0 - 0,0,490 / 3,https://bwfbadminton.com/player/11232/a%60aamar-hashim,11232
+1052,MAS,LOH Ze Feng,+10,0 - 0,0,490 / 2,https://bwfbadminton.com/player/64680/loh-ze-feng,64680
+1052,PUR,Onix TORRES,+10,0 - 0,0,490 / 2,https://bwfbadminton.com/player/89929/onix-torres,89929
+1052,TPE,LAI Yu-Hua,+10,0 - 0,0,490 / 2,https://bwfbadminton.com/player/97114/lai-yu-hua,97114
+1052,INA,Wijaya ANDRI,+10,0 - 0,0,490 / 2,https://bwfbadminton.com/player/83870/wijaya-andri,83870
+1052,INA,Hamdani RICO,+10,0 - 0,0,490 / 2,https://bwfbadminton.com/player/92191/hamdani-rico,92191
+1052,ARG,Javier MACAGNO,+10,0 - 0,0,490 / 2,https://bwfbadminton.com/player/72749/javier-macagno,72749
+1058,CZE,Petr JELINEK,+10,0 - 0,0,480 / 5,https://bwfbadminton.com/player/93033/petr-jelinek,93033
+1059,FRA,Shinsai DESLAURIERS,+10,0 - 0,0,480 / 4,https://bwfbadminton.com/player/74457/shinsai-deslauriers,74457
+1060,SVK,Matej POLACEK,+10,0 - 0,0,480 / 2,https://bwfbadminton.com/player/62851/matej-polacek,62851
+1061,ENG,Patrick ADAIR,+10,0 - 0,0,470 / 6,https://bwfbadminton.com/player/92896/patrick-adair,92896
+1062,DEN,Frederik KIRKEDAL,+10,0 - 0,0,470 / 3,https://bwfbadminton.com/player/87805/frederik-kirkedal,87805
+1063,NRU,Image Declan CAPELLE,+11,0 - 0,0,462 / 2,https://bwfbadminton.com/player/97790/image-declan-capelle,97790
+1063,TAH,Tarepa BOURGERY,+11,0 - 0,0,462 / 2,https://bwfbadminton.com/player/71036/tarepa-bourgery,71036
+1065,FIN,Antti KLUTAS,+12,0 - 0,0,460 / 3,https://bwfbadminton.com/player/70078/antti-klutas,70078
+1065,ENG,Farid AKROUM,+12,0 - 0,0,460 / 3,https://bwfbadminton.com/player/91136/farid-akroum,91136
+1067,NRU,Ronson-Dedemaro COOK,+12,0 - 0,0,460 / 2,https://bwfbadminton.com/player/82478/ronson-dedemaro-cook,82478
+1067,ESP,RAFAEL GALVEZ,+12,0 - 0,0,460 / 2,https://bwfbadminton.com/player/79541/rafael-galvez,79541
+1067,AZE,Kanan RZAYEV,+12,0 - 0,0,460 / 2,https://bwfbadminton.com/player/54387/kanan-rzayev,54387
+1070,AUS,Sheehan LIM,+12,0 - 0,0,460 / 1,https://bwfbadminton.com/player/55593/sheehan-lim,55593
+1070,TGA,Renaey Aikoniume NAANIUMOTU,+12,0 - 0,0,460 / 1,https://bwfbadminton.com/player/80833/renaey-aikoniume-naaniumotu,80833
+1070,TAH,Kyliam SCILLOUX,+12,0 - 0,0,460 / 1,https://bwfbadminton.com/player/56218/kyliam-scilloux,56218
+1070,NCL,Ronan HO-YAGUES,+12,0 - 0,0,460 / 1,https://bwfbadminton.com/player/97933/ronan-ho-yagues,97933
+1070,TAH,Manuarii LY,+12,0 - 0,0,460 / 1,https://bwfbadminton.com/player/80955/manuarii-ly,80955
+1070,TGA,Lauti NA’ANIUMOTU,+12,0 - 0,0,460 / 1,https://bwfbadminton.com/player/71982/lauti-na%E2%80%99aniumotu,71982
+1070,VIE,Vinh Huy LY,+12,0 - 0,0,460 / 1,https://bwfbadminton.com/player/99270/vinh-huy-ly,99270
+1070,CHN,SUN Fei Xiang,+12,0 - 0,0,460 / 1,https://bwfbadminton.com/player/57762/sun-fei-xiang,57762
+1070,RUS,Andrey JDANOV,+12,0 - 0,0,460 / 1,https://bwfbadminton.com/player/74694/andrey-jdanov,74694
+1070,RUS,Viktor TIMOSHOK,+12,0 - 0,0,460 / 1,https://bwfbadminton.com/player/63013/viktor-timoshok,63013
+1070,CAN,Erik NILSSON,+12,0 - 0,0,460 / 1,https://bwfbadminton.com/player/5160/erik-nilsson,5160
+1070,CAN,Matthew HAMER,+12,0 - 0,0,460 / 1,https://bwfbadminton.com/player/84747/matthew-hamer,84747
+1070,CAN,Michael LIM,+12,0 - 0,0,460 / 1,https://bwfbadminton.com/player/82927/michael-lim,82927
+1070,CAN,Benjamin LEUNG,+12,0 - 0,0,460 / 1,https://bwfbadminton.com/player/59084/benjamin-leung,59084
+1070,CAN,Calvin CHE,+12,0 - 0,0,460 / 1,https://bwfbadminton.com/player/88591/calvin-che,88591
+1070,PER,Daniel LA TORRE REGAL,-155,0 - 0,0,460 / 1,https://bwfbadminton.com/player/72923/daniel-la-torre-regal,72923
+1070,CAN,Richard LE,+12,0 - 0,0,460 / 1,https://bwfbadminton.com/player/51474/richard-le,51474
+1070,TGA,Sione Vikilani VAINIKOLO,+12,0 - 0,0,460 / 1,https://bwfbadminton.com/player/67541/sione-vikilani-vainikolo,67541
+1070,CAN,Benny LIN,+12,0 - 0,0,460 / 1,https://bwfbadminton.com/player/60490/benny-lin,60490
+1070,CAN,Duncan YAO,+12,0 - 0,0,460 / 1,https://bwfbadminton.com/player/85526/duncan-yao,85526
+1070,RUS,Egor KARPOV,+12,0 - 0,0,460 / 1,https://bwfbadminton.com/player/73350/egor-karpov,73350
+1070,RUS,Anton DERBENEV,+12,0 - 0,0,460 / 1,https://bwfbadminton.com/player/67543/anton-derbenev,67543
+1070,RUS,Grigoriy MARTYNENKO,+12,0 - 0,0,460 / 1,https://bwfbadminton.com/player/68821/grigoriy-martynenko,68821
+1070,RUS,Alexej ZOLOTUEV,+12,0 - 0,0,460 / 1,https://bwfbadminton.com/player/54921/alexej-zolotuev,54921
+1070,NED,Jerry NATENSTEDT,+12,0 - 0,0,460 / 1,https://bwfbadminton.com/player/70008/jerry-natenstedt,70008
+1070,AUS,Andrew PAULET,+12,0 - 0,0,460 / 1,https://bwfbadminton.com/player/79496/andrew-paulet,79496
+1070,CAN,David YUAN,+12,0 - 0,0,460 / 1,https://bwfbadminton.com/player/96730/david-yuan,96730
+1097,BLR,Vladzislav KUSHNIR,+19,0 - 0,0,450 / 7,https://bwfbadminton.com/player/68484/vladzislav-kushnir,68484
+1098,DEN,Patrick BUHL,+193,0 - 0,0,440 / 3,https://bwfbadminton.com/player/85415/patrick-buhl,85415
+1098,DEN,Jonathan TANG,+21,0 - 0,0,440 / 3,https://bwfbadminton.com/player/72190/jonathan-tang,72190
+1100,FRA,Jerome LEMAIRE,+20,0 - 0,0,430 / 5,https://bwfbadminton.com/player/91787/jerome-lemaire,91787
+1101,RUS,Denis VERNER,+20,0 - 0,0,430 / 2,https://bwfbadminton.com/player/85610/denis-verner,85610
+1101,UKR,Oleksandr KOLESNIK,+20,0 - 0,0,430 / 2,https://bwfbadminton.com/player/87159/oleksandr-kolesnik,87159
+1101,RUS,Alexander VERNER,+20,0 - 0,0,430 / 2,https://bwfbadminton.com/player/70817/alexander-verner,70817
+1101,THA,Kantaphon WANGCHAROEN,+20,0 - 0,0,430 / 2,https://bwfbadminton.com/player/92508/kantaphon-wangcharoen,92508
+1101,DEN,Rasmus THIER,+20,0 - 0,0,430 / 2,https://bwfbadminton.com/player/63663/rasmus-thier,63663
+1101,MAS,"LAU Yu Ming, Adam",+20,0 - 0,0,430 / 2,https://bwfbadminton.com/player/79390/lau-yu-ming%2C-adam,79390
+1107,KOR,Hwi Tae KIM,+22,0 - 0,0,430 / 1,https://bwfbadminton.com/player/57260/hwi-tae-kim,57260
+1107,JPN,Yusuke ONODERA,+22,0 - 0,0,430 / 1,https://bwfbadminton.com/player/70730/yusuke-onodera,70730
+1107,KOR,SEO Seungjae,+22,0 - 0,0,430 / 1,https://bwfbadminton.com/player/66513/seo-seungjae,66513
+1110,SUI,Nicolas LENGGENHAGER,+22,0 - 0,0,420 / 5,https://bwfbadminton.com/player/93692/nicolas-lenggenhager,93692
+1111,BUL,Sarkis AGOPYAN,+23,0 - 0,0,420 / 3,https://bwfbadminton.com/player/55205/sarkis-agopyan,55205
+1111,ITA,Marco MONDAVIO,+23,0 - 0,0,420 / 3,https://bwfbadminton.com/player/42698/marco-mondavio,42698
+1113,AUS,Issac WONG,+23,0 - 0,0,420 / 2,https://bwfbadminton.com/player/85265/issac-wong,85265
+1113,ENG,Ben CALDWELL,+23,0 - 0,0,420 / 2,https://bwfbadminton.com/player/76314/ben-caldwell,76314
+1113,ISL,Jonas BALDURSSON,+23,0 - 0,0,420 / 2,https://bwfbadminton.com/player/97914/jonas-baldursson,97914
+1113,SWE,Simon KNUTSSON,+23,0 - 0,0,420 / 2,https://bwfbadminton.com/player/6985/simon-knutsson,6985
+1117,ARG,Lucio CORONATO,+174,0 - 0,0,410 / 3,https://bwfbadminton.com/player/82314/lucio-coronato,82314
+1118,NOR,Magnus CHRISTENSEN,+22,0 - 0,0,400 / 4,https://bwfbadminton.com/player/77524/magnus-christensen,77524
+1119,INA,Muhammad NIZAR,+22,0 - 0,0,400 / 3,https://bwfbadminton.com/player/75182/muhammad-nizar,75182
+1119,IRL,David WALSH,+22,0 - 0,0,400 / 3,https://bwfbadminton.com/player/93747/david-walsh,93747
+1121,IRQ,Husam ALNAIES,+22,0 - 0,0,400 / 2,https://bwfbadminton.com/player/92208/husam-alnaies,92208
+1121,RUS,Pavel FOMIN,+22,0 - 0,0,400 / 2,https://bwfbadminton.com/player/75859/pavel-fomin,75859
+1121,EST,Mihkel LAANES,+22,0 - 0,0,400 / 2,https://bwfbadminton.com/player/87324/mihkel-laanes,87324
+1121,SYR,Mohamad ALSAWAS,+22,0 - 0,0,400 / 2,https://bwfbadminton.com/player/73028/mohamad-alsawas,73028
+1121,AZE,Karim MUSAYEV,+22,0 - 0,0,400 / 2,https://bwfbadminton.com/player/54399/karim-musayev,54399
+1121,AZE,Orkhan GALANDAROV,+22,0 - 0,0,400 / 2,https://bwfbadminton.com/player/57000/orkhan-galandarov,57000
+1121,IRI,Ali SHAHHOSSEINI,+22,0 - 0,0,400 / 2,https://bwfbadminton.com/player/12296/ali-shahhosseini,12296
+1128,SUI,Christoph HEINIGER,+22,0 - 0,0,384 / 3,https://bwfbadminton.com/player/54372/christoph-heiniger,54372
+1129,GRE,Ilias XANTHOU,+22,0 - 0,0,380 / 5,https://bwfbadminton.com/player/97902/ilias-xanthou,97902
+1130,SUI,Gilles TRIPET,+300,0 - 0,0,380 / 3,https://bwfbadminton.com/player/79194/gilles-tripet,79194
+1131,DEN,Rasmus RYLANDER,+21,0 - 0,0,380 / 2,https://bwfbadminton.com/player/82282/rasmus-rylander,82282
+1131,DEN,Simon NORMANN,+21,0 - 0,0,380 / 2,https://bwfbadminton.com/player/73524/simon-normann,73524
+1131,RUS,Nikolai UKK,+21,0 - 0,0,380 / 2,https://bwfbadminton.com/player/67082/nikolai-ukk,67082
+1134,VIE,Vinh Quang HO NGUYEN,+21,0 - 0,0,370 / 3,https://bwfbadminton.com/player/27756/vinh-quang-ho-nguyen,27756
+1135,ISL,Atli JOHANNESSON,+22,0 - 0,0,365 / 2,https://bwfbadminton.com/player/53101/atli-johannesson,53101
+1136,ENG,Martin DRABBLE,+22,0 - 0,0,360 / 3,https://bwfbadminton.com/player/80642/martin-drabble,80642
+1137,INA,Chrisna ADIWIJAYA,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/30135/chrisna-adiwijaya,30135
+1137,TPE,CHANG En Chia,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/87312/chang-en-chia,87312
+1137,IRI,TABATABA Vakili,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/82156/tabataba-vakili,82156
+1137,IRI,Erfan SHAHHOSSEINI,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/62996/erfan-shahhosseini,62996
+1137,IRI,KHAMARI Mohsen,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/79612/khamari-mohsen,79612
+1137,KAZ,Arman MURZABEKOV,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/65255/arman-murzabekov,65255
+1137,IND,Siddharath THAKUR,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/75005/siddharath-thakur,75005
+1137,SRI,Thilan SEPALAGE PERERA,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/54959/thilan-sepalage-perera,54959
+1137,BAN,Moajjam HOSSAIN,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/55867/moajjam-hossain,55867
+1137,SRI,Kolitha Lahiru SAMARASINGHE,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/94585/kolitha-lahiru-samarasinghe,94585
+1137,BAN,Hossain MUKTAR,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/71949/hossain-muktar,71949
+1137,BAN,Minhaz MOHAMMAD,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/93037/minhaz-mohammad,93037
+1137,SRI,Menuka Akila BODHIMALUWA,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/99227/menuka-akila-bodhimaluwa,99227
+1137,BAN,Saleh Ahmed SHAMOL,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/74835/saleh-ahmed-shamol,74835
+1137,USA,Vu Long Ngo PHAM,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/96985/vu-long-ngo-pham,96985
+1137,CAN,Usman SAFDAR,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/92112/usman-safdar,92112
+1137,USA,Krishna BALWALLI,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/51869/krishna-balwalli,51869
+1137,CAN,Paul-Antoine DOSTIE-GUINDON,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/91604/paul-antoine-dostie-guindon,91604
+1137,UKR,Artur BURLAKA,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/67483/artur-burlaka,67483
+1137,RUS,Andrei GONCHARENKO,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/67461/andrei-goncharenko,67461
+1137,RUS,Mikhail GHELASHVILI,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/56362/mikhail-ghelashvili,56362
+1137,RUS,Vasily CHESKIDOV,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/92325/vasily-cheskidov,92325
+1137,RUS,Yury ANDREEV,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/85501/yury-andreev,85501
+1137,RUS,Egor OKOLOV,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/91105/egor-okolov,91105
+1137,RUS,Leonid MELNIK,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/97687/leonid-melnik,97687
+1137,RUS,Egor KURDYUKOV,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/92720/egor-kurdyukov,92720
+1137,INA,Vicky Angga SAPUTRA,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/58640/vicky-angga-saputra,58640
+1137,CAN,Alexander STEPHEN,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/73230/alexander-stephen,73230
+1137,CAN,Samuel TESSIER,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/56005/samuel-tessier,56005
+1137,CAN,Andrew WILKINSON,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/99704/andrew-wilkinson,99704
+1137,CAN,Antonin BERGERON,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/81379/antonin-bergeron,81379
+1137,CAN,Victor CHAN,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/77819/victor-chan,77819
+1137,CAN,Kartikay TYAGI,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/63676/kartikay-tyagi,63676
+1137,CAN,Anthony HENAULT,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/82168/anthony-henault,82168
+1137,CAN,Felix DEBLOIS-BEAUCAGE,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/86927/felix-deblois-beaucage,86927
+1137,CAN,Liam WOODSIDE,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/55853/liam-woodside,55853
+1137,CAN,Gentil PICH,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/55409/gentil-pich,55409
+1137,CAN,Maxime MARIN,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/92415/maxime-marin,92415
+1137,CAN,Kyle GRYMONPRE,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/61086/kyle-grymonpre,61086
+1137,SRI,Imesh HASARANGA,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/81741/imesh-hasaranga,81741
+1137,IND,Arun GEORGE,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/88003/arun-george,88003
+1137,IND,Rahul Yadav CHITTABOINA,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/81643/rahul-yadav-chittaboina,81643
+1137,USA,Sandro ROSSI,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/14805/sandro-rossi,14805
+1137,SUI,Christophe DEBETAZ,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/77982/christophe-debetaz,77982
+1137,INA,Rizky ANTASARI,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/67847/rizky-antasari,67847
+1137,ESP,Oscar MARTINEZ SALAN,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/40178/oscar-martinez-salan,40178
+1137,THA,CHOLPRASERTSUK Kritti,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/83245/cholprasertsuk-kritti,83245
+1137,THA,TOVANNAKASEM Samatcha,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/58753/tovannakasem-samatcha,58753
+1137,INA,Dharma I PUTU ROY DANU WIRA,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/93944/dharma-i-putu-roy-danu-wira,93944
+1137,RUS,Aleksandr VASILKIN,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/58165/aleksandr-vasilkin,58165
+1137,RUS,Yan ILOSHVAY,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/71551/yan-iloshvay,71551
+1137,RUS,Mikhail LAVRIKOV,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/72502/mikhail-lavrikov,72502
+1137,RUS,Vladislav SOLOVIEV,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/92522/vladislav-soloviev,92522
+1137,MDV,Mohamed SAEED,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/99145/mohamed-saeed,99145
+1137,MDV,Madheeh JAMAAL,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/59510/madheeh-jamaal,59510
+1137,MAS,SOH Wooi Yik,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/99389/soh-wooi-yik,99389
+1137,IRQ,Qasim Mohammed Maaroof AL-MANDALAWI,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/75256/qasim-mohammed-maaroof-al-mandalawi,75256
+1137,IRI,Erfan JOYANDEH,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/68548/erfan-joyandeh,68548
+1137,SWE,Ludvig PARLEFORS,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/55141/ludvig-parlefors,55141
+1137,SWE,Lars Johan BJORKHOLM,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/86323/lars-johan-bjorkholm,86323
+1137,IND,Ratikanta SAHA,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/19058/ratikanta-saha,19058
+1137,SRI,D.Iresh Maduranga DE SILVA,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/37548/d-iresh-maduranga-de-silva,37548
+1137,BAN,Md. Abdullah AL-MASRAFI,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/15691/md-abdullah-al-masrafi,15691
+1137,BAN,HOSSAIN Mohammad Arif,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/85500/hossain-mohammad-arif,85500
+1137,BAN,HOSSAIN Mohammad Arif,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/85500/hossain-mohammad-arif,85500
+1137,BAN,Tushar Krishna ROY,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/50321/tushar-krishna-roy,50321
+1137,BAN,Ayman Ibn JAMAN,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/68766/ayman-ibn-jaman,68766
+1137,BAN,Mohammad Anamul HAQUE,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/87239/mohammad-anamul-haque,87239
+1137,PUR,Joselito SANCHEZ,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/60424/joselito-sanchez,60424
+1137,PHI,John Kenneth MONTTERUBIO,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/78377/john-kenneth-montterubio,78377
+1137,MDV,Zuhury ISMAIL,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/80174/zuhury-ismail,80174
+1137,MDV,Waseem AHMED,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/75816/waseem-ahmed,75816
+1137,MDV,Rifau HUSSAIN,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/87901/rifau-hussain,87901
+1137,DEN,Frederik AALESTRUP,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/58807/frederik-aalestrup,58807
+1137,PER,Ignacio BURASCHI CORREA,0,0 - 0,0,360 / 1,https://bwfbadminton.com/player/60120/ignacio-buraschi-correa,60120
+1137,BRA,Rafael AURICHIO,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/62359/rafael-aurichio,62359
+1137,PHI,Michael Kevin CUDIAMAT,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/60037/michael-kevin-cudiamat,60037
+1137,INA,Yogi Irvans NUARI,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/74283/yogi-irvans-nuari,74283
+1137,SRI,Amila Chamin FERNANDO,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/48992/amila-chamin-fernando,48992
+1137,RUS,Ivan CHESKIDOV,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/74145/ivan-cheskidov,74145
+1137,MDV,Rishwan SHIYAM,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/92033/rishwan-shiyam,92033
+1137,MDV,Nashfan MOHAMED,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/87668/nashfan-mohamed,87668
+1137,CAN,Pierre-Etienne PILOTE,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/85075/pierre-etienne-pilote,85075
+1137,MDV,Nasheeu SHARAFUDDEEN,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/77224/nasheeu-sharafuddeen,77224
+1137,BAN,Mohammed Jabed MOSTAFA,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/12714/mohammed-jabed-mostafa,12714
+1137,IRQ,Haidar M. BESHA,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/15896/haidar-m-besha,15896
+1137,IRI,Farzin KHANJANI,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/76170/farzin-khanjani,76170
+1137,BRN,Ramakrishnan RAKESH,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/94137/ramakrishnan-rakesh,94137
+1137,BRN,James VARGHESE,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/12305/james-varghese,12305
+1137,BAN,Uddin SAIF,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/80949/uddin-saif,80949
+1137,FRA,Alexandre FRANCOISE,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/90912/alexandre-francoise,90912
+1137,CAN,PHILLIPE Gaumond,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/31332/phillipe-gaumond,31332
+1137,NED,Hans VAN OS,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/32305/hans-van-os,32305
+1137,ITA,Wisnu Haryo PUTRO,-736,0 - 0,0,360 / 1,https://bwfbadminton.com/player/54199/wisnu-haryo-putro,54199
+1137,MDV,Hassan Afsheen SHAHEEM,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/68463/hassan-afsheen-shaheem,68463
+1137,POL,Hubert PACZEK,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/51024/hubert-paczek,51024
+1137,NEP,Indra MEHATA,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/15683/indra-mehata,15683
+1137,IND,Rohan CASTELINO,+22,0 - 0,0,360 / 1,https://bwfbadminton.com/player/14761/rohan-castelino,14761
+1235,SEY,Kervin GHISLAIN,+20,0 - 0,0,353 / 3,https://bwfbadminton.com/player/62026/kervin-ghislain,62026
+1236,DEN,Mikkel STOFFERSEN,+20,0 - 0,0,350 / 3,https://bwfbadminton.com/player/97242/mikkel-stoffersen,97242
+1237,DOM,Edinvert Bienvenido SANCHEZ MATOS,+20,0 - 0,0,350 / 1,https://bwfbadminton.com/player/86554/edinvert-bienvenido-sanchez-matos,86554
+1237,DOM,Cesar Adonis BRITO GONZALEZ,+20,0 - 0,0,350 / 1,https://bwfbadminton.com/player/58197/cesar-adonis-brito-gonzalez,58197
+1237,FRA,Christophe CHENUT,+20,0 - 0,0,350 / 1,https://bwfbadminton.com/player/85796/christophe-chenut,85796
+1237,NCL,Gaël LECONTE,+20,0 - 0,0,350 / 1,https://bwfbadminton.com/player/89048/gael-leconte,89048
+1237,NCL,Jeremy LEMAITRE,+20,0 - 0,0,350 / 1,https://bwfbadminton.com/player/98395/jeremy-lemaitre,98395
+1237,NCL,Marvyn TOUKIMAN,+20,0 - 0,0,350 / 1,https://bwfbadminton.com/player/75887/marvyn-toukiman,75887
+1237,NCL,Cyril LOUIS,+20,0 - 0,0,350 / 1,https://bwfbadminton.com/player/77190/cyril-louis,77190
+1237,KEN,Paul John MUTISYA,+20,0 - 0,0,350 / 1,https://bwfbadminton.com/player/86506/paul-john-mutisya,86506
+1237,KEN,Kirori NGIGE,+20,0 - 0,0,350 / 1,https://bwfbadminton.com/player/88710/kirori-ngige,88710
+1237,KEN,Yakahama LIGONO,+20,0 - 0,0,350 / 1,https://bwfbadminton.com/player/55937/yakahama-ligono,55937
+1237,KEN,Isaac MABWAGO,+20,0 - 0,0,350 / 1,https://bwfbadminton.com/player/70160/isaac-mabwago,70160
+1237,KEN,John ODERA,+20,0 - 0,0,350 / 1,https://bwfbadminton.com/player/89450/john-odera,89450
+1237,KEN,Iddi ALI,+20,0 - 0,0,350 / 1,https://bwfbadminton.com/player/57966/iddi-ali,57966
+1237,KEN,Edward WASENI,+20,0 - 0,0,350 / 1,https://bwfbadminton.com/player/81813/edward-waseni,81813
+1237,KEN,Peter MUSEMBI,+20,0 - 0,0,350 / 1,https://bwfbadminton.com/player/85466/peter-musembi,85466
+1237,KEN,Amos CHIRCHIR,+20,0 - 0,0,350 / 1,https://bwfbadminton.com/player/97336/amos-chirchir,97336
+1237,KEN,Harsh PATEL,+20,0 - 0,0,350 / 1,https://bwfbadminton.com/player/61364/harsh-patel,61364
+1237,RSA,Cameron COETZER,+20,0 - 0,0,350 / 1,https://bwfbadminton.com/player/63623/cameron-coetzer,63623
+1237,KEN,Raphael Ngume MUGAMBI,+20,0 - 0,0,350 / 1,https://bwfbadminton.com/player/85996/raphael-ngume-mugambi,85996
+1237,IRL,Owen MARRON,+20,0 - 0,0,350 / 1,https://bwfbadminton.com/player/68431/owen-marron,68431
+1237,FRA,Terry Sebastien AMEDEE,+20,0 - 0,0,350 / 1,https://bwfbadminton.com/player/80683/terry-sebastien-amedee,80683
+1237,NCL,Devi BERGES,+20,0 - 0,0,350 / 1,https://bwfbadminton.com/player/57088/devi-berges,57088
+1237,RSA,Ivan BOTHA,+20,0 - 0,0,350 / 1,https://bwfbadminton.com/player/10424/ivan-botha,10424
+1237,MRI,CLIFFORD Domingue,+20,0 - 0,0,350 / 1,https://bwfbadminton.com/player/78266/clifford-domingue,78266
+1237,NCL,Thomas RESUTEK,+20,0 - 0,0,350 / 1,https://bwfbadminton.com/player/86823/thomas-resutek,86823
+1237,NCL,Glenn GOWET,+20,0 - 0,0,350 / 1,https://bwfbadminton.com/player/14749/glenn-gowet,14749
+1237,NCL,Thommy SARGITO,+20,0 - 0,0,350 / 1,https://bwfbadminton.com/player/10407/thommy-sargito,10407
+1237,KEN,Alfred MUTHOMI,+20,0 - 0,0,350 / 1,https://bwfbadminton.com/player/14500/alfred-muthomi,14500
+1237,MRI,Sahir Abdool EDOO,+20,0 - 0,0,350 / 1,https://bwfbadminton.com/player/51549/sahir-abdool-edoo,51549
+1266,BUL,Peyo BOICHINOV,+20,0 - 0,0,345 / 2,https://bwfbadminton.com/player/55206/peyo-boichinov,55206
+1267,HUN,Daniel GRADWOHL,+20,0 - 0,0,340 / 5,https://bwfbadminton.com/player/63505/daniel-gradwohl,63505
+1268,FRA,Anthony CHAYE,+20,0 - 0,0,340 / 3,https://bwfbadminton.com/player/56334/anthony-chaye,56334
+1268,THA,Tongchai HENGVIVATANACHAI,+20,0 - 0,0,340 / 3,https://bwfbadminton.com/player/96801/tongchai-hengvivatanachai,96801
+1268,MAS,Chen Wet LIM,+20,0 - 0,0,340 / 3,https://bwfbadminton.com/player/14441/chen-wet-lim,14441
+1271,ZAM,Obbery Kunda MULENGA,+20,0 - 0,0,340 / 2,https://bwfbadminton.com/player/67386/obbery-kunda-mulenga,67386
+1271,ARG,Ezequiel GARMENDIA,-214,0 - 0,0,340 / 2,https://bwfbadminton.com/player/86240/ezequiel-garmendia,86240
+1271,MRI,Georges Julien PAUL,+20,0 - 0,0,340 / 2,https://bwfbadminton.com/player/64839/georges-julien-paul,64839
+1271,ALG,Yacoub BENADDA,+20,0 - 0,0,340 / 2,https://bwfbadminton.com/player/64714/yacoub-benadda,64714
+1271,MRI,Neeresh RAMTOHUL,+20,0 - 0,0,340 / 2,https://bwfbadminton.com/player/14959/neeresh-ramtohul,14959
+1276,HUN,Marton SZATZKER,+21,0 - 0,0,330 / 4,https://bwfbadminton.com/player/30566/marton-szatzker,30566
+1277,GER,David PENG,+21,0 - 0,0,320 / 1,https://bwfbadminton.com/player/68652/david-peng,68652
+1277,INA,Moch. Revindra REYHALDI,+21,0 - 0,0,320 / 1,https://bwfbadminton.com/player/61065/moch-revindra-reyhaldi,61065
+1277,CAN,Melvin TOK,+21,0 - 0,0,320 / 1,https://bwfbadminton.com/player/55543/melvin-tok,55543
+1277,USA,Dung TRUONG,+21,0 - 0,0,320 / 1,https://bwfbadminton.com/player/52786/dung-truong,52786
+1277,GER,Patrick BEIER,+21,0 - 0,0,320 / 1,https://bwfbadminton.com/player/73484/patrick-beier,73484
+1277,CZE,Michal SVĚTNIČKA,+21,0 - 0,0,320 / 1,https://bwfbadminton.com/player/75660/michal-sv%C4%9Atni%C4%8Cka,75660
+1277,CAM,Pisey SIM,+21,0 - 0,0,320 / 1,https://bwfbadminton.com/player/92040/pisey-sim,92040
+1277,INA,Hardi Yuda SATRIA,+21,0 - 0,0,320 / 1,https://bwfbadminton.com/player/64892/hardi-yuda-satria,64892
+1277,GER,Lucas BEDNORSCH,+21,0 - 0,0,320 / 1,https://bwfbadminton.com/player/70214/lucas-bednorsch,70214
+1286,POL,MATEUSZ BIERNACKI,+21,0 - 0,0,310 / 4,https://bwfbadminton.com/player/80864/mateusz-biernacki,80864
+1287,DEN,Mads Emil KRISTENSEN,+21,0 - 0,0,310 / 3,https://bwfbadminton.com/player/65117/mads-emil-kristensen,65117
+1288,AUS,David NGIAM,+22,0 - 0,0,310 / 2,https://bwfbadminton.com/player/92678/david-ngiam,92678
+1288,GER,Lars SCHAENZLER,+22,0 - 0,0,310 / 2,https://bwfbadminton.com/player/77085/lars-schaenzler,77085
+1288,AUT,Moritz KAUFMANN,+22,0 - 0,0,310 / 2,https://bwfbadminton.com/player/88777/moritz-kaufmann,88777
+1291,INA,M Fajar WIKAJAYA,+22,0 - 0,0,300 / 2,https://bwfbadminton.com/player/80380/m-fajar-wikajaya,80380
+1291,PER,Leonardo ISA,+210,0 - 0,0,300 / 2,https://bwfbadminton.com/player/61257/leonardo-isa,61257
+1291,ARG,Tomas WINOCUR,+22,0 - 0,0,300 / 2,https://bwfbadminton.com/player/74867/tomas-winocur,74867
+1291,ARG,Martin TREJO,-219,0 - 0,0,300 / 2,https://bwfbadminton.com/player/58070/martin-trejo,58070
+1295,TUR,Haktan DOĞAN,+25,0 - 0,0,290 / 4,https://bwfbadminton.com/player/77491/haktan-do%C4%9Ean,77491
+1296,SVK,Juraj VACHALEK,+25,0 - 0,0,285 / 3,https://bwfbadminton.com/player/30856/juraj-vachalek,30856
+1297,NOR,Johannes HAGEN,+25,0 - 0,0,282 / 4,https://bwfbadminton.com/player/86557/johannes-hagen,86557
+1298,BLR,Dzmitry SAIDAKOU,+25,0 - 0,0,280 / 6,https://bwfbadminton.com/player/56849/dzmitry-saidakou,56849
+1299,DEN,Morten HERSCHEND,-181,0 - 0,0,280 / 4,https://bwfbadminton.com/player/86237/morten-herschend,86237
+1299,ISR,Shai GEFFEN,+25,0 - 0,0,280 / 4,https://bwfbadminton.com/player/12998/shai-geffen,12998
+1301,ESP,DURAN David,+24,0 - 0,0,280 / 3,https://bwfbadminton.com/player/66367/duran-david,66367
+1302,MAS,Yee Siang CHANG,+24,0 - 0,0,280 / 2,https://bwfbadminton.com/player/91065/yee-siang-chang,91065
+1302,DEN,Steve OLESEN,+331,0 - 0,0,280 / 2,https://bwfbadminton.com/player/84444/steve-olesen,84444
+1302,MAS,Zairul Nizam ZAINUDDIN,+24,0 - 0,0,280 / 2,https://bwfbadminton.com/player/61430/zairul-nizam-zainuddin,61430
+1302,ESP,Daniel SANCHEZ,+24,0 - 0,0,280 / 2,https://bwfbadminton.com/player/70145/daniel-sanchez,70145
+1302,NZL,Jordan MCMAHON,-147,0 - 0,0,280 / 2,https://bwfbadminton.com/player/87756/jordan-mcmahon,87756
+1302,BUL,Stefan GAREV,+24,0 - 0,0,280 / 2,https://bwfbadminton.com/player/95184/stefan-garev,95184
+1302,POL,Dariusz JANIK,+24,0 - 0,0,280 / 2,https://bwfbadminton.com/player/20067/dariusz-janik,20067
+1302,PER,Sebastian MACIAS,-615,0 - 0,0,280 / 2,https://bwfbadminton.com/player/67260/sebastian-macias,67260
+1302,GER,Peter LANG,+331,0 - 0,0,280 / 2,https://bwfbadminton.com/player/48177/peter-lang,48177
+1311,TUR,Berk AVCI,+20,0 - 0,0,270 / 3,https://bwfbadminton.com/player/71938/berk-avci,71938
+1312,MAS,"Qi Cong, Scott TSANG",+20,0 - 0,0,270 / 2,https://bwfbadminton.com/player/75803/qi-cong%2C-scott-tsang,75803
+1312,AUT,Markus SCHALLER,+20,0 - 0,0,270 / 2,https://bwfbadminton.com/player/54534/markus-schaller,54534
+1312,MAS,Wai Kin CHIN,+20,0 - 0,0,270 / 2,https://bwfbadminton.com/player/93628/wai-kin-chin,93628
+1315,ESP,Victor MARTIN,+20,0 - 0,0,255 / 3,https://bwfbadminton.com/player/96723/victor-martin,96723
+1316,DEN,Peder SØVNDAL,+20,0 - 0,0,250 / 4,https://bwfbadminton.com/player/63042/peder-s%C3%98vndal,63042
+1316,TUR,Ramazan TEKDEMİR,+20,0 - 0,0,250 / 4,https://bwfbadminton.com/player/83583/ramazan-tekdem%C4%B0r,83583
+1318,HUN,Jozsef MESTER,+20,0 - 0,0,250 / 3,https://bwfbadminton.com/player/92668/jozsef-mester,92668
+1319,AUS,Lee Hup GUI,+20,0 - 0,0,250 / 2,https://bwfbadminton.com/player/86220/lee-hup-gui,86220
+1319,FRA,Julien MAIO,+20,0 - 0,0,250 / 2,https://bwfbadminton.com/player/73323/julien-maio,73323
+1321,FRA,Thomas VALLEZ,+20,0 - 0,0,240 / 5,https://bwfbadminton.com/player/61999/thomas-vallez,61999
+1321,AUT,Benjamin SCHLEMMER,-204,0 - 0,0,240 / 5,https://bwfbadminton.com/player/83457/benjamin-schlemmer,83457
+1323,HKG,CHANG Tak Ching,+19,0 - 0,0,240 / 2,https://bwfbadminton.com/player/87674/chang-tak-ching,87674
+1323,SWE,Kevin NILSSON,+19,0 - 0,0,240 / 2,https://bwfbadminton.com/player/86551/kevin-nilsson,86551
+1323,SWE,Olle INGEMARSSON,+19,0 - 0,0,240 / 2,https://bwfbadminton.com/player/79145/olle-ingemarsson,79145
+1323,MAS,Md Tah M ZIYAD,+19,0 - 0,0,240 / 2,https://bwfbadminton.com/player/73950/md-tah-m-ziyad,73950
+1323,DEN,Frederik FAERCH,+19,0 - 0,0,240 / 2,https://bwfbadminton.com/player/63298/frederik-faerch,63298
+1323,GER,Maurice NIESNER,+19,0 - 0,0,240 / 2,https://bwfbadminton.com/player/13468/maurice-niesner,13468
+1323,SCO,Ruaraidh SIM,+19,0 - 0,0,240 / 2,https://bwfbadminton.com/player/71338/ruaraidh-sim,71338
+1330,GRE,Petros TENTAS,+19,0 - 0,0,220 / 4,https://bwfbadminton.com/player/27540/petros-tentas,27540
+1331,CAN,Graydon ROBB,+19,0 - 0,0,220 / 1,https://bwfbadminton.com/player/58679/graydon-robb,58679
+1331,CAN,Arthur LUONG,+19,0 - 0,0,220 / 1,https://bwfbadminton.com/player/84576/arthur-luong,84576
+1331,CAN,Mirza Ali BAIG,+19,0 - 0,0,220 / 1,https://bwfbadminton.com/player/70529/mirza-ali-baig,70529
+1334,FRA,Ronan GUEGUIN,+20,0 - 0,0,210 / 5,https://bwfbadminton.com/player/70146/ronan-gueguin,70146
+1335,HUN,Tamas GEBHARD,-203,0 - 0,0,210 / 4,https://bwfbadminton.com/player/2009/tamas-gebhard,2009
+1336,AUT,Christoph SYRCH,+19,0 - 0,0,210 / 3,https://bwfbadminton.com/player/84993/christoph-syrch,84993
+1336,AUT,Ralph BITTENAUER,+19,0 - 0,0,210 / 3,https://bwfbadminton.com/player/78588/ralph-bittenauer,78588
+1336,SRB,Borko PETROVIC,+94,0 - 0,0,210 / 3,https://bwfbadminton.com/player/16451/borko-petrovic,16451
+1339,MAS,Ching Weng CHUA,+18,0 - 0,0,210 / 2,https://bwfbadminton.com/player/92484/ching-weng-chua,92484
+1339,THA,Nanthakarn YORDPHAISONG,+18,0 - 0,0,210 / 2,https://bwfbadminton.com/player/77912/nanthakarn-yordphaisong,77912
+1339,TUR,Yusuf Ramazan BAY,+18,0 - 0,0,210 / 2,https://bwfbadminton.com/player/65610/yusuf-ramazan-bay,65610
+1339,BUL,Illian KRASTEV,+18,0 - 0,0,210 / 2,https://bwfbadminton.com/player/27862/illian-krastev,27862
+1343,UGA,Hemang HEMANG,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/76933/hemang-hemang,76933
+1343,ISL,Daniel JOHANNESSON,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/89773/daniel-johannesson,89773
+1343,ISL,Ivar ODDSSON,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/59730/ivar-oddsson,59730
+1343,ISL,Kristofer Darri FINNSSON,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/82333/kristofer-darri-finnsson,82333
+1343,BOT,Keabtswe NGWANAOTSILE,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/85126/keabtswe-ngwanaotsile,85126
+1343,DEN,Mark Mohr Laursen DAMGAARD,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/86403/mark-mohr-laursen-damgaard,86403
+1343,GUY,Narayan RAMDHANI,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/82804/narayan-ramdhani,82804
+1343,INA,Hendrik K CLINTON,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/66213/hendrik-k-clinton,66213
+1343,THA,ARKORNNIT THAPTIMDONG,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/79113/arkornnit-thaptimdong,79113
+1343,GER,Max WEISSKIRCHEN,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/84815/max-weisskirchen,84815
+1343,MAS,Mark Andrew PETER,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/93834/mark-andrew-peter,93834
+1343,MAS,Jia Yee LEE,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/83374/jia-yee-lee,83374
+1343,NZL,Benjamin HILLIER,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/83269/benjamin-hillier,83269
+1343,NZL,Caleb O'CONNOR-CHEN,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/55492/caleb-o-connor-chen,55492
+1343,NZL,Kevin ZHANG,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/96869/kevin-zhang,96869
+1343,NZL,Andrew ROUSE,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/88938/andrew-rouse,88938
+1343,NZL,Turenne LEE,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/56135/turenne-lee,56135
+1343,NZL,Matthew PHUA,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/82067/matthew-phua,82067
+1343,BRA,Eduardo VAZ,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/79004/eduardo-vaz,79004
+1343,ARG,Andres AMARILLA,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/67846/andres-amarilla,67846
+1343,BRA,Vagner ANTUNES,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/83300/vagner-antunes,83300
+1343,ARG,Carlos OLIVEIRA,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/89276/carlos-oliveira,89276
+1343,BRA,Alysson ROMAO,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/60937/alysson-romao,60937
+1343,BRA,Claison COELHO,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/86538/claison-coelho,86538
+1343,NZL,Daniel Yin-Hai LEE,-30,0 - 0,0,210 / 1,https://bwfbadminton.com/player/86910/daniel-yin-hai-lee,86910
+1343,NZL,Tze Wei SNEAH,-30,0 - 0,0,210 / 1,https://bwfbadminton.com/player/96863/tze-wei-sneah,96863
+1343,NZL,Chee Foong LIM,-222,0 - 0,0,210 / 1,https://bwfbadminton.com/player/99571/chee-foong-lim,99571
+1343,AUS,Khomsan RATTANASOMBUN,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/83619/khomsan-rattanasombun,83619
+1343,AUS,Chung Lin LEE,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/83634/chung-lin-lee,83634
+1343,MAS,Zhan Le LIM,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/75010/zhan-le-lim,75010
+1343,BOT,OLEFILE Katlego,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/69818/olefile-katlego,69818
+1343,AUS,Adrian Han Yang LEE,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/93228/adrian-han-yang-lee,93228
+1343,AUS,Steven HUYNH,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/85185/steven-huynh,85185
+1343,AUS,Brent GUO,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/76398/brent-guo,76398
+1343,AUS,Chris BARKER,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/67203/chris-barker,67203
+1343,AUS,Simon LY,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/93609/simon-ly,93609
+1343,AUS,Tai-Liang KO,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/88888/tai-liang-ko,88888
+1343,NZL,Vincent TONG,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/60157/vincent-tong,60157
+1343,AUS,Daniel WU,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/95350/daniel-wu,95350
+1343,BOT,Omphile MARUMOAGAE,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/62809/omphile-marumoagae,62809
+1343,BOT,Otsile MARUMO,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/13441/otsile-marumo,13441
+1343,BOT,Modisaotsile BADUBI,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/76412/modisaotsile-badubi,76412
+1343,BOT,Tlamelang KEPALETSWE,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/62696/tlamelang-kepaletswe,62696
+1343,AUS,Vinson TRAN,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/71029/vinson-tran,71029
+1343,AUS,James AUDLEY,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/72631/james-audley,72631
+1343,NZL,Kai Yi LIM,-30,0 - 0,0,210 / 1,https://bwfbadminton.com/player/86996/kai-yi-lim,86996
+1343,NZL,Valens SULAIMAN,-30,0 - 0,0,210 / 1,https://bwfbadminton.com/player/56980/valens-sulaiman,56980
+1343,NZL,Venkata Surya Rao TEEGALA,-222,0 - 0,0,210 / 1,https://bwfbadminton.com/player/96495/venkata-surya-rao-teegala,96495
+1343,ISL,Birkir Steinn ERLINGSSON,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/89625/birkir-steinn-erlingsson,89625
+1343,SGP,Moen TEO,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/95000/moen-teo,95000
+1343,SEY,Richie COURSE,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/69622/richie-course,69622
+1343,NZL,Howard CHOU,-472,0 - 0,0,210 / 1,https://bwfbadminton.com/player/65059/howard-chou,65059
+1343,BOT,Godwin MATHUMO,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/13444/godwin-mathumo,13444
+1343,ISL,Bjarki STEFANSSON,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/53096/bjarki-stefansson,53096
+1343,ISL,Daniel THOMSEN,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/54110/daniel-thomsen,54110
+1343,UGA,Rogers BAKAKI,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/27984/rogers-bakaki,27984
+1343,NZL,Evan LEE,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/84598/evan-lee,84598
+1343,AUS,Rowan HENDERSON,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/13936/rowan-henderson,13936
+1343,AUS,Rowan HENDERSON,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/13936/rowan-henderson,13936
+1343,AUS,Tin PHAM,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/67218/tin-pham,67218
+1343,SYR,Salah MOHAMAD,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/55945/salah-mohamad,55945
+1343,UGA,Wilson TUKIRE,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/79272/wilson-tukire,79272
+1343,ROU,Robert CIOBOTARU,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/9927/robert-ciobotaru,9927
+1343,AUS,Brent MUNDAY,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/13890/brent-munday,13890
+1343,AUS,Joel FINDLAY,+18,0 - 0,0,210 / 1,https://bwfbadminton.com/player/55067/joel-findlay,55067
+1343,NZL,Brock MATHESON,-472,0 - 0,0,210 / 1,https://bwfbadminton.com/player/19895/brock-matheson,19895
+1343,NZL,Thomas ELLIS,-472,0 - 0,0,210 / 1,https://bwfbadminton.com/player/61019/thomas-ellis,61019
+1410,IRL,Jonathan HARRON,+10,0 - 0,0,200 / 4,https://bwfbadminton.com/player/59428/jonathan-harron,59428
+1411,INA,Yobellto Rendy ISMANTO,+10,0 - 0,0,200 / 2,https://bwfbadminton.com/player/92467/yobellto-rendy-ismanto,92467
+1411,INA,Rajid PATRIAWAN,+10,0 - 0,0,200 / 2,https://bwfbadminton.com/player/89612/rajid-patriawan,89612
+1411,ARG,Serafin ZAYAS,+90,0 - 0,0,200 / 2,https://bwfbadminton.com/player/88488/serafin-zayas,88488
+1411,PER,Rafael DAVILA SALINAS,-98,0 - 0,0,200 / 2,https://bwfbadminton.com/player/64555/rafael-davila-salinas,64555
+1411,POL,Maciej DABROWSKI,+10,0 - 0,0,200 / 2,https://bwfbadminton.com/player/88843/maciej-dabrowski,88843
+1411,SWE,Victor ZUHR,+10,0 - 0,0,200 / 2,https://bwfbadminton.com/player/55946/victor-zuhr,55946
+1417,SCO,Danny LEINSTER,+8,0 - 0,0,190 / 2,https://bwfbadminton.com/player/45095/danny-leinster,45095
+1418,TUR,Nuh BASKIN,+8,0 - 0,0,180 / 3,https://bwfbadminton.com/player/65420/nuh-baskin,65420
+1418,ESP,Enrique PANCORBO,+8,0 - 0,0,180 / 3,https://bwfbadminton.com/player/67587/enrique-pancorbo,67587
+1418,NED,Ruben JILLE,+8,0 - 0,0,180 / 3,https://bwfbadminton.com/player/93858/ruben-jille,93858
+1418,FRA,Jocelyn DESCHAMP,+8,0 - 0,0,180 / 3,https://bwfbadminton.com/player/61278/jocelyn-deschamp,61278
+1422,LTU,Laurynas SPARNAUSKIS,+8,0 - 0,0,170 / 2,https://bwfbadminton.com/player/84990/laurynas-sparnauskis,84990
+1422,SWE,Andy TSAI,+8,0 - 0,0,170 / 2,https://bwfbadminton.com/player/83568/andy-tsai,83568
+1422,LTU,Ignas REZNIKAS,+8,0 - 0,0,170 / 2,https://bwfbadminton.com/player/66853/ignas-reznikas,66853
+1422,LTU,Tautvydas LIORANCAS,+8,0 - 0,0,170 / 2,https://bwfbadminton.com/player/72011/tautvydas-liorancas,72011
+1422,BUL,Dimitar DELCHEV,+8,0 - 0,0,170 / 2,https://bwfbadminton.com/player/10055/dimitar-delchev,10055
+1427,POR,Hugo VASCONCELOS,0,0 - 0,0,170 / 1,https://bwfbadminton.com/player/93157/hugo-vasconcelos,93157
+1427,SWE,Paul ELLIOT,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/58706/paul-elliot,58706
+1427,SWE,Martin FORSSBERG,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/92360/martin-forssberg,92360
+1427,SWE,Emil WELINDER,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/84702/emil-welinder,84702
+1427,FIN,Roni LYYTINEN,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/60736/roni-lyytinen,60736
+1427,JPN,Kentaro HOSHINO,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/91375/kentaro-hoshino,91375
+1427,JPN,Daigo KOBAYASHI,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/78182/daigo-kobayashi,78182
+1427,JPN,Daiki SHIMOKAWA,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/68928/daiki-shimokawa,68928
+1427,FRA,Geoffrey BAUBY,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/55250/geoffrey-bauby,55250
+1427,KAZ,Iskander ALEMBAYEV,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/67821/iskander-alembayev,67821
+1427,IRI,Amir JABBARI,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/77384/amir-jabbari,77384
+1427,AFG,Sayed Imran MERI,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/84432/sayed-imran-meri,84432
+1427,IRQ,DHEYAA Matious Yousif Dheyaa,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/94146/dheyaa-matious-yousif-dheyaa,94146
+1427,AFG,Sayed Masoud SAYEDY,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/65092/sayed-masoud-sayedy,65092
+1427,SWE,Robert BJORKHOLM,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/88519/robert-bjorkholm,88519
+1427,SWE,Tim FOO,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/53847/tim-foo,53847
+1427,ENG,Nikhar GARG,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/61905/nikhar-garg,61905
+1427,IRL,Kevin BYRNE,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/72804/kevin-byrne,72804
+1427,WAL,Michael Thomas KINNEAR,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/83928/michael-thomas-kinnear,83928
+1427,DEN,Mathias Lund HANSEN,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/98713/mathias-lund-hansen,98713
+1427,SUI,Julian LEHMANN,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/90655/julian-lehmann,90655
+1427,BRA,Luis Roberto SCHOUERI,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/77464/luis-roberto-schoueri,77464
+1427,BRA,Sergio NAKANISHI,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/87837/sergio-nakanishi,87837
+1427,BRA,Otavio Camargo VASQUES,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/99034/otavio-camargo-vasques,99034
+1427,INA,Ryanivano HUTABARAT,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/69590/ryanivano-hutabarat,69590
+1427,INA,Rio Permata ALAM,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/72909/rio-permata-alam,72909
+1427,INA,Saputra ALVINDO,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/64763/saputra-alvindo,64763
+1427,MDV,Hussein SHAHEED,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/70219/hussein-shaheed,70219
+1427,SRI,Kamod Rashmitha HALAMBAGE,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/56340/kamod-rashmitha-halambage,56340
+1427,SRI,Devendra BANDARA,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/57520/devendra-bandara,57520
+1427,ESP,Victor VEJO,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/59485/victor-vejo,59485
+1427,DEN,Anders ANTONSEN,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/91554/anders-antonsen,91554
+1427,DEN,Marc Storm ANDERSEN,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/65982/marc-storm-andersen,65982
+1427,BRA,Nicolas HUE,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/99700/nicolas-hue,99700
+1427,BRA,Vinicius GORI,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/59646/vinicius-gori,59646
+1427,BRA,Manoel GORI,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/99467/manoel-gori,99467
+1427,BRA,Bruno Soares de MOURA,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/94074/bruno-soares-de-moura,94074
+1427,IND,Arsalan NAQVI,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/65973/arsalan-naqvi,65973
+1427,UKR,Andriy LACHKOV,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/65152/andriy-lachkov,65152
+1427,MAS,LEE Zii Jia,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/81561/lee-zii-jia,81561
+1427,MAS,TAN Jia Wei,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/69159/tan-jia-wei,69159
+1427,NEP,Dipesh DHAMI,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/74494/dipesh-dhami,74494
+1427,POL,Adam CIOK,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/87311/adam-ciok,87311
+1427,TPE,LAN Wei Hsaing,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/94985/lan-wei-hsaing,94985
+1427,BRA,Jose Victor SALGADO,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/62769/jose-victor-salgado,62769
+1427,SYR,Amar AWAD,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/75506/amar-awad,75506
+1427,INA,Rukita .,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/69634/rukita,69634
+1427,MDV,Ibrahim SHAMIU,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/62415/ibrahim-shamiu,62415
+1427,FIN,Ilkka NYQVIST,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/7080/ilkka-nyqvist,7080
+1427,RUS,ANTONOV Valeriy,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/47821/antonov-valeriy,47821
+1427,INA,DEWANTORO Pandu,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/70855/dewantoro-pandu,70855
+1427,NED,Dennis VAN DAALEN DE JEL,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/14267/dennis-van-daalen-de-jel,14267
+1427,NED,Ralph STARREN,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/55272/ralph-starren,55272
+1427,FIN,Oskari SAARINEN,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/54485/oskari-saarinen,54485
+1427,IND,C. M. Shashidhar,+10,0 - 0,0,170 / 1,https://bwfbadminton.com/player/15843/c-m-shashidhar,15843
+1482,HUN,Kristof HORVATH,+9,0 - 0,0,160 / 3,https://bwfbadminton.com/player/10790/kristof-horvath,10790
+1483,BOT,Tefo KABOMO,+9,0 - 0,0,160 / 2,https://bwfbadminton.com/player/58767/tefo-kabomo,58767
+1484,SCO,Salim BEN BOUDINAR,+9,0 - 0,0,150 / 3,https://bwfbadminton.com/player/84802/salim-ben-boudinar,84802
+1484,TUR,Burak Furkan DEMIR,+9,0 - 0,0,150 / 3,https://bwfbadminton.com/player/97958/burak-furkan-demir,97958
+1484,SRB,Miodrag KALICANIN,+74,0 - 0,0,150 / 3,https://bwfbadminton.com/player/80152/miodrag-kalicanin,80152
+1484,GRE,Stamatis TSIGIRDAKIS,+9,0 - 0,0,150 / 3,https://bwfbadminton.com/player/26900/stamatis-tsigirdakis,26900
+1484,SRB,Nikola ARSIC,+74,0 - 0,0,150 / 3,https://bwfbadminton.com/player/74661/nikola-arsic,74661
+1489,DEN,Mathias Moldt BASKJAER,+7,0 - 0,0,140 / 2,https://bwfbadminton.com/player/62637/mathias-moldt-baskjaer,62637
+1490,MLT,Samuel CALI,+8,0 - 0,0,130 / 3,https://bwfbadminton.com/player/97866/samuel-cali,97866
+1490,POL,Konrad BARANOWSKI,+8,0 - 0,0,130 / 3,https://bwfbadminton.com/player/68617/konrad-baranowski,68617
+1492,VIE,Trong Hung TRAN,+8,0 - 0,0,130 / 2,https://bwfbadminton.com/player/62323/trong-hung-tran,62323
+1493,MAS,LIM Zhen Ting,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/85310/lim-zhen-ting,85310
+1493,MAS,MAN Wei Chong,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/78409/man-wei-chong,78409
+1493,MAS,Zheng Lai EE,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/84465/zheng-lai-ee,84465
+1493,KOR,Sang Ho LEE,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/64900/sang-ho-lee,64900
+1493,KOR,Gyung Bo KO,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/95792/gyung-bo-ko,95792
+1493,KOR,Doo Han KIM,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/99578/doo-han-kim,99578
+1493,TTO,Sheraz NABBIE,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/85919/sheraz-nabbie,85919
+1493,PUR,Jose FIGUEROA JUSTINIANO,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/63732/jose-figueroa-justiniano,63732
+1493,PUR,Jose FIGUEROA JUSTINIANO,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/63732/jose-figueroa-justiniano,63732
+1493,TAN,Atish SHAH,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/88685/atish-shah,88685
+1493,FRA,Emeric SOUPRAYEN RAMAYE,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/58752/emeric-souprayen-ramaye,58752
+1493,MRI,Kounal SUBBAROYAN,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/84180/kounal-subbaroyan,84180
+1493,MRI,Cheetesh RAWAH,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/68400/cheetesh-rawah,68400
+1493,FRA,Chrishna ZITTE,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/61884/chrishna-zitte,61884
+1493,MRI,Stelio CHUNG,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/86420/stelio-chung,86420
+1493,FRA,Manual-Clement ASSING,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/10602/manual-clement-assing,10602
+1493,SVK,Milan DRATVA,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/68819/milan-dratva,68819
+1493,KEN,Robert WANJAU,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/92018/robert-wanjau,92018
+1493,KEN,Gregory GITHIEYA,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/65208/gregory-githieya,65208
+1493,CAM,Chanmara TEP,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/69961/chanmara-tep,69961
+1493,RSA,Kyle JACOBS,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/61210/kyle-jacobs,61210
+1493,KOR,Yoo Jin SONG,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/98801/yoo-jin-song,98801
+1493,ARG,Sebastian MARINI,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/92972/sebastian-marini,92972
+1493,ARG,Pablo CORONATO,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/85356/pablo-coronato,85356
+1493,UKR,Maxym KOSOVAN,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/91368/maxym-kosovan,91368
+1493,ARG,Javier DE PAEPE,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/58278/javier-de-paepe,58278
+1493,MAS,Faiz ROZAIN,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/58566/faiz-rozain,58566
+1493,MRI,Faadil SAYED,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/99686/faadil-sayed,99686
+1493,MRI,Atul- Shai KASSEE,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/64711/atul-shai-kassee,64711
+1493,MRI,Ranbir CHOOLUN,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/78274/ranbir-choolun,78274
+1493,THA,HIRIPONGSATHORN Nopparat,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/50542/hiripongsathorn-nopparat,50542
+1493,FIN,Jesper VON HERTZEN,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/52335/jesper-von-hertzen,52335
+1493,KOR,Jae Woo LEE,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/99011/jae-woo-lee,99011
+1493,ARG,Tomas THOUYARET,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/76870/tomas-thouyaret,76870
+1493,BAR,Jade BROWNE,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/69117/jade-browne,69117
+1493,MRI,Thierry BELLEPEAU,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/87749/thierry-bellepeau,87749
+1493,MRI,Eric RENEL,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/57574/eric-renel,57574
+1493,MRI,Vimal CHOOLUN,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/53465/vimal-choolun,53465
+1493,MRI,Oshand NOBIN,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/65278/oshand-nobin,65278
+1493,MRI,Harshil GOBIN,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/99835/harshil-gobin,99835
+1493,ISR,Philip PERLOV,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/51770/philip-perlov,51770
+1493,ECU,Diego TERAN,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/90723/diego-teran,90723
+1493,KOR,JUNG Young Joon,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/92885/jung-young-joon,92885
+1493,INA,Amal Ori WIBOWO,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/68133/amal-ori-wibowo,68133
+1493,BRA,Gustavo PUPO,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/71902/gustavo-pupo,71902
+1493,PUR,Ivan MORALES,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/64189/ivan-morales,64189
+1493,MRI,RAMCHURN Sanjeev,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/55880/ramchurn-sanjeev,55880
+1493,MRI,JATOONAH Ashley,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/48055/jatoonah-ashley,48055
+1493,MRI,Stephan NG CHIN HING,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/36364/stephan-ng-chin-hing,36364
+1493,MDV,HUSSEIN ZAYAN SHAHEED ZAKI,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/33548/hussein-zayan-shaheed-zaki,33548
+1493,PUR,Mercado JOSE,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/85285/mercado-jose,85285
+1493,KOR,UM Ji Kwan,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/42900/um-ji-kwan,42900
+1493,KOR,PARK Wan Ho,+8,0 - 0,0,130 / 1,https://bwfbadminton.com/player/32812/park-wan-ho,32812
+1546,DEN,Phillip Peter SAMSOE,+11,0 - 0,0,120 / 3,https://bwfbadminton.com/player/75654/phillip-peter-samsoe,75654
+1547,POL,Bartlomiej MROZ,+11,0 - 0,0,110 / 2,https://bwfbadminton.com/player/58671/bartlomiej-mroz,58671
+1547,ENG,Michael ROE,+11,0 - 0,0,110 / 2,https://bwfbadminton.com/player/80397/michael-roe,80397
+1547,POL,Michal WALENTEK,+11,0 - 0,0,110 / 2,https://bwfbadminton.com/player/87478/michal-walentek,87478
+1547,FRA,Vincent ESPEN,+11,0 - 0,0,110 / 2,https://bwfbadminton.com/player/57661/vincent-espen,57661
+1547,AUT,Lukas WEISSENBÄCK,+11,0 - 0,0,110 / 2,https://bwfbadminton.com/player/28010/lukas-weissenbAeck,28010
+1547,GRE,George GALVAS,+11,0 - 0,0,110 / 2,https://bwfbadminton.com/player/13394/george-galvas,13394
+1553,FRA,Jordan CORVEE,+13,0 - 0,0,100 / 3,https://bwfbadminton.com/player/88804/jordan-corvee,88804
+1554,CRO,Ivan TUCAKOVIC,-246,0 - 0,0,100 / 2,https://bwfbadminton.com/player/70984/ivan-tucakovic,70984
+1555,ROU,Eduard-Marius ICA,+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/97441/eduard-marius-ica,97441
+1555,ESP,Vicent RIERA,+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/58585/vicent-riera,58585
+1555,ESP,Victor ALCAIDE,+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/90091/victor-alcaide,90091
+1555,KEN,Tabriel KARA,+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/74982/tabriel-kara,74982
+1555,KEN,Aaftan KARA,+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/78083/aaftan-kara,78083
+1555,UGA,Andrew ORYADA,+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/9400/andrew-oryada,9400
+1555,UGA,Abdul Jamal Nazar HAMZA,+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/67683/abdul-jamal-nazar-hamza,67683
+1555,BOT,Kagiso RANTSHADI,+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/82432/kagiso-rantshadi,82432
+1555,SGP,Soon Yang Bernard ONG,+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/70257/soon-yang-bernard-ong,70257
+1555,FRA,Mateo MARTINEZ,+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/94643/mateo-martinez,94643
+1555,BUL,Daniel NIKOLOV,+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/70442/daniel-nikolov,70442
+1555,MAS,Muhammad Iqram MUALA AZMAN,+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/57199/muhammad-iqram-muala-azman,57199
+1555,ROU,Gradinaru IONUT,+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/52303/gradinaru-ionut,52303
+1555,CYP,Elias NICOLAOU,+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/97072/elias-nicolaou,97072
+1555,EST,Mikk JÄRVEOJA,+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/65489/mikk-jAerveoja,65489
+1555,BOT,RANO Boago,+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/60443/rano-boago,60443
+1555,AUT,Leon SEIWALD,0,0 - 0,0,100 / 1,https://bwfbadminton.com/player/83016/leon-seiwald,83016
+1555,ROU,Daniel COJOCARU,+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/4517/daniel-cojocaru,4517
+1555,SGP,Ming Shun TAN,+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/94933/ming-shun-tan,94933
+1555,UGA,Isaac SENFUKA,+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/98457/isaac-senfuka,98457
+1555,UGA,Ronald LULE,+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/74424/ronald-lule,74424
+1555,SLO,Tomaz URSIC,+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/79131/tomaz-ursic,79131
+1555,NOR,Carl Christian HEM,+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/71713/carl-christian-hem,71713
+1555,CYP,George NICOLAOU,+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/16591/george-nicolaou,16591
+1555,FRA,Aurelien SAICHE,+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/69995/aurelien-saiche,69995
+1555,UGA,"Samuel MPWANYI,",+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/58477/samuel-mpwanyi%2C,58477
+1555,UGA,Joshua MUGULUMA,+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/61049/joshua-muguluma,61049
+1555,POR,Tomas NERO,+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/95478/tomas-nero,95478
+1555,CYP,Charis CHARALAMBOUS,+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/14212/charis-charalambous,14212
+1555,ROU,Radu VASIU,+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/95316/radu-vasiu,95316
+1555,ROU,Mircea VASIU,+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/55758/mircea-vasiu,55758
+1555,ROU,Marius CORCIUC,+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/57035/marius-corciuc,57035
+1555,ENG,James LAUDER,+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/24488/james-lauder,24488
+1555,KAZ,Victor KRAVCHENKO,+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/39734/victor-kravchenko,39734
+1555,SLO,Miha (jnr) SEPEC,+12,0 - 0,0,100 / 1,https://bwfbadminton.com/player/12823/miha-jnr-sepec,12823
+1590,NOR,Nikolai SVENSSON,+14,0 - 0,0,90 / 3,https://bwfbadminton.com/player/99936/nikolai-svensson,99936
+1591,BEL,Simon EECKHOUDT,+14,0 - 0,0,90 / 2,https://bwfbadminton.com/player/96322/simon-eeckhoudt,96322
+1591,ENG,Christopher EVANS,+14,0 - 0,0,90 / 2,https://bwfbadminton.com/player/88786/christopher-evans,88786
+1591,SUI,Marco MARTUCCI,+14,0 - 0,0,90 / 2,https://bwfbadminton.com/player/65104/marco-martucci,65104
+1591,POL,DOMINIK ZIETEK,+14,0 - 0,0,90 / 2,https://bwfbadminton.com/player/87215/dominik-zietek,87215
+1591,SVK,Miroslav HARING,+14,0 - 0,0,90 / 2,https://bwfbadminton.com/player/56295/miroslav-haring,56295
+1596,SCO,Duncan GRANT,+14,0 - 0,0,90 / 1,https://bwfbadminton.com/player/96560/duncan-grant,96560
+1596,SGP,Liang Jie Jeffrey YIP,+14,0 - 0,0,90 / 1,https://bwfbadminton.com/player/85236/liang-jie-jeffrey-yip,85236
+1596,SCO,Mark LEITH,+14,0 - 0,0,90 / 1,https://bwfbadminton.com/player/96865/mark-leith,96865
+1596,SCO,Jacob REYNOLDS,+14,0 - 0,0,90 / 1,https://bwfbadminton.com/player/79862/jacob-reynolds,79862
+1596,SCO,Euan WATSON,+14,0 - 0,0,90 / 1,https://bwfbadminton.com/player/71323/euan-watson,71323
+1596,ENG,WANG Yuehang,+14,0 - 0,0,90 / 1,https://bwfbadminton.com/player/56990/wang-yuehang,56990
+1596,SCO,Matthew DUGUID,+14,0 - 0,0,90 / 1,https://bwfbadminton.com/player/70573/matthew-duguid,70573
+1596,ENG,Scott P WILLIAMS,+14,0 - 0,0,90 / 1,https://bwfbadminton.com/player/99726/scott-p-williams,99726
+1596,VIE,Thuan KIM,+14,0 - 0,0,90 / 1,https://bwfbadminton.com/player/59356/thuan-kim,59356
+1596,VIE,Xuan Bao DINH,+14,0 - 0,0,90 / 1,https://bwfbadminton.com/player/98019/xuan-bao-dinh,98019
+1596,ENG,Tom MONK,+14,0 - 0,0,90 / 1,https://bwfbadminton.com/player/72793/tom-monk,72793
+1596,THA,Tinn ISRIYANET,+14,0 - 0,0,90 / 1,https://bwfbadminton.com/player/96699/tinn-isriyanet,96699
+1608,TUR,Oktay AYDIN,+21,0 - 0,0,80 / 2,https://bwfbadminton.com/player/91908/oktay-aydin,91908
+1608,DEN,Flemming KJAER,+21,0 - 0,0,80 / 2,https://bwfbadminton.com/player/91338/flemming-kjaer,91338
+1608,GRE,Vassilios KIOMOURTZIDIS,+21,0 - 0,0,80 / 2,https://bwfbadminton.com/player/50987/vassilios-kiomourtzidis,50987
+1608,ISL,Robert Thor HENN,+21,0 - 0,0,80 / 2,https://bwfbadminton.com/player/55431/robert-thor-henn,55431
+1612,ARG,Dino DELMASTRO,0,0 - 0,0,70 / 1,https://bwfbadminton.com/player/99343/dino-delmastro,99343
+1612,BRA,Artur Silva POMOCENO,0,0 - 0,0,70 / 1,https://bwfbadminton.com/player/77631/artur-silva-pomoceno,77631
+1612,ARG,Agustin KLEIN,0,0 - 0,0,70 / 1,https://bwfbadminton.com/player/72129/agustin-klein,72129
+1612,PER,Diego MINI,0,0 - 0,0,70 / 1,https://bwfbadminton.com/player/91469/diego-mini,91469
+1612,FIN,Heming LIN,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/81242/heming-lin,81242
+1612,SWE,Daniel ALIZADEH,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/67892/daniel-alizadeh,67892
+1612,FIN,Valtteri NIEMINEN,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/94952/valtteri-nieminen,94952
+1612,FIN,Sami PAJUNEN,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/65039/sami-pajunen,65039
+1612,FIN,Jesse LEHTIMAKI,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/76837/jesse-lehtimaki,76837
+1612,SWE,Filip SUWANPHINGKHA,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/92507/filip-suwanphingkha,92507
+1612,ENG,Jamie CHEUNG,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/77198/jamie-cheung,77198
+1612,ENG,David KANE,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/72731/david-kane,72731
+1612,GER,Hannes GERBERICH,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/60218/hannes-gerberich,60218
+1612,MAS,Jun Tsian TUNG,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/69515/jun-tsian-tung,69515
+1612,IRQ,Kadhim Shakir Khraibet AL-SUBAIH,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/80378/kadhim-shakir-khraibet-al-subaih,80378
+1612,IRI,Mohammadamin ALIAKBARIAN,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/62797/mohammadamin-aliakbarian,62797
+1612,AFG,Omid MANGAL,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/64770/omid-mangal,64770
+1612,AZE,Jahid ALHASANOV,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/55783/jahid-alhasanov,55783
+1612,IRQ,Dheyaa Mohsin Falih AL-BAHADILI,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/78046/dheyaa-mohsin-falih-al-bahadili,78046
+1612,IRI,Mikaeil MAREE,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/97742/mikaeil-maree,97742
+1612,AFG,Ahmad Shekib IQBAL,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/64983/ahmad-shekib-iqbal,64983
+1612,SWE,Oliver HJALM,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/93141/oliver-hjalm,93141
+1612,SWE,Viktor AGLINDER,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/99935/viktor-aglinder,99935
+1612,ENG,David KING,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/96695/david-king,96695
+1612,ENG,Mark SADLER,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/98861/mark-sadler,98861
+1612,ENG,Joel DOUSE,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/73630/joel-douse,73630
+1612,SUI,Christian MARTUCCI,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/75867/christian-martucci,75867
+1612,SUI,Sivin MANJALY,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/61346/sivin-manjaly,61346
+1612,SUI,Dominik BUETIKOFER,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/94331/dominik-buetikofer,94331
+1612,SUI,Oliver COLIN,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/10111/oliver-colin,10111
+1612,SUI,Eliot MARQUIS,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/81183/eliot-marquis,81183
+1612,SUI,Cyril HOHL,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/63331/cyril-hohl,63331
+1612,SUI,Arnaud RITZ,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/76041/arnaud-ritz,76041
+1612,CZE,Daniel HOLEC,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/56446/daniel-holec,56446
+1612,CZE,Vojtech SELONG,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/69404/vojtech-selong,69404
+1612,RUS,Andrej LOGINOV,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/8330/andrej-loginov,8330
+1612,UKR,Valery FOMIN,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/59772/valery-fomin,59772
+1612,UKR,Artem TKACHUK,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/86632/artem-tkachuk,86632
+1612,UKR,Oleg LEMESHEV,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/92131/oleg-lemeshev,92131
+1612,RUS,Gleb AGEENKO,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/57666/gleb-ageenko,57666
+1612,INA,Krishna Adi NUGRAHA,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/68647/krishna-adi-nugraha,68647
+1612,INA,Stefanus Linggo HARIYANTO,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/95274/stefanus-linggo-hariyanto,95274
+1612,INA,Eska Rivan JAYA,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/75807/eska-rivan-jaya,75807
+1612,INA,Yosi Widhi PRATOMO,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/59683/yosi-widhi-pratomo,59683
+1612,INA,Zulfikar Azis HIDAYAT,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/83658/zulfikar-azis-hidayat,83658
+1612,ESP,Jorge DIEZ DEL ALAMO,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/62616/jorge-diez-del-alamo,62616
+1612,DEN,Anders Munch NIELSEN,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/65477/anders-munch-nielsen,65477
+1612,DEN,Niels Peter Betton JOHANSEN,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/58378/niels-peter-betton-johansen,58378
+1612,DEN,Jacob MOLLER-NIELSEN,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/85912/jacob-moller-nielsen,85912
+1612,DEN,Andreas Berthelsen CARLSEN,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/61469/andreas-berthelsen-carlsen,61469
+1612,DEN,Sebastian BUGTRUP,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/62891/sebastian-bugtrup,62891
+1612,DEN,Mathias BAY-SMIDT,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/83680/mathias-bay-smidt,83680
+1612,DEN,Kasper MIKKELSEN,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/93956/kasper-mikkelsen,93956
+1612,DEN,Andreas HOFFMANN,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/89476/andreas-hoffmann,89476
+1612,DEN,Jens Brokholm ANDERSEN,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/78255/jens-brokholm-andersen,78255
+1612,MAS,Amirul Hakimi YUSRIZAL,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/68255/amirul-hakimi-yusrizal,68255
+1612,INA,Mainaky MARVIN,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/77639/mainaky-marvin,77639
+1612,FIN,Arto LAHTINEN,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/95647/arto-lahtinen,95647
+1612,FIN,Julius VON PFALER,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/80278/julius-von-pfaler,80278
+1612,FRA,Florian LALUQUE,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/61830/florian-laluque,61830
+1612,VIE,Quoc Khanh DUONG,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/83314/quoc-khanh-duong,83314
+1612,VIE,Dinh Tuan NGHIEM,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/98353/dinh-tuan-nghiem,98353
+1612,POL,KROLAK JAKUB,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/90422/krolak-jakub,90422
+1612,PER,Kenshin SHIMABUKURO,-871,0 - 0,0,70 / 1,https://bwfbadminton.com/player/57150/kenshin-shimabukuro,57150
+1612,ENG,Kelvin LATIMER,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/92184/kelvin-latimer,92184
+1612,ENG,Oliver THOMPSON,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/99691/oliver-thompson,99691
+1612,ENG,Matthew CLARE,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/66617/matthew-clare,66617
+1612,IRQ,AL- QAZZAZ Ali Muafaq Hadi,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/61273/al-qazzaz-ali-muafaq-hadi,61273
+1612,SUI,Chatchawan KAENSUWANPONGSA,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/96568/chatchawan-kaensuwanpongsa,96568
+1612,SUI,Damien DELGADO,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/66137/damien-delgado,66137
+1612,DEN,Rasmus Holmboe DAHL,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/87853/rasmus-holmboe-dahl,87853
+1612,UKR,Mykhaylo SERGEI,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/71136/mykhaylo-sergei,71136
+1612,GER,Michael ZABAWA,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/94483/michael-zabawa,94483
+1612,DEN,Daniel HEDEGAARD,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/59983/daniel-hedegaard,59983
+1612,FRA,Antoine BEBIN,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/77363/antoine-bebin,77363
+1612,FIN,Tuomas SARANEN,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/95998/tuomas-saranen,95998
+1612,VIE,Duy Nam LE,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/56212/duy-nam-le,56212
+1612,POL,SUSKI MICHAL,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/68442/suski-michal,68442
+1612,BUL,Lilian MIHAYLOV,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/67331/lilian-mihaylov,67331
+1612,CHI,Bastian LIZAMA,0,0 - 0,0,70 / 1,https://bwfbadminton.com/player/68245/bastian-lizama,68245
+1612,VIE,Van Quy LAM,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/59326/van-quy-lam,59326
+1612,VIE,Tien Thanh NGUYEN,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/97235/tien-thanh-nguyen,97235
+1612,DEN,Mathias KANY,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/57085/mathias-kany,57085
+1612,BLR,Vitaly PRIMAK,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/53377/vitaly-primak,53377
+1612,ITA,Rudolf DELLENBACH,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/88613/rudolf-dellenbach,88613
+1612,BEL,Florent KERSTERS,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/86811/florent-kersters,86811
+1612,NOR,Anders LEIRUD,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/94114/anders-leirud,94114
+1612,CZE,David POKORNY,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/97603/david-pokorny,97603
+1612,FRA,Didier NOURRY,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/70763/didier-nourry,70763
+1612,SVK,Kamil KANAS,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/67930/kamil-kanas,67930
+1612,ESP,Sergio BERENGUER,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/14252/sergio-berenguer,14252
+1612,FIN,Pauli SAARINEN,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/42727/pauli-saarinen,42727
+1612,DEN,Philip PAWLOWSKI,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/83727/philip-pawlowski,83727
+1612,ESP,Alejandro VILLAR,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/15666/alejandro-villar,15666
+1612,AZE,Teymur ABBASOV,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/23682/teymur-abbasov,23682
+1612,RUS,EFREMOV Mikhail,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/78921/efremov-mikhail,78921
+1612,FRA,Hugo CLAERBOUT,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/49857/hugo-claerbout,49857
+1612,INA,Sakti KUSUMA,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/52743/sakti-kusuma,52743
+1612,CHI,Cristian ARAYA,0,0 - 0,0,70 / 1,https://bwfbadminton.com/player/38221/cristian-araya,38221
+1612,AZE,Tural RASULOV,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/15328/tural-rasulov,15328
+1612,PAK,Wajid Ali CHAUDHRY,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/11107/wajid-ali-chaudhry,11107
+1612,ENG,Ben DOLMAN,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/42863/ben-dolman,42863
+1612,ESP,Adrian CORRALES,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/46851/adrian-corrales,46851
+1612,ESP,Javier BISH CEGARRA,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/46854/javier-bish-cegarra,46854
+1612,SCO,Kyle LONGMUIR,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/6502/kyle-longmuir,6502
+1612,KAZ,YERZHAKANOV SAMAT,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/56764/yerzhakanov-samat,56764
+1612,NOR,Jonas CHRISTENSEN,-952,0 - 0,0,70 / 1,https://bwfbadminton.com/player/96229/jonas-christensen,96229
+1612,POR,Pedro MARTINS,+21,0 - 0,0,70 / 1,https://bwfbadminton.com/player/57034/pedro-martins,57034
+1720,LTU,Kazimieras DAUSKURTAS,+15,0 - 0,0,60 / 2,https://bwfbadminton.com/player/19498/kazimieras-dauskurtas,19498
+1720,EST,Sten RAABIS,+15,0 - 0,0,60 / 2,https://bwfbadminton.com/player/90217/sten-raabis,90217
+1720,POL,Michal SMILOWSKI,+15,0 - 0,0,60 / 2,https://bwfbadminton.com/player/88043/michal-smilowski,88043
+1723,RSA,Keegan James SCHAAP,+15,0 - 0,0,60 / 1,https://bwfbadminton.com/player/75155/keegan-james-schaap,75155
+1723,TAN,Haji Hassanali MAWOKO,+15,0 - 0,0,60 / 1,https://bwfbadminton.com/player/90591/haji-hassanali-mawoko,90591
+1723,GER,Ciarán FITZGERALD,+15,0 - 0,0,60 / 1,https://bwfbadminton.com/player/65292/ciaran-fitzgerald,65292
+1723,FRA,Julien MAHIEUX,+15,0 - 0,0,60 / 1,https://bwfbadminton.com/player/52293/julien-mahieux,52293
+1723,IRL,Nicholas MURPHY,+15,0 - 0,0,60 / 1,https://bwfbadminton.com/player/93998/nicholas-murphy,93998
+1723,LTU,Michailas GOLUBEVAS,+15,0 - 0,0,60 / 1,https://bwfbadminton.com/player/75227/michailas-golubevas,75227
+1723,POL,Pawel SMILOWSKI,+15,0 - 0,0,60 / 1,https://bwfbadminton.com/player/85532/pawel-smilowski,85532
+1723,LTU,Tomas VASKEVICIUS,+15,0 - 0,0,60 / 1,https://bwfbadminton.com/player/80924/tomas-vaskevicius,80924
+1723,SCO,Adam HALL,+15,0 - 0,0,60 / 1,https://bwfbadminton.com/player/85159/adam-hall,85159
+1723,SVK,Tomas BANYASZ,+15,0 - 0,0,60 / 1,https://bwfbadminton.com/player/96918/tomas-banyasz,96918
+1723,SVK,Michal MATEJKA,+15,0 - 0,0,60 / 1,https://bwfbadminton.com/player/12795/michal-matejka,12795
+1734,ESP,Pablo SANMARTIN,+15,0 - 0,0,40 / 2,https://bwfbadminton.com/player/92572/pablo-sanmartin,92572
+1734,SVK,David BALUCHA,+15,0 - 0,0,40 / 2,https://bwfbadminton.com/player/71393/david-balucha,71393
+1736,DEN,Anders Moller QWIST,0,0 - 0,0,40 / 1,https://bwfbadminton.com/player/64068/anders-moller-qwist,64068
+1736,AUT,Chiao-Yi LI,0,0 - 0,0,40 / 1,https://bwfbadminton.com/player/96293/chiao-yi-li,96293
+1736,CRO,Fran GALJER,0,0 - 0,0,40 / 1,https://bwfbadminton.com/player/78342/fran-galjer,78342
+1736,ROU,Andreas THIEL,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/98157/andreas-thiel,98157
+1736,ESP,Bruno MOLDES GARCIA,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/95039/bruno-moldes-garcia,95039
+1736,POR,Hugo BATISTA,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/98364/hugo-batista,98364
+1736,ESP,Blai RAMIREZ,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/78942/blai-ramirez,78942
+1736,ISL,Eidur Isak BRODDASON,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/61426/eidur-isak-broddason,61426
+1736,ISL,Palmi GUDFINNSSON,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/72743/palmi-gudfinnsson,72743
+1736,ENG,Chris PHILLIPS,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/61067/chris-phillips,61067
+1736,ISL,Sigurdur Sverrir GUNNARSSON,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/99114/sigurdur-sverrir-gunnarsson,99114
+1736,SUI,Oliver SCHALLER,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/94367/oliver-schaller,94367
+1736,TUR,Melih TURGUT,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/67625/melih-turgut,67625
+1736,NOR,Truls BARTH-NILSEN,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/6036/truls-barth-nilsen,6036
+1736,NOR,Vegard RIKHEIM,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/79189/vegard-rikheim,79189
+1736,NOR,Peter Roenn STENSAETH,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/56897/peter-roenn-stensaeth,56897
+1736,NOR,Mattias XU,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/59407/mattias-xu,59407
+1736,NOR,Carl Christian MORK,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/73244/carl-christian-mork,73244
+1736,POL,Pawel ONYSKO,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/86320/pawel-onysko,86320
+1736,POL,Patryk PLAZA,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/55861/patryk-plaza,55861
+1736,POL,Marcin NOWAK,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/77038/marcin-nowak,77038
+1736,POL,Mateusz PIETRUSZKA,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/68659/mateusz-pietruszka,68659
+1736,POL,Arkadiusz SLUPEK,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/86913/arkadiusz-slupek,86913
+1736,INA,Michael SANDEWA,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/98549/michael-sandewa,98549
+1736,FRA,Vincent MEDINA,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/95405/vincent-medina,95405
+1736,FRA,Thomas BAURES,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/74738/thomas-baures,74738
+1736,FRA,Nathan LAEMMEL,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/55692/nathan-laemmel,55692
+1736,FRA,Marc LAPORTE,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/89124/marc-laporte,89124
+1736,FRA,Toma Junior POPOV,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/61628/toma-junior-popov,61628
+1736,AUS,Matthew CHAN,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/91345/matthew-chan,91345
+1736,AUS,Bradley GOELDNER,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/60821/bradley-goeldner,60821
+1736,AUS,David Zheng Xuan KANG,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/89513/david-zheng-xuan-kang,89513
+1736,GRE,Thomas LEVENTIS,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/55080/thomas-leventis,55080
+1736,GRE,Vagelis KOSTAS,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/53261/vagelis-kostas,53261
+1736,SLO,Miha IVANIČ,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/57543/miha-ivani%C4%8C,57543
+1736,SLO,Denis CLEKOVIC,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/70332/denis-clekovic,70332
+1736,SLO,Martin CERKOVNIK,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/65359/martin-cerkovnik,65359
+1736,HUN,Marcell ELEK,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/80915/marcell-elek,80915
+1736,POR,Rui MENDES,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/52800/rui-mendes,52800
+1736,POR,Ricardo SILVA,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/59332/ricardo-silva,59332
+1736,POR,Diogo SILVA,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/91734/diogo-silva,91734
+1736,POR,DIAS Luis,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/61823/dias-luis,61823
+1736,POR,Joao MARQUES,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/73135/joao-marques,73135
+1736,POR,DIAS NELSON,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/77097/dias-nelson,77097
+1736,POR,Angelo SILVA,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/73433/angelo-silva,73433
+1736,CRO,Ivor ILIC,-169,0 - 0,0,40 / 1,https://bwfbadminton.com/player/82035/ivor-ilic,82035
+1736,NOR,Sturla Flaten JOERGENSEN,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/99689/sturla-flaten-joergensen,99689
+1736,NOR,Thomas BERGE,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/82305/thomas-berge,82305
+1736,AUT,Andrej SEROV,0,0 - 0,0,40 / 1,https://bwfbadminton.com/player/70577/andrej-serov,70577
+1736,POL,CERAZY WOJCIECH,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/96767/cerazy-wojciech,96767
+1736,SLO,Žan LAZNIK,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/85944/%C5%BDan-laznik,85944
+1736,SLO,Simon SKOK,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/55761/simon-skok,55761
+1736,SLO,Andraz KRAPEZ,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/98248/andraz-krapez,98248
+1736,POR,Duarte Nuno ANJO,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/64631/duarte-nuno-anjo,64631
+1736,POR,Goncalo PEREIRA,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/56420/goncalo-pereira,56420
+1736,POR,Miguel PINTO,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/77568/miguel-pinto,77568
+1736,POL,Marcin OCIEPA,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/78057/marcin-ociepa,78057
+1736,GER,Jan GOTTESMANN,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/94930/jan-gottesmann,94930
+1736,UZB,Suhrob KOSIMOV,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/70271/suhrob-kosimov,70271
+1736,SRB,Dragoslav PETROVIC,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/98798/dragoslav-petrovic,98798
+1736,BUL,Danail BALKANSKI,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/99441/danail-balkanski,99441
+1736,UZB,Artyom SAVATYUGIN,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/93127/artyom-savatyugin,93127
+1736,UZB,Alisher KHOLMIRZAEV,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/87108/alisher-kholmirzaev,87108
+1736,SLO,Martin ADLER,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/95215/martin-adler,95215
+1736,SLO,Matic IVANČIČ,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/80531/matic-ivan%C4%8Ci%C4%8C,80531
+1736,POR,Tiago VELOSO,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/73898/tiago-veloso,73898
+1736,EST,Mihkel TALTS,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/59737/mihkel-talts,59737
+1736,EST,Ronald ÜPRUS,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/99693/ronald-Ueprus,99693
+1736,ISL,Ólafur Örn GUDMUNDSSON,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/93155/olafur-Oern-gudmundsson,93155
+1736,FRA,David PHOMSOUPHA,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/90352/david-phomsoupha,90352
+1736,POR,Bruno CARVALHO,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/85224/bruno-carvalho,85224
+1736,POL,Maciej OCIEPA,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/97543/maciej-ociepa,97543
+1736,GRE,Aggelos KYRIAKOPOULOS,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/55093/aggelos-kyriakopoulos,55093
+1736,ISL,Heioar SIGURJONSSON,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/92416/heioar-sigurjonsson,92416
+1736,ISL,Tomas Bjorn GUDMUNDSSON,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/57479/tomas-bjorn-gudmundsson,57479
+1736,ISL,Egill GUDLAUGSSON,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/77202/egill-gudlaugsson,77202
+1736,ISL,Kristjan ADALSTEINSSON,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/71723/kristjan-adalsteinsson,71723
+1736,ISL,Ragnar HARDARSON,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/79006/ragnar-hardarson,79006
+1736,ISL,Einar OSKARSSON,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/54114/einar-oskarsson,54114
+1736,UKR,Mykola MARTYNENKO,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/34022/mykola-martynenko,34022
+1736,POR,BAIA Luis,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/27367/baia-luis,27367
+1736,POR,Ruben VIEIRA,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/33144/ruben-vieira,33144
+1736,POR,Goncalo SOUSA,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/25374/goncalo-sousa,25374
+1736,CRO,Juraj DENZIC,-240,0 - 0,0,40 / 1,https://bwfbadminton.com/player/93680/juraj-denzic,93680
+1736,CYP,Vasilis VASOU,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/51776/vasilis-vasou,51776
+1736,CRO,Dasen JARDAS,-169,0 - 0,0,40 / 1,https://bwfbadminton.com/player/99049/dasen-jardas,99049
+1736,SCO,Andrew GILLILAND,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/78542/andrew-gilliland,78542
+1736,GRE,Stefanos XANTHOPOULOS,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/37982/stefanos-xanthopoulos,37982
+1736,NOR,Flaten Jorgensen SONDRE,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/81311/flaten-jorgensen-sondre,81311
+1736,AUS,David JONES,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/8073/david-jones,8073
+1736,GER,Thomas LEGLEITNER,0,0 - 0,0,40 / 1,https://bwfbadminton.com/player/80217/thomas-legleitner,80217
+1736,CZE,Ondrej KOPRIVA,-792,0 - 0,0,40 / 1,https://bwfbadminton.com/player/54462/ondrej-kopriva,54462
+1736,FIN,Petri LEHTONEN,+15,0 - 0,0,40 / 1,https://bwfbadminton.com/player/47588/petri-lehtonen,47588
+1829,USA,Ben HUSSEY,+6,0 - 0,0,40 / 1,https://bwfbadminton.com/player/81882/ben-hussey,81882
+1830,IRL,Donall O’LEARY,+6,0 - 0,0,20 / 1,https://bwfbadminton.com/player/98724/donall-o%E2%80%99leary,98724
+1830,BEL,Flor SPANHOVE,+6,0 - 0,0,20 / 1,https://bwfbadminton.com/player/66726/flor-spanhove,66726
+1830,BEL,Stijn DE LANGHE,+6,0 - 0,0,20 / 1,https://bwfbadminton.com/player/66581/stijn-de-langhe,66581
+1830,SVK,Samuel REPIAR,+6,0 - 0,0,20 / 1,https://bwfbadminton.com/player/60575/samuel-repiar,60575
+1830,FRA,Fabien LANSAC,+6,0 - 0,0,20 / 1,https://bwfbadminton.com/player/62464/fabien-lansac,62464
+1830,CZE,Jiri LOUDA,+6,0 - 0,0,20 / 1,https://bwfbadminton.com/player/73326/jiri-louda,73326
+1830,SVK,Jan BALUCHA,+6,0 - 0,0,20 / 1,https://bwfbadminton.com/player/55998/jan-balucha,55998
+1830,AUT,Jakob WRABER,+6,0 - 0,0,20 / 1,https://bwfbadminton.com/player/57314/jakob-wraber,57314
+1830,LAT,Kristaps Janis GULBIS,+6,0 - 0,0,20 / 1,https://bwfbadminton.com/player/87249/kristaps-janis-gulbis,87249
+1830,SWE,Jonas Erik EMANUELSSON,+6,0 - 0,0,20 / 1,https://bwfbadminton.com/player/61313/jonas-erik-emanuelsson,61313
+1830,LAT,Kristaps PILVERIS,+6,0 - 0,0,20 / 1,https://bwfbadminton.com/player/53703/kristaps-pilveris,53703
+1830,LTU,Karolis EIMUTAITIS,+6,0 - 0,0,20 / 1,https://bwfbadminton.com/player/59413/karolis-eimutaitis,59413
+1830,LTU,Stanislovas GRINCEVICIUS,+6,0 - 0,0,20 / 1,https://bwfbadminton.com/player/84508/stanislovas-grincevicius,84508
+1830,LTU,Laimonas SILERIS,+6,0 - 0,0,20 / 1,https://bwfbadminton.com/player/98431/laimonas-sileris,98431
+1830,LTU,Jonas MALINAUSKAS,+6,0 - 0,0,20 / 1,https://bwfbadminton.com/player/94290/jonas-malinauskas,94290
+1830,POL,Aleksander JABLONSKI,+6,0 - 0,0,20 / 1,https://bwfbadminton.com/player/56225/aleksander-jablonski,56225
+1830,LTU,Lukas LITVINAS,+6,0 - 0,0,20 / 1,https://bwfbadminton.com/player/93995/lukas-litvinas,93995
+1830,LTU,Giedrius DIMA,+6,0 - 0,0,20 / 1,https://bwfbadminton.com/player/67755/giedrius-dima,67755
+1830,LTU,Renaldas SILERIS,+6,0 - 0,0,20 / 1,https://bwfbadminton.com/player/95965/renaldas-sileris,95965
+1830,LAT,Matiss DEKSNIS,+6,0 - 0,0,20 / 1,https://bwfbadminton.com/player/91688/matiss-deksnis,91688
+1830,IRL,James LOH,+6,0 - 0,0,20 / 1,https://bwfbadminton.com/player/88668/james-loh,88668
+1830,IRL,Mark BRADY,+6,0 - 0,0,20 / 1,https://bwfbadminton.com/player/61771/mark-brady,61771
+1830,SVK,Bohumil KASELA,+6,0 - 0,0,20 / 1,https://bwfbadminton.com/player/8253/bohumil-kasela,8253
+1830,CZE,Premysl VORAC,+6,0 - 0,0,20 / 1,https://bwfbadminton.com/player/77756/premysl-vorac,77756
+1830,SVK,Martin KOZAR,+6,0 - 0,0,20 / 1,https://bwfbadminton.com/player/53986/martin-kozar,53986
+1830,LTU,Marius SLAUSTAS,+6,0 - 0,0,20 / 1,https://bwfbadminton.com/player/67485/marius-slaustas,67485
+1830,LTU,Jonas KACERAUSKAS,+6,0 - 0,0,20 / 1,https://bwfbadminton.com/player/13903/jonas-kacerauskas,13903
+1830,LTU,Donatas NARVILAS,+6,0 - 0,0,20 / 1,https://bwfbadminton.com/player/8411/donatas-narvilas,8411
+1830,IRL,Adam JERMYN,+6,0 - 0,0,20 / 1,https://bwfbadminton.com/player/23195/adam-jermyn,23195
+1859,WAL,Oliver GWILT,+6,0 - 0,0,12 / 1,https://bwfbadminton.com/player/77053/oliver-gwilt,77053
+1860,SCO,Martin CAMPBELL,+6,0 - 0,0,8 / 1,https://bwfbadminton.com/player/42181/martin-campbell,42181
+1861,RUS,Ivan SOZONOV,+6,0 - 0,0,3 / 1,https://bwfbadminton.com/player/67068/ivan-sozonov,67068
+1862,DEN,Anders Skaarup RASMUSSEN,+6,0 - 0,0,1 / 1,https://bwfbadminton.com/player/44414/anders-skaarup-rasmussen,44414

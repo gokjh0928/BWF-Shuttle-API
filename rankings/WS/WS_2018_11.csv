@@ -1,0 +1,1332 @@
+rank,country/territory,player,change_+/-,win/lose,prize_money,points/tmts,link,member_id
+1,TPE,TAI Tzu Ying,0,289 - 128,"$751,855.00","89,259 / 14",https://bwfbadminton.com/player/61427/tai-tzu-ying,61427
+2,JPN,Akane YAMAGUCHI,0,216 - 72,"$496,045.00","83,631 / 17",https://bwfbadminton.com/player/96312/akane-yamaguchi,96312
+3,IND,PUSARLA V. Sindhu,+1,255 - 107,"$403,133.00","75,464 / 17",https://bwfbadminton.com/player/73173/pusarla-v-sindhu,73173
+4,THA,Ratchanok INTANON,-1,309 - 137,"$630,842.50","75,460 / 19",https://bwfbadminton.com/player/35642/ratchanok-intanon,35642
+5,ESP,Carolina MARIN,0,304 - 96,"$448,853.50","71,766 / 15",https://bwfbadminton.com/player/18228/carolina-marin,18228
+6,JPN,Nozomi OKUHARA,+1,207 - 70,"$355,028.00","67,247 / 13",https://bwfbadminton.com/player/96713/nozomi-okuhara,96713
+7,CHN,CHEN Yu Fei,+1,126 - 50,"$92,557.50","64,308 / 18",https://bwfbadminton.com/player/78778/chen-yu-fei,78778
+8,KOR,SUNG Jihyun,-2,325 - 161,"$587,172.50","63,975 / 19",https://bwfbadminton.com/player/76594/sung-jihyun,76594
+9,CHN,HE Bing Jiao,0,146 - 50,"$194,557.50","60,979 / 17",https://bwfbadminton.com/player/87434/he-bing-jiao,87434
+10,USA,Beiwen ZHANG,0,212 - 102,"$145,138.62","57,200 / 17",https://bwfbadminton.com/player/53806/beiwen-zhang,53806
+11,THA,Nitchaon JINDAPOL,+1,194 - 126,"$134,370.50","54,613 / 17",https://bwfbadminton.com/player/57971/nitchaon-jindapol,57971
+12,IND,Saina NEHWAL,-1,378 - 161,"$745,547.50","53,070 / 13",https://bwfbadminton.com/player/52748/saina-nehwal,52748
+13,JPN,Sayaka SATO,0,207 - 137,"$198,535.00","50,586 / 17",https://bwfbadminton.com/player/77317/sayaka-sato,77317
+14,JPN,Aya OHORI,+1,131 - 63,"$70,225.00","46,606 / 15",https://bwfbadminton.com/player/95189/aya-ohori,95189
+15,KOR,LEE Jang Mi,+1,99 - 49,"$34,935.00","45,834 / 17",https://bwfbadminton.com/player/84992/lee-jang-mi,84992
+16,CAN,Michelle LI,+1,257 - 110,"$80,862.00","43,650 / 22",https://bwfbadminton.com/player/84523/michelle-li,84523
+17,SCO,Kirsty GILMOUR,+1,214 - 101,"$62,475.50","43,597 / 17",https://bwfbadminton.com/player/48528/kirsty-gilmour,48528
+18,JPN,Saena KAWAKAMI,+3,80 - 25,"$51,137.50","43,190 / 10",https://bwfbadminton.com/player/61568/saena-kawakami,61568
+19,JPN,Sayaka TAKAHASHI,0,167 - 71,"$103,642.00","43,070 / 11",https://bwfbadminton.com/player/34890/sayaka-takahashi,34890
+20,TPE,PAI Yu Po,0,117 - 108,"$44,440.00","40,670 / 18",https://bwfbadminton.com/player/99925/pai-yu-po,99925
+21,CHN,SUN Yu,-7,148 - 59,"$237,080.00","40,661 / 7",https://bwfbadminton.com/player/92736/sun-yu,92736
+22,THA,Pornpawee CHOCHUWONG,0,148 - 72,"$30,290.50","39,132 / 17",https://bwfbadminton.com/player/84062/pornpawee-chochuwong,84062
+23,CHN,CHEN Xiao Xin,0,50 - 30,"$35,542.50","38,565 / 13",https://bwfbadminton.com/player/58637/chen-xiao-xin,58637
+24,THA,Busanan ONGBAMRUNGPHAN,0,182 - 116,"$113,962.50","36,824 / 15",https://bwfbadminton.com/player/58271/busanan-ongbamrungphan,58271
+25,RUS,Evgeniya KOSETSKAYA,0,137 - 83,"$18,775.50","36,669 / 19",https://bwfbadminton.com/player/92400/evgeniya-kosetskaya,92400
+26,TPE,LEE Chia Hsin,0,88 - 79,"$18,711.50","36,433 / 16",https://bwfbadminton.com/player/76717/lee-chia-hsin,76717
+27,MAS,Soniia CHEAH,+1,107 - 66,"$21,281.50","36,129 / 15",https://bwfbadminton.com/player/18143/soniia-cheah,18143
+28,HKG,CHEUNG Ngan Yi,-1,96 - 95,"$49,485.00","35,887 / 16",https://bwfbadminton.com/player/87709/cheung-ngan-yi,87709
+29,CHN,GAO Fang Jie,+7,46 - 20,"$45,780.00","35,558 / 7",https://bwfbadminton.com/player/78116/gao-fang-jie,78116
+30,ESP,Beatriz CORRALES,-1,256 - 126,"$42,858.00","35,173 / 17",https://bwfbadminton.com/player/95780/beatriz-corrales,95780
+31,MAS,GOH Jin Wei,0,121 - 44,"$28,604.25","34,557 / 12",https://bwfbadminton.com/player/69012/goh-jin-wei,69012
+32,KOR,KIM Hyo Min,0,120 - 74,"$38,738.00","34,460 / 14",https://bwfbadminton.com/player/91598/kim-hyo-min,91598
+33,DEN,Line Højmark KJAERSFELDT,0,160 - 112,"$31,328.75","33,812 / 17",https://bwfbadminton.com/player/63437/line-hojmark-kjaersfeldt,63437
+34,DEN,Mia BLICHFELDT,0,132 - 63,"$13,851.50","33,600 / 17",https://bwfbadminton.com/player/91224/mia-blichfeldt,91224
+35,HKG,YIP Pui Yin,-5,213 - 222,"$123,925.00","33,155 / 16",https://bwfbadminton.com/player/51649/yip-pui-yin,51649
+36,INA,Fitriani FITRIANI,+1,81 - 55,"$22,228.50","32,159 / 13",https://bwfbadminton.com/player/96892/fitriani-fitriani,96892
+37,DEN,Natalia Koch ROHDE,+1,113 - 58,"$13,453.25","31,219 / 16",https://bwfbadminton.com/player/78534/natalia-koch-rohde,78534
+38,JPN,Minatsu MITANI,-3,145 - 109,"$129,280.00","30,840 / 11",https://bwfbadminton.com/player/66644/minatsu-mitani,66644
+39,INA,Hanna RAMADINI,+1,116 - 69,"$18,845.50","30,473 / 12",https://bwfbadminton.com/player/97207/hanna-ramadini,97207
+40,TUR,Neslihan YIGIT,+7,225 - 89,"$19,589.75","29,484 / 13",https://bwfbadminton.com/player/87885/neslihan-yigit,87885
+41,JPN,Natsuki NIDAIRA,+2,88 - 28,"$12,315.00","29,170 / 10",https://bwfbadminton.com/player/91896/natsuki-nidaira,91896
+42,TPE,CHIANG Ying Li,0,67 - 73,"$13,172.50","29,001 / 17",https://bwfbadminton.com/player/27588/chiang-ying-li,27588
+43,BUL,Linda ZETCHIRI,-2,327 - 211,"$44,472.90","28,673 / 10",https://bwfbadminton.com/player/15105/linda-zetchiri,15105
+44,MAS,LEE Ying Ying,+1,107 - 59,"$9,136.70","28,570 / 12",https://bwfbadminton.com/player/64889/lee-ying-ying,64889
+45,JPN,Haruko SUZUKI,-6,27 - 17,"$8,078.75","28,560 / 11",https://bwfbadminton.com/player/81880/haruko-suzuki,81880
+46,CAN,Rachel HONDERICH,+8,67 - 43,"$4,052.50","28,447 / 10",https://bwfbadminton.com/player/95664/rachel-honderich,95664
+47,TPE,CHEN Su Yu,+1,47 - 44,"$5,877.25","27,940 / 12",https://bwfbadminton.com/player/71673/chen-su-yu,71673
+48,VIE,Thi Trang (B) VU,+1,120 - 86,"$19,194.00","27,832 / 13",https://bwfbadminton.com/player/71455/thi-trang-b-vu,71455
+49,INA,Gregoria Mariska TUNJUNG,+1,103 - 41,"$15,523.75","27,577 / 12",https://bwfbadminton.com/player/83802/gregoria-mariska-tunjung,83802
+50,CAN,Brittney TAM,+2,44 - 31,"$1,817.50","27,353 / 12",https://bwfbadminton.com/player/97087/brittney-tam,97087
+51,DEN,Mette POULSEN,-5,128 - 83,"$16,655.25","27,340 / 14",https://bwfbadminton.com/player/43761/mette-poulsen,43761
+52,TPE,SUNG Shuo Yun,-1,75 - 67,"$6,340.00","25,887 / 18",https://bwfbadminton.com/player/88807/sung-shuo-yun,88807
+53,DEN,Sofie Holmboe DAHL,0,91 - 55,"$6,735.50","25,090 / 16",https://bwfbadminton.com/player/82707/sofie-holmboe-dahl,82707
+54,INA,Dinar Dyah AYUSTINE,-10,75 - 58,"$14,568.00","24,760 / 9",https://bwfbadminton.com/player/61665/dinar-dyah-ayustine,61665
+55,IND,GADDE Ruthvika Shivani,0,103 - 43,"$11,306.50","24,226 / 10",https://bwfbadminton.com/player/69619/gadde-ruthvika-shivani,69619
+56,GER,Luise HEIM,0,109 - 76,"$3,317.50","23,406 / 15",https://bwfbadminton.com/player/67857/luise-heim,67857
+57,DEN,Julie Dawall JAKOBSEN,+1,127 - 44,"$6,568.00","23,026 / 13",https://bwfbadminton.com/player/77002/julie-dawall-jakobsen,77002
+58,MAS,HO Yen Mei,+1,88 - 69,"$7,445.00","22,360 / 11",https://bwfbadminton.com/player/87629/ho-yen-mei,87629
+59,RUS,Natalia PERMINOVA,+1,146 - 137,"$11,902.00","22,355 / 16",https://bwfbadminton.com/player/78605/natalia-perminova,78605
+60,INA,Lyanny Alessandra MAINAKY,+7,27 - 51,"$8,565.00","22,050 / 16",https://bwfbadminton.com/player/64558/lyanny-alessandra-mainaky,64558
+61,FRA,Delphine LANSAC,-4,145 - 81,"$4,249.40","22,010 / 14",https://bwfbadminton.com/player/79056/delphine-lansac,79056
+62,ENG,Chloe BIRCH,+1,83 - 74,"$3,012.50","21,981 / 19",https://bwfbadminton.com/player/50715/chloe-birch,50715
+63,IND,Sri Krishna Priya KUDARAVALLI,+1,29 - 34,"$3,042.25","21,921 / 14",https://bwfbadminton.com/player/88809/sri-krishna-priya-kudaravalli,88809
+64,IND,Vaishnavi Reddy JAKKA,+5,71 - 27,"$1,690.50","21,860 / 17",https://bwfbadminton.com/player/87723/vaishnavi-reddy-jakka,87723
+65,JPN,Shiori SAITO,0,33 - 14,"$5,072.00","21,820 / 11",https://bwfbadminton.com/player/77278/shiori-saito,77278
+66,BUL,Mariya MITSOVA,0,122 - 76,"$2,287.50","21,601 / 15",https://bwfbadminton.com/player/57906/mariya-mitsova,57906
+67,MRI,Kate FOO KUNE,-6,162 - 101,"$6,081.25","21,394 / 17",https://bwfbadminton.com/player/42679/kate-foo-kune,42679
+68,VIE,Thuy Linh NGUYEN,0,63 - 37,"$3,929.00","21,290 / 10",https://bwfbadminton.com/player/75678/thuy-linh-nguyen,75678
+69,USA,Jamie SUBANDHI,+12,87 - 87,"$5,128.75","20,538 / 11",https://bwfbadminton.com/player/52771/jamie-subandhi,52771
+70,MAS,KISONA Selvaduray,0,45 - 28,"$3,380.00","20,379 / 9",https://bwfbadminton.com/player/92014/kisona-selvaduray,92014
+71,INA,Ruselli HARTAWAN,0,88 - 58,"$10,628.75","20,189 / 10",https://bwfbadminton.com/player/81986/ruselli-hartawan,81986
+72,PER,Daniela MACIAS,0,111 - 72,"$3,143.75","20,069 / 11",https://bwfbadminton.com/player/71252/daniela-macias,71252
+73,ISR,Ksenia POLIKARPOVA,0,134 - 123,"$12,631.60","20,000 / 10",https://bwfbadminton.com/player/67069/ksenia-polikarpova,67069
+74,AUS,Hsuan-Yu Wendy CHEN,0,50 - 47,"$2,139.25","19,823 / 10",https://bwfbadminton.com/player/40545/hsuan-yu-wendy-chen,40545
+75,INA,Yulia Yosephine SUSANTO,0,50 - 61,"$4,215.00","19,740 / 9",https://bwfbadminton.com/player/67996/yulia-yosephine-susanto,67996
+76,UKR,Maria ULITINA,0,158 - 100,"$10,154.50","19,499 / 11",https://bwfbadminton.com/player/76349/maria-ulitina,76349
+77,NED,Soraya DE VISCH EIJBERGEN,0,131 - 79,"$7,020.00","19,410 / 10",https://bwfbadminton.com/player/93419/soraya-de-visch-eijbergen,93419
+78,FRA,QI Xuefei,+15,37 - 7,"$2,342.00","19,120 / 10",https://bwfbadminton.com/player/77256/qi-xuefei,77256
+79,SUI,Sabrina JAQUET,+15,196 - 165,"$17,255.95","18,930 / 6",https://bwfbadminton.com/player/54068/sabrina-jaquet,54068
+80,ESP,Clara AZURMENDI,0,146 - 72,"$2,172.75","18,540 / 13",https://bwfbadminton.com/player/74218/clara-azurmendi,74218
+81,GER,Fabienne DEPREZ,-19,148 - 113,"$6,291.00","18,394 / 13",https://bwfbadminton.com/player/21854/fabienne-deprez,21854
+82,MAS,LIM Yin Fun,0,79 - 76,"$3,061.50","18,178 / 10",https://bwfbadminton.com/player/62867/lim-yin-fun,62867
+83,SGP,YEO Jia Min,0,107 - 44,"$9,737.50","17,955 / 7",https://bwfbadminton.com/player/83822/yeo-jia-min,83822
+84,NED,Gayle MAHULETTE,0,63 - 73,"$2,170.00","17,810 / 17",https://bwfbadminton.com/player/89454/gayle-mahulette,89454
+85,DEN,Irina Amalie ANDERSEN,+4,97 - 59,"$2,557.00","17,760 / 15",https://bwfbadminton.com/player/96276/irina-amalie-andersen,96276
+86,IND,Rituparna DAS,-1,70 - 39,"$6,355.75","17,760 / 9",https://bwfbadminton.com/player/67864/rituparna-das,67864
+87,IND,Sai Uttejitha Rao CHUKKA,-1,9 - 26,"$1,006.25","17,500 / 11",https://bwfbadminton.com/player/93187/sai-uttejitha-rao-chukka,93187
+88,THA,Phittayaporn CHAIWAN,0,119 - 32,"$3,188.75","17,480 / 7",https://bwfbadminton.com/player/62301/phittayaporn-chaiwan,62301
+89,GER,Yvonne LI,+1,120 - 62,"$2,590.00","17,236 / 15",https://bwfbadminton.com/player/91106/yvonne-li,91106
+90,TUR,Aliye DEMIRBAG,+1,113 - 42,"$1,654.00","17,163 / 11",https://bwfbadminton.com/player/98643/aliye-demirbag,98643
+91,IND,Saili RANE,-4,85 - 60,"$6,598.75","17,030 / 12",https://bwfbadminton.com/player/56471/saili-rane,56471
+92,SVK,Martina REPISKA,0,98 - 86,"$1,980.00","17,017 / 13",https://bwfbadminton.com/player/75188/martina-repiska,75188
+93,USA,Jamie HSU,+10,44 - 14,"$1,705.00","17,012 / 9",https://bwfbadminton.com/player/79853/jamie-hsu,79853
+94,ENG,Fontaine Mica WRIGHT,-15,121 - 109,"$3,355.40","16,630 / 10",https://bwfbadminton.com/player/55536/fontaine-mica-wright,55536
+95,SUI,Ayla HUSER,+6,76 - 97,$960.00,"16,260 / 15",https://bwfbadminton.com/player/92691/ayla-huser,92691
+96,CHN,CAI Yan Yan,-1,28 - 12,"$15,645.00","16,230 / 4",https://bwfbadminton.com/player/89700/cai-yan-yan,89700
+97,IND,Rasika RAJE,-1,20 - 29,"$1,661.00","15,920 / 11",https://bwfbadminton.com/player/59370/rasika-raje,59370
+98,THA,Thamolwan POOPRADUBSIL,-1,59 - 32,"$3,310.00","15,900 / 8",https://bwfbadminton.com/player/86511/thamolwan-poopradubsil,86511
+99,NGR,Dorcas Ajoke ADESOKAN,-1,54 - 19,$700.00,"15,798 / 9",https://bwfbadminton.com/player/73121/dorcas-ajoke-adesokan,73121
+100,BLR,Alesia ZAITSAVA,-1,176 - 146,"$1,882.00","15,470 / 15",https://bwfbadminton.com/player/52294/alesia-zaitsava,52294
+101,UKR,Natalya VOYTSEKH,-1,99 - 85,"$2,660.00","14,987 / 12",https://bwfbadminton.com/player/76910/natalya-voytsekh,76910
+102,SGP,CHUA Hui Zhen Grace,0,39 - 54,"$1,986.50","14,874 / 20",https://bwfbadminton.com/player/81033/chua-hui-zhen-grace,81033
+103,TPE,HSU Ya Ching,-25,103 - 106,"$40,732.50","14,800 / 5",https://bwfbadminton.com/player/74561/hsu-ya-ching,74561
+104,CHN,HAN Yue,0,34 - 13,"$6,230.00","14,740 / 4",https://bwfbadminton.com/player/92967/han-yue,92967
+105,IND,Mugdha AGREY,0,16 - 20,"$3,144.25","14,610 / 8",https://bwfbadminton.com/player/56940/mugdha-agrey,56940
+106,UGA,Aisha NAKIYEMBA,0,26 - 30,$880.00,"14,465 / 11",https://bwfbadminton.com/player/66881/aisha-nakiyemba,66881
+107,CHN,ZHANG Yi Man,0,21 - 19,"$7,707.50","14,130 / 4",https://bwfbadminton.com/player/58720/zhang-yi-man,58720
+108,IND,Anura PRABHUDESAI,0,22 - 26,$350.00,"14,080 / 12",https://bwfbadminton.com/player/76882/anura-prabhudesai,76882
+109,EST,Kristin KUUBA,0,98 - 73,$940.00,"14,006 / 18",https://bwfbadminton.com/player/73015/kristin-kuuba,73015
+110,MAS,THINAAH Muralitharan,0,53 - 27,"$2,393.00","13,980 / 8",https://bwfbadminton.com/player/68628/thinaah-muralitharan,68628
+111,HUN,Agnes KOROSI,0,52 - 67,0,"13,920 / 21",https://bwfbadminton.com/player/74051/agnes-korosi,74051
+112,INA,Rusydina Antardayu RIODINGIN,0,51 - 49,"$2,066.25","13,360 / 13",https://bwfbadminton.com/player/74525/rusydina-antardayu-riodingin,74525
+113,BEL,Lianne TAN,+2,173 - 157,"$10,470.50","13,240 / 14",https://bwfbadminton.com/player/55318/lianne-tan,55318
+114,IND,Vrushali GUMMADI,-1,27 - 25,$938.75,"13,100 / 8",https://bwfbadminton.com/player/67568/vrushali-gummadi,67568
+115,INA,Jesica MULJATI,-1,16 - 32,$48.00,"13,050 / 10",https://bwfbadminton.com/player/93338/jesica-muljati,93338
+116,DEN,Anna Thea MADSEN,+22,167 - 60,"$13,227.75","12,800 / 5",https://bwfbadminton.com/player/50331/anna-thea-madsen,50331
+117,CZE,Katerina TOMALOVA,-1,91 - 108,$580.00,"12,775 / 17",https://bwfbadminton.com/player/81794/katerina-tomalova,81794
+118,PER,Fernanda SAPONARA RIVVA,-1,38 - 20,$800.00,"12,760 / 8",https://bwfbadminton.com/player/88063/fernanda-saponara-rivva,88063
+119,AUS,Jennifer TAM,-1,46 - 47,$349.50,"12,733 / 10",https://bwfbadminton.com/player/57665/jennifer-tam,57665
+120,KOR,JEON Jui,-1,34 - 19,"$1,662.50","12,730 / 7",https://bwfbadminton.com/player/57813/jeon-jui,57813
+121,TPE,HU Ling Fang,-1,30 - 40,$913.75,"12,680 / 10",https://bwfbadminton.com/player/87176/hu-ling-fang,87176
+122,CUB,Taymara OROPESA PUPO,-1,26 - 18,$880.00,"12,600 / 7",https://bwfbadminton.com/player/98960/taymara-oropesa-pupo,98960
+123,IND,VAIDEHI CHOUDHARI,0,19 - 12,"$1,149.00","12,390 / 7",https://bwfbadminton.com/player/87945/vaidehi-choudhari,87945
+124,KOR,LEE Se Yeon,0,55 - 29,"$2,470.00","12,370 / 5",https://bwfbadminton.com/player/95820/lee-se-yeon,95820
+125,POL,Jordan HART,0,51 - 50,$867.50,"12,220 / 15",https://bwfbadminton.com/player/94806/jordan-hart,94806
+126,EGY,Hadia HOSNY,0,146 - 127,"$3,567.75","12,187 / 10",https://bwfbadminton.com/player/52901/hadia-hosny,52901
+127,JPN,Yui HASHIMOTO,0,114 - 65,"$75,270.50","12,060 / 5",https://bwfbadminton.com/player/43256/yui-hashimoto,43256
+128,ENG,Georgina BLAND,0,60 - 75,0,"11,840 / 15",https://bwfbadminton.com/player/87660/georgina-bland,87660
+129,TPE,TANG Wan Yi,0,30 - 37,"$2,105.00","11,810 / 7",https://bwfbadminton.com/player/78755/tang-wan-yi,78755
+130,THA,Chananchida JUCHAROEN,0,48 - 33,$666.25,"11,730 / 9",https://bwfbadminton.com/player/83013/chananchida-jucharoen,83013
+131,IND,Reshma KARTHIK,0,27 - 32,$206.50,"11,720 / 8",https://bwfbadminton.com/player/59536/reshma-karthik,59536
+132,EST,Getter SAAR,0,61 - 87,$227.50,"11,635 / 14",https://bwfbadminton.com/player/86222/getter-saar,86222
+133,PER,Paula LA TORRE REGAL,0,21 - 23,$320.00,"11,580 / 9",https://bwfbadminton.com/player/95819/paula-la-torre-regal,95819
+134,MEX,Mariana UGALDE,+6,65 - 62,"$1,495.00","11,480 / 8",https://bwfbadminton.com/player/61244/mariana-ugalde,61244
+135,INA,Asty Dwi WIDYANINGRUM,-1,43 - 23,"$1,886.75","11,450 / 6",https://bwfbadminton.com/player/74788/asty-dwi-widyaningrum,74788
+136,FIN,Airi MIKKELA,-14,105 - 100,"$7,442.50","11,350 / 9",https://bwfbadminton.com/player/55770/airi-mikkela,55770
+137,TPE,LIN Hsiang Ti,+11,33 - 15,$234.00,"11,280 / 9",https://bwfbadminton.com/player/96725/lin-hsiang-ti,96725
+138,USA,Disha GUPTA,-3,12 - 21,$233.75,"11,260 / 8",https://bwfbadminton.com/player/59692/disha-gupta,59692
+139,THA,Manassanan LERTHATTASIN,-3,50 - 18,$918.50,"10,970 / 8",https://bwfbadminton.com/player/74153/manassanan-lerthattasin,74153
+140,POR,Sonia GONCALVES,-3,27 - 58,$300.00,"10,681 / 15",https://bwfbadminton.com/player/72489/sonia-goncalves,72489
+141,JPN,Asuka TAKAHASHI,-2,29 - 16,"$1,577.50","10,630 / 6",https://bwfbadminton.com/player/94712/asuka-takahashi,94712
+142,RUS,Ksenia EVGENOVA,-1,61 - 48,$192.50,"10,541 / 12",https://bwfbadminton.com/player/64352/ksenia-evgenova,64352
+143,THA,Sarita SUWANNAKITBORIHAN,0,63 - 46,"$2,472.50","10,440 / 7",https://bwfbadminton.com/player/87513/sarita-suwannakitborihan,87513
+144,KOR,KIM Gaeun,0,60 - 21,"$7,750.00","10,260 / 5",https://bwfbadminton.com/player/70930/kim-gaeun,70930
+145,AUS,Louisa MA,0,27 - 20,$95.50,"10,231 / 4",https://bwfbadminton.com/player/73559/louisa-ma,73559
+146,CZE,Zuzana PAVELKOVA,0,72 - 145,$617.50,"10,217 / 18",https://bwfbadminton.com/player/34229/zuzana-pavelkova,34229
+147,ESP,Sara PEÑALVER,-5,79 - 37,0,"10,112 / 11",https://bwfbadminton.com/player/76747/sara-pe%C3%91alver,76747
+148,EGY,Doha HANY,-1,57 - 40,$161.25,"10,085 / 8",https://bwfbadminton.com/player/61746/doha-hany,61746
+149,MAS,YAP Rui Chen,+1,38 - 37,"$2,979.75","9,760 / 7",https://bwfbadminton.com/player/97932/yap-rui-chen,97932
+150,UKR,Maryna ILYINSKAYA,+2,72 - 43,0,"9,706 / 11",https://bwfbadminton.com/player/64424/maryna-ilyinskaya,64424
+151,JPN,Natsumi SHIMODA,+2,11 - 5,"$4,520.00","9,670 / 3",https://bwfbadminton.com/player/97921/natsumi-shimoda,97921
+152,TUR,Ozge BAYRAK,+2,167 - 89,"$9,950.00","9,610 / 6",https://bwfbadminton.com/player/94762/ozge-bayrak,94762
+153,CHN,WANG Zhi Yi,+2,25 - 7,"$4,060.00","9,610 / 4",https://bwfbadminton.com/player/61854/wang-zhi-yi,61854
+154,SUI,Cendrine HANTZ,-5,34 - 55,0,"9,590 / 10",https://bwfbadminton.com/player/74309/cendrine-hantz,74309
+155,IND,Riya MOOKERJEE,+1,19 - 17,$788.00,"9,590 / 7",https://bwfbadminton.com/player/76459/riya-mookerjee,76459
+156,DOM,Nairoby Abigail JIMENEZ,+1,31 - 21,$540.00,"9,590 / 6",https://bwfbadminton.com/player/71061/nairoby-abigail-jimenez,71061
+157,DEN,Amalie HERTZ,+5,37 - 25,0,"9,550 / 9",https://bwfbadminton.com/player/70495/amalie-hertz,70495
+158,IND,Shikha GAUTAM,0,21 - 13,$531.50,"9,480 / 7",https://bwfbadminton.com/player/77808/shikha-gautam,77808
+159,SUI,Ronja STERN,0,64 - 39,$390.00,"9,460 / 9",https://bwfbadminton.com/player/81056/ronja-stern,81056
+160,CHN,LI Wen Mei,0,14 - 12,"$2,740.00","9,300 / 4",https://bwfbadminton.com/player/78837/li-wen-mei,78837
+161,THA,Nuntakarn AIMSAARD,0,37 - 23,$253.50,"9,290 / 7",https://bwfbadminton.com/player/79198/nuntakarn-aimsaard,79198
+162,FRA,Marie BATOMENE,+2,73 - 51,$300.00,"9,286 / 11",https://bwfbadminton.com/player/94743/marie-batomene,94743
+163,IND,IRA SHARMA,+2,21 - 19,$843.00,"9,280 / 8",https://bwfbadminton.com/player/83856/ira-sharma,83856
+164,ALG,Linda MAZRI,-1,32 - 23,$260.00,"9,134 / 8",https://bwfbadminton.com/player/59922/linda-mazri,59922
+165,IND,Tanvi LAD,+1,66 - 73,"$9,908.00","9,020 / 4",https://bwfbadminton.com/player/66615/tanvi-lad,66615
+166,KOR,KIM Na Yeong,+1,44 - 26,"$8,630.00","9,010 / 4",https://bwfbadminton.com/player/60908/kim-na-yeong,60908
+167,USA,Jennie GAI,+14,24 - 12,$720.00,"8,982 / 7",https://bwfbadminton.com/player/83074/jennie-gai,83074
+168,EST,Kati-Kreet MARRAN,+1,43 - 60,0,"8,890 / 14",https://bwfbadminton.com/player/66267/kati-kreet-marran,66267
+169,ZAM,Ogar SIAMUPANGILA,+1,51 - 49,$951.25,"8,887 / 6",https://bwfbadminton.com/player/51665/ogar-siamupangila,51665
+170,GUA,Nikte Alejandra SOTOMAYOR,+1,65 - 54,"$1,417.50","8,860 / 6",https://bwfbadminton.com/player/17774/nikte-alejandra-sotomayor,17774
+171,USA,Isabel ZHONG,+1,11 - 8,$705.00,"8,800 / 5",https://bwfbadminton.com/player/52636/isabel-zhong,52636
+172,CHN,JI Shu Ting,+1,11 - 8,"$5,625.00","8,770 / 2",https://bwfbadminton.com/player/79753/ji-shu-ting,79753
+173,THA,Mattana HEMRACHATANUN,+1,17 - 9,$496.00,"8,760 / 5",https://bwfbadminton.com/player/76682/mattana-hemrachatanun,76682
+174,GUA,Alejandra Jose PAIZ QUAN,+1,13 - 24,$120.00,"8,750 / 7",https://bwfbadminton.com/player/96554/alejandra-jose-paiz-quan,96554
+175,INA,Gabriela Meilani MONINGKA,+1,25 - 28,"$1,260.00","8,650 / 6",https://bwfbadminton.com/player/80425/gabriela-meilani-moningka,80425
+176,FRA,Yaelle HOYAUX,-8,79 - 67,0,"8,543 / 12",https://bwfbadminton.com/player/82409/yaelle-hoyaux,82409
+177,CZE,Tereza ŠVÁBÍKOVÁ,0,95 - 58,0,"8,541 / 11",https://bwfbadminton.com/player/60397/tereza-%C5%A0vabikova,60397
+178,FRA,Manon KRIEGER,+1,27 - 39,$320.00,"8,490 / 12",https://bwfbadminton.com/player/89836/manon-krieger,89836
+179,ALG,Halla BOUKSANI,-1,51 - 22,0,"8,405 / 9",https://bwfbadminton.com/player/64063/halla-bouksani,64063
+180,BLR,Anastasiya CHERNIAVSKAYA,+4,29 - 65,0,"8,211 / 13",https://bwfbadminton.com/player/94400/anastasiya-cherniavskaya,94400
+181,TPE,HUNG Yi-Ting,-1,8 - 12,$858.50,"8,070 / 6",https://bwfbadminton.com/player/80795/hung-yi-ting,80795
+182,MEX,Yaqueline DUARTE,+18,23 - 16,0,"8,040 / 8",https://bwfbadminton.com/player/82210/yaqueline-duarte,82210
+183,TPE,CHEN Hsiao Huan,-1,76 - 87,"$9,247.50","8,040 / 4",https://bwfbadminton.com/player/51518/chen-hsiao-huan,51518
+184,FRA,Katia NORMAND,-1,40 - 46,0,"8,033 / 15",https://bwfbadminton.com/player/55629/katia-normand,55629
+185,NZL,Sally FU,0,32 - 24,$93.50,"8,000 / 6",https://bwfbadminton.com/player/88713/sally-fu,88713
+186,PER,Ines Lucia CASTILLO SALAZAR,0,17 - 22,0,"7,979 / 9",https://bwfbadminton.com/player/79258/ines-lucia-castillo-salazar,79258
+187,USA,Crystal PAN,+15,37 - 29,$896.25,"7,970 / 7",https://bwfbadminton.com/player/99017/crystal-pan,99017
+188,IRL,Rachael DARRAGH,+4,49 - 51,0,"7,969 / 11",https://bwfbadminton.com/player/80889/rachael-darragh,80889
+189,MAS,YAP Yee,-38,32 - 19,$87.50,"7,960 / 8",https://bwfbadminton.com/player/75832/yap-yee,75832
+190,INA,Sri FATMAWATI,-3,28 - 19,"$2,075.50","7,950 / 6",https://bwfbadminton.com/player/55717/sri-fatmawati,55717
+191,INA,Febby ANGGUNI,-3,102 - 60,"$15,450.87","7,690 / 6",https://bwfbadminton.com/player/66963/febby-angguni,66963
+192,GUA,Diana CORLETO SOTO,-3,17 - 23,0,"7,653 / 7",https://bwfbadminton.com/player/56401/diana-corleto-soto,56401
+193,EST,Helina RÜÜTEL,-3,36 - 47,$468.00,"7,560 / 15",https://bwfbadminton.com/player/75821/helina-rUeUetel,75821
+194,TPE,PENG Li Ting,-3,6 - 12,$595.00,"7,510 / 6",https://bwfbadminton.com/player/70347/peng-li-ting,70347
+195,TPE,LIN Ying Chun,-2,46 - 41,"$2,908.25","7,290 / 8",https://bwfbadminton.com/player/57244/lin-ying-chun,57244
+196,RUS,Olga ARKHANGELSKAYA,-2,178 - 111,"$8,644.40","7,270 / 7",https://bwfbadminton.com/player/8558/olga-arkhangelskaya,8558
+197,DOM,Bermary Altagracia POLANCO MUNOZ,-2,33 - 24,$160.00,"7,250 / 5",https://bwfbadminton.com/player/72946/bermary-altagracia-polanco-munoz,72946
+197,RUS,Victoria SLOBODYANYUK,-2,78 - 78,"$1,552.60","7,250 / 5",https://bwfbadminton.com/player/67073/victoria-slobodyanyuk,67073
+199,UGA,Bridget Shamim BANGI,-2,71 - 48,"$1,075.00","7,240 / 5",https://bwfbadminton.com/player/83532/bridget-shamim-bangi,83532
+200,TPE,HUNG En-Tzu,-2,22 - 10,$676.00,"7,200 / 6",https://bwfbadminton.com/player/62639/hung-en-tzu,62639
+201,TPE,LIANG Ting Yu,-2,21 - 22,$370.00,"7,140 / 5",https://bwfbadminton.com/player/93852/liang-ting-yu,93852
+202,RUS,Elizaveta PYATINA,-1,70 - 50,$557.50,"7,090 / 8",https://bwfbadminton.com/player/81552/elizaveta-pyatina,81552
+203,HUN,Laura SAROSI,0,117 - 78,"$5,060.00","7,030 / 6",https://bwfbadminton.com/player/34899/laura-sarosi,34899
+204,TPE,CHANG Ya Lan,+28,42 - 62,"$6,480.00","7,010 / 8",https://bwfbadminton.com/player/14865/chang-ya-lan,14865
+205,DEN,Line CHRISTOPHERSEN,-1,47 - 14,0,"6,970 / 3",https://bwfbadminton.com/player/85302/line-christophersen,85302
+206,ENG,Grace KING,-1,38 - 31,0,"6,964 / 9",https://bwfbadminton.com/player/60246/grace-king,60246
+207,JPN,Ayumi MINE,-1,86 - 46,"$20,108.50","6,960 / 5",https://bwfbadminton.com/player/69082/ayumi-mine,69082
+208,AUS,Joy LAI,-1,73 - 68,$551.50,"6,873 / 2",https://bwfbadminton.com/player/91611/joy-lai,91611
+209,GUA,Mariana Isabel PAIZ QUAN,0,16 - 21,0,"6,804 / 6",https://bwfbadminton.com/player/76901/mariana-isabel-paiz-quan,76901
+210,RUS,Anastasiia SEMENOVA,0,58 - 35,$330.00,"6,780 / 9",https://bwfbadminton.com/player/73195/anastasiia-semenova,73195
+211,UKR,Anna MIKHALKOVA,0,43 - 36,0,"6,730 / 10",https://bwfbadminton.com/player/59810/anna-mikhalkova,59810
+212,CHN,HUI Xirui,0,38 - 20,"$19,200.00","6,720 / 2",https://bwfbadminton.com/player/76601/hui-xirui,76601
+213,PER,Daniela ZAPATA,0,15 - 23,$166.25,"6,707 / 5",https://bwfbadminton.com/player/63012/daniela-zapata,63012
+214,IND,Shruti MUNDADA,0,17 - 17,$133.00,"6,700 / 7",https://bwfbadminton.com/player/82685/shruti-mundada,82685
+215,MEX,Haramara GAITAN,0,73 - 56,"$2,845.00","6,610 / 4",https://bwfbadminton.com/player/85514/haramara-gaitan,85514
+216,CHN,WEI Ya Xin,0,17 - 8,"$1,420.00","6,570 / 2",https://bwfbadminton.com/player/57246/wei-ya-xin,57246
+217,NGR,Uchechukwu Deborah UKEH,0,10 - 8,0,"6,552 / 5",https://bwfbadminton.com/player/69682/uchechukwu-deborah-ukeh,69682
+218,DEN,Iben BERGSTEIN,+15,32 - 27,$409.50,"6,430 / 9",https://bwfbadminton.com/player/76370/iben-bergstein,76370
+219,EGY,Jana ASHRAF,-1,24 - 15,0,"6,404 / 8",https://bwfbadminton.com/player/63656/jana-ashraf,63656
+220,NGR,Grace GABRIEL,0,130 - 87,"$5,960.00","6,390 / 8",https://bwfbadminton.com/player/80210/grace-gabriel,80210
+221,THA,Supanida KATETHONG,0,63 - 37,"$6,705.00","6,380 / 6",https://bwfbadminton.com/player/91422/supanida-katethong,91422
+222,SWE,Ashwathi PILLAI,0,35 - 29,0,"6,378 / 11",https://bwfbadminton.com/player/81068/ashwathi-pillai,81068
+223,NGR,Zainab MOMOH,0,7 - 10,$122.50,"6,369 / 6",https://bwfbadminton.com/player/63462/zainab-momoh,63462
+224,TPE,LIN Sih Yun,0,29 - 12,$232.00,"6,300 / 5",https://bwfbadminton.com/player/88079/lin-sih-yun,88079
+225,HUN,Daniella GONDA,0,51 - 65,$160.00,"6,221 / 12",https://bwfbadminton.com/player/98804/daniella-gonda,98804
+226,MRI,Aurelie Marie Elisa ALLET,0,20 - 20,0,"6,202 / 6",https://bwfbadminton.com/player/84390/aurelie-marie-elisa-allet,84390
+227,KOR,Hyang Im KIM,0,25 - 16,"$5,140.00","6,190 / 4",https://bwfbadminton.com/player/81749/hyang-im-kim,81749
+228,THA,Chasinee KOREPAP,0,59 - 27,$209.50,"6,160 / 6",https://bwfbadminton.com/player/71801/chasinee-korepap,71801
+229,LTU,Gerda VOITECHOVSKAJA,+5,22 - 48,$540.00,"6,130 / 10",https://bwfbadminton.com/player/53814/gerda-voitechovskaja,53814
+230,CRO,Maja PAVLINIC,-1,110 - 55,0,"6,130 / 7",https://bwfbadminton.com/player/87268/maja-pavlinic,87268
+231,INA,Ghaida Nurul GHANIYU,-1,20 - 24,$153.00,"6,100 / 5",https://bwfbadminton.com/player/88318/ghaida-nurul-ghaniyu,88318
+232,DEN,Michelle SKØDSTRUP,-1,29 - 9,"$1,550.00","6,100 / 4",https://bwfbadminton.com/player/84113/michelle-sk%C3%98dstrup,84113
+233,VIE,Thi Phuong Thuy TRAN,+2,13 - 17,$258.50,"6,030 / 5",https://bwfbadminton.com/player/73814/thi-phuong-thuy-tran,73814
+234,LTU,Vytaute FOMKINAITE,+7,21 - 48,0,"5,966 / 10",https://bwfbadminton.com/player/72367/vytaute-fomkinaite,72367
+235,BLR,Kristina SILICH,-16,14 - 32,0,"5,940 / 9",https://bwfbadminton.com/player/63639/kristina-silich,63639
+236,TUR,Busra YALÇINKAYA,0,36 - 27,0,"5,920 / 6",https://bwfbadminton.com/player/69847/busra-yal%C3%87inkaya,69847
+237,IRI,Soraya AGHAEIHAJIAGHA,0,44 - 41,$792.00,"5,820 / 4",https://bwfbadminton.com/player/45380/soraya-aghaeihajiagha,45380
+238,TPE,HSIEH Yu Ying,0,44 - 14,$400.00,"5,790 / 4",https://bwfbadminton.com/player/76780/hsieh-yu-ying,76780
+239,THA,Benyapa AIMSAARD,0,32 - 23,$332.00,"5,760 / 6",https://bwfbadminton.com/player/80871/benyapa-aimsaard,80871
+240,IND,AAKARSHI KASHYAP,0,32 - 20,"$1,706.25","5,760 / 4",https://bwfbadminton.com/player/80402/aakarshi-kashyap,80402
+241,HKG,DENG Joy Xuan,+1,10 - 1,0,"5,720 / 3",https://bwfbadminton.com/player/77627/deng-joy-xuan,77627
+242,IND,Eshita RAJU. K,+2,19 - 16,$120.00,"5,680 / 6",https://bwfbadminton.com/player/77439/eshita-raju-k,77439
+242,USA,Ariel LEE,+25,3 - 13,0,"5,680 / 6",https://bwfbadminton.com/player/59441/ariel-lee,59441
+244,JPN,Mako URUSHIZAKI,+1,15 - 5,"$1,751.25","5,600 / 2",https://bwfbadminton.com/player/56963/mako-urushizaki,56963
+245,TUR,Cemre FERE,+1,113 - 68,"$3,887.50","5,490 / 4",https://bwfbadminton.com/player/89027/cemre-fere,89027
+246,AUS,Zecily FUNG,+1,3 - 8,0,"5,430 / 4",https://bwfbadminton.com/player/58515/zecily-fung,58515
+247,RSA,Johanita SCHOLTZ,+1,26 - 18,$840.00,"5,430 / 3",https://bwfbadminton.com/player/75193/johanita-scholtz,75193
+248,CHN,LI Yun,+1,20 - 14,"$5,045.00","5,380 / 2",https://bwfbadminton.com/player/76632/li-yun,76632
+249,HKG,FAN Ka Yan,+1,13 - 24,$98.00,"5,362 / 5",https://bwfbadminton.com/player/95905/fan-ka-yan,95905
+250,LTU,Akvile STAPUSAITYTE,+1,160 - 167,"$2,999.25","5,340 / 5",https://bwfbadminton.com/player/14894/akvile-stapusaityte,14894
+251,NZL,Gaea GALVEZ,+1,6 - 14,$58.00,"5,260 / 6",https://bwfbadminton.com/player/87799/gaea-galvez,87799
+252,MRI,Kobita DOOKHEE,+2,8 - 10,$220.00,"5,234 / 7",https://bwfbadminton.com/player/69361/kobita-dookhee,69361
+253,USA,Maya CHEN,+2,9 - 20,$367.50,"5,230 / 5",https://bwfbadminton.com/player/62974/maya-chen,62974
+254,JAM,Katherine WYNTER,+2,15 - 23,$160.00,"5,140 / 5",https://bwfbadminton.com/player/77611/katherine-wynter,77611
+255,MYA,THET HTAR THUZAR,+2,8 - 7,0,"5,100 / 3",https://bwfbadminton.com/player/62385/thet-htar-thuzar,62385
+256,JPN,Yukino NAKAI,+2,18 - 15,"$1,089.50","5,080 / 4",https://bwfbadminton.com/player/56834/yukino-nakai,56834
+257,HUN,Reka MADARASZ,+2,119 - 47,0,"5,071 / 6",https://bwfbadminton.com/player/94323/reka-madarasz,94323
+258,LAT,Ieva POPE,+26,30 - 63,$100.00,"5,007 / 9",https://bwfbadminton.com/player/87721/ieva-pope,87721
+259,TPE,HUANG Yin Hsuan,+1,49 - 17,$448.00,"4,970 / 4",https://bwfbadminton.com/player/98445/huang-yin-hsuan,98445
+260,ZAM,Evelyn SIAMUPANGILA,+1,10 - 28,$120.00,"4,950 / 6",https://bwfbadminton.com/player/55777/evelyn-siamupangila,55777
+261,BRA,Fabiana SILVA,-53,109 - 93,"$6,013.75","4,940 / 3",https://bwfbadminton.com/player/52908/fabiana-silva,52908
+262,AUS,Lauren LIM,0,6 - 16,$165.25,"4,930 / 6",https://bwfbadminton.com/player/83425/lauren-lim,83425
+263,RUS,Anastasiia PUSTINSKAIA,0,65 - 17,0,"4,879 / 6",https://bwfbadminton.com/player/81322/anastasiia-pustinskaia,81322
+264,EGY,Menna ELTANANY,0,42 - 41,"$1,480.00","4,829 / 4",https://bwfbadminton.com/player/94632/menna-eltanany,94632
+265,PHI,Sarah Joy BARREDO,0,17 - 30,$61.25,"4,824 / 4",https://bwfbadminton.com/player/93300/sarah-joy-barredo,93300
+266,DEN,Anne HALD,0,136 - 45,"$8,044.00","4,820 / 3",https://bwfbadminton.com/player/1279/anne-hald,1279
+267,ZAM,Elizaberth CHIPELEME,0,9 - 17,0,"4,760 / 5",https://bwfbadminton.com/player/58650/elizaberth-chipeleme,58650
+268,CZE,Sabina MILOVA,+1,20 - 19,0,"4,750 / 9",https://bwfbadminton.com/player/68580/sabina-milova,68580
+269,FIN,Nanna VAINIO,+1,109 - 124,"$4,990.75","4,750 / 4",https://bwfbadminton.com/player/42731/nanna-vainio,42731
+270,RUS,Elena KOMENDROVSKAJA,+1,81 - 54,"$1,760.00","4,684 / 5",https://bwfbadminton.com/player/36996/elena-komendrovskaja,36996
+271,INA,Sekartaji PUTRI,+1,9 - 12,$472.50,"4,660 / 6",https://bwfbadminton.com/player/99009/sekartaji-putri,99009
+272,SWE,Johanna MAGNUSSON,+13,28 - 27,0,"4,652 / 10",https://bwfbadminton.com/player/73556/johanna-magnusson,73556
+273,INA,Mia MAWARTI,0,1 - 3,0,"4,650 / 3",https://bwfbadminton.com/player/97080/mia-mawarti,97080
+274,INA,Maharani Sekar BATARI,0,16 - 21,$420.00,"4,640 / 6",https://bwfbadminton.com/player/86412/maharani-sekar-batari,86412
+275,MDV,Fathimath Nabaaha ABDUL RAZZAQ,0,2 - 5,0,"4,630 / 4",https://bwfbadminton.com/player/62853/fathimath-nabaaha-abdul-razzaq,62853
+276,IND,PARDESHI Shreyanshi,0,31 - 19,$961.50,"4,610 / 4",https://bwfbadminton.com/player/67630/pardeshi-shreyanshi,67630
+277,MEX,Adelina QUIÑONES,0,10 - 23,$61.25,"4,600 / 5",https://bwfbadminton.com/player/71039/adelina-qui%C3%91ones,71039
+278,RUS,Viktoriia VOROBEVA,+1,37 - 39,$840.00,"4,570 / 5",https://bwfbadminton.com/player/75083/viktoriia-vorobeva,75083
+279,RUS,Elizaveta TARASOVA,+2,48 - 31,$192.50,"4,520 / 5",https://bwfbadminton.com/player/82524/elizaveta-tarasova,82524
+280,SRI,Thilini HENDAHEWA,+2,34 - 30,"$1,552.50","4,506 / 2",https://bwfbadminton.com/player/79705/thilini-hendahewa,79705
+281,NZL,Jenny ZHU,+2,3 - 6,0,"4,500 / 4",https://bwfbadminton.com/player/63380/jenny-zhu,63380
+282,ENG,Ella SODERSTROM,+15,39 - 29,0,"4,410 / 9",https://bwfbadminton.com/player/57206/ella-soderstrom,57206
+283,POR,Sofia SETIM,+3,13 - 14,$70.00,"4,380 / 3",https://bwfbadminton.com/player/66743/sofia-setim,66743
+284,UKR,Valeriya RUDAKOVA,+3,28 - 25,0,"4,340 / 7",https://bwfbadminton.com/player/70622/valeriya-rudakova,70622
+285,INA,Devi Yunita INDAH SARI,-42,32 - 21,$345.50,"4,320 / 4",https://bwfbadminton.com/player/78068/devi-yunita-indah-sari,78068
+286,POL,Wiktoria DABCZYNSKA,+3,56 - 44,0,"4,310 / 7",https://bwfbadminton.com/player/84178/wiktoria-dabczynska,84178
+287,AUS,Tiffany HO,+3,33 - 30,$564.00,"4,310 / 4",https://bwfbadminton.com/player/64389/tiffany-ho,64389
+288,EGY,Hana MOHAMED,+3,14 - 16,0,"4,300 / 6",https://bwfbadminton.com/player/75022/hana-mohamed,75022
+289,ENG,Abigail HOLDEN,+12,49 - 32,0,"4,256 / 7",https://bwfbadminton.com/player/72346/abigail-holden,72346
+290,SWE,Emma KARLSSON,+3,38 - 29,0,"4,250 / 7",https://bwfbadminton.com/player/98566/emma-karlsson,98566
+291,JPN,Rei NAGATA,+3,23 - 12,"$1,447.00","4,240 / 2",https://bwfbadminton.com/player/61066/rei-nagata,61066
+292,USA,Graceline GUNAWAN,+3,4 - 6,$61.25,"4,230 / 5",https://bwfbadminton.com/player/99046/graceline-gunawan,99046
+293,NZL,Shaunna LI,+5,3 - 1,0,"4,200 / 2",https://bwfbadminton.com/player/62883/shaunna-li,62883
+294,MAS,Li Lian YANG,+5,80 - 75,"$6,525.00","4,190 / 5",https://bwfbadminton.com/player/63369/li-lian-yang,63369
+295,TPE,I-Ting LAI,+5,10 - 20,$300.00,"4,170 / 4",https://bwfbadminton.com/player/68667/i-ting-lai,68667
+296,HKG,TSANG Wing Chiu Avery,+6,23 - 32,"$1,303.00","4,150 / 5",https://bwfbadminton.com/player/59216/tsang-wing-chiu-avery,59216
+297,DOM,Noemi ALMONTE,+6,6 - 9,0,"4,130 / 4",https://bwfbadminton.com/player/80151/noemi-almonte,80151
+298,DEN,Camilla MARTENS,+6,63 - 50,0,"4,120 / 5",https://bwfbadminton.com/player/44738/camilla-martens,44738
+299,SWE,Rebecca KUHL,-8,18 - 22,0,"4,090 / 5",https://bwfbadminton.com/player/57304/rebecca-kuhl,57304
+300,NZL,Justine VILLEGAS,+5,2 - 13,0,"4,085 / 7",https://bwfbadminton.com/player/77993/justine-villegas,77993
+301,PER,Micaela Fernanda CASTILLO SALAZAR,+5,4 - 5,0,"4,040 / 3",https://bwfbadminton.com/player/81867/micaela-fernanda-castillo-salazar,81867
+301,RUS,Anastasia RONZHINA,+5,51 - 27,0,"4,040 / 3",https://bwfbadminton.com/player/86997/anastasia-ronzhina,86997
+301,DEN,Julie FINNE-IPSEN,-21,79 - 53,"$1,410.00","4,040 / 3",https://bwfbadminton.com/player/70371/julie-finne-ipsen,70371
+304,UKR,Anastasiya PROZOROVA,+5,36 - 28,0,"3,978 / 8",https://bwfbadminton.com/player/82788/anastasiya-prozorova,82788
+305,LAT,Monika RADOVSKA,+5,25 - 47,0,"3,978 / 9",https://bwfbadminton.com/player/57646/monika-radovska,57646
+306,BRA,Jaqueline LIMA,-53,15 - 12,$120.00,"3,960 / 5",https://bwfbadminton.com/player/57457/jaqueline-lima,57457
+307,THA,Piramon CHAMNAKTAN,+4,33 - 19,$21.00,"3,950 / 6",https://bwfbadminton.com/player/97857/piramon-chamnaktan,97857
+308,NZL,Ella SMITH,+4,3 - 8,0,"3,920 / 4",https://bwfbadminton.com/player/64139/ella-smith,64139
+309,ALG,Ines ZIANI,+4,3 - 6,0,"3,910 / 4",https://bwfbadminton.com/player/66639/ines-ziani,66639
+309,IND,Amolika Singh SISODIYA,+4,8 - 10,$98.00,"3,910 / 4",https://bwfbadminton.com/player/82108/amolika-singh-sisodiya,82108
+311,IND,SMIT TOSHNIWAL,+5,10 - 15,$484.00,"3,890 / 6",https://bwfbadminton.com/player/58397/smit-toshniwal,58397
+312,KOR,Byeol Lim LEE,+5,5 - 5,0,"3,890 / 2",https://bwfbadminton.com/player/98991/byeol-lim-lee,98991
+313,JPN,Kaori IMABEPPU,+5,159 - 104,"$54,854.50","3,870 / 2",https://bwfbadminton.com/player/53392/kaori-imabeppu,53392
+314,MAS,Saranya NAVARATNAJAH,+5,4 - 7,0,"3,860 / 5",https://bwfbadminton.com/player/63998/saranya-navaratnajah,63998
+314,TPE,LIN Jhih Yun,+5,14 - 16,$76.00,"3,860 / 5",https://bwfbadminton.com/player/69009/lin-jhih-yun,69009
+316,SRI,Lekha SHEHANI,+5,32 - 29,"$1,413.00","3,850 / 3",https://bwfbadminton.com/player/96090/lekha-shehani,96090
+317,BLR,Katsiaryna ZABLOTSKAYA,+5,22 - 31,0,"3,840 / 12",https://bwfbadminton.com/player/95699/katsiaryna-zablotskaya,95699
+318,ENG,Emily BEACH,-3,4 - 18,0,"3,790 / 7",https://bwfbadminton.com/player/72873/emily-beach,72873
+319,DEN,Freja RAVN,+5,15 - 8,0,"3,790 / 4",https://bwfbadminton.com/player/88933/freja-ravn,88933
+320,SLO,Lia SALEHAR,+5,25 - 37,0,"3,750 / 9",https://bwfbadminton.com/player/99177/lia-salehar,99177
+321,HKG,CHOW King Ling,+5,4 - 8,0,"3,750 / 4",https://bwfbadminton.com/player/91755/chow-king-ling,91755
+322,HKG,CHEUNG Ying Mei,+5,22 - 41,$292.50,"3,738 / 5",https://bwfbadminton.com/player/70188/cheung-ying-mei,70188
+323,BLR,Julia BITSOUKOVA,0,19 - 24,0,"3,706 / 10",https://bwfbadminton.com/player/72961/julia-bitsoukova,72961
+324,ISR,Dana DANILENKO,+4,49 - 33,0,"3,682 / 6",https://bwfbadminton.com/player/74785/dana-danilenko,74785
+325,CHI,Camila MACAYA,-48,19 - 31,$160.00,"3,680 / 4",https://bwfbadminton.com/player/34449/camila-macaya,34449
+326,INA,Debora Rumate VEHRENICA,+3,14 - 18,"$1,820.00","3,660 / 5",https://bwfbadminton.com/player/70481/debora-rumate-vehrenica,70481
+327,USA,Isabelle RUSLI,+3,2 - 2,0,"3,660 / 3",https://bwfbadminton.com/player/89998/isabelle-rusli,89998
+328,CAN,Olivia (Li) LEI,+3,3 - 3,$192.50,"3,640 / 2",https://bwfbadminton.com/player/84913/olivia-li-lei,84913
+329,ECU,Maria Delia ZAMBRANO,+3,10 - 28,0,"3,630 / 5",https://bwfbadminton.com/player/95277/maria-delia-zambrano,95277
+330,AUS,Yingzi JIANG,+3,3 - 2,$420.00,"3,590 / 3",https://bwfbadminton.com/player/74582/yingzi-jiang,74582
+331,THA,Porntip BURANAPRASERTSUK,+3,207 - 169,"$136,048.00","3,590 / 2",https://bwfbadminton.com/player/54511/porntip-buranaprasertsuk,54511
+332,CUB,Yeily Mari ORTIZ RODRIGUEZ,+3,2 - 4,0,"3,580 / 3",https://bwfbadminton.com/player/67477/yeily-mari-ortiz-rodriguez,67477
+333,MEX,Sabrina SOLIS,+3,38 - 41,$105.00,"3,580 / 2",https://bwfbadminton.com/player/98186/sabrina-solis,98186
+334,INA,Wulan Cahya Utami SUKOPUTRI,+3,11 - 13,$600.00,"3,570 / 2",https://bwfbadminton.com/player/69504/wulan-cahya-utami-sukoputri,69504
+335,BUL,Maria DELCHEVA,+3,75 - 33,0,"3,505 / 2",https://bwfbadminton.com/player/61923/maria-delcheva,61923
+336,SRI,Kavindika DE SILVA,+3,6 - 9,$368.00,"3,500 / 2",https://bwfbadminton.com/player/84640/kavindika-de-silva,84640
+337,UKR,Vladyslava LESNAYA,+3,46 - 30,0,"3,480 / 5",https://bwfbadminton.com/player/83254/vladyslava-lesnaya,83254
+338,CZE,Veronika DOBIÁŠOVÁ,+3,35 - 26,0,"3,440 / 5",https://bwfbadminton.com/player/76069/veronika-dobia%C5%A0ova,76069
+339,INA,Made Deya Surya SARASWATI,+3,14 - 18,$507.50,"3,440 / 3",https://bwfbadminton.com/player/87163/made-deya-surya-saraswati,87163
+340,JPN,Kaho FUNAHASHI,+3,6 - 1,$934.00,"3,400 / 1",https://bwfbadminton.com/player/92829/kaho-funahashi,92829
+341,ZAM,Ngandwe MIYAMBO,+3,9 - 12,0,"3,390 / 4",https://bwfbadminton.com/player/35183/ngandwe-miyambo,35183
+342,INA,Aurum Oktavia WINATA,+3,41 - 26,$253.75,"3,360 / 3",https://bwfbadminton.com/player/68199/aurum-oktavia-winata,68199
+343,NOR,Elisa WIBORG,+7,12 - 26,0,"3,342 / 8",https://bwfbadminton.com/player/92893/elisa-wiborg,92893
+344,INA,Isra FARADILLA,+2,9 - 11,$70.00,"3,310 / 4",https://bwfbadminton.com/player/64385/isra-faradilla,64385
+345,PAK,Mahoor SHAHZAD,+2,13 - 11,$864.00,"3,310 / 3",https://bwfbadminton.com/player/51218/mahoor-shahzad,51218
+346,BRA,Samia LIMA,-50,8 - 9,$212.50,"3,310 / 2",https://bwfbadminton.com/player/76507/samia-lima,76507
+347,GHA,Grace ATIPAKA,+1,9 - 17,0,"3,284 / 5",https://bwfbadminton.com/player/87188/grace-atipaka,87188
+348,NZL,Catelyn ROZARIO,+1,2 - 8,$17.50,"3,260 / 3",https://bwfbadminton.com/player/83371/catelyn-rozario,83371
+349,UKR,Mariya RUD,+2,16 - 14,0,"3,210 / 6",https://bwfbadminton.com/player/89963/mariya-rud,89963
+350,RUS,Ekaterina KUT,+3,32 - 36,$192.50,"3,160 / 4",https://bwfbadminton.com/player/74997/ekaterina-kut,74997
+351,MDV,Aminath Nabeeha ABDUL RAZZAQ,+3,1 - 5,0,"3,125 / 4",https://bwfbadminton.com/player/77393/aminath-nabeeha-abdul-razzaq,77393
+351,MDV,Moosa Aminath SHAHURUNAZ,+3,3 - 9,$105.00,"3,125 / 4",https://bwfbadminton.com/player/81991/moosa-aminath-shahurunaz,81991
+353,IRL,Sara BOYLE,+3,20 - 41,0,"3,110 / 7",https://bwfbadminton.com/player/73274/sara-boyle,73274
+354,CYP,Eleni CHRISTODOULOU,+3,17 - 20,0,"3,110 / 4",https://bwfbadminton.com/player/71421/eleni-christodoulou,71421
+355,AUT,Sonja LANGTHALER,+3,11 - 58,0,"3,100 / 7",https://bwfbadminton.com/player/63829/sonja-langthaler,63829
+356,ESA,Fatima Beatriz CENTENO FUENTES,+3,8 - 12,0,"3,100 / 3",https://bwfbadminton.com/player/61443/fatima-beatriz-centeno-fuentes,61443
+356,AUS,Ruwindi SERASINGHE,+3,8 - 30,$153.00,"3,100 / 3",https://bwfbadminton.com/player/61301/ruwindi-serasinghe,61301
+358,NGR,Ramatu YAKUBU,+4,5 - 5,$70.00,"3,040 / 3",https://bwfbadminton.com/player/68867/ramatu-yakubu,68867
+359,IND,Tanishq MAMILLA PALLI,+4,12 - 5,$661.25,"3,030 / 3",https://bwfbadminton.com/player/80146/tanishq-mamilla-palli,80146
+360,JPN,Minami KAWASHIMA,+4,3 - 2,$227.50,"3,030 / 2",https://bwfbadminton.com/player/78591/minami-kawashima,78591
+360,RUS,Anastasiia SHARAPOVA,+4,8 - 11,$227.50,"3,030 / 2",https://bwfbadminton.com/player/74493/anastasiia-sharapova,74493
+362,ISL,Margrét JOHANNSDOTTIR,+4,17 - 29,0,"3,025 / 5",https://bwfbadminton.com/player/77397/margret-johannsdottir,77397
+363,NOR,Vilde ESPESETH,+4,11 - 25,0,"3,010 / 6",https://bwfbadminton.com/player/67942/vilde-espeseth,67942
+364,MRI,Ganesha MUNGRAH,+4,11 - 11,0,"2,990 / 3",https://bwfbadminton.com/player/74892/ganesha-mungrah,74892
+365,NZL,Jahvaya WHEKI,+4,0 - 5,0,"2,980 / 3",https://bwfbadminton.com/player/93592/jahvaya-wheki,93592
+366,GUA,Sara Michele BARRIOS CHIONG,+5,9 - 12,0,"2,890 / 3",https://bwfbadminton.com/player/78320/sara-michele-barrios-chiong,78320
+367,PER,Yue YANG CAO,+5,1 - 3,0,"2,890 / 2",https://bwfbadminton.com/player/57506/yue-yang-cao,57506
+368,DEN,Sia Emilie BERG,+6,13 - 9,0,"2,860 / 4",https://bwfbadminton.com/player/59070/sia-emilie-berg,59070
+369,BAR,Tamisha WILLIAMS,+6,12 - 10,$240.00,"2,840 / 3",https://bwfbadminton.com/player/72058/tamisha-williams,72058
+370,FRA,Julie FERRIER,-18,24 - 21,0,"2,810 / 9",https://bwfbadminton.com/player/74464/julie-ferrier,74464
+371,NZL,Kelly STERN,+6,6 - 21,$108.50,"2,770 / 3",https://bwfbadminton.com/player/25844/kelly-stern,25844
+372,PER,Stefany Ying Chie CHEN CHEN,+6,3 - 5,0,"2,760 / 3",https://bwfbadminton.com/player/73554/stefany-ying-chie-chen-chen,73554
+373,CHN,PENG Qin,+6,5 - 5,$475.00,"2,730 / 2",https://bwfbadminton.com/player/72019/peng-qin,72019
+374,NZL,Christine ZHANG,+6,13 - 14,$448.00,"2,720 / 1",https://bwfbadminton.com/player/82563/christine-zhang,82563
+374,KOR,Ji Won BAE,+6,3 - 5,0,"2,720 / 1",https://bwfbadminton.com/player/63070/ji-won-bae,63070
+374,TPE,Wen Chi HSU,+6,26 - 21,"$1,019.50","2,720 / 1",https://bwfbadminton.com/player/89583/wen-chi-hsu,89583
+377,NZL,Roanne APALISOK,+6,1 - 2,0,"2,710 / 2",https://bwfbadminton.com/player/96913/roanne-apalisok,96913
+378,UKR,Darya SAMARCHANTS,+6,50 - 50,0,"2,690 / 5",https://bwfbadminton.com/player/95248/darya-samarchants,95248
+379,ALG,Dounia NAAMA,+6,3 - 3,0,"2,690 / 2",https://bwfbadminton.com/player/72550/dounia-naama,72550
+380,CHI,Ashley MONTRE,+6,3 - 3,0,"2,670 / 2",https://bwfbadminton.com/player/82677/ashley-montre,82677
+380,BRA,Lohaynny VICENTE,+109,111 - 62,"$7,136.25","2,670 / 2",https://bwfbadminton.com/player/74742/lohaynny-vicente,74742
+380,RSA,Demi BOTHA,+6,8 - 19,$160.00,"2,670 / 2",https://bwfbadminton.com/player/80448/demi-botha,80448
+383,GHA,Eyram MIGBODZI,+5,1 - 5,0,"2,667 / 5",https://bwfbadminton.com/player/99823/eyram-migbodzi,99823
+384,MDV,Maisa Fathuhulla ISMAIL,+5,5 - 12,$178.50,"2,660 / 5",https://bwfbadminton.com/player/89832/maisa-fathuhulla-ismail,89832
+385,MEX,Cynthia GONZALEZ,+5,42 - 49,$805.00,"2,660 / 2",https://bwfbadminton.com/player/24247/cynthia-gonzalez,24247
+386,UGA,Gladys MBABAZI,+6,7 - 11,0,"2,656 / 4",https://bwfbadminton.com/player/86234/gladys-mbabazi,86234
+387,POL,Oliwia SOCHA,+6,4 - 17,0,"2,627 / 8",https://bwfbadminton.com/player/89778/oliwia-socha,89778
+388,EGY,Hana TAREK ZAHER,+6,5 - 4,0,"2,620 / 3",https://bwfbadminton.com/player/77353/hana-tarek-zaher,77353
+389,IND,Ritika THAKER,+6,13 - 5,0,"2,610 / 3",https://bwfbadminton.com/player/88389/ritika-thaker,88389
+390,INA,Ana ROVITA,+6,60 - 41,"$8,120.50","2,590 / 4",https://bwfbadminton.com/player/48714/ana-rovita,48714
+391,NZL,XIE Yongshi,+6,1 - 2,0,"2,590 / 2",https://bwfbadminton.com/player/52000/xie-yongshi,52000
+392,INA,Olivia Chelin Maria KAMBEY,+6,7 - 15,$253.75,"2,560 / 4",https://bwfbadminton.com/player/83268/olivia-chelin-maria-kambey,83268
+393,CRO,Katarina GALENIC,+6,47 - 57,0,"2,550 / 6",https://bwfbadminton.com/player/96569/katarina-galenic,96569
+394,NZL,Rebecca FONG,+6,0 - 5,0,"2,510 / 4",https://bwfbadminton.com/player/80022/rebecca-fong,80022
+395,NOR,Emilie HAMANG,+6,7 - 17,0,"2,498 / 7",https://bwfbadminton.com/player/96168/emilie-hamang,96168
+396,MDA,Vlada GINGA,+6,48 - 40,0,"2,490 / 6",https://bwfbadminton.com/player/64127/vlada-ginga,64127
+397,VIE,Thi Phuong Hong DINH,+6,5 - 8,$21.00,"2,475 / 3",https://bwfbadminton.com/player/94428/thi-phuong-hong-dinh,94428
+398,SUR,Mary - Ann ZHONG,+6,1 - 7,0,"2,470 / 3",https://bwfbadminton.com/player/63056/mary-ann-zhong,63056
+398,BAR,Sabrina SCOTT,+6,11 - 18,0,"2,470 / 3",https://bwfbadminton.com/player/54547/sabrina-scott,54547
+400,RUS,Daria RADCHENKO,+6,7 - 9,$227.50,"2,470 / 2",https://bwfbadminton.com/player/86653/daria-radchenko,86653
+401,FIJ,Karyn GIBSON,+6,0 - 3,0,"2,462 / 4",https://bwfbadminton.com/player/96372/karyn-gibson,96372
+402,FIJ,Andra WHITESIDE,+6,10 - 17,$150.00,"2,462 / 3",https://bwfbadminton.com/player/13993/andra-whiteside,13993
+403,ITA,Lisa IVERSEN,-95,13 - 31,$430.00,"2,460 / 5",https://bwfbadminton.com/player/95837/lisa-iversen,95837
+404,NZL,Ashley TAN,+5,0 - 1,0,"2,460 / 2",https://bwfbadminton.com/player/99815/ashley-tan,99815
+405,PER,Ingrid Valeria SALAS HUAMANI,+5,2 - 2,0,"2,440 / 2",https://bwfbadminton.com/player/68636/ingrid-valeria-salas-huamani,68636
+405,INA,Choirunnisa CHOIRUNNISA,+5,28 - 15,$105.00,"2,440 / 2",https://bwfbadminton.com/player/98727/choirunnisa-choirunnisa,98727
+405,INA,Desandha Vegarani PUTRI,+5,22 - 22,$507.50,"2,440 / 2",https://bwfbadminton.com/player/88740/desandha-vegarani-putri,88740
+408,SUI,Nadia FANKHAUSER,-38,22 - 46,0,"2,400 / 5",https://bwfbadminton.com/player/81375/nadia-fankhauser,81375
+409,SGP,Yue Yann Jaslyn HOOI,+5,25 - 13,0,"2,390 / 3",https://bwfbadminton.com/player/94594/yue-yann-jaslyn-hooi,94594
+409,NED,Debora JILLE,+5,23 - 17,0,"2,390 / 3",https://bwfbadminton.com/player/67373/debora-jille,67373
+409,CRC,Lauren VILLALOBOS,+5,10 - 19,0,"2,390 / 3",https://bwfbadminton.com/player/84697/lauren-villalobos,84697
+409,CUB,Adriana ARTIZ ATAURY,+5,5 - 10,0,"2,390 / 3",https://bwfbadminton.com/player/88009/adriana-artiz-ataury,88009
+409,DOM,Licelott SANCHEZ,+5,10 - 26,0,"2,390 / 3",https://bwfbadminton.com/player/39137/licelott-sanchez,39137
+414,RSA,Sandra LE GRANGE,+5,18 - 20,$52.50,"2,351 / 2",https://bwfbadminton.com/player/63068/sandra-le-grange,63068
+415,EGY,Nadine ASHRAF,+5,31 - 41,$172.50,"2,314 / 2",https://bwfbadminton.com/player/71367/nadine-ashraf,71367
+416,INA,Eprilia Mega Ayu SWASTIKA,+5,7 - 10,$120.00,"2,300 / 2",https://bwfbadminton.com/player/74265/eprilia-mega-ayu-swastika,74265
+416,INA,Silvi WULANDARI,+5,11 - 8,$120.00,"2,300 / 2",https://bwfbadminton.com/player/95374/silvi-wulandari,95374
+418,ENG,Paige BUTLER,+22,17 - 14,0,"2,290 / 4",https://bwfbadminton.com/player/75619/paige-butler,75619
+419,SUR,Santusha RAMZAN,+5,7 - 8,$120.00,"2,290 / 2",https://bwfbadminton.com/player/76143/santusha-ramzan,76143
+420,GHA,Stella Koteikai AMASAH,+6,8 - 19,$52.50,"2,269 / 4",https://bwfbadminton.com/player/69869/stella-koteikai-amasah,69869
+421,KOR,So Yeon HAN,+7,14 - 9,$304.00,"2,260 / 2",https://bwfbadminton.com/player/57477/so-yeon-han,57477
+422,USA,Ruhi RAJU,+7,24 - 15,0,"2,220 / 4",https://bwfbadminton.com/player/63214/ruhi-raju,63214
+423,HKG,LEUNG Yuet Yee,+7,6 - 6,0,"2,220 / 1",https://bwfbadminton.com/player/60557/leung-yuet-yee,60557
+424,NZL,Rachel LI,+7,1 - 2,0,"2,210 / 3",https://bwfbadminton.com/player/69639/rachel-li,69639
+425,ENG,Freya REDFEARN,+7,30 - 25,0,"2,200 / 4",https://bwfbadminton.com/player/90839/freya-redfearn,90839
+426,INA,Rizma Anestasy VIOLETA,+7,5 - 5,0,"2,200 / 1",https://bwfbadminton.com/player/91541/rizma-anestasy-violeta,91541
+426,JPN,Nozomi SHIMIZU,+7,5 - 2,0,"2,200 / 1",https://bwfbadminton.com/player/90442/nozomi-shimizu,90442
+426,CHN,XU Wei,+7,21 - 5,"$2,095.25","2,200 / 1",https://bwfbadminton.com/player/62186/xu-wei,62186
+429,NGR,Patricia AKPUSUGH,+8,2 - 7,0,"2,190 / 3",https://bwfbadminton.com/player/99302/patricia-akpusugh,99302
+429,TUR,Ebru YAZGAN,+8,72 - 65,"$1,220.00","2,190 / 3",https://bwfbadminton.com/player/84902/ebru-yazgan,84902
+431,IRL,Chloe MAGEE,+8,193 - 158,"$15,504.50","2,184 / 1",https://bwfbadminton.com/player/89666/chloe-magee,89666
+432,NOR,Marlene WÅLAND,-5,8 - 18,0,"2,160 / 7",https://bwfbadminton.com/player/64948/marlene-w%C3%85land,64948
+433,IND,Simran SINGHI,+8,7 - 5,0,"2,140 / 3",https://bwfbadminton.com/player/75190/simran-singhi,75190
+434,SRI,Hasini AMBALANGODAGE,+8,12 - 13,0,"2,130 / 1",https://bwfbadminton.com/player/99312/hasini-ambalangodage,99312
+434,BRA,Bianca Oliveira LIMA,-146,4 - 8,$312.50,"2,130 / 1",https://bwfbadminton.com/player/71483/bianca-oliveira-lima,71483
+436,CAN,Stephanie PAKENHAM,+7,5 - 3,$142.50,"2,110 / 1",https://bwfbadminton.com/player/87088/stephanie-pakenham,87088
+437,SLO,Iza SALEHAR,+7,16 - 35,0,"2,090 / 9",https://bwfbadminton.com/player/84389/iza-salehar,84389
+438,ALG,Malak OUCHEFOUN,+7,6 - 6,0,"2,082 / 4",https://bwfbadminton.com/player/57847/malak-ouchefoun,57847
+439,IND,Preethi KONADAM,+7,5 - 8,$91.00,"2,070 / 2",https://bwfbadminton.com/player/77960/preethi-konadam,77960
+440,MDV,Nafha NASRULLAH,+7,1 - 4,$21.00,"2,050 / 3",https://bwfbadminton.com/player/69860/nafha-nasrullah,69860
+441,IND,Vaishnavi KARRI,+7,8 - 8,0,"2,040 / 4",https://bwfbadminton.com/player/72739/vaishnavi-karri,72739
+442,SWE,Frida LINDSTROM,+8,18 - 23,0,"2,030 / 5",https://bwfbadminton.com/player/81790/frida-lindstrom,81790
+443,PER,Ines MENDOZA ROSELL,+8,1 - 3,0,"2,020 / 3",https://bwfbadminton.com/player/77512/ines-mendoza-rosell,77512
+443,PER,Micaela FLORES VASQUEZ DE VELASCO,+8,4 - 7,0,"2,020 / 3",https://bwfbadminton.com/player/97366/micaela-flores-vasquez-de-velasco,97366
+443,USA,Jacqueline Wendy MYERS,+8,0 - 9,0,"2,020 / 3",https://bwfbadminton.com/player/62708/jacqueline-wendy-myers,62708
+443,SWE,Elin SVENSSON,+8,34 - 18,0,"2,020 / 3",https://bwfbadminton.com/player/89196/elin-svensson,89196
+443,BAR,Monyata RIVIERA,+8,5 - 9,0,"2,020 / 3",https://bwfbadminton.com/player/64740/monyata-riviera,64740
+443,IRI,Sara DELAVARI KASHANI,+8,9 - 17,$52.50,"2,020 / 3",https://bwfbadminton.com/player/69729/sara-delavari-kashani,69729
+443,TTO,Nekeisha BLAKE,+8,1 - 12,0,"2,020 / 3",https://bwfbadminton.com/player/54108/nekeisha-blake,54108
+450,INA,Narulia. R ERSA,+8,3 - 12,0,"2,010 / 3",https://bwfbadminton.com/player/60768/narulia-r-ersa,60768
+451,EGY,Salmeen ESSAM ELSAID SALEM,+8,2 - 3,0,"1,940 / 3",https://bwfbadminton.com/player/80420/salmeen-essam-elsaid-salem,80420
+451,KEN,Mercy JOSEPH,+8,15 - 30,0,"1,940 / 3",https://bwfbadminton.com/player/98243/mercy-joseph,98243
+453,ISL,Arna Karen JOHANNSDOTTIR,+9,8 - 12,0,"1,925 / 5",https://bwfbadminton.com/player/87859/arna-karen-johannsdottir,87859
+454,FIJ,Danielle WHITESIDE,+9,5 - 15,$150.00,"1,892 / 4",https://bwfbadminton.com/player/13992/danielle-whiteside,13992
+455,CMR,Stella Joel NGADJUI,+9,1 - 2,0,"1,890 / 3",https://bwfbadminton.com/player/87542/stella-joel-ngadjui,87542
+456,UKR,Khrystyna DZHANHOBEKOVA,+9,25 - 20,0,"1,880 / 3",https://bwfbadminton.com/player/57891/khrystyna-dzhanhobekova,57891
+457,KOR,Ho Yeon KIM,+9,2 - 1,$116.00,"1,880 / 2",https://bwfbadminton.com/player/62241/ho-yeon-kim,62241
+458,GHA,Stella BENTUM,+9,1 - 3,0,"1,870 / 3",https://bwfbadminton.com/player/93204/stella-bentum,93204
+458,NGR,Faridah UMAR,+9,1 - 3,0,"1,870 / 3",https://bwfbadminton.com/player/95105/faridah-umar,95105
+458,GHA,Eunice ARTHUR,+9,2 - 5,0,"1,870 / 3",https://bwfbadminton.com/player/83935/eunice-arthur,83935
+458,BEN,Pascaline VITOU,+9,3 - 5,0,"1,870 / 3",https://bwfbadminton.com/player/60347/pascaline-vitou,60347
+462,ALG,Yasmina CHIBAH,+9,0 - 2,0,"1,870 / 2",https://bwfbadminton.com/player/75658/yasmina-chibah,75658
+463,IND,PURVA BARVE,+9,33 - 16,$28.00,"1,840 / 2",https://bwfbadminton.com/player/58421/purva-barve,58421
+463,CRC,Ana Laura MARTINEZ VEGA,+9,5 - 8,0,"1,840 / 2",https://bwfbadminton.com/player/70036/ana-laura-martinez-vega,70036
+463,INA,Diana SETIYONINGSIH,+9,13 - 8,$35.00,"1,840 / 2",https://bwfbadminton.com/player/79718/diana-setiyoningsih,79718
+463,JPN,Miki KOBAYASHI,+9,4 - 2,0,"1,840 / 2",https://bwfbadminton.com/player/98312/miki-kobayashi,98312
+463,CUB,Thalia MENGANA MARRERO,+9,0 - 3,0,"1,840 / 2",https://bwfbadminton.com/player/74019/thalia-mengana-marrero,74019
+463,VIE,Thi Anh Thu VU,+9,14 - 12,$28.00,"1,840 / 2",https://bwfbadminton.com/player/57230/thi-anh-thu-vu,57230
+463,AUS,Claudia LAM,+9,3 - 14,$28.00,"1,840 / 2",https://bwfbadminton.com/player/80376/claudia-lam,80376
+463,GER,Annika HORBACH,+9,21 - 29,0,"1,840 / 2",https://bwfbadminton.com/player/81470/annika-horbach,81470
+471,FIN,Sonja PEKKOLA,-23,31 - 66,0,"1,830 / 3",https://bwfbadminton.com/player/99619/sonja-pekkola,99619
+472,USA,Carissa CHUNG,+8,0 - 5,0,"1,820 / 3",https://bwfbadminton.com/player/96371/carissa-chung,96371
+472,RUS,Julia ZAPOLSKAYA,+8,9 - 20,$210.00,"1,820 / 3",https://bwfbadminton.com/player/49317/julia-zapolskaya,49317
+474,JOR,Domou AMRO,+9,6 - 10,$372.50,"1,800 / 2",https://bwfbadminton.com/player/81950/domou-amro,81950
+474,AUS,Sylvina KURNIAWAN,+9,48 - 32,"$1,468.50","1,800 / 2",https://bwfbadminton.com/player/54148/sylvina-kurniawan,54148
+476,TUR,Busra UNLU,+9,52 - 39,0,"1,780 / 4",https://bwfbadminton.com/player/63873/busra-unlu,63873
+477,MAC,Weng Chi NG,+9,4 - 14,0,"1,759 / 3",https://bwfbadminton.com/player/95068/weng-chi-ng,95068
+478,FRA,LéOnice HUET,+9,50 - 29,0,"1,750 / 5",https://bwfbadminton.com/player/88582/leonice-huet,88582
+479,DEN,Sofie ZACHO,+9,9 - 7,0,"1,750 / 4",https://bwfbadminton.com/player/81193/sofie-zacho,81193
+480,TPE,YU Chieh,+9,15 - 8,$145.00,"1,750 / 1",https://bwfbadminton.com/player/82898/yu-chieh,82898
+480,PAK,Sehra AKRAM,+9,1 - 1,$36.00,"1,750 / 1",https://bwfbadminton.com/player/78319/sehra-akram,78319
+480,MGL,Olzvoi JANCHIV,+9,2 - 4,$116.00,"1,750 / 1",https://bwfbadminton.com/player/97198/olzvoi-janchiv,97198
+480,USA,Kerry XU,+9,12 - 10,$160.00,"1,750 / 1",https://bwfbadminton.com/player/85896/kerry-xu,85896
+480,RSA,Michelle BUTLER-EMMETT,+9,25 - 28,$160.00,"1,750 / 1",https://bwfbadminton.com/player/51335/michelle-butler-emmett,51335
+480,WAL,Aimee MORAN,-59,30 - 57,$280.00,"1,750 / 1",https://bwfbadminton.com/player/16875/aimee-moran,16875
+486,SWE,Lovisa JOHANSSON,+9,21 - 34,0,"1,720 / 5",https://bwfbadminton.com/player/66469/lovisa-johansson,66469
+486,LAT,Jekaterina ROMANOVA,+9,28 - 37,0,"1,720 / 5",https://bwfbadminton.com/player/89697/jekaterina-romanova,89697
+488,AUT,Carina MEINKE,+9,5 - 19,0,"1,710 / 6",https://bwfbadminton.com/player/71702/carina-meinke,71702
+489,INA,Ni Made Pranita SULISTYA DEVI,+9,1 - 9,0,"1,680 / 3",https://bwfbadminton.com/player/92946/ni-made-pranita-sulistya-devi,92946
+490,TPE,KUO Yen Chi,+292,4 - 5,0,"1,670 / 4",https://bwfbadminton.com/player/55570/kuo-yen-chi,55570
+491,VIE,Thu Huyen LE,+8,45 - 50,"$1,044.75","1,670 / 3",https://bwfbadminton.com/player/18115/thu-huyen-le,18115
+492,CHN,LYU Yanfei,+8,1 - 2,$175.00,"1,670 / 1",https://bwfbadminton.com/player/98858/lyu-yanfei,98858
+492,KOR,Ye Ji KIM,+8,2 - 3,0,"1,670 / 1",https://bwfbadminton.com/player/82616/ye-ji-kim,82616
+492,KOR,Yoo Ri CHOI,+8,2 - 2,0,"1,670 / 1",https://bwfbadminton.com/player/71305/yoo-ri-choi,71305
+495,JAM,Alana BAILEY,+8,2 - 7,0,"1,650 / 3",https://bwfbadminton.com/player/76027/alana-bailey,76027
+495,TTO,Avril PLAZA MARCELLE,+8,5 - 8,$120.00,"1,650 / 3",https://bwfbadminton.com/player/66358/avril-plaza-marcelle,66358
+497,RUS,Alina ROMANKO,+8,10 - 9,0,"1,650 / 2",https://bwfbadminton.com/player/87990/alina-romanko,87990
+497,RUS,Anastasia REDKINA,+8,4 - 11,0,"1,650 / 2",https://bwfbadminton.com/player/72099/anastasia-redkina,72099
+497,RUS,Daria DZHEDZHULA,+8,3 - 11,0,"1,650 / 2",https://bwfbadminton.com/player/63417/daria-dzhedzhula,63417
+500,FIJ,Carline BENTLEY,+8,0 - 5,0,"1,642 / 3",https://bwfbadminton.com/player/93581/carline-bentley,93581
+500,FIJ,Carline BENTLEY,+8,0 - 5,0,"1,642 / 3",https://bwfbadminton.com/player/93581/carline-bentley,93581
+502,TAH,MéIissa MI YOU,+8,0 - 1,0,"1,640 / 3",https://bwfbadminton.com/player/79442/meiissa-mi-you,79442
+502,TAH,Esther TAU,+8,0 - 1,0,"1,640 / 3",https://bwfbadminton.com/player/87972/esther-tau,87972
+502,FIJ,Alissa DEAN,+8,4 - 9,$150.00,"1,640 / 3",https://bwfbadminton.com/player/13538/alissa-dean,13538
+502,BAN,Alina SULTANA,+8,5 - 11,$91.00,"1,640 / 3",https://bwfbadminton.com/player/94843/alina-sultana,94843
+506,TAH,Karine DESFOUR,+8,0 - 1,0,"1,640 / 2",https://bwfbadminton.com/player/63675/karine-desfour,63675
+506,TAH,Nina SMITS,+8,0 - 1,0,"1,640 / 2",https://bwfbadminton.com/player/81695/nina-smits,81695
+506,GUM,Sarah CAI,+8,4 - 6,0,"1,640 / 2",https://bwfbadminton.com/player/93094/sarah-cai,93094
+506,AUS,Leesa GRUNDY,+8,0 - 3,0,"1,640 / 2",https://bwfbadminton.com/player/55377/leesa-grundy,55377
+510,INA,Bening Sri RAHAYU,+8,7 - 7,$70.00,"1,620 / 2",https://bwfbadminton.com/player/78940/bening-sri-rahayu,78940
+510,IND,Bhavya RISHI,+8,8 - 8,$70.00,"1,620 / 2",https://bwfbadminton.com/player/78457/bhavya-rishi,78457
+512,PAK,Palwasha BASHIR,+8,9 - 14,$503.50,"1,580 / 2",https://bwfbadminton.com/player/75632/palwasha-bashir,75632
+513,INA,Putri Ayu DESIDERIANTI,+8,6 - 10,0,"1,570 / 3",https://bwfbadminton.com/player/94262/putri-ayu-desiderianti,94262
+514,ARM,Lilit POGHOSYAN,+8,13 - 24,0,"1,530 / 4",https://bwfbadminton.com/player/91044/lilit-poghosyan,91044
+515,GHA,Gifty MENSAH,+8,2 - 8,0,"1,522 / 2",https://bwfbadminton.com/player/69146/gifty-mensah,69146
+516,IRI,Setayesh ABDOLKARIMI,+8,0 - 0,0,"1,520 / 1",https://bwfbadminton.com/player/98397/setayesh-abdolkarimi,98397
+516,INA,Komang Ayu Cahya DEWI,+8,10 - 3,$70.00,"1,520 / 1",https://bwfbadminton.com/player/64349/komang-ayu-cahya-dewi,64349
+516,NGR,Naomi TANKO,+8,0 - 1,$70.00,"1,520 / 1",https://bwfbadminton.com/player/72987/naomi-tanko,72987
+516,NGR,Imelda AKWAOW,+8,1 - 1,$70.00,"1,520 / 1",https://bwfbadminton.com/player/72029/imelda-akwaow,72029
+516,IRI,Yeganeh SEYEDTAFRISHIKHAMENEH,+8,0 - 2,0,"1,520 / 1",https://bwfbadminton.com/player/70225/yeganeh-seyedtafrishikhameneh,70225
+516,IRI,Romina TAJIK,+8,0 - 3,0,"1,520 / 1",https://bwfbadminton.com/player/64288/romina-tajik,64288
+516,IRI,Nasim SAFAEI,+8,1 - 2,0,"1,520 / 1",https://bwfbadminton.com/player/88037/nasim-safaei,88037
+516,CZE,Monika SVETNICKOVA,+8,57 - 51,0,"1,520 / 1",https://bwfbadminton.com/player/58783/monika-svetnickova,58783
+516,NGR,Ruth AIYENUGBA,+8,3 - 5,$122.50,"1,520 / 1",https://bwfbadminton.com/player/55970/ruth-aiyenugba,55970
+516,JPN,Shiori EBIHARA,+8,20 - 8,$52.50,"1,520 / 1",https://bwfbadminton.com/player/57727/shiori-ebihara,57727
+516,CHN,XU Yingchao,+8,3 - 2,$70.00,"1,520 / 1",https://bwfbadminton.com/player/88951/xu-yingchao,88951
+516,SRI,KAVIDI SIRIMANNAGE,+8,3 - 5,$91.00,"1,520 / 1",https://bwfbadminton.com/player/92656/kavidi-sirimannage,92656
+516,MAS,LEE Zii Yii,+8,28 - 42,"$1,697.00","1,520 / 1",https://bwfbadminton.com/player/97655/lee-zii-yii,97655
+516,IRI,Pegah KAMRANI,+8,9 - 9,$105.00,"1,520 / 1",https://bwfbadminton.com/player/89872/pegah-kamrani,89872
+516,HUN,Monika SZOKE,+8,32 - 52,$253.75,"1,520 / 1",https://bwfbadminton.com/player/66695/monika-szoke,66695
+516,IND,Neha PANDIT,+8,54 - 49,"$3,781.00","1,520 / 1",https://bwfbadminton.com/player/81493/neha-pandit,81493
+516,MAS,Lyddia Yi Yu CHEAH,+8,119 - 118,"$17,700.50","1,520 / 1",https://bwfbadminton.com/player/52103/lyddia-yi-yu-cheah,52103
+533,POL,Zuzanna PARYSZ,+8,18 - 26,0,"1,500 / 4",https://bwfbadminton.com/player/88584/zuzanna-parysz,88584
+533,HUN,Orsolya VARGA,+8,48 - 74,0,"1,500 / 4",https://bwfbadminton.com/player/51849/orsolya-varga,51849
+535,HUN,Vivien SANDORHAZI,+8,109 - 34,0,"1,491 / 3",https://bwfbadminton.com/player/61949/vivien-sandorhazi,61949
+536,ITA,Giulia FIORITO,-123,1 - 18,0,"1,470 / 5",https://bwfbadminton.com/player/58993/giulia-fiorito,58993
+537,IND,Khushi GUPTA,+7,0 - 1,0,"1,470 / 2",https://bwfbadminton.com/player/84652/khushi-gupta,84652
+537,BEL,Johanna BREYNE,+7,0 - 2,0,"1,470 / 2",https://bwfbadminton.com/player/83993/johanna-breyne,83993
+537,IRI,Hediyeh SHAMS,+7,6 - 4,0,"1,470 / 2",https://bwfbadminton.com/player/94101/hediyeh-shams,94101
+537,CHI,Belen TRONCOSO,+7,1 - 4,0,"1,470 / 2",https://bwfbadminton.com/player/57667/belen-troncoso,57667
+537,GUA,Andrea Maria MORALES GUIROLA,+7,6 - 6,$52.50,"1,470 / 2",https://bwfbadminton.com/player/62163/andrea-maria-morales-guirola,62163
+537,SGP,Ming Hui LIM,+7,11 - 11,0,"1,470 / 2",https://bwfbadminton.com/player/67745/ming-hui-lim,67745
+537,PER,Thaina BELLIDO GARCIA,+7,0 - 4,0,"1,470 / 2",https://bwfbadminton.com/player/94683/thaina-bellido-garcia,94683
+537,IND,Lalita DAHIYA,+7,7 - 25,$437.50,"1,470 / 2",https://bwfbadminton.com/player/99711/lalita-dahiya,99711
+537,ZAM,Penelope MUDENDA,+7,0 - 3,0,"1,470 / 2",https://bwfbadminton.com/player/62659/penelope-mudenda,62659
+537,MEX,Yesenia DUARTE,+7,2 - 9,$105.00,"1,470 / 2",https://bwfbadminton.com/player/66876/yesenia-duarte,66876
+537,IRI,Yeganeh KERMANI,+7,5 - 6,0,"1,470 / 2",https://bwfbadminton.com/player/68579/yeganeh-kermani,68579
+537,BOT,Leungo Bronia TSHWENEETSILE,+7,7 - 26,$26.25,"1,470 / 2",https://bwfbadminton.com/player/12669/leungo-bronia-tshweneetsile,12669
+537,BOT,Botho MAKUBATE,+7,6 - 25,0,"1,470 / 2",https://bwfbadminton.com/player/87582/botho-makubate,87582
+550,BEL,Joke DE LANGHE,+7,17 - 30,0,"1,460 / 3",https://bwfbadminton.com/player/70025/joke-de-langhe,70025
+550,MRI,Sendila MOURAT,+7,5 - 7,0,"1,460 / 3",https://bwfbadminton.com/player/95613/sendila-mourat,95613
+550,UGA,Mable NAMAKOYE,+7,2 - 11,0,"1,460 / 3",https://bwfbadminton.com/player/94784/mable-namakoye,94784
+553,RUS,Mariya MALYGINA,+7,9 - 9,0,"1,460 / 2",https://bwfbadminton.com/player/78972/mariya-malygina,78972
+554,CMR,Madeleine Carene Leticia AKOUMBA ZE,+7,2 - 1,0,"1,420 / 1",https://bwfbadminton.com/player/93713/madeleine-carene-leticia-akoumba-ze,93713
+555,FIN,Hanna KARKAUS,+7,11 - 18,0,"1,400 / 5",https://bwfbadminton.com/player/55878/hanna-karkaus,55878
+556,INA,Zahra Mahria Rossedy PERMATA,+7,0 - 3,0,"1,400 / 2",https://bwfbadminton.com/player/92126/zahra-mahria-rossedy-permata,92126
+557,BEL,Flore VANDENHOUCKE,-96,53 - 65,0,"1,380 / 3",https://bwfbadminton.com/player/65846/flore-vandenhoucke,65846
+558,GRE,Grammatoula SOTIRIOU,+6,23 - 17,0,"1,370 / 3",https://bwfbadminton.com/player/65483/grammatoula-sotiriou,65483
+559,JPN,Yuri NAKAMURA,0,4 - 1,0,"1,370 / 1",https://bwfbadminton.com/player/60094/yuri-nakamura,60094
+559,RSA,Megan DE BEER,+6,0 - 3,0,"1,370 / 1",https://bwfbadminton.com/player/59557/megan-de-beer,59557
+559,BOT,Aisha TAPELA,+6,0 - 0,0,"1,370 / 1",https://bwfbadminton.com/player/73764/aisha-tapela,73764
+559,MEX,Cecilia OJEDA,+6,1 - 1,0,"1,370 / 1",https://bwfbadminton.com/player/82510/cecilia-ojeda,82510
+559,MGL,Tegshzaya CHOINKHOR,+6,1 - 3,$48.00,"1,370 / 1",https://bwfbadminton.com/player/82101/tegshzaya-choinkhor,82101
+559,MGL,Itgelbayar GALBADRAKH,+6,1 - 1,$48.00,"1,370 / 1",https://bwfbadminton.com/player/78173/itgelbayar-galbadrakh,78173
+559,CHN,PAN Lu,+6,3 - 1,$60.00,"1,370 / 1",https://bwfbadminton.com/player/60059/pan-lu,60059
+559,CHN,SHEN Yabing,+6,4 - 1,$60.00,"1,370 / 1",https://bwfbadminton.com/player/94753/shen-yabing,94753
+559,CUB,Marianne GONZALEZ ORTIZ,+6,1 - 1,0,"1,370 / 1",https://bwfbadminton.com/player/76468/marianne-gonzalez-ortiz,76468
+559,PAK,Bushra QAYYUM,+6,0 - 1,$21.00,"1,370 / 1",https://bwfbadminton.com/player/66461/bushra-qayyum,66461
+559,BRA,Manoela KOEPSEL,-135,1 - 4,$400.00,"1,370 / 1",https://bwfbadminton.com/player/57491/manoela-koepsel,57491
+559,MGL,Narantsetseg BAYARSAIKHAN,+6,1 - 7,$48.00,"1,370 / 1",https://bwfbadminton.com/player/96745/narantsetseg-bayarsaikhan,96745
+559,MGL,Saikhantuul BANZRAGCH,+6,1 - 2,$65.50,"1,370 / 1",https://bwfbadminton.com/player/99955/saikhantuul-banzragch,99955
+559,PAK,Ghazala SADDIQUE,+6,0 - 2,$21.00,"1,370 / 1",https://bwfbadminton.com/player/81451/ghazala-saddique,81451
+559,USA,Annie XU,+6,9 - 6,0,"1,370 / 1",https://bwfbadminton.com/player/71644/annie-xu,71644
+559,BOT,Kgalalelo KEGAKILWE,+6,4 - 7,0,"1,370 / 1",https://bwfbadminton.com/player/23340/kgalalelo-kegakilwe,23340
+559,GER,Hannah POHL,+6,10 - 25,0,"1,370 / 1",https://bwfbadminton.com/player/78338/hannah-pohl,78338
+559,PAK,Khizra RASHEED,+6,1 - 2,$36.00,"1,370 / 1",https://bwfbadminton.com/player/97224/khizra-rasheed,97224
+559,USA,Kuei-Ya CHEN,+6,16 - 20,$779.60,"1,370 / 1",https://bwfbadminton.com/player/53746/kuei-ya-chen,53746
+559,MAS,Sin Er NG,+6,12 - 26,$125.50,"1,370 / 1",https://bwfbadminton.com/player/33411/sin-er-ng,33411
+579,TUR,Basak KILIC,+5,10 - 14,0,"1,360 / 3",https://bwfbadminton.com/player/70406/basak-kilic,70406
+580,CZE,Michaela ZELINKOVA,+5,14 - 20,0,"1,350 / 4",https://bwfbadminton.com/player/78213/michaela-zelinkova,78213
+581,ROU,Ioana GRECEA,+5,32 - 30,0,"1,330 / 3",https://bwfbadminton.com/player/98061/ioana-grecea,98061
+582,NCL,Cecilia MOUSSY,+5,6 - 15,$28.00,"1,330 / 1",https://bwfbadminton.com/player/54920/cecilia-moussy,54920
+583,POL,Magdalena KULSKA,+5,8 - 26,0,"1,320 / 4",https://bwfbadminton.com/player/72685/magdalena-kulska,72685
+584,NOR,Stine ANDERSEN,+25,1 - 6,0,"1,300 / 6",https://bwfbadminton.com/player/58577/stine-andersen,58577
+585,KOR,Soo Bin LIM,+4,8 - 3,$396.00,"1,300 / 2",https://bwfbadminton.com/player/50626/soo-bin-lim,50626
+586,RUS,Ekaterina NESTERENKO,+4,1 - 1,0,"1,290 / 1",https://bwfbadminton.com/player/78571/ekaterina-nesterenko,78571
+586,RUS,Sofiia DOROSHENKO,+4,2 - 3,0,"1,290 / 1",https://bwfbadminton.com/player/93240/sofiia-doroshenko,93240
+586,AZE,Adila MEHDIYEVA,+4,0 - 2,0,"1,290 / 1",https://bwfbadminton.com/player/84703/adila-mehdiyeva,84703
+586,RUS,Olesia KISTER,+4,1 - 4,0,"1,290 / 1",https://bwfbadminton.com/player/96243/olesia-kister,96243
+586,AZE,Zulfiyya HUSEYNOVA,+4,0 - 7,0,"1,290 / 1",https://bwfbadminton.com/player/79308/zulfiyya-huseynova,79308
+586,RUS,Polina MAKKOVEEVA,+4,4 - 7,$175.00,"1,290 / 1",https://bwfbadminton.com/player/20987/polina-makkoveeva,20987
+592,HUN,Bianka BUKOVICZKI,+4,8 - 18,0,"1,280 / 4",https://bwfbadminton.com/player/86193/bianka-bukoviczki,86193
+592,ISL,Thorunn EYLANDS,+4,1 - 9,0,"1,280 / 4",https://bwfbadminton.com/player/81558/thorunn-eylands,81558
+594,ALG,Amrouni KAHINA,+4,1 - 2,0,"1,280 / 2",https://bwfbadminton.com/player/62372/amrouni-kahina,62372
+594,THA,Pornpicha CHOEIKEEWONG,+4,10 - 9,$28.00,"1,280 / 2",https://bwfbadminton.com/player/72280/pornpicha-choeikeewong,72280
+594,JPN,Nanami AKECHI,+4,19 - 8,0,"1,280 / 2",https://bwfbadminton.com/player/65338/nanami-akechi,65338
+594,JPN,Natsuki OIE,+4,14 - 7,0,"1,280 / 2",https://bwfbadminton.com/player/88133/natsuki-oie,88133
+598,BAN,Aktar SHAPLA,+4,4 - 15,$176.00,"1,270 / 3",https://bwfbadminton.com/player/89240/aktar-shapla,89240
+599,ITA,Silvia GARINO,-223,10 - 28,$190.00,"1,270 / 2",https://bwfbadminton.com/player/79241/silvia-garino,79241
+599,ITA,Chiara PIAZZA,+4,2 - 12,0,"1,270 / 2",https://bwfbadminton.com/player/73485/chiara-piazza,73485
+599,ITA,Chiara PIAZZA,+4,2 - 12,0,"1,270 / 2",https://bwfbadminton.com/player/73485/chiara-piazza,73485
+602,SCO,Holly NEWALL,-120,39 - 19,0,"1,260 / 3",https://bwfbadminton.com/player/98373/holly-newall,98373
+603,FRA,Juliane PIRON,-20,6 - 14,0,"1,250 / 4",https://bwfbadminton.com/player/78120/juliane-piron,78120
+604,GRE,Polyvia TZIKA,+1,8 - 16,0,"1,250 / 3",https://bwfbadminton.com/player/58737/polyvia-tzika,58737
+605,IRI,Samin ABEDKHOJASTEH,+1,11 - 11,0,"1,230 / 3",https://bwfbadminton.com/player/72615/samin-abedkhojasteh,72615
+606,MAS,Zuelaikha IDRIS,+1,2 - 6,0,"1,220 / 4",https://bwfbadminton.com/player/71299/zuelaikha-idris,71299
+607,RUS,Daria SEREBRIAKOVA,+3,15 - 21,0,"1,200 / 2",https://bwfbadminton.com/player/77577/daria-serebriakova,77577
+608,USA,Iris WANG,+3,123 - 112,"$18,031.75","1,200 / 1",https://bwfbadminton.com/player/57798/iris-wang,57798
+609,ENG,Cristen Elizabeth MARRITT,+3,6 - 10,0,"1,180 / 4",https://bwfbadminton.com/player/62400/cristen-elizabeth-marritt,62400
+610,CMR,Josephine Brinda MENGUE,+3,0 - 1,0,"1,170 / 1",https://bwfbadminton.com/player/79490/josephine-brinda-mengue,79490
+610,NGR,Tosin Damilola ATOLAGBE,+3,21 - 14,$542.50,"1,170 / 1",https://bwfbadminton.com/player/69899/tosin-damilola-atolagbe,69899
+612,EGY,Nour AHMED YOUSSRI,+3,9 - 5,0,"1,150 / 2",https://bwfbadminton.com/player/88020/nour-ahmed-youssri,88020
+612,USA,Natalie Jackie LEUNG,+3,1 - 2,0,"1,150 / 2",https://bwfbadminton.com/player/78855/natalie-jackie-leung,78855
+612,GUA,Ana Lucia ALBANES CORDON,+3,1 - 4,0,"1,150 / 2",https://bwfbadminton.com/player/73320/ana-lucia-albanes-cordon,73320
+612,GUA,Diana Judith MONTERROSO ORTIZ,+3,2 - 4,0,"1,150 / 2",https://bwfbadminton.com/player/62499/diana-judith-monterroso-ortiz,62499
+612,ESA,URRUTIA Cecilia,+3,0 - 5,0,"1,150 / 2",https://bwfbadminton.com/player/57516/urrutia-cecilia,57516
+617,IND,Vidhu NAIR,+3,1 - 3,0,"1,130 / 2",https://bwfbadminton.com/player/62310/vidhu-nair,62310
+617,THA,Runshida SUKJAI,+3,1 - 4,0,"1,130 / 2",https://bwfbadminton.com/player/94492/runshida-sukjai,94492
+617,SWE,Malena NORRMAN,+3,6 - 7,0,"1,130 / 2",https://bwfbadminton.com/player/78641/malena-norrman,78641
+620,IND,Kanika KANWAL,+3,10 - 9,0,"1,120 / 3",https://bwfbadminton.com/player/89342/kanika-kanwal,89342
+621,SLO,Petra POLANC,-13,62 - 44,0,"1,110 / 4",https://bwfbadminton.com/player/61268/petra-polanc,61268
+622,GRE,Artemis ANASTASIOU,+2,1 - 14,0,"1,110 / 3",https://bwfbadminton.com/player/94452/artemis-anastasiou,94452
+623,NEP,Sunayana MUKHIYA,+2,0 - 5,0,"1,100 / 2",https://bwfbadminton.com/player/88179/sunayana-mukhiya,88179
+623,TTO,Latoya WALROND,+2,0 - 1,0,"1,100 / 2",https://bwfbadminton.com/player/61626/latoya-walrond,61626
+623,THA,Phakhawadi SUKJAI,+2,2 - 4,0,"1,100 / 2",https://bwfbadminton.com/player/64747/phakhawadi-sukjai,64747
+623,NEP,Shova GAUCHAN,+2,0 - 4,0,"1,100 / 2",https://bwfbadminton.com/player/66959/shova-gauchan,66959
+623,UGA,Betty APIO,+2,3 - 4,0,"1,100 / 2",https://bwfbadminton.com/player/93570/betty-apio,93570
+623,PHI,Airah Mae Nicole ALBO,+2,13 - 22,$52.50,"1,100 / 2",https://bwfbadminton.com/player/64080/airah-mae-nicole-albo,64080
+623,NEP,Nangsal TAMANG,+2,3 - 12,$213.00,"1,100 / 2",https://bwfbadminton.com/player/78543/nangsal-tamang,78543
+623,BOT,Tessa KABELO,+2,8 - 27,0,"1,100 / 2",https://bwfbadminton.com/player/88189/tessa-kabelo,88189
+623,MDV,Neela NAJEEB,+2,0 - 7,$52.50,"1,100 / 2",https://bwfbadminton.com/player/67242/neela-najeeb,67242
+623,PAK,Sara MOHMAND,+2,2 - 17,$123.50,"1,100 / 2",https://bwfbadminton.com/player/54220/sara-mohmand,54220
+633,IND,RIYA AROLKAR,+2,2 - 1,$28.00,"1,090 / 2",https://bwfbadminton.com/player/96504/riya-arolkar,96504
+634,THA,Atitaya POVANON,+2,4 - 15,0,"1,060 / 4",https://bwfbadminton.com/player/59892/atitaya-povanon,59892
+635,BEN,Xena ARISA,+2,1 - 4,0,"1,060 / 3",https://bwfbadminton.com/player/96421/xena-arisa,96421
+636,TPE,CHENG Chi Ya,+2,58 - 53,"$12,686.50","1,060 / 1",https://bwfbadminton.com/player/92339/cheng-chi-ya,92339
+636,IND,P. C. Thulasi,+2,69 - 70,"$12,738.50","1,060 / 1",https://bwfbadminton.com/player/75410/p-c-thulasi,75410
+638,SCO,Toni WOODS,+2,9 - 14,0,"1,040 / 4",https://bwfbadminton.com/player/87840/toni-woods,87840
+639,TPE,CHUNG Yu Feng,+2,0 - 3,0,"1,030 / 3",https://bwfbadminton.com/player/57068/chung-yu-feng,57068
+640,ISL,Sigridur ARNADOTTIR,+2,4 - 12,0,"1,029 / 5",https://bwfbadminton.com/player/69993/sigridur-arnadottir,69993
+641,FIN,Jessica JÄNTTI,+2,1 - 9,0,"1,020 / 5",https://bwfbadminton.com/player/86990/jessica-jAentti,86990
+642,IND,Rashi TYAGI,+2,0 - 1,0,"1,020 / 2",https://bwfbadminton.com/player/75734/rashi-tyagi,75734
+642,GER,Ann-Kathrin SPÖRI,+2,30 - 20,0,"1,020 / 2",https://bwfbadminton.com/player/86539/ann-kathrin-spOeri,86539
+642,GER,Stine KÜSPERT,+2,10 - 17,0,"1,020 / 2",https://bwfbadminton.com/player/78795/stine-kUespert,78795
+642,FIN,Riikka SINKKO,+2,13 - 38,0,"1,020 / 2",https://bwfbadminton.com/player/59844/riikka-sinkko,59844
+646,GRE,Ioanna KARAPETRIDOU,+2,4 - 21,0,"1,010 / 2",https://bwfbadminton.com/player/76408/ioanna-karapetridou,76408
+647,GRE,Irini TENTA,+2,2 - 25,0,"1,000 / 3",https://bwfbadminton.com/player/98532/irini-tenta,98532
+648,SWE,Emma THORNE,+2,8 - 10,0,990 / 4,https://bwfbadminton.com/player/98862/emma-thorne,98862
+649,CZE,Magdalena LAJDOVA,+2,32 - 34,0,990 / 2,https://bwfbadminton.com/player/72320/magdalena-lajdova,72320
+649,DEN,Trine VILLADSEN,+2,13 - 11,0,990 / 2,https://bwfbadminton.com/player/57982/trine-villadsen,57982
+651,GER,Annabella JAEGER,+2,5 - 7,0,980 / 2,https://bwfbadminton.com/player/56675/annabella-jaeger,56675
+651,AUS,Michelle TAM,+2,2 - 8,0,980 / 2,https://bwfbadminton.com/player/77763/michelle-tam,77763
+653,NOR,Vera ELLINGSEN,+2,9 - 13,0,975 / 3,https://bwfbadminton.com/player/96743/vera-ellingsen,96743
+654,TUR,Kader İNAL,+2,83 - 37,$100.00,960 / 2,https://bwfbadminton.com/player/77926/kader-%C4%B0nal,77926
+654,CMR,Louise Lisane MBAS,+2,1 - 3,0,960 / 2,https://bwfbadminton.com/player/76840/louise-lisane-mbas,76840
+656,GER,Annalena DIKS,+2,8 - 9,0,950 / 2,https://bwfbadminton.com/player/98100/annalena-diks,98100
+656,GHA,Jennifer ABITTY,+2,2 - 4,0,950 / 2,https://bwfbadminton.com/player/88228/jennifer-abitty,88228
+656,GER,Theresa ISENBERG,+2,0 - 4,0,950 / 2,https://bwfbadminton.com/player/70420/theresa-isenberg,70420
+656,GER,Brid STEPPER,+2,5 - 12,0,950 / 2,https://bwfbadminton.com/player/98162/brid-stepper,98162
+656,EST,Mari Ann KARJUS,+2,22 - 32,0,950 / 2,https://bwfbadminton.com/player/62746/mari-ann-karjus,62746
+661,IND,Dapasha JOSHI,+2,0 - 3,0,930 / 3,https://bwfbadminton.com/player/92240/dapasha-joshi,92240
+662,BRA,Tamires SANTOS,0,0 - 0,0,920 / 1,https://bwfbadminton.com/player/84917/tamires-santos,84917
+662,TPE,HUANG Yu-Hsun,+2,4 - 3,0,920 / 1,https://bwfbadminton.com/player/97685/huang-yu-hsun,97685
+662,TPE,TUNG Ciou-Tong,+2,3 - 2,0,920 / 1,https://bwfbadminton.com/player/61614/tung-ciou-tong,61614
+662,ALG,Bounaas MELISSA,+2,0 - 1,0,920 / 1,https://bwfbadminton.com/player/58544/bounaas-melissa,58544
+662,IRI,Nastaran KARAMI,+2,0 - 1,0,920 / 1,https://bwfbadminton.com/player/84543/nastaran-karami,84543
+662,IRI,Hananeh YAGHOBZADEH,+2,0 - 0,0,920 / 1,https://bwfbadminton.com/player/60488/hananeh-yaghobzadeh,60488
+662,USA,Vanessa YANG,+2,0 - 0,0,920 / 1,https://bwfbadminton.com/player/68531/vanessa-yang,68531
+662,CAN,Eliana ZHANG,+2,0 - 1,0,920 / 1,https://bwfbadminton.com/player/70079/eliana-zhang,70079
+662,MAD,Soaniaina RAZANAMALY,+2,0 - 0,0,920 / 1,https://bwfbadminton.com/player/69095/soaniaina-razanamaly,69095
+662,RSA,Chantall MCCARTHY,+2,0 - 0,0,920 / 1,https://bwfbadminton.com/player/82825/chantall-mccarthy,82825
+662,IRL,Rachael WOODS,+2,18 - 9,0,920 / 1,https://bwfbadminton.com/player/84777/rachael-woods,84777
+662,BOT,Leungo MOOKETS,+2,0 - 0,0,920 / 1,https://bwfbadminton.com/player/94702/leungo-mookets,94702
+662,BOT,Natalie MPHINYAE,+2,0 - 0,0,920 / 1,https://bwfbadminton.com/player/93515/natalie-mphinyae,93515
+662,TTO,Chequeda DE BOULET,+2,2 - 4,0,920 / 1,https://bwfbadminton.com/player/83488/chequeda-de-boulet,83488
+662,PAK,Zubaira BUTT,+2,0 - 0,0,920 / 1,https://bwfbadminton.com/player/79908/zubaira-butt,79908
+662,THA,Kotchasorn PHANAK,+2,0 - 0,0,920 / 1,https://bwfbadminton.com/player/76795/kotchasorn-phanak,76795
+662,THA,Ajjima TONGCHAI,+2,0 - 0,0,920 / 1,https://bwfbadminton.com/player/60134/ajjima-tongchai,60134
+662,CYP,Anastasia ZINTSIDOU,+2,18 - 11,0,920 / 1,https://bwfbadminton.com/player/68882/anastasia-zintsidou,68882
+662,MAS,Chloe Jennifer WHITTINGTON,+2,11 - 6,0,920 / 1,https://bwfbadminton.com/player/73400/chloe-jennifer-whittington,73400
+662,DOM,Liseth SOSA,+2,1 - 2,0,920 / 1,https://bwfbadminton.com/player/60623/liseth-sosa,60623
+662,DOM,Lia LOCKWARD,+2,0 - 3,0,920 / 1,https://bwfbadminton.com/player/90379/lia-lockward,90379
+662,DOM,Clarisa PIE,+2,1 - 4,0,920 / 1,https://bwfbadminton.com/player/68661/clarisa-pie,68661
+662,DOM,Mileiky ACOSTA,+2,2 - 4,0,920 / 1,https://bwfbadminton.com/player/72795/mileiky-acosta,72795
+662,INA,Desima Aqmar SYARAFINA,+2,5 - 6,0,920 / 1,https://bwfbadminton.com/player/79426/desima-aqmar-syarafina,79426
+662,INA,Elok MACHSUNNAH,+2,0 - 1,0,920 / 1,https://bwfbadminton.com/player/91134/elok-machsunnah,91134
+662,INA,Aisha Galuh MAHESWARI,+2,19 - 9,0,920 / 1,https://bwfbadminton.com/player/99479/aisha-galuh-maheswari,99479
+662,PAR,Megu MINODA,+2,0 - 1,0,920 / 1,https://bwfbadminton.com/player/71827/megu-minoda,71827
+662,BRA,Rosalina De SOUZA,+2,0 - 1,0,920 / 1,https://bwfbadminton.com/player/63492/rosalina-de-souza,63492
+662,PAR,Camila Dahiana ALVAREZ BENITEZ,+2,0 - 1,0,920 / 1,https://bwfbadminton.com/player/56338/camila-dahiana-alvarez-benitez,56338
+662,ESA,Katherine Sarai LARA GUZMAN,+2,1 - 6,0,920 / 1,https://bwfbadminton.com/player/79834/katherine-sarai-lara-guzman,79834
+662,ETH,Mako TAKAHASHI,+2,1 - 1,0,920 / 1,https://bwfbadminton.com/player/89913/mako-takahashi,89913
+662,AUS,Stephanie FAN,+2,3 - 2,$28.00,920 / 1,https://bwfbadminton.com/player/66448/stephanie-fan,66448
+662,AUS,Amelia LOWE,+2,3 - 3,$28.00,920 / 1,https://bwfbadminton.com/player/96404/amelia-lowe,96404
+662,UKR,Valyeriya MASAYLO,+2,8 - 5,0,920 / 1,https://bwfbadminton.com/player/55720/valyeriya-masaylo,55720
+662,UKR,Mariia KALIUZHNA,+2,1 - 2,0,920 / 1,https://bwfbadminton.com/player/63951/mariia-kaliuzhna,63951
+662,CMR,Louise Reine MBIDA MBIDA,+2,0 - 1,0,920 / 1,https://bwfbadminton.com/player/88315/louise-reine-mbida-mbida,88315
+662,MGL,Davkharbayar DULAMRAGCHAA,+2,0 - 1,$28.00,920 / 1,https://bwfbadminton.com/player/89811/davkharbayar-dulamragchaa,89811
+662,MGL,Khaliun ERKHEMZAYA,+2,0 - 1,$28.00,920 / 1,https://bwfbadminton.com/player/61547/khaliun-erkhemzaya,61547
+662,MGL,Uuriintsolmon SANSARBAATAR,+2,0 - 1,$28.00,920 / 1,https://bwfbadminton.com/player/83529/uuriintsolmon-sansarbaatar,83529
+662,MGL,Uuriintsolmon SANSARBAATAR,+2,0 - 1,$28.00,920 / 1,https://bwfbadminton.com/player/83529/uuriintsolmon-sansarbaatar,83529
+662,MGL,Uurtsaikh ERKHEMBAYAR,+2,0 - 1,$28.00,920 / 1,https://bwfbadminton.com/player/99353/uurtsaikh-erkhembayar,99353
+662,MGL,Davaasuren JARGALSAIKHAN,+2,0 - 1,$28.00,920 / 1,https://bwfbadminton.com/player/87867/davaasuren-jargalsaikhan,87867
+662,MRI,Kritisha MUNGRAH,+2,1 - 2,0,920 / 1,https://bwfbadminton.com/player/69078/kritisha-mungrah,69078
+662,CHN,SHAO Jingjing,+2,0 - 1,0,920 / 1,https://bwfbadminton.com/player/98500/shao-jingjing,98500
+662,JPN,Rumi YOSHIDA,+2,2 - 2,0,920 / 1,https://bwfbadminton.com/player/78269/rumi-yoshida,78269
+662,JPN,Chihiro UCHIYAMA,+2,0 - 2,0,920 / 1,https://bwfbadminton.com/player/63847/chihiro-uchiyama,63847
+662,JPN,Saya MORI,+2,2 - 2,0,920 / 1,https://bwfbadminton.com/player/58356/saya-mori,58356
+662,PER,Adriana BERNALES PINILLOS,+2,0 - 1,0,920 / 1,https://bwfbadminton.com/player/82472/adriana-bernales-pinillos,82472
+662,BRA,Gabriele PEREIRA,+2,1 - 2,$70.00,920 / 1,https://bwfbadminton.com/player/95174/gabriele-pereira,95174
+662,IRI,Elahe SEPIDAN,+2,0 - 1,0,920 / 1,https://bwfbadminton.com/player/84751/elahe-sepidan,84751
+662,IRI,Paria ESKANDARI,+2,1 - 2,0,920 / 1,https://bwfbadminton.com/player/82341/paria-eskandari,82341
+662,IRI,Taravat ALINEZHAD,+2,1 - 2,0,920 / 1,https://bwfbadminton.com/player/79539/taravat-alinezhad,79539
+662,IRI,Nazanin ZAMANI,+2,2 - 1,0,920 / 1,https://bwfbadminton.com/player/65167/nazanin-zamani,65167
+662,ENG,Abbygael HARRIS,+2,9 - 9,0,920 / 1,https://bwfbadminton.com/player/61095/abbygael-harris,61095
+662,IND,PRANALI KARANI,+2,0 - 1,0,920 / 1,https://bwfbadminton.com/player/59841/pranali-karani,59841
+662,KOR,LEE Ji Hye,+2,5 - 2,0,920 / 1,https://bwfbadminton.com/player/63747/lee-ji-hye,63747
+662,CUB,Adaivis ROBINSON GARCIA,+2,1 - 2,0,920 / 1,https://bwfbadminton.com/player/76576/adaivis-robinson-garcia,76576
+662,UGA,Fatuma NABIRUNGI,+2,1 - 1,0,920 / 1,https://bwfbadminton.com/player/59102/fatuma-nabirungi,59102
+662,REU,Isabelle LAI-CHEUNG KIT,+2,2 - 2,0,920 / 1,https://bwfbadminton.com/player/85421/isabelle-lai-cheung-kit,85421
+662,INA,Alya Rahma MULYANI,+2,12 - 12,0,920 / 1,https://bwfbadminton.com/player/97286/alya-rahma-mulyani,97286
+662,ZAM,Towela GONDWE,+2,1 - 2,0,920 / 1,https://bwfbadminton.com/player/57584/towela-gondwe,57584
+662,MGL,Khaliunaa BYAMBAA,+2,0 - 3,$45.50,920 / 1,https://bwfbadminton.com/player/60646/khaliunaa-byambaa,60646
+662,MGL,Dashdondov BULGAMAA,+2,0 - 3,$45.50,920 / 1,https://bwfbadminton.com/player/78496/dashdondov-bulgamaa,78496
+662,JPN,Hirari MIZUI,+2,18 - 7,0,920 / 1,https://bwfbadminton.com/player/64901/hirari-mizui,64901
+662,IRI,HAMEDANCHI AZAD Hale,+2,1 - 1,0,920 / 1,https://bwfbadminton.com/player/57231/hamedanchi-azad-hale,57231
+662,NGR,Grace IJADARE,+2,1 - 4,0,920 / 1,https://bwfbadminton.com/player/58417/grace-ijadare,58417
+662,NGR,Felicia OMOTOLA,+2,3 - 3,0,920 / 1,https://bwfbadminton.com/player/86524/felicia-omotola,86524
+662,NGR,Asisat OGUNKANBI,+2,5 - 4,0,920 / 1,https://bwfbadminton.com/player/90833/asisat-ogunkanbi,90833
+662,THA,Kunjira KHONGDEE,+2,17 - 18,$70.00,920 / 1,https://bwfbadminton.com/player/96952/kunjira-khongdee,96952
+662,ARG,Barbara Maria BERRUEZO,+2,2 - 8,$52.50,920 / 1,https://bwfbadminton.com/player/76011/barbara-maria-berruezo,76011
+662,NGR,Peace ORJI,+2,3 - 4,0,920 / 1,https://bwfbadminton.com/player/96726/peace-orji,96726
+662,NGR,Amin Yop CHRISTOPHER,+2,6 - 5,$52.50,920 / 1,https://bwfbadminton.com/player/71838/amin-yop-christopher,71838
+662,TUR,Nazlıcan INCI,+2,43 - 27,0,920 / 1,https://bwfbadminton.com/player/73023/nazl%C4%B1can-inci,73023
+662,ARG,Florencia BERNATENE,+2,1 - 27,0,920 / 1,https://bwfbadminton.com/player/90876/florencia-bernatene,90876
+662,JOR,Haneen Derar AL-WEDYAN,+2,3 - 8,$70.00,920 / 1,https://bwfbadminton.com/player/89134/haneen-derar-al-wedyan,89134
+662,ETH,BELETE Melat,+2,1 - 7,0,920 / 1,https://bwfbadminton.com/player/84458/belete-melat,84458
+662,IND,Revati DEVASTHALE,+2,6 - 5,$28.00,920 / 1,https://bwfbadminton.com/player/96882/revati-devasthale,96882
+662,JPN,Anna DOI,+2,16 - 8,"$1,860.00",920 / 1,https://bwfbadminton.com/player/88473/anna-doi,88473
+662,JPN,Chisato HOSHI,-301,48 - 23,"$9,565.50",920 / 1,https://bwfbadminton.com/player/65751/chisato-hoshi,65751
+662,BUL,Eva TONEVA,+2,5 - 7,0,920 / 1,https://bwfbadminton.com/player/90864/eva-toneva,90864
+662,BOT,Orefilwe KOLOLO,+2,0 - 5,0,920 / 1,https://bwfbadminton.com/player/93364/orefilwe-kololo,93364
+662,BOT,Tebogo NDZINGE,+2,5 - 10,0,920 / 1,https://bwfbadminton.com/player/66474/tebogo-ndzinge,66474
+662,IRI,Elnaz FEIZMANESH,+2,6 - 7,$120.00,920 / 1,https://bwfbadminton.com/player/88751/elnaz-feizmanesh,88751
+662,TPE,SU Hsiang Ling,+2,6 - 8,$192.50,920 / 1,https://bwfbadminton.com/player/83662/su-hsiang-ling,83662
+662,IRI,Yosra BEIGI,+2,10 - 12,$242.50,920 / 1,https://bwfbadminton.com/player/56262/yosra-beigi,56262
+662,UKR,POTAPENKO Tetyana,+2,7 - 7,0,920 / 1,https://bwfbadminton.com/player/31722/potapenko-tetyana,31722
+662,MAR,Rajae ROCHDY,+2,20 - 45,$882.50,920 / 1,https://bwfbadminton.com/player/89791/rajae-rochdy,89791
+662,INA,Aprillia YUSWANDARI,+2,109 - 96,"$30,095.00",920 / 1,https://bwfbadminton.com/player/15828/aprillia-yuswandari,15828
+662,VIE,Thi Sen NGUYEN,+2,17 - 27,$458.75,920 / 1,https://bwfbadminton.com/player/79637/thi-sen-nguyen,79637
+751,SVK,Alzbeta PERUNSKA,+3,4 - 11,0,917 / 5,https://bwfbadminton.com/player/80099/alzbeta-perunska,80099
+752,DEN,Anna BYGUM,+3,3 - 2,0,910 / 3,https://bwfbadminton.com/player/88185/anna-bygum,88185
+752,ROU,Luiza MILU,+3,9 - 13,0,910 / 3,https://bwfbadminton.com/player/78038/luiza-milu,78038
+752,UGA,Daisy NAKALYANGO,+3,13 - 26,0,910 / 3,https://bwfbadminton.com/player/48833/daisy-nakalyango,48833
+755,MAS,LEONG Mei Chin,+3,0 - 3,0,910 / 2,https://bwfbadminton.com/player/65247/leong-mei-chin,65247
+755,IND,Deepali GUPTA,+3,5 - 6,0,910 / 2,https://bwfbadminton.com/player/75519/deepali-gupta,75519
+757,GUA,BARRIOS Heidy Dallana,+3,0 - 3,0,900 / 2,https://bwfbadminton.com/player/54995/barrios-heidy-dallana,54995
+757,GRE,Rafailia MERTZEMEKI,+3,0 - 3,0,900 / 2,https://bwfbadminton.com/player/95817/rafailia-mertzemeki,95817
+757,GRE,Stefania KONSTANTAKATOU,+3,0 - 12,0,900 / 2,https://bwfbadminton.com/player/78865/stefania-konstantakatou,78865
+757,ESA,Camila NAVAS,+3,1 - 8,0,900 / 2,https://bwfbadminton.com/player/71275/camila-navas,71275
+757,GRE,Eleni MOUTEVELIDOU,+3,7 - 17,0,900 / 2,https://bwfbadminton.com/player/96134/eleni-moutevelidou,96134
+757,GRE,Maria-Eleni ROUGLIOU,+3,9 - 15,0,900 / 2,https://bwfbadminton.com/player/96065/maria-eleni-rougliou,96065
+757,GRE,Pantelia BARTZOU,+3,8 - 16,0,900 / 2,https://bwfbadminton.com/player/75004/pantelia-bartzou,75004
+764,AUT,Katrin NEUDOLT,+4,18 - 34,0,880 / 5,https://bwfbadminton.com/player/87854/katrin-neudolt,87854
+765,IRL,Moya RYAN,+4,10 - 15,0,863 / 3,https://bwfbadminton.com/player/58337/moya-ryan,58337
+766,HKG,YEUNG Sum Yee,+4,27 - 21,"$1,400.00",860 / 2,https://bwfbadminton.com/player/74916/yeung-sum-yee,74916
+767,CAN,Talia NG,+4,4 - 4,0,829 / 2,https://bwfbadminton.com/player/69393/talia-ng,69393
+768,CAN,Catherine CHOI,+4,2 - 3,0,816 / 2,https://bwfbadminton.com/player/57791/catherine-choi,57791
+769,FRA,Ainoa DESMONS,+4,17 - 11,0,810 / 3,https://bwfbadminton.com/player/70645/ainoa-desmons,70645
+770,AUT,Jenny ERTL,+4,9 - 12,0,800 / 4,https://bwfbadminton.com/player/97859/jenny-ertl,97859
+771,TUR,Arzu DELIBALTA,+4,2 - 9,0,800 / 3,https://bwfbadminton.com/player/73612/arzu-delibalta,73612
+772,USA,Lauren LAM,+4,11 - 2,0,800 / 2,https://bwfbadminton.com/player/69091/lauren-lam,69091
+773,POR,Adriana F. GONCALVES,-6,3 - 20,0,785 / 6,https://bwfbadminton.com/player/56466/adriana-f-goncalves,56466
+774,POL,Daniela BIELINSKA,+3,2 - 14,0,780 / 3,https://bwfbadminton.com/player/80785/daniela-bielinska,80785
+774,ENG,Evie BURBIDGE,+3,15 - 17,0,780 / 3,https://bwfbadminton.com/player/56534/evie-burbidge,56534
+776,ROU,Maria Alexandra DUTU,+3,15 - 37,0,760 / 3,https://bwfbadminton.com/player/94885/maria-alexandra-dutu,94885
+777,TUR,Betul SONER,+3,13 - 10,0,760 / 2,https://bwfbadminton.com/player/78453/betul-soner,78453
+778,LAT,Liana LENCEVICA,+3,7 - 29,0,757 / 6,https://bwfbadminton.com/player/56752/liana-lencevica,56752
+779,MAC,Chi Leng KUAN,+4,1 - 11,0,750 / 2,https://bwfbadminton.com/player/90855/chi-leng-kuan,90855
+780,CIV,Nogona Celine BAKAYOKO,+4,3 - 3,0,730 / 2,https://bwfbadminton.com/player/62120/nogona-celine-bakayoko,62120
+781,SVK,Lucia GRENCIKOVA,+4,11 - 21,0,727 / 3,https://bwfbadminton.com/player/96335/lucia-grencikova,96335
+782,SVK,Katarina VARGOVA,+4,18 - 30,0,726 / 2,https://bwfbadminton.com/player/82827/katarina-vargova,82827
+783,POR,Mariana CHANG,+4,12 - 22,0,725 / 5,https://bwfbadminton.com/player/90777/mariana-chang,90777
+784,IND,Prashi JOSHI,+4,9 - 9,$21.00,720 / 2,https://bwfbadminton.com/player/99019/prashi-joshi,99019
+784,IND,Gauri ASAJI,+4,2 - 5,0,720 / 2,https://bwfbadminton.com/player/87106/gauri-asaji,87106
+786,ISR,Margeret LURIE,+4,2 - 4,0,715 / 2,https://bwfbadminton.com/player/77682/margeret-lurie,77682
+787,BEN,Adjele Joeline DEGBEY,+4,0 - 2,0,710 / 2,https://bwfbadminton.com/player/76644/adjele-joeline-degbey,76644
+788,ENG,Alexandra OPRISAN,+4,11 - 12,0,700 / 2,https://bwfbadminton.com/player/83228/alexandra-oprisan,83228
+788,GER,Alicia MOLITOR,+4,2 - 6,0,700 / 2,https://bwfbadminton.com/player/87987/alicia-molitor,87987
+788,BEN,Aubierge DOHOUNGBO,+4,1 - 3,0,700 / 2,https://bwfbadminton.com/player/77006/aubierge-dohoungbo,77006
+788,CIV,Allathin Shella N'GUESSAN,+4,0 - 3,0,700 / 2,https://bwfbadminton.com/player/80518/allathin-shella-n-guessan,80518
+788,POR,Mariana PINTO LEITE,+4,10 - 14,0,700 / 2,https://bwfbadminton.com/player/58813/mariana-pinto-leite,58813
+788,ISR,Yuval PUGACH,+4,7 - 13,0,700 / 2,https://bwfbadminton.com/player/61046/yuval-pugach,61046
+794,GRE,Georgia ANASTASIOU,+4,2 - 4,0,680 / 2,https://bwfbadminton.com/player/99566/georgia-anastasiou,99566
+794,THA,Ornnicha JONGSATHAPORNPARN,+4,13 - 17,0,680 / 2,https://bwfbadminton.com/player/99988/ornnicha-jongsathapornparn,99988
+796,IRL,Kate FROST,+4,7 - 10,0,676 / 3,https://bwfbadminton.com/player/58478/kate-frost,58478
+797,MAS,KONG Yi Jin,+4,0 - 2,0,670 / 3,https://bwfbadminton.com/player/57931/kong-yi-jin,57931
+798,KOR,Ji Hye LEE,+5,0 - 0,0,660 / 1,https://bwfbadminton.com/player/82470/ji-hye-lee,82470
+798,KOR,Ye Jin CHOI,+5,8 - 5,0,660 / 1,https://bwfbadminton.com/player/71085/ye-jin-choi,71085
+798,INA,Khaeriah ROSMINI,+5,1 - 1,0,660 / 1,https://bwfbadminton.com/player/93420/khaeriah-rosmini,93420
+798,INA,Khaeriah ROSMINI,+5,1 - 1,0,660 / 1,https://bwfbadminton.com/player/93420/khaeriah-rosmini,93420
+798,SUI,Jenjira STADELMANN,+5,25 - 13,$140.40,660 / 1,https://bwfbadminton.com/player/59566/jenjira-stadelmann,59566
+798,FRA,Juliette MOINARD,+5,12 - 11,0,660 / 1,https://bwfbadminton.com/player/75759/juliette-moinard,75759
+798,MAC,CHAN Kit Lei,+5,2 - 6,0,660 / 1,https://bwfbadminton.com/player/93457/chan-kit-lei,93457
+798,NZL,Caragh ALLEY,+5,1 - 4,$175.00,660 / 1,https://bwfbadminton.com/player/74893/caragh-alley,74893
+798,KOR,Bo Hyun KI,+5,4 - 4,0,660 / 1,https://bwfbadminton.com/player/66854/bo-hyun-ki,66854
+798,IND,Sanyogita GHORPADE,+5,9 - 8,$562.50,660 / 1,https://bwfbadminton.com/player/57564/sanyogita-ghorpade,57564
+798,AUT,Elisabeth BALDAUF,+5,73 - 49,"$5,352.50",660 / 1,https://bwfbadminton.com/player/85440/elisabeth-baldauf,85440
+809,IND,Manali SINHA,+5,3 - 3,0,650 / 2,https://bwfbadminton.com/player/82147/manali-sinha,82147
+809,THA,Phanitta SANGKAWATANA,+5,7 - 15,$187.50,650 / 2,https://bwfbadminton.com/player/81725/phanitta-sangkawatana,81725
+811,BLR,Maryana VIARBITSKAYA,+5,11 - 15,0,640 / 4,https://bwfbadminton.com/player/86613/maryana-viarbitskaya,86613
+812,DEN,Emilie AALESTRUP,+5,1 - 5,0,620 / 3,https://bwfbadminton.com/player/58394/emilie-aalestrup,58394
+813,DEN,Anne FUGLSANG,+5,5 - 4,0,620 / 2,https://bwfbadminton.com/player/72821/anne-fuglsang,72821
+814,TPE,TSAI Hsin-Pei,+5,2 - 3,0,600 / 1,https://bwfbadminton.com/player/89473/tsai-hsin-pei,89473
+814,ALG,Ferd HOUDA,+5,0 - 1,0,600 / 1,https://bwfbadminton.com/player/66091/ferd-houda,66091
+814,SWE,Althea LJUNGQVIST,+5,2 - 2,0,600 / 1,https://bwfbadminton.com/player/68912/althea-ljungqvist,68912
+814,COD,Mbuyi Bernice BOKOTSHA,+5,0 - 1,0,600 / 1,https://bwfbadminton.com/player/68122/mbuyi-bernice-bokotsha,68122
+814,NGR,Aminat Oluwafunke ILORI,+5,1 - 1,0,600 / 1,https://bwfbadminton.com/player/82011/aminat-oluwafunke-ilori,82011
+814,ROU,Madalina ILIE,+5,4 - 6,0,600 / 1,https://bwfbadminton.com/player/81521/madalina-ilie,81521
+814,CMR,Laeticia GUEFACK GHOMSI,+5,2 - 2,0,600 / 1,https://bwfbadminton.com/player/66758/laeticia-guefack-ghomsi,66758
+814,SWE,Berfin ASLAN,+5,7 - 14,0,600 / 1,https://bwfbadminton.com/player/73322/berfin-aslan,73322
+822,POL,Aneta NIKLAS,+5,0 - 8,0,580 / 3,https://bwfbadminton.com/player/87094/aneta-niklas,87094
+823,AUT,Katharina HOCHMEIR,+5,12 - 17,0,570 / 3,https://bwfbadminton.com/player/85127/katharina-hochmeir,85127
+824,MAS,Karupathevan LETSHANAA,+5,1 - 6,0,570 / 2,https://bwfbadminton.com/player/59367/karupathevan-letshanaa,59367
+824,RUS,Anastasiia SHAPOVALOVA,+5,34 - 17,0,570 / 2,https://bwfbadminton.com/player/70379/anastasiia-shapovalova,70379
+824,RUS,Anastasia OSIYANENKO,+5,21 - 12,0,570 / 2,https://bwfbadminton.com/player/67784/anastasia-osiyanenko,67784
+824,FIN,Tuuli HÄRKÖNEN,+5,4 - 18,0,570 / 2,https://bwfbadminton.com/player/95544/tuuli-hAerkOenen,95544
+828,FIN,Maija KRZYWACKI,+5,26 - 20,0,560 / 2,https://bwfbadminton.com/player/68022/maija-krzywacki,68022
+828,TUR,Sevval Buse ALSOY,+5,2 - 5,0,560 / 2,https://bwfbadminton.com/player/86126/sevval-buse-alsoy,86126
+830,CZE,Veronika KUBEČKOVÁ,+5,0 - 10,0,550 / 3,https://bwfbadminton.com/player/59019/veronika-kube%C4%8Ckova,59019
+830,TUR,Buse CEYLAN,+5,4 - 10,0,550 / 3,https://bwfbadminton.com/player/89222/buse-ceylan,89222
+832,PER,Valeria Carolina WONG LAM,+5,1 - 2,0,550 / 2,https://bwfbadminton.com/player/65447/valeria-carolina-wong-lam,65447
+833,ENG,Natalia MITCHELL,+5,1 - 2,0,550 / 1,https://bwfbadminton.com/player/85972/natalia-mitchell,85972
+833,DEN,Sarah Frederikke VISHART,+5,6 - 3,0,550 / 1,https://bwfbadminton.com/player/75614/sarah-frederikke-vishart,75614
+833,BHU,Phuntsho Choden THINGH,+5,0 - 1,0,550 / 1,https://bwfbadminton.com/player/84186/phuntsho-choden-thingh,84186
+833,NEP,Jessica GURUNG,+5,0 - 1,0,550 / 1,https://bwfbadminton.com/player/83437/jessica-gurung,83437
+833,IRI,Fatemeh BABAEI,+5,0 - 1,0,550 / 1,https://bwfbadminton.com/player/82046/fatemeh-babaei,82046
+833,ZAM,Annet NJOBVU,+5,0 - 0,0,550 / 1,https://bwfbadminton.com/player/56828/annet-njobvu,56828
+833,ZAM,Nakubiana SITONDO,+5,0 - 0,0,550 / 1,https://bwfbadminton.com/player/61796/nakubiana-sitondo,61796
+833,ZAM,Mwansa ESTHER,+5,0 - 0,0,550 / 1,https://bwfbadminton.com/player/92252/mwansa-esther,92252
+833,IND,Kaivalya Lakshmi YADAVALLI,+5,0 - 0,0,550 / 1,https://bwfbadminton.com/player/99418/kaivalya-lakshmi-yadavalli,99418
+833,IND,Ananya GOEL,+5,0 - 0,0,550 / 1,https://bwfbadminton.com/player/84967/ananya-goel,84967
+833,BOT,Dolly GOLEANYE,+5,0 - 0,0,550 / 1,https://bwfbadminton.com/player/74089/dolly-goleanye,74089
+833,BOT,Catherine WAHENG,+5,0 - 0,0,550 / 1,https://bwfbadminton.com/player/56064/catherine-waheng,56064
+833,BOT,Gaone KEABETSWE,+5,0 - 0,0,550 / 1,https://bwfbadminton.com/player/66686/gaone-keabetswe,66686
+833,BOT,Onneile Katlego MOISAEMANG,+5,0 - 0,0,550 / 1,https://bwfbadminton.com/player/55445/onneile-katlego-moisaemang,55445
+833,BOT,Amogelang KGAKOLE,+5,0 - 0,0,550 / 1,https://bwfbadminton.com/player/97848/amogelang-kgakole,97848
+833,BOT,Patience MOLEFE,+5,0 - 0,0,550 / 1,https://bwfbadminton.com/player/70174/patience-molefe,70174
+833,BOT,Onkutlule MABUSE,+5,0 - 1,0,550 / 1,https://bwfbadminton.com/player/86689/onkutlule-mabuse,86689
+833,BAR,Cheyanna BURNETT-GRIFFITH,+5,1 - 1,0,550 / 1,https://bwfbadminton.com/player/85920/cheyanna-burnett-griffith,85920
+833,THA,Ramita UTSANON,+5,0 - 0,0,550 / 1,https://bwfbadminton.com/player/91030/ramita-utsanon,91030
+833,THA,Buntita WIANGKAM,+5,0 - 0,0,550 / 1,https://bwfbadminton.com/player/69412/buntita-wiangkam,69412
+833,THA,Piyaporn THIANGARROM,+5,0 - 0,0,550 / 1,https://bwfbadminton.com/player/96001/piyaporn-thiangarrom,96001
+833,THA,Thipthida KHONGSON,+5,1 - 2,0,550 / 1,https://bwfbadminton.com/player/61009/thipthida-khongson,61009
+833,LAO,Mimi SIXOMXEUANE,+5,0 - 0,0,550 / 1,https://bwfbadminton.com/player/87834/mimi-sixomxeuane,87834
+833,THA,Chanoknan KAEWKHAM,+5,0 - 0,0,550 / 1,https://bwfbadminton.com/player/79183/chanoknan-kaewkham,79183
+833,THA,Siwarat SANGNATE,+5,0 - 0,0,550 / 1,https://bwfbadminton.com/player/82660/siwarat-sangnate,82660
+833,LAO,Onlyone PHOUANGMALA,+5,0 - 0,0,550 / 1,https://bwfbadminton.com/player/82560/onlyone-phouangmala,82560
+833,THA,Peeraya KHANTARUANGSAKUL,+5,3 - 3,0,550 / 1,https://bwfbadminton.com/player/50569/peeraya-khantaruangsakul,50569
+833,EGY,Ganna TAREK MOHAMED REDA ELWAZERY,+5,4 - 3,0,550 / 1,https://bwfbadminton.com/player/83702/ganna-tarek-mohamed-reda-elwazery,83702
+833,DOM,Kahina Lucero VASQUEZ FERRERAS,+5,0 - 2,0,550 / 1,https://bwfbadminton.com/player/96744/kahina-lucero-vasquez-ferreras,96744
+833,DOM,Daly FLORIAN,+5,0 - 2,0,550 / 1,https://bwfbadminton.com/player/92175/daly-florian,92175
+833,DOM,Daniela ACOSTA,+5,0 - 2,0,550 / 1,https://bwfbadminton.com/player/86993/daniela-acosta,86993
+833,DOM,Alisa Juleisy ACOSTA,+5,0 - 2,0,550 / 1,https://bwfbadminton.com/player/98560/alisa-juleisy-acosta,98560
+833,DOM,Lisette SANTANA,+5,0 - 2,0,550 / 1,https://bwfbadminton.com/player/72180/lisette-santana,72180
+833,DOM,Romaira LABOUR,+5,0 - 1,0,550 / 1,https://bwfbadminton.com/player/82934/romaira-labour,82934
+833,DOM,Megan GARRIDO,+5,0 - 3,0,550 / 1,https://bwfbadminton.com/player/79867/megan-garrido,79867
+833,PAN,Kelly YAU,+5,0 - 2,0,550 / 1,https://bwfbadminton.com/player/63230/kelly-yau,63230
+833,PAN,Michelle HERNANDEZ ADAMES,+5,0 - 1,0,550 / 1,https://bwfbadminton.com/player/95075/michelle-hernandez-adames,95075
+833,ESA,Daniela HERNANDEZ,+5,2 - 3,0,550 / 1,https://bwfbadminton.com/player/83786/daniela-hernandez,83786
+833,ETH,Eyeruse DEREJE,+5,0 - 1,0,550 / 1,https://bwfbadminton.com/player/93342/eyeruse-dereje,93342
+833,ETH,Elisabeth SEIFE,+5,0 - 1,0,550 / 1,https://bwfbadminton.com/player/81525/elisabeth-seife,81525
+833,ETH,Betlhem SOLOMON,+5,0 - 1,0,550 / 1,https://bwfbadminton.com/player/76511/betlhem-solomon,76511
+833,POL,Hanna SZYMANSKA,+5,6 - 8,0,550 / 1,https://bwfbadminton.com/player/62248/hanna-szymanska,62248
+833,POL,Dagmara PEKALA,+5,0 - 4,0,550 / 1,https://bwfbadminton.com/player/68166/dagmara-pekala,68166
+833,POL,Olga MIKSZA,+5,0 - 7,0,550 / 1,https://bwfbadminton.com/player/64322/olga-miksza,64322
+833,MEX,Jessica Jazmin BAUTISTA TRIGUEROS,+5,0 - 1,0,550 / 1,https://bwfbadminton.com/player/73275/jessica-jazmin-bautista-trigueros,73275
+833,MEX,Mixtli Azucena LUPERCIO MENDEZ,+5,0 - 2,0,550 / 1,https://bwfbadminton.com/player/77716/mixtli-azucena-lupercio-mendez,77716
+833,MEX,Karol SANDOVAL,+5,0 - 1,0,550 / 1,https://bwfbadminton.com/player/99661/karol-sandoval,99661
+833,AUS,Majan ALMAZAN,+5,0 - 3,0,550 / 1,https://bwfbadminton.com/player/71986/majan-almazan,71986
+833,AUS,Isabelle Tian Yi ZHANG,+5,0 - 2,0,550 / 1,https://bwfbadminton.com/player/78963/isabelle-tian-yi-zhang,78963
+833,GRE,Lemonia AMBERIADOU,+5,1 - 3,0,550 / 1,https://bwfbadminton.com/player/94340/lemonia-amberiadou,94340
+833,TUR,Gorkem Esra ERGINCAN,+5,8 - 4,0,550 / 1,https://bwfbadminton.com/player/64401/gorkem-esra-ergincan,64401
+833,USA,Maya CHEW,+5,0 - 1,0,550 / 1,https://bwfbadminton.com/player/59228/maya-chew,59228
+833,MAS,NG Qi Xuan,+5,10 - 14,0,550 / 1,https://bwfbadminton.com/player/82516/ng-qi-xuan,82516
+833,MAS,Sue Xin TIO,+5,1 - 1,0,550 / 1,https://bwfbadminton.com/player/58779/sue-xin-tio,58779
+833,MAS,LIM Jing Ning,+5,1 - 1,0,550 / 1,https://bwfbadminton.com/player/55749/lim-jing-ning,55749
+833,MRI,Nawsheen BAHEMIA,+5,0 - 2,0,550 / 1,https://bwfbadminton.com/player/60867/nawsheen-bahemia,60867
+833,MRI,Vilina APPIAH,+5,0 - 2,0,550 / 1,https://bwfbadminton.com/player/63440/vilina-appiah,63440
+833,REU,Loise LAW KWAI,+5,0 - 1,0,550 / 1,https://bwfbadminton.com/player/88990/loise-law-kwai,88990
+833,REU,Marthe GUICHARD,+5,0 - 1,0,550 / 1,https://bwfbadminton.com/player/60531/marthe-guichard,60531
+833,MRI,Bhavishasingh CANAYE,+5,0 - 1,0,550 / 1,https://bwfbadminton.com/player/84415/bhavishasingh-canaye,84415
+833,MRI,Jeisha CHINIAH,+5,0 - 2,0,550 / 1,https://bwfbadminton.com/player/61512/jeisha-chiniah,61512
+833,CHN,HUANG Qionghui,+5,2 - 1,0,550 / 1,https://bwfbadminton.com/player/58351/huang-qionghui,58351
+833,CUB,Yudima GARCIA VALDEZ,+5,0 - 1,0,550 / 1,https://bwfbadminton.com/player/91709/yudima-garcia-valdez,91709
+833,CUB,Camila PALACIO REYES,+5,0 - 1,0,550 / 1,https://bwfbadminton.com/player/92085/camila-palacio-reyes,92085
+833,CZE,Vendula ŠTROBLOVÁ,+5,0 - 2,0,550 / 1,https://bwfbadminton.com/player/87895/vendula-%C5%A0troblova,87895
+833,JAM,Tahlia RICHARDSON,+5,0 - 1,0,550 / 1,https://bwfbadminton.com/player/90267/tahlia-richardson,90267
+833,UGA,Bridget ATEGEKA,+5,1 - 1,0,550 / 1,https://bwfbadminton.com/player/68758/bridget-ategeka,68758
+833,NEP,Anu MAYA RAI,+5,0 - 2,0,550 / 1,https://bwfbadminton.com/player/97526/anu-maya-rai,97526
+833,NEP,Anu MAYA RAI,+5,0 - 2,0,550 / 1,https://bwfbadminton.com/player/97526/anu-maya-rai,97526
+833,ZAM,Ngoma NANDIPA,+5,0 - 1,0,550 / 1,https://bwfbadminton.com/player/92192/ngoma-nandipa,92192
+833,ZAM,Sakuwanda KUSOLU,+5,0 - 1,0,550 / 1,https://bwfbadminton.com/player/85897/sakuwanda-kusolu,85897
+833,DEN,Sofie NIELSEN,+5,3 - 3,0,550 / 1,https://bwfbadminton.com/player/87102/sofie-nielsen,87102
+833,DOM,Walkiris CESAR,+5,1 - 2,0,550 / 1,https://bwfbadminton.com/player/67833/walkiris-cesar,67833
+833,DOM,Carmen GARCIA,+5,0 - 3,0,550 / 1,https://bwfbadminton.com/player/90873/carmen-garcia,90873
+833,EGY,Yara AKRAM,+5,1 - 2,0,550 / 1,https://bwfbadminton.com/player/83934/yara-akram,83934
+833,PAK,Huma JAVEED,+5,0 - 1,$21.00,550 / 1,https://bwfbadminton.com/player/97821/huma-javeed,97821
+833,PAK,Javeria TAHIR,+5,0 - 1,$21.00,550 / 1,https://bwfbadminton.com/player/59440/javeria-tahir,59440
+833,PAK,Saba RASHEED,+5,2 - 1,$87.00,550 / 1,https://bwfbadminton.com/player/95025/saba-rasheed,95025
+833,ETH,Yirga FREHIWOT,+5,0 - 2,0,550 / 1,https://bwfbadminton.com/player/71683/yirga-frehiwot,71683
+833,ETH,Cheru HIBST,+5,0 - 2,0,550 / 1,https://bwfbadminton.com/player/70949/cheru-hibst,70949
+833,ETH,Workinesh TILAHUN,+5,0 - 2,0,550 / 1,https://bwfbadminton.com/player/78677/workinesh-tilahun,78677
+833,POL,Aleksandra FELSKA,+5,3 - 5,0,550 / 1,https://bwfbadminton.com/player/87345/aleksandra-felska,87345
+833,AUS,Kelly XU,+5,0 - 4,0,550 / 1,https://bwfbadminton.com/player/75435/kelly-xu,75435
+833,MEX,Vanessa Karmine VILLALOBOS VAZQUEZ,+5,7 - 6,0,550 / 1,https://bwfbadminton.com/player/80824/vanessa-karmine-villalobos-vazquez,80824
+833,MRI,Jemimah LEUNG FOR SANG,+5,0 - 3,0,550 / 1,https://bwfbadminton.com/player/94256/jemimah-leung-for-sang,94256
+833,INA,Winda Puji HASTUTI,+5,1 - 3,0,550 / 1,https://bwfbadminton.com/player/92105/winda-puji-hastuti,92105
+833,NED,Marleen KUIPERS,+5,0 - 2,0,550 / 1,https://bwfbadminton.com/player/82082/marleen-kuipers,82082
+833,CUB,Barbara Ines LA ROSA TORRES,+5,0 - 2,0,550 / 1,https://bwfbadminton.com/player/60231/barbara-ines-la-rosa-torres,60231
+833,JAM,Taina DAILEY,+5,2 - 2,$200.00,550 / 1,https://bwfbadminton.com/player/80100/taina-dailey,80100
+833,JAM,Shezelle MCTYSON,+5,1 - 2,$200.00,550 / 1,https://bwfbadminton.com/player/89190/shezelle-mctyson,89190
+833,UGA,Mellon NAHIRYA,+5,1 - 2,0,550 / 1,https://bwfbadminton.com/player/90598/mellon-nahirya,90598
+833,UGA,Salma MUTESI,+5,2 - 2,0,550 / 1,https://bwfbadminton.com/player/78246/salma-mutesi,78246
+833,UGA,Husina KOBUGABE,+5,2 - 3,0,550 / 1,https://bwfbadminton.com/player/96365/husina-kobugabe,96365
+833,MEX,Anahi Paola DE LA TORRE MARTINEZ,+5,3 - 4,0,550 / 1,https://bwfbadminton.com/player/62814/anahi-paola-de-la-torre-martinez,62814
+833,ZAM,Lorain MUMBA,+5,0 - 1,0,550 / 1,https://bwfbadminton.com/player/60855/lorain-mumba,60855
+833,ZAM,Matildah KALANDANYA,+5,1 - 1,0,550 / 1,https://bwfbadminton.com/player/78142/matildah-kalandanya,78142
+833,SUR,Chan YANG,+5,0 - 2,0,550 / 1,https://bwfbadminton.com/player/69601/chan-yang,69601
+833,NCL,Dgenyva MATAULI,+5,2 - 8,$28.00,550 / 1,https://bwfbadminton.com/player/72934/dgenyva-matauli,72934
+833,EGY,Hania MOHAMED GAMALELDIN,+5,2 - 2,0,550 / 1,https://bwfbadminton.com/player/87603/hania-mohamed-gamaleldin,87603
+833,EGY,Farida MOSTAFA,+5,2 - 7,0,550 / 1,https://bwfbadminton.com/player/55958/farida-mostafa,55958
+833,EGY,Rahma MOHAMED SAAD ELADAWY,+5,4 - 4,0,550 / 1,https://bwfbadminton.com/player/78895/rahma-mohamed-saad-eladawy,78895
+833,EGY,Salma ASHRAF MOHAMED,+5,4 - 3,0,550 / 1,https://bwfbadminton.com/player/70338/salma-ashraf-mohamed,70338
+833,ETH,Kidist HAILU,+5,0 - 3,0,550 / 1,https://bwfbadminton.com/player/72506/kidist-hailu,72506
+833,ETH,Tigist GETACHEW,+5,1 - 3,0,550 / 1,https://bwfbadminton.com/player/73894/tigist-getachew,73894
+833,SUR,Anjali PARAGSINGH,+5,2 - 4,0,550 / 1,https://bwfbadminton.com/player/72339/anjali-paragsingh,72339
+833,GUY,Priyanna RAMDHANI,+5,3 - 7,0,550 / 1,https://bwfbadminton.com/player/68576/priyanna-ramdhani,68576
+833,MRI,Lorna BODHA,+5,0 - 3,0,550 / 1,https://bwfbadminton.com/player/71132/lorna-bodha,71132
+833,CUB,Yuvisleydis RAMIREZ CHAPMAN,+5,0 - 3,0,550 / 1,https://bwfbadminton.com/player/55800/yuvisleydis-ramirez-chapman,55800
+833,IND,Seema PANCHAL,+5,1 - 10,0,550 / 1,https://bwfbadminton.com/player/86930/seema-panchal,86930
+833,NEP,Amita GIRI,+5,0 - 5,$42.00,550 / 1,https://bwfbadminton.com/player/74747/amita-giri,74747
+833,ZAM,Jenipher PHIRI,+5,1 - 6,0,550 / 1,https://bwfbadminton.com/player/88524/jenipher-phiri,88524
+833,SUR,Shemara LINDVELD,+5,0 - 4,0,550 / 1,https://bwfbadminton.com/player/76439/shemara-lindveld,76439
+833,TUR,Edanur KOYBASI,+5,6 - 13,0,550 / 1,https://bwfbadminton.com/player/99337/edanur-koybasi,99337
+833,MRI,Shania LEUNG,+5,2 - 10,0,550 / 1,https://bwfbadminton.com/player/91753/shania-leung,91753
+833,GRE,Zoi ALELI,+5,9 - 11,0,550 / 1,https://bwfbadminton.com/player/57268/zoi-aleli,57268
+833,ZAM,Mary CHILAMBE,+5,2 - 10,0,550 / 1,https://bwfbadminton.com/player/73995/mary-chilambe,73995
+833,MAR,Oumaima ELHERZ,+5,0 - 3,0,550 / 1,https://bwfbadminton.com/player/85553/oumaima-elherz,85553
+833,DOM,Anny Elizabeth SANCHEZ MATOS,+5,3 - 8,0,550 / 1,https://bwfbadminton.com/player/58887/anny-elizabeth-sanchez-matos,58887
+833,TTO,Arielle GOMEZ,+5,0 - 3,0,550 / 1,https://bwfbadminton.com/player/88191/arielle-gomez,88191
+833,CHN,FAN Mengyan,+5,12 - 10,"$2,675.00",550 / 1,https://bwfbadminton.com/player/88907/fan-mengyan,88907
+833,ZAM,Delphine NAKANYIKA,+5,4 - 14,0,550 / 1,https://bwfbadminton.com/player/42678/delphine-nakanyika,42678
+833,USA,Jennifer YEE,+5,2 - 6,$120.00,550 / 1,https://bwfbadminton.com/player/97223/jennifer-yee,97223
+833,ETH,MENGISTU Berhan,+5,0 - 5,0,550 / 1,https://bwfbadminton.com/player/59532/mengistu-berhan,59532
+833,ETH,DANIEL Mahlet,+5,2 - 4,0,550 / 1,https://bwfbadminton.com/player/78690/daniel-mahlet,78690
+833,ETH,BERHANU Samrawit,+5,6 - 7,0,550 / 1,https://bwfbadminton.com/player/81002/berhanu-samrawit,81002
+833,INA,Rosy Oktavia PANCASARI,+5,8 - 11,$52.50,550 / 1,https://bwfbadminton.com/player/65540/rosy-oktavia-pancasari,65540
+833,TTO,Leanna CASTANADA,+5,0 - 4,0,550 / 1,https://bwfbadminton.com/player/80407/leanna-castanada,80407
+833,INA,Guniarti RAFIKA MUTIARA,+5,5 - 13,$17.50,550 / 1,https://bwfbadminton.com/player/73506/guniarti-rafika-mutiara,73506
+833,ALG,Baya NESRINE,+5,3 - 8,0,550 / 1,https://bwfbadminton.com/player/30158/baya-nesrine,30158
+833,INA,Marsa Indah SALSABILA,+5,13 - 12,$890.00,550 / 1,https://bwfbadminton.com/player/84004/marsa-indah-salsabila,84004
+833,INA,Intan Dwi JAYANTI,+5,16 - 21,$302.50,550 / 1,https://bwfbadminton.com/player/71082/intan-dwi-jayanti,71082
+833,MAR,Ghita CHAROUITE,+5,1 - 11,0,550 / 1,https://bwfbadminton.com/player/95371/ghita-charouite,95371
+833,MAR,Jinane BITARIE,+5,0 - 8,0,550 / 1,https://bwfbadminton.com/player/85543/jinane-bitarie,85543
+833,UGA,Brenda AWOR,+5,6 - 10,0,550 / 1,https://bwfbadminton.com/player/23101/brenda-awor,23101
+833,SUR,Danielle MELCHIOT,+5,5 - 8,0,550 / 1,https://bwfbadminton.com/player/12905/danielle-melchiot,12905
+968,ZIM,Nyasha KOPOLO,+7,0 - 5,0,540 / 3,https://bwfbadminton.com/player/79758/nyasha-kopolo,79758
+968,ZIM,Kuzivakwashe Tritania MUDZAMIRI,+7,0 - 4,0,540 / 3,https://bwfbadminton.com/player/57358/kuzivakwashe-tritania-mudzamiri,57358
+970,RUS,Anastasia STOGOVA,+7,14 - 21,0,530 / 3,https://bwfbadminton.com/player/90786/anastasia-stogova,90786
+971,RUS,Liliia ABIBULAEVA,+7,2 - 4,$192.50,530 / 2,https://bwfbadminton.com/player/60952/liliia-abibulaeva,60952
+971,INA,Ganis Nur RAHMADANI,+7,13 - 15,$120.00,530 / 2,https://bwfbadminton.com/player/87924/ganis-nur-rahmadani,87924
+973,RUS,Yulia VASILYEVA,+7,10 - 15,0,520 / 3,https://bwfbadminton.com/player/75150/yulia-vasilyeva,75150
+974,UKR,Yevgeniya PAKSYUTOVA,+7,5 - 11,0,520 / 2,https://bwfbadminton.com/player/71783/yevgeniya-paksyutova,71783
+975,INA,PURWANINGTYAS Elyzabeth,+7,26 - 19,"$2,257.50",520 / 1,https://bwfbadminton.com/player/30083/purwaningtyas-elyzabeth,30083
+976,JPN,Rira KAWASHIMA,+7,20 - 6,"$1,285.25",510 / 1,https://bwfbadminton.com/player/99532/rira-kawashima,99532
+976,RUS,Marina DREMINA,+7,1 - 2,0,510 / 1,https://bwfbadminton.com/player/73075/marina-dremina,73075
+976,RUS,Vitaliya CHIGINTSEVA,+7,14 - 17,$175.00,510 / 1,https://bwfbadminton.com/player/58548/vitaliya-chigintseva,58548
+979,ENG,Chloe LE TISSIER,+7,2 - 4,0,480 / 3,https://bwfbadminton.com/player/85171/chloe-le-tissier,85171
+980,KOR,Sang Eun PARK,+7,3 - 5,0,480 / 2,https://bwfbadminton.com/player/95783/sang-eun-park,95783
+981,SUI,Jennifer KOBELT,+7,4 - 7,0,470 / 4,https://bwfbadminton.com/player/75099/jennifer-kobelt,75099
+982,INA,Melsya Nur FITRIANI,+7,5 - 6,0,460 / 2,https://bwfbadminton.com/player/59664/melsya-nur-fitriani,59664
+982,INA,Nurul SHABILLAH,+7,0 - 2,0,460 / 2,https://bwfbadminton.com/player/56146/nurul-shabillah,56146
+982,IND,Megha Morchana BORA,+7,2 - 3,0,460 / 2,https://bwfbadminton.com/player/78494/megha-morchana-bora,78494
+982,POR,Catarina M. MARTINS,+7,4 - 9,0,460 / 2,https://bwfbadminton.com/player/74099/catarina-m-martins,74099
+982,ESP,Ana CARBON,+33,19 - 22,0,460 / 2,https://bwfbadminton.com/player/96839/ana-carbon,96839
+982,MAS,LIM Peiy Zhean,+7,2 - 17,0,460 / 2,https://bwfbadminton.com/player/80705/lim-peiy-zhean,80705
+988,CRO,Dorotea SUTARA,+6,69 - 69,$400.00,450 / 3,https://bwfbadminton.com/player/79928/dorotea-sutara,79928
+989,EST,Hannaliina PIHO,+6,14 - 18,0,450 / 2,https://bwfbadminton.com/player/56514/hannaliina-piho,56514
+989,SLO,Ema CIZELJ,-187,52 - 47,0,450 / 2,https://bwfbadminton.com/player/74983/ema-cizelj,74983
+991,DEN,Amalie VESTMAR,+6,2 - 4,0,440 / 3,https://bwfbadminton.com/player/89047/amalie-vestmar,89047
+991,FIN,Johanna LUOSTARINEN,+6,3 - 13,0,440 / 3,https://bwfbadminton.com/player/68269/johanna-luostarinen,68269
+993,DEN,Mathilde HAAPANEN,+6,1 - 7,0,430 / 4,https://bwfbadminton.com/player/63635/mathilde-haapanen,63635
+994,KOR,SIM Yujin,+6,28 - 19,0,430 / 1,https://bwfbadminton.com/player/99069/sim-yujin,99069
+994,AUS,Celeste LEE,+6,2 - 6,0,430 / 1,https://bwfbadminton.com/player/71087/celeste-lee,71087
+994,AUS,Chloe LEE,+6,2 - 6,0,430 / 1,https://bwfbadminton.com/player/76767/chloe-lee,76767
+997,ENG,Rosemary ALLEN,+6,2 - 9,0,420 / 5,https://bwfbadminton.com/player/96384/rosemary-allen,96384
+998,CZE,Anna ŠKARKOVÁ,+6,3 - 4,0,420 / 2,https://bwfbadminton.com/player/77299/anna-%C5%A0karkova,77299
+998,ITA,Camilla TARAMELLI,+6,3 - 12,0,420 / 2,https://bwfbadminton.com/player/79895/camilla-taramelli,79895
+998,MLT,Fiorella Marie SADOWSKI,+6,0 - 17,0,420 / 2,https://bwfbadminton.com/player/91527/fiorella-marie-sadowski,91527
+1001,GRE,Eirini GOYGLERI,+6,2 - 13,0,410 / 2,https://bwfbadminton.com/player/95124/eirini-goygleri,95124
+1002,NOR,Marie CHRISTENSEN,+6,1 - 11,0,390 / 4,https://bwfbadminton.com/player/83125/marie-christensen,83125
+1003,UKR,Yuliia MIROSHNYCHENKO,+6,3 - 7,0,380 / 2,https://bwfbadminton.com/player/78372/yuliia-miroshnychenko,78372
+1003,NED,Lisa BOMERS,+6,1 - 6,0,380 / 2,https://bwfbadminton.com/player/89479/lisa-bomers,89479
+1003,FRA,Margot LAMBERT,+6,51 - 29,0,380 / 2,https://bwfbadminton.com/player/99891/margot-lambert,99891
+1003,AUT,Antonia MEINKE,+6,4 - 15,0,380 / 2,https://bwfbadminton.com/player/86895/antonia-meinke,86895
+1007,ENG,Kimberley Helen CLAGUE,+6,0 - 3,0,370 / 3,https://bwfbadminton.com/player/77258/kimberley-helen-clague,77258
+1008,ZIM,Olga MATSANURA,+6,0 - 2,0,360 / 2,https://bwfbadminton.com/player/90870/olga-matsanura,90870
+1009,THA,Pornnicha SUWATNODOM,+6,2 - 3,0,360 / 1,https://bwfbadminton.com/player/85354/pornnicha-suwatnodom,85354
+1009,TUN,Safa JEBALI,+6,0 - 0,0,360 / 1,https://bwfbadminton.com/player/81113/safa-jebali,81113
+1009,IRI,Parnia NABAVI,+6,0 - 1,0,360 / 1,https://bwfbadminton.com/player/64675/parnia-nabavi,64675
+1009,IRI,Saghar RAFEI,+6,0 - 1,0,360 / 1,https://bwfbadminton.com/player/57499/saghar-rafei,57499
+1009,IRI,Hajar KABIRI,+6,0 - 0,0,360 / 1,https://bwfbadminton.com/player/87212/hajar-kabiri,87212
+1009,IRI,Atena HAMIDIFAR,+6,0 - 0,0,360 / 1,https://bwfbadminton.com/player/86570/atena-hamidifar,86570
+1009,IRI,Sayeh KHALIL RAHMAN,+6,0 - 0,0,360 / 1,https://bwfbadminton.com/player/76505/sayeh-khalil-rahman,76505
+1009,IND,APEKSHA NAYAK,+6,1 - 3,0,360 / 1,https://bwfbadminton.com/player/91298/apeksha-nayak,91298
+1009,IND,Unnati BISHT,+6,1 - 3,0,360 / 1,https://bwfbadminton.com/player/69641/unnati-bisht,69641
+1009,IND,S.S.Lakshmi Priyanka SUBRAMANIAN,+6,1 - 1,0,360 / 1,https://bwfbadminton.com/player/78225/s-s-lakshmi-priyanka-subramanian,78225
+1009,SVK,Mia TARCALOVA,+6,14 - 26,0,360 / 1,https://bwfbadminton.com/player/92290/mia-tarcalova,92290
+1009,INA,Putri Kusuma WARDANI,+6,22 - 7,0,360 / 1,https://bwfbadminton.com/player/76890/putri-kusuma-wardani,76890
+1009,INA,Debora Pungky CAHYADEWI,+6,4 - 4,0,360 / 1,https://bwfbadminton.com/player/61523/debora-pungky-cahyadewi,61523
+1009,UKR,Anna KALIAKINA,+6,1 - 2,0,360 / 1,https://bwfbadminton.com/player/66856/anna-kaliakina,66856
+1009,IRI,Hadis AHMADI,+6,0 - 1,0,360 / 1,https://bwfbadminton.com/player/67556/hadis-ahmadi,67556
+1009,CAN,Eunice HERMANTO,+6,0 - 1,0,360 / 1,https://bwfbadminton.com/player/52950/eunice-hermanto,52950
+1009,THA,Suphapich SILPRAKOB,+6,6 - 9,0,360 / 1,https://bwfbadminton.com/player/94650/suphapich-silprakob,94650
+1009,THA,Krittaporn JIANTANET,+6,7 - 8,0,360 / 1,https://bwfbadminton.com/player/96072/krittaporn-jiantanet,96072
+1009,CHN,YANG Lan,+6,0 - 1,0,360 / 1,https://bwfbadminton.com/player/79112/yang-lan,79112
+1009,POL,Agata SWIST,+6,1 - 2,0,360 / 1,https://bwfbadminton.com/player/67995/agata-swist,67995
+1009,VIE,NGUYEN Thi Nhu Y,+6,0 - 2,0,360 / 1,https://bwfbadminton.com/player/98047/nguyen-thi-nhu-y,98047
+1009,RUS,Lela MINADZE,+6,16 - 17,$192.50,360 / 1,https://bwfbadminton.com/player/66861/lela-minadze,66861
+1009,THA,Laksika KANLAHA,+6,10 - 7,$72.50,360 / 1,https://bwfbadminton.com/player/74803/laksika-kanlaha,74803
+1009,THA,Nattcha CHATPUTTARIN,+6,16 - 20,$17.50,360 / 1,https://bwfbadminton.com/player/85635/nattcha-chatputtarin,85635
+1009,THA,Banthita KHAMSAITONG,+6,9 - 14,0,360 / 1,https://bwfbadminton.com/player/60055/banthita-khamsaitong,60055
+1009,VIE,Thi Ngoc Thuy NGUYEN,+6,2 - 6,$21.00,360 / 1,https://bwfbadminton.com/player/56377/thi-ngoc-thuy-nguyen,56377
+1009,CHN,JIANG Yujing,+6,8 - 4,$622.50,360 / 1,https://bwfbadminton.com/player/93164/jiang-yujing,93164
+1009,CZE,Dominika KOUKALOVA,+6,29 - 41,0,360 / 1,https://bwfbadminton.com/player/54455/dominika-koukalova,54455
+1037,TAH,Estelle COLOMBIES,+7,0 - 2,0,350 / 2,https://bwfbadminton.com/player/79255/estelle-colombies,79255
+1038,ALG,Imane CHEKKAL,+7,0 - 2,0,350 / 1,https://bwfbadminton.com/player/68936/imane-chekkal,68936
+1038,ALG,Leticia KARA,+7,0 - 0,0,350 / 1,https://bwfbadminton.com/player/68266/leticia-kara,68266
+1038,ALG,Abed ARINA,+7,0 - 1,0,350 / 1,https://bwfbadminton.com/player/96061/abed-arina,96061
+1038,ALG,Kenza GHASSIL,+7,0 - 0,0,350 / 1,https://bwfbadminton.com/player/85228/kenza-ghassil,85228
+1038,DEN,Signe SCHULZ,+7,8 - 4,0,350 / 1,https://bwfbadminton.com/player/89885/signe-schulz,89885
+1038,ISR,Anastasia BANTISH,+7,0 - 2,0,350 / 1,https://bwfbadminton.com/player/82191/anastasia-bantish,82191
+1038,ISR,Noa BULLER,+7,0 - 5,0,350 / 1,https://bwfbadminton.com/player/91675/noa-buller,91675
+1038,BUL,Maria BOEVSKA,+7,0 - 5,0,350 / 1,https://bwfbadminton.com/player/86164/maria-boevska,86164
+1038,GER,Katja HOLENZ,+7,0 - 3,0,350 / 1,https://bwfbadminton.com/player/62158/katja-holenz,62158
+1038,BEN,Lucresse Mariella TOKANDJI,+7,0 - 0,0,350 / 1,https://bwfbadminton.com/player/92761/lucresse-mariella-tokandji,92761
+1038,BEN,Norberte Koudirath TOTIN,+7,0 - 1,0,350 / 1,https://bwfbadminton.com/player/62931/norberte-koudirath-totin,62931
+1038,BEN,Merveilleuse BODAGBO-TEKO,+7,0 - 0,0,350 / 1,https://bwfbadminton.com/player/78063/merveilleuse-bodagbo-teko,78063
+1038,BEN,Synthyche DEHOTIN,+7,0 - 0,0,350 / 1,https://bwfbadminton.com/player/70619/synthyche-dehotin,70619
+1038,BEN,Melanie DJOSSOU,+7,0 - 0,0,350 / 1,https://bwfbadminton.com/player/63889/melanie-djossou,63889
+1038,CIV,Aïcha Laurene N'DIA,+7,0 - 2,0,350 / 1,https://bwfbadminton.com/player/75792/a%C3%AFcha-laurene-n-dia,75792
+1038,CIV,Alimatou DIALLO,+7,0 - 1,0,350 / 1,https://bwfbadminton.com/player/96497/alimatou-diallo,96497
+1038,PAN,Nathalie Angelique FEDNEY VIDAL,+7,0 - 2,0,350 / 1,https://bwfbadminton.com/player/90086/nathalie-angelique-fedney-vidal,90086
+1038,ESA,Daniela MATAMOROS,+7,0 - 2,0,350 / 1,https://bwfbadminton.com/player/88559/daniela-matamoros,88559
+1038,GUA,Adriana BARRIOS CHIONG,+7,2 - 3,0,350 / 1,https://bwfbadminton.com/player/68457/adriana-barrios-chiong,68457
+1038,GUA,GONZALEZ Ana Pamela,+7,0 - 1,0,350 / 1,https://bwfbadminton.com/player/62773/gonzalez-ana-pamela,62773
+1038,GUA,Karolina ORELLANA ARDON,+7,3 - 3,0,350 / 1,https://bwfbadminton.com/player/81357/karolina-orellana-ardon,81357
+1038,FRA,Marion LE TURDU,+7,17 - 10,0,350 / 1,https://bwfbadminton.com/player/95045/marion-le-turdu,95045
+1038,TPE,YANG Yu-Chi,+7,2 - 2,0,350 / 1,https://bwfbadminton.com/player/59283/yang-yu-chi,59283
+1038,CRO,Ela TRSTENJAK,+7,3 - 3,0,350 / 1,https://bwfbadminton.com/player/62939/ela-trstenjak,62939
+1038,ISR,Shirel BALENKI,+7,2 - 5,0,350 / 1,https://bwfbadminton.com/player/78447/shirel-balenki,78447
+1038,ISR,Shery ROTSHTEIN,+7,4 - 6,0,350 / 1,https://bwfbadminton.com/player/72617/shery-rotshtein,72617
+1038,GRE,Aikaterini PARISI,+7,1 - 5,0,350 / 1,https://bwfbadminton.com/player/98109/aikaterini-parisi,98109
+1038,MKD,Ina STEFANOVSKA,+7,1 - 1,0,350 / 1,https://bwfbadminton.com/player/84976/ina-stefanovska,84976
+1038,AUS,Maggie CHAN,+7,1 - 7,0,350 / 1,https://bwfbadminton.com/player/97044/maggie-chan,97044
+1038,SVK,Tamara PROSTINAKOVA,+7,9 - 21,0,350 / 1,https://bwfbadminton.com/player/74088/tamara-prostinakova,74088
+1038,CIV,Fematou Chantal MARKOUMA,+7,0 - 4,0,350 / 1,https://bwfbadminton.com/player/72636/fematou-chantal-markouma,72636
+1038,CIV,Ernestine Espoir BEDA,+7,0 - 1,0,350 / 1,https://bwfbadminton.com/player/69955/ernestine-espoir-beda,69955
+1038,ISL,Andrea NILSDOTTIR,+7,1 - 3,0,350 / 1,https://bwfbadminton.com/player/96864/andrea-nilsdottir,96864
+1038,FIN,Iina SUUTARINEN,+7,9 - 15,0,350 / 1,https://bwfbadminton.com/player/79810/iina-suutarinen,79810
+1038,TUR,Merve DEMIR,+7,0 - 7,0,350 / 1,https://bwfbadminton.com/player/84484/merve-demir,84484
+1038,GRE,Vasiliki ANDREADOU,+7,0 - 10,0,350 / 1,https://bwfbadminton.com/player/91421/vasiliki-andreadou,91421
+1038,SLO,Nastja STOVANJE,-43,21 - 32,0,350 / 1,https://bwfbadminton.com/player/75073/nastja-stovanje,75073
+1038,GHA,Diana ARCHER,+7,2 - 5,0,350 / 1,https://bwfbadminton.com/player/93792/diana-archer,93792
+1038,SLO,Ana Marija SETINA,+7,38 - 41,0,350 / 1,https://bwfbadminton.com/player/81419/ana-marija-setina,81419
+1038,CRO,Nikolina DIMIC,+7,1 - 10,0,350 / 1,https://bwfbadminton.com/player/86326/nikolina-dimic,86326
+1078,POL,Wiktoria RUDZINSKA,+6,0 - 10,0,340 / 2,https://bwfbadminton.com/player/71144/wiktoria-rudzinska,71144
+1079,GRE,Theodora FRAGOULIDOU,+6,0 - 8,0,330 / 3,https://bwfbadminton.com/player/91408/theodora-fragoulidou,91408
+1080,SWE,Nathalie WANG,+6,11 - 12,0,310 / 2,https://bwfbadminton.com/player/73456/nathalie-wang,73456
+1080,TUR,Naime YILMAZ,+6,24 - 14,0,310 / 2,https://bwfbadminton.com/player/79252/naime-yilmaz,79252
+1080,ENG,Gemma WHITING,+23,1 - 1,0,310 / 2,https://bwfbadminton.com/player/65664/gemma-whiting,65664
+1083,ENG,Til'Shiloh SHAW,+5,1 - 9,0,300 / 2,https://bwfbadminton.com/player/74239/til-shiloh-shaw,74239
+1084,TPE,HUANG Ching Ping,+225,2 - 4,0,270 / 2,https://bwfbadminton.com/player/94348/huang-ching-ping,94348
+1084,IND,Supriya BALLI,+5,0 - 1,0,270 / 2,https://bwfbadminton.com/player/57730/supriya-balli,57730
+1084,ESP,Elena ANDREU,+76,30 - 21,0,270 / 2,https://bwfbadminton.com/player/65325/elena-andreu,65325
+1084,FIN,Nella SIILASMAA,+5,0 - 2,0,270 / 2,https://bwfbadminton.com/player/56687/nella-siilasmaa,56687
+1084,IND,CH. Poornima,+5,0 - 3,0,270 / 2,https://bwfbadminton.com/player/69187/ch-poornima,69187
+1089,EST,Merit MÄGI,+3,0 - 11,0,250 / 3,https://bwfbadminton.com/player/58569/merit-mAegi,58569
+1090,RUS,Anastasiia ONASENKO,+3,0 - 0,0,240 / 1,https://bwfbadminton.com/player/80743/anastasiia-onasenko,80743
+1090,RUS,Alisa KORZHINSKAIA,+3,0 - 1,0,240 / 1,https://bwfbadminton.com/player/83949/alisa-korzhinskaia,83949
+1090,RUS,Ekaterina KHMELJ,+3,0 - 2,0,240 / 1,https://bwfbadminton.com/player/53678/ekaterina-khmelj,53678
+1090,RUS,Inga BUDARINA,+3,0 - 0,0,240 / 1,https://bwfbadminton.com/player/88474/inga-budarina,88474
+1090,ENG,Jessica LI,+3,1 - 3,0,240 / 1,https://bwfbadminton.com/player/58802/jessica-li,58802
+1095,RUS,Alena IAKOVLEVA,+3,11 - 9,0,230 / 3,https://bwfbadminton.com/player/65657/alena-iakovleva,65657
+1096,ROU,Loredana LUNGU,+3,4 - 11,0,230 / 2,https://bwfbadminton.com/player/82068/loredana-lungu,82068
+1096,CRO,Inga SADAIĆ,+3,27 - 28,0,230 / 2,https://bwfbadminton.com/player/75109/inga-sadai%C4%86,75109
+1096,ENG,Sian KELLY,+3,4 - 14,0,230 / 2,https://bwfbadminton.com/player/81761/sian-kelly,81761
+1099,EST,Liisa-Lotta TANNIK,+3,6 - 12,0,220 / 3,https://bwfbadminton.com/player/83520/liisa-lotta-tannik,83520
+1100,DEN,Emilie MELGAARD,+3,1 - 1,0,210 / 1,https://bwfbadminton.com/player/68481/emilie-melgaard,68481
+1100,DEN,Emilie MELGAARD,+3,1 - 1,0,210 / 1,https://bwfbadminton.com/player/68481/emilie-melgaard,68481
+1100,TPE,LEE Yu-Hsuan,+3,3 - 4,0,210 / 1,https://bwfbadminton.com/player/75174/lee-yu-hsuan,75174
+1100,BHU,Rinzin WANGMO,+3,0 - 0,0,210 / 1,https://bwfbadminton.com/player/74818/rinzin-wangmo,74818
+1100,NEP,Samjhana SHARMA,+3,0 - 0,0,210 / 1,https://bwfbadminton.com/player/58789/samjhana-sharma,58789
+1100,BHU,Eden EDEN,+3,0 - 0,0,210 / 1,https://bwfbadminton.com/player/70998/eden-eden,70998
+1100,NEP,Rasila MAHARJAN,+3,1 - 7,0,210 / 1,https://bwfbadminton.com/player/90039/rasila-maharjan,90039
+1100,BHU,Thinley WANGMO,+3,0 - 0,0,210 / 1,https://bwfbadminton.com/player/56442/thinley-wangmo,56442
+1100,NEP,Sita RAI,+3,0 - 0,0,210 / 1,https://bwfbadminton.com/player/85397/sita-rai,85397
+1100,TUR,Ece Sare BASAKIN,+3,4 - 3,0,210 / 1,https://bwfbadminton.com/player/63625/ece-sare-basakin,63625
+1100,IND,Mrunmayi SAOJI,+3,0 - 0,0,210 / 1,https://bwfbadminton.com/player/94118/mrunmayi-saoji,94118
+1100,IND,Meghana Reddy MAREDDY,+3,0 - 0,0,210 / 1,https://bwfbadminton.com/player/75837/meghana-reddy-mareddy,75837
+1100,IND,Shivani Vaishnavi Devi GANGULA,+3,0 - 0,0,210 / 1,https://bwfbadminton.com/player/95845/shivani-vaishnavi-devi-gangula,95845
+1100,IND,Varshini VISWANATH SRI,+3,0 - 0,0,210 / 1,https://bwfbadminton.com/player/97060/varshini-viswanath-sri,97060
+1100,EGY,Farah MOSTAFA,+3,0 - 0,0,210 / 1,https://bwfbadminton.com/player/57692/farah-mostafa,57692
+1100,EGY,Jana HESHAM MOHAMED ABDELKADER,+3,3 - 3,0,210 / 1,https://bwfbadminton.com/player/95812/jana-hesham-mohamed-abdelkader,95812
+1100,UZB,Sevinch SODIKOVA,+3,5 - 4,0,210 / 1,https://bwfbadminton.com/player/56877/sevinch-sodikova,56877
+1100,EGY,Mennatallah ASHRAF SAID MOHAMED,+3,2 - 2,0,210 / 1,https://bwfbadminton.com/player/83140/mennatallah-ashraf-said-mohamed,83140
+1100,MAS,Florence Sin Yee SAW,+3,0 - 3,0,210 / 1,https://bwfbadminton.com/player/89363/florence-sin-yee-saw,89363
+1100,MAS,TANG Wen Xin,+3,0 - 1,0,210 / 1,https://bwfbadminton.com/player/98613/tang-wen-xin,98613
+1100,MAS,Nur Ernisa Alya ZAINAL ABIDIN,+3,0 - 1,0,210 / 1,https://bwfbadminton.com/player/88838/nur-ernisa-alya-zainal-abidin,88838
+1100,MAS,Nursyafiqah REGUIL,+3,0 - 0,0,210 / 1,https://bwfbadminton.com/player/62287/nursyafiqah-reguil,62287
+1100,MAS,Wei Ying BOON,+3,1 - 1,0,210 / 1,https://bwfbadminton.com/player/76894/wei-ying-boon,76894
+1100,NED,Maureen ZEWALD,+3,1 - 1,0,210 / 1,https://bwfbadminton.com/player/94684/maureen-zewald,94684
+1100,ISL,Katrin Vala EINARSDOTTIR,+3,0 - 1,0,210 / 1,https://bwfbadminton.com/player/91091/katrin-vala-einarsdottir,91091
+1100,IND,Priya KONJENGBAM,+3,1 - 4,0,210 / 1,https://bwfbadminton.com/player/50322/priya-konjengbam,50322
+1100,IND,B VENKATA RAMYA TULASI BAILUPUDI,+3,0 - 3,0,210 / 1,https://bwfbadminton.com/player/99401/b-venkata-ramya-tulasi-bailupudi,99401
+1100,EGY,Aya EZZAT ABDELRAHIM,+3,1 - 1,0,210 / 1,https://bwfbadminton.com/player/99416/aya-ezzat-abdelrahim,99416
+1100,TUR,Filiz HALBURCU,+3,5 - 4,0,210 / 1,https://bwfbadminton.com/player/91714/filiz-halburcu,91714
+1100,UGA,Ruth NAKAWOYA,+3,1 - 2,0,210 / 1,https://bwfbadminton.com/player/75142/ruth-nakawoya,75142
+1100,UGA,Tracy NALUWOOZA,+3,0 - 4,0,210 / 1,https://bwfbadminton.com/player/74714/tracy-naluwooza,74714
+1100,KEN,KIVISI Andia,+3,3 - 2,0,210 / 1,https://bwfbadminton.com/player/77162/kivisi-andia,77162
+1100,MAS,LIM Welnis Peiy Link,+3,0 - 5,0,210 / 1,https://bwfbadminton.com/player/83014/lim-welnis-peiy-link,83014
+1100,EGY,Esraa MOHAMED HANY,+3,0 - 1,0,210 / 1,https://bwfbadminton.com/player/97596/esraa-mohamed-hany,97596
+1100,EGY,Amira ASHRAF MAHMOUD ALY,+3,1 - 2,0,210 / 1,https://bwfbadminton.com/player/71825/amira-ashraf-mahmoud-aly,71825
+1100,PHI,Mariya Anghela SEVILLA,+3,3 - 12,$17.50,210 / 1,https://bwfbadminton.com/player/98946/mariya-anghela-sevilla,98946
+1100,ISL,Alda Karen JONSDOTTIR,+3,3 - 9,0,210 / 1,https://bwfbadminton.com/player/73909/alda-karen-jonsdottir,73909
+1100,CHN,WANG Xinyuan,+3,9 - 6,0,210 / 1,https://bwfbadminton.com/player/64844/wang-xinyuan,64844
+1100,SUI,Nicole PERROUD,+3,5 - 6,0,210 / 1,https://bwfbadminton.com/player/86405/nicole-perroud,86405
+1100,KEN,Juma AKOTH,+3,2 - 3,0,210 / 1,https://bwfbadminton.com/player/68940/juma-akoth,68940
+1100,NED,Dorien LUPS,+3,3 - 11,0,210 / 1,https://bwfbadminton.com/player/90334/dorien-lups,90334
+1100,NOR,Thea Kristina JOHANSEN,+3,4 - 13,0,210 / 1,https://bwfbadminton.com/player/66092/thea-kristina-johansen,66092
+1100,UGA,Olivia NAKAJJA,+3,1 - 3,0,210 / 1,https://bwfbadminton.com/player/67954/olivia-nakajja,67954
+1100,SWE,Malin ANDERSSON,+3,1 - 3,0,210 / 1,https://bwfbadminton.com/player/77036/malin-andersson,77036
+1100,MAS,Sylvia Kavita KUMARES,+3,16 - 15,$212.50,210 / 1,https://bwfbadminton.com/player/80008/sylvia-kavita-kumares,80008
+1100,SLO,Kaja STANKOVIC,+3,55 - 47,0,210 / 1,https://bwfbadminton.com/player/65194/kaja-stankovic,65194
+1100,UGA,Brenda MUGABI,+3,2 - 8,0,210 / 1,https://bwfbadminton.com/player/61958/brenda-mugabi,61958
+1100,NEP,Poonam GURUNG,+3,0 - 2,0,210 / 1,https://bwfbadminton.com/player/70413/poonam-gurung,70413
+1100,GRE,Ioanna KARKANTZIA,+3,9 - 53,0,210 / 1,https://bwfbadminton.com/player/14148/ioanna-karkantzia,14148
+1149,GRL,Sara Lindskov JACOBSEN,+5,1 - 2,0,200 / 2,https://bwfbadminton.com/player/81280/sara-lindskov-jacobsen,81280
+1149,SWE,Madeleine PERSSON,+5,3 - 4,0,200 / 2,https://bwfbadminton.com/player/94427/madeleine-persson,94427
+1149,SGP,Jia Rong SITO,+5,4 - 18,0,200 / 2,https://bwfbadminton.com/player/63404/jia-rong-sito,63404
+1152,RUS,Anastasiia BOIARUN,+5,5 - 7,0,190 / 3,https://bwfbadminton.com/player/91650/anastasiia-boiarun,91650
+1153,FRA,Melanie POTIN,+5,5 - 5,0,190 / 2,https://bwfbadminton.com/player/79845/melanie-potin,79845
+1154,NOR,Anne KLYVE,+5,4 - 15,0,180 / 3,https://bwfbadminton.com/player/61749/anne-klyve,61749
+1155,IND,KALPITA SAWANT,+5,3 - 4,0,170 / 1,https://bwfbadminton.com/player/59468/kalpita-sawant,59468
+1155,IND,Aastha SHARMA,+5,1 - 3,0,170 / 1,https://bwfbadminton.com/player/77107/aastha-sharma,77107
+1155,NED,Madouc LINDERS,+5,25 - 25,0,170 / 1,https://bwfbadminton.com/player/65753/madouc-linders,65753
+1155,UKR,Mariia STOLIARENKO,+5,2 - 3,0,170 / 1,https://bwfbadminton.com/player/64766/mariia-stoliarenko,64766
+1155,UKR,Mariia KHOLODNA,+5,0 - 2,0,170 / 1,https://bwfbadminton.com/player/94138/mariia-kholodna,94138
+1155,UKR,Yevheniia KANTEMYR,+5,0 - 1,0,170 / 1,https://bwfbadminton.com/player/94032/yevheniia-kantemyr,94032
+1155,UKR,Sofiia DEMYDENKO,+5,0 - 2,0,170 / 1,https://bwfbadminton.com/player/71716/sofiia-demydenko,71716
+1155,UKR,Varvara FROLOVA,+5,0 - 3,0,170 / 1,https://bwfbadminton.com/player/71180/varvara-frolova,71180
+1155,UKR,Polina BUHROVA,+5,0 - 3,0,170 / 1,https://bwfbadminton.com/player/96877/polina-buhrova,96877
+1155,UKR,Margaryta TSIGNADZE,+5,2 - 7,0,170 / 1,https://bwfbadminton.com/player/82626/margaryta-tsignadze,82626
+1155,RUS,Mariia GOLUBEVA,+5,10 - 4,0,170 / 1,https://bwfbadminton.com/player/59482/mariia-golubeva,59482
+1155,RUS,Elena FILIPPOVA,+5,17 - 4,0,170 / 1,https://bwfbadminton.com/player/60769/elena-filippova,60769
+1155,ESP,NEREA DIAZ,+5,27 - 24,0,170 / 1,https://bwfbadminton.com/player/77536/nerea-diaz,77536
+1155,FRA,Meline METAIREAU,+5,5 - 8,0,170 / 1,https://bwfbadminton.com/player/89453/meline-metaireau,89453
+1155,SUI,Sereina HOFSTETTER,+5,6 - 10,0,170 / 1,https://bwfbadminton.com/player/90999/sereina-hofstetter,90999
+1155,POL,Aleksandra GOSZCZYNSKA,+5,1 - 12,0,170 / 1,https://bwfbadminton.com/player/75579/aleksandra-goszczynska,75579
+1155,BEL,Clara LASSAUX,+5,19 - 23,0,170 / 1,https://bwfbadminton.com/player/60035/clara-lassaux,60035
+1155,GRE,Ioanna KARETSA,+5,1 - 4,0,170 / 1,https://bwfbadminton.com/player/78581/ioanna-karetsa,78581
+1155,FIN,Henna-Leena LINDBERG,+5,1 - 8,0,170 / 1,https://bwfbadminton.com/player/85187/henna-leena-lindberg,85187
+1155,POL,Zuzanna GLIJER,+5,5 - 13,0,170 / 1,https://bwfbadminton.com/player/64750/zuzanna-glijer,64750
+1155,POL,Barbara KNOPEK,+5,0 - 3,0,170 / 1,https://bwfbadminton.com/player/73777/barbara-knopek,73777
+1155,FIN,Heini IHALAINEN,+5,1 - 4,0,170 / 1,https://bwfbadminton.com/player/74691/heini-ihalainen,74691
+1155,FIN,Noora AHOLA,+5,5 - 13,0,170 / 1,https://bwfbadminton.com/player/60822/noora-ahola,60822
+1155,BEL,Presence BEELEN,+5,9 - 17,0,170 / 1,https://bwfbadminton.com/player/64504/presence-beelen,64504
+1155,FIN,Elina NIIRANEN,+5,9 - 17,0,170 / 1,https://bwfbadminton.com/player/77715/elina-niiranen,77715
+1155,FRA,Olivia MEUNIER,+5,5 - 7,0,170 / 1,https://bwfbadminton.com/player/67960/olivia-meunier,67960
+1155,RUS,Olga ROGOVA,+5,2 - 7,0,170 / 1,https://bwfbadminton.com/player/68105/olga-rogova,68105
+1155,ESP,Laura SAMANIEGO,+5,6 - 17,0,170 / 1,https://bwfbadminton.com/player/87111/laura-samaniego,87111
+1155,POL,KAROLINA GAJOS,+5,7 - 24,0,170 / 1,https://bwfbadminton.com/player/69478/karolina-gajos,69478
+1155,FIN,Anna PAAVOLA,+5,8 - 32,0,170 / 1,https://bwfbadminton.com/player/97457/anna-paavola,97457
+1155,FIN,Viola LINDBERG,+5,3 - 13,0,170 / 1,https://bwfbadminton.com/player/59293/viola-lindberg,59293
+1155,KAZ,Ilyana FILIPCHUK,+5,1 - 9,0,170 / 1,https://bwfbadminton.com/player/77379/ilyana-filipchuk,77379
+1155,IND,Rucha NIKAM,+5,3 - 11,0,170 / 1,https://bwfbadminton.com/player/66614/rucha-nikam,66614
+1155,IND,Vijeta BHARGAVA,+5,2 - 1,$30.00,170 / 1,https://bwfbadminton.com/player/72085/vijeta-bhargava,72085
+1189,ENG,Grace TAYLOR,+6,0 - 3,0,160 / 2,https://bwfbadminton.com/player/71578/grace-taylor,71578
+1189,POR,Joana LOPES,+120,0 - 11,0,160 / 2,https://bwfbadminton.com/player/88621/joana-lopes,88621
+1191,IRL,Sinead CHAMBERS,+5,21 - 35,0,150 / 2,https://bwfbadminton.com/player/47135/sinead-chambers,47135
+1192,RUS,Alina BUSYGINA,+5,0 - 4,0,140 / 2,https://bwfbadminton.com/player/73692/alina-busygina,73692
+1193,AUT,Martina NÖST,+5,0 - 1,0,130 / 2,https://bwfbadminton.com/player/62565/martina-nOest,62565
+1193,ITA,Lidia RAINERO,+5,0 - 5,0,130 / 2,https://bwfbadminton.com/player/73255/lidia-rainero,73255
+1195,ENG,Amy HAYHOE,+5,0 - 0,0,130 / 1,https://bwfbadminton.com/player/57911/amy-hayhoe,57911
+1195,LTU,Vitalija MOVSOVIC,+5,2 - 3,0,130 / 1,https://bwfbadminton.com/player/91278/vitalija-movsovic,91278
+1195,FRA,Romane CLOTEAUX-FOUCAULT,+5,23 - 10,0,130 / 1,https://bwfbadminton.com/player/78135/romane-cloteaux-foucault,78135
+1195,GRE,Elisavet KORONIDOU,+5,0 - 0,0,130 / 1,https://bwfbadminton.com/player/86702/elisavet-koronidou,86702
+1195,DEN,Astrid MOLANDER,+5,2 - 2,0,130 / 1,https://bwfbadminton.com/player/95344/astrid-molander,95344
+1195,ROU,Ana-Madalina BRATU,+5,0 - 3,0,130 / 1,https://bwfbadminton.com/player/81701/ana-madalina-bratu,81701
+1195,ROU,Ana-Madalina BRATU,+5,0 - 3,0,130 / 1,https://bwfbadminton.com/player/81701/ana-madalina-bratu,81701
+1195,BUL,Gabriela KOLICOVA,+5,1 - 4,0,130 / 1,https://bwfbadminton.com/player/56501/gabriela-kolicova,56501
+1203,USA,Natalie CHI,+5,0 - 0,0,126 / 1,https://bwfbadminton.com/player/68566/natalie-chi,68566
+1204,LTU,Rebeka ALEKSEVICIUTE,+5,0 - 11,0,120 / 3,https://bwfbadminton.com/player/79813/rebeka-alekseviciute,79813
+1205,JEY,Emily TEMPLE REDSHAW,+5,0 - 1,0,120 / 2,https://bwfbadminton.com/player/90863/emily-temple-redshaw,90863
+1205,LAT,Una BERGA,+5,10 - 20,0,120 / 2,https://bwfbadminton.com/player/90193/una-berga,90193
+1205,EST,Helis PAJUSTE,+5,2 - 10,0,120 / 2,https://bwfbadminton.com/player/74696/helis-pajuste,74696
+1208,POR,Claudia LOURENÇO,0,3 - 5,0,100 / 1,https://bwfbadminton.com/player/73659/claudia-louren%C3%87o,73659
+1208,UGA,Olivia NABATANZI,+5,0 - 0,0,100 / 1,https://bwfbadminton.com/player/81443/olivia-nabatanzi,81443
+1208,UGA,Gorette MARIA,+5,0 - 0,0,100 / 1,https://bwfbadminton.com/player/80311/gorette-maria,80311
+1208,UGA,Natasha ARINDA,+5,0 - 0,0,100 / 1,https://bwfbadminton.com/player/70075/natasha-arinda,70075
+1208,UGA,Martha CANIVERAL,+5,0 - 0,0,100 / 1,https://bwfbadminton.com/player/90729/martha-caniveral,90729
+1208,UGA,Rajab SHAMSA MBIRA,+5,0 - 0,0,100 / 1,https://bwfbadminton.com/player/81980/rajab-shamsa-mbira,81980
+1208,UGA,Daisy KABALUNGI,+5,0 - 0,0,100 / 1,https://bwfbadminton.com/player/77695/daisy-kabalungi,77695
+1208,UGA,Bridget NAKASI,+5,0 - 0,0,100 / 1,https://bwfbadminton.com/player/80236/bridget-nakasi,80236
+1208,UGA,Majida MUTESI,+5,0 - 0,0,100 / 1,https://bwfbadminton.com/player/92531/majida-mutesi,92531
+1208,UGA,Afuwa NANDUDU,+5,0 - 0,0,100 / 1,https://bwfbadminton.com/player/62156/afuwa-nandudu,62156
+1208,ISL,Ragnheidur Birna RAGNARSDOTTIR,+5,0 - 0,0,100 / 1,https://bwfbadminton.com/player/93525/ragnheidur-birna-ragnarsdottir,93525
+1208,ISL,Karolina PRUS,+5,0 - 0,0,100 / 1,https://bwfbadminton.com/player/85770/karolina-prus,85770
+1208,ISL,Anna Alexandra PETERSEN,+5,0 - 0,0,100 / 1,https://bwfbadminton.com/player/55768/anna-alexandra-petersen,55768
+1208,ISL,Juliana Karitas JOHANNSDOTTIR,+5,0 - 0,0,100 / 1,https://bwfbadminton.com/player/93634/juliana-karitas-johannsdottir,93634
+1208,ISL,Solrun Anna INGVARSDOTTIR,+5,0 - 0,0,100 / 1,https://bwfbadminton.com/player/72203/solrun-anna-ingvarsdottir,72203
+1208,DEN,Matilde NORDAL,+5,0 - 0,0,100 / 1,https://bwfbadminton.com/player/61945/matilde-nordal,61945
+1208,SWE,Klara HJELM,+5,0 - 0,0,100 / 1,https://bwfbadminton.com/player/79497/klara-hjelm,79497
+1208,SWE,Johanna SJOSTEDT,+5,0 - 1,0,100 / 1,https://bwfbadminton.com/player/62101/johanna-sjostedt,62101
+1208,SWE,Isabelle GRAFSUND,+5,15 - 11,0,100 / 1,https://bwfbadminton.com/player/82840/isabelle-grafsund,82840
+1208,TUR,Bahar YAVRU,+5,12 - 7,0,100 / 1,https://bwfbadminton.com/player/56693/bahar-yavru,56693
+1208,IND,Vibhuti SHARMA,+5,0 - 1,0,100 / 1,https://bwfbadminton.com/player/82324/vibhuti-sharma,82324
+1208,IND,Rohini BILAWAR,+5,0 - 0,0,100 / 1,https://bwfbadminton.com/player/89979/rohini-bilawar,89979
+1208,IND,Niranjana ANIL,+5,0 - 0,0,100 / 1,https://bwfbadminton.com/player/97872/niranjana-anil,97872
+1208,IND,Mamitha KADARI,+5,1 - 3,0,100 / 1,https://bwfbadminton.com/player/88632/mamitha-kadari,88632
+1208,NOR,Emma WÅLAND,+5,0 - 4,0,100 / 1,https://bwfbadminton.com/player/75208/emma-w%C3%85land,75208
+1208,NOR,Emilia PETERSEN NORBERG,+5,0 - 4,0,100 / 1,https://bwfbadminton.com/player/93321/emilia-petersen-norberg,93321
+1208,SWE,Emelie BORGSTEDT,+5,1 - 4,0,100 / 1,https://bwfbadminton.com/player/97055/emelie-borgstedt,97055
+1208,SWE,Salisa CHAYRUKSA,+5,0 - 0,0,100 / 1,https://bwfbadminton.com/player/75700/salisa-chayruksa,75700
+1208,EGY,Dina ESSAM MOHAMED,+5,0 - 0,0,100 / 1,https://bwfbadminton.com/player/79238/dina-essam-mohamed,79238
+1208,EGY,Laila KHALED ABDELAZIZ,+5,0 - 0,0,100 / 1,https://bwfbadminton.com/player/55471/laila-khaled-abdelaziz,55471
+1208,EGY,Sara AYMAN GAMALELDIN,+5,0 - 0,0,100 / 1,https://bwfbadminton.com/player/55620/sara-ayman-gamaleldin,55620
+1208,EGY,Nada ELSAYED,+5,0 - 0,0,100 / 1,https://bwfbadminton.com/player/72074/nada-elsayed,72074
+1208,EGY,Salma AHMED FOUAD MOHAMED,+5,0 - 1,0,100 / 1,https://bwfbadminton.com/player/64987/salma-ahmed-fouad-mohamed,64987
+1208,EGY,Rowaida ABDALLAH MORSI,+5,0 - 2,0,100 / 1,https://bwfbadminton.com/player/82369/rowaida-abdallah-morsi,82369
+1208,EGY,Nour Elhoda TAREK MOHAMED,+5,0 - 1,0,100 / 1,https://bwfbadminton.com/player/95015/nour-elhoda-tarek-mohamed,95015
+1208,EGY,Yara FOAD,+5,0 - 0,0,100 / 1,https://bwfbadminton.com/player/96246/yara-foad,96246
+1208,EGY,Malak BASEM SOBHY EBRAHIM,+5,1 - 3,0,100 / 1,https://bwfbadminton.com/player/83099/malak-basem-sobhy-ebrahim,83099
+1208,EGY,Sama HELMY,+5,0 - 1,0,100 / 1,https://bwfbadminton.com/player/71781/sama-helmy,71781
+1208,EGY,Youmna MOHAMED SHAWKI,+5,0 - 1,0,100 / 1,https://bwfbadminton.com/player/68732/youmna-mohamed-shawki,68732
+1208,SGP,Jing Yun CHIU,+5,0 - 3,0,100 / 1,https://bwfbadminton.com/player/96771/jing-yun-chiu,96771
+1208,IND,Meghana Anil KULKARNI,+5,0 - 1,0,100 / 1,https://bwfbadminton.com/player/74523/meghana-anil-kulkarni,74523
+1208,SGP,Wen Jun CHEAH,+5,0 - 2,0,100 / 1,https://bwfbadminton.com/player/85637/wen-jun-cheah,85637
+1208,INA,Triya Nur SAADIYAH,+5,1 - 2,0,100 / 1,https://bwfbadminton.com/player/82214/triya-nur-saadiyah,82214
+1208,GRE,Christina DELIVORIA,+5,0 - 0,0,100 / 1,https://bwfbadminton.com/player/81079/christina-delivoria,81079
+1208,GRE,Betty Anna STRATI,+5,0 - 0,0,100 / 1,https://bwfbadminton.com/player/97649/betty-anna-strati,97649
+1208,INA,Anissa Syifa OKTAVIANI,+5,1 - 4,0,100 / 1,https://bwfbadminton.com/player/71074/anissa-syifa-oktaviani,71074
+1208,INA,Nandini Putri ARUMNI,+5,2 - 6,0,100 / 1,https://bwfbadminton.com/player/71458/nandini-putri-arumni,71458
+1208,INA,Thonia Zamrud KHISHTIN,+5,0 - 0,0,100 / 1,https://bwfbadminton.com/player/88767/thonia-zamrud-khishtin,88767
+1208,INA,Anisa FIRGIE,+5,0 - 2,0,100 / 1,https://bwfbadminton.com/player/98242/anisa-firgie,98242
+1208,UGA,Ronah BAYIGA,+5,0 - 1,0,100 / 1,https://bwfbadminton.com/player/92562/ronah-bayiga,92562
+1208,ISL,Una Hrund ORVAR,+5,0 - 1,0,100 / 1,https://bwfbadminton.com/player/87277/una-hrund-orvar,87277
+1208,ISL,Halla Maria GUSTAFSDOTTIR,+5,0 - 1,0,100 / 1,https://bwfbadminton.com/player/99796/halla-maria-gustafsdottir,99796
+1208,TUR,Selen GUNEY,+5,1 - 2,0,100 / 1,https://bwfbadminton.com/player/74530/selen-guney,74530
+1208,TUR,Esra DIKMENTEPE,+5,0 - 2,0,100 / 1,https://bwfbadminton.com/player/66231/esra-dikmentepe,66231
+1208,TUR,Zeynep ÖZGEN,+5,2 - 3,0,100 / 1,https://bwfbadminton.com/player/56215/zeynep-Oezgen,56215
+1208,ENG,Natasha LADO,+5,3 - 6,0,100 / 1,https://bwfbadminton.com/player/94789/natasha-lado,94789
+1208,IND,Vanshika KAPILA,+5,2 - 5,0,100 / 1,https://bwfbadminton.com/player/92069/vanshika-kapila,92069
+1208,IND,Shenan CHRISTIAN,+5,0 - 2,$21.00,100 / 1,https://bwfbadminton.com/player/94729/shenan-christian,94729
+1208,IND,KEYURA MOPATI,+5,1 - 2,$36.00,100 / 1,https://bwfbadminton.com/player/66005/keyura-mopati,66005
+1208,MDA,Elena-Alexandra DIORDIEV,+5,15 - 31,0,100 / 1,https://bwfbadminton.com/player/99079/elena-alexandra-diordiev,99079
+1208,EGY,Toka ELWAZIRI,+5,0 - 3,0,100 / 1,https://bwfbadminton.com/player/80417/toka-elwaziri,80417
+1208,EGY,Hania SHAHIN,+5,2 - 4,0,100 / 1,https://bwfbadminton.com/player/94401/hania-shahin,94401
+1208,GRE,Dimitra Kalomira KROYSTALLI,+5,2 - 7,0,100 / 1,https://bwfbadminton.com/player/95229/dimitra-kalomira-kroystalli,95229
+1208,UGA,Carle UWILINGIMANA,+5,0 - 2,0,100 / 1,https://bwfbadminton.com/player/98947/carle-uwilingimana,98947
+1208,UGA,Labella NASASIRA,+5,1 - 2,0,100 / 1,https://bwfbadminton.com/player/86696/labella-nasasira,86696
+1208,UGA,Rehema NAKALEMA,+5,2 - 2,0,100 / 1,https://bwfbadminton.com/player/65259/rehema-nakalema,65259
+1208,SGP,ONG Xi Qing,+5,1 - 3,$113.75,100 / 1,https://bwfbadminton.com/player/83449/ong-xi-qing,83449
+1208,ENG,Sophie MALES,+5,0 - 3,0,100 / 1,https://bwfbadminton.com/player/73605/sophie-males,73605
+1208,TUR,Aleyna ARSLAN,+5,5 - 6,0,100 / 1,https://bwfbadminton.com/player/72410/aleyna-arslan,72410
+1208,EGY,Eman MOSTAFA MOHAMED,+5,0 - 2,0,100 / 1,https://bwfbadminton.com/player/88211/eman-mostafa-mohamed,88211
+1208,TUR,Aysin YESIL,+5,5 - 7,0,100 / 1,https://bwfbadminton.com/player/74263/aysin-yesil,74263
+1208,UGA,Suzan ASANO,+5,0 - 2,0,100 / 1,https://bwfbadminton.com/player/56874/suzan-asano,56874
+1208,INA,Savira SANDRADEWI,+5,16 - 16,0,100 / 1,https://bwfbadminton.com/player/91676/savira-sandradewi,91676
+1208,SCO,Laura MUIR,+5,0 - 1,0,100 / 1,https://bwfbadminton.com/player/75866/laura-muir,75866
+1282,EST,Victoria KOROBOVA,+10,2 - 10,0,80 / 2,https://bwfbadminton.com/player/72649/victoria-korobova,72649
+1283,DEN,Amalie SCHULZ,+10,11 - 6,0,70 / 1,https://bwfbadminton.com/player/70651/amalie-schulz,70651
+1283,DEN,Sophia GRUNDTVIG,+10,15 - 3,0,70 / 1,https://bwfbadminton.com/player/85723/sophia-grundtvig,85723
+1283,SVK,Lucia VOJTEKOVA,+10,1 - 3,0,70 / 1,https://bwfbadminton.com/player/95781/lucia-vojtekova,95781
+1283,RUS,Tatiana SAMBURSKAIA,+10,0 - 4,0,70 / 1,https://bwfbadminton.com/player/84296/tatiana-samburskaia,84296
+1283,RUS,Olga KULKOVA,+10,8 - 6,0,70 / 1,https://bwfbadminton.com/player/59475/olga-kulkova,59475
+1283,RUS,Ksenia BYKOVA,+10,0 - 1,0,70 / 1,https://bwfbadminton.com/player/66660/ksenia-bykova,66660
+1283,RUS,Vera KRAMARENKO,+10,6 - 6,0,70 / 1,https://bwfbadminton.com/player/80188/vera-kramarenko,80188
+1283,RUS,Ekaterina KADOCHNIKOVA,+10,8 - 7,0,70 / 1,https://bwfbadminton.com/player/82652/ekaterina-kadochnikova,82652
+1283,RUS,Anastasia UMERENKOVA,+10,0 - 5,0,70 / 1,https://bwfbadminton.com/player/74726/anastasia-umerenkova,74726
+1283,CHN,LI Sizhuo,+10,3 - 1,$36.00,70 / 1,https://bwfbadminton.com/player/95507/li-sizhuo,95507
+1283,AUT,Natalie HERBST,+10,3 - 12,0,70 / 1,https://bwfbadminton.com/player/86858/natalie-herbst,86858
+1283,CHN,WEI Yawen,+10,3 - 1,0,70 / 1,https://bwfbadminton.com/player/59394/wei-yawen,59394
+1283,CZE,Veronika KOLDOVÁ,+10,13 - 24,0,70 / 1,https://bwfbadminton.com/player/64258/veronika-koldova,64258
+1283,JPN,Kie NAKANISHI,+10,0 - 2,0,70 / 1,https://bwfbadminton.com/player/87428/kie-nakanishi,87428
+1283,AUS,Ann-Louise SLEE,+10,2 - 7,$35.00,70 / 1,https://bwfbadminton.com/player/53607/ann-louise-slee,53607
+1283,BRA,Paloma Eduarda da SILVA,-910,6 - 16,$786.25,70 / 1,https://bwfbadminton.com/player/93397/paloma-eduarda-da-silva,93397
+1299,POL,Karolina WLADZINSKA,+9,26 - 25,0,68 / 2,https://bwfbadminton.com/player/98597/karolina-wladzinska,98597
+1300,HUN,Kitti SZOTAK,+9,33 - 14,0,60 / 1,https://bwfbadminton.com/player/97306/kitti-szotak,97306
+1300,HUN,Kitti SZOTAK,+9,33 - 14,0,60 / 1,https://bwfbadminton.com/player/97306/kitti-szotak,97306
+1300,POL,SZUBERT Karolina,+9,18 - 25,0,60 / 1,https://bwfbadminton.com/player/76604/szubert-karolina,76604
+1300,ENG,Gunjan RANDHAWA,+9,6 - 9,0,60 / 1,https://bwfbadminton.com/player/65383/gunjan-randhawa,65383
+1300,ENG,Lisa ELLIOTT,+9,0 - 0,0,60 / 1,https://bwfbadminton.com/player/78441/lisa-elliott,78441
+1300,GER,Anke FASTENAU,+9,0 - 2,0,60 / 1,https://bwfbadminton.com/player/98650/anke-fastenau,98650
+1300,SWE,Olivia HELLMAN,+9,1 - 3,0,60 / 1,https://bwfbadminton.com/player/79997/olivia-hellman,79997
+1300,BUL,Gergana PAVLOVA,+9,0 - 4,0,60 / 1,https://bwfbadminton.com/player/64151/gergana-pavlova,64151
+1300,LTU,Perla MURENAITE,+9,0 - 3,0,60 / 1,https://bwfbadminton.com/player/75576/perla-murenaite,75576
+1300,LTU,Daniele SVELNYTE,+9,0 - 2,0,60 / 1,https://bwfbadminton.com/player/68053/daniele-svelnyte,68053
+1300,ROU,Cristina SOARE,+9,0 - 1,0,60 / 1,https://bwfbadminton.com/player/67914/cristina-soare,67914
+1300,ROU,Alexandra SOARE,+9,0 - 2,0,60 / 1,https://bwfbadminton.com/player/85113/alexandra-soare,85113
+1300,ROU,Diana STROIE,+9,0 - 0,0,60 / 1,https://bwfbadminton.com/player/91989/diana-stroie,91989
+1300,ROU,Alexandra HARANGUS,+9,0 - 2,0,60 / 1,https://bwfbadminton.com/player/82646/alexandra-harangus,82646
+1300,GER,Miranda WILSON,+9,34 - 22,0,60 / 1,https://bwfbadminton.com/player/92606/miranda-wilson,92606
+1300,DEN,Amalie A. FRIHAGEN,+9,0 - 2,0,60 / 1,https://bwfbadminton.com/player/83241/amalie-a-frihagen,83241
+1300,ENG,Emily ROBINSON,+9,0 - 1,0,60 / 1,https://bwfbadminton.com/player/78541/emily-robinson,78541
+1300,ENG,Hannah BODEN,+9,1 - 3,0,60 / 1,https://bwfbadminton.com/player/83559/hannah-boden,83559
+1300,CRO,Dora DRVODELIC,+9,10 - 14,0,60 / 1,https://bwfbadminton.com/player/66078/dora-drvodelic,66078
+1300,ENG,Megan CHANNON,+9,0 - 1,0,60 / 1,https://bwfbadminton.com/player/75820/megan-channon,75820
+1300,SWE,Hanna SIDVALL,+9,2 - 4,0,60 / 1,https://bwfbadminton.com/player/63037/hanna-sidvall,63037
+1300,LTU,Vaiva ZYMANTAITE,+9,0 - 4,0,60 / 1,https://bwfbadminton.com/player/89906/vaiva-zymantaite,89906
+1300,ENG,Sarah PREECE,+9,0 - 5,0,60 / 1,https://bwfbadminton.com/player/58293/sarah-preece,58293
+1300,IRQ,Ramrama SH NANO,+9,0 - 2,0,60 / 1,https://bwfbadminton.com/player/95207/ramrama-sh-nano,95207
+1300,SRB,Milica SIMIC,+9,12 - 46,0,60 / 1,https://bwfbadminton.com/player/60182/milica-simic,60182
+1325,MRI,Nicki CHAN-LAM,+11,20 - 10,0,34 / 1,https://bwfbadminton.com/player/73055/nicki-chan-lam,73055
+1326,EST,Hedda Maret EENMAA,+11,0 - 2,0,20 / 1,https://bwfbadminton.com/player/75557/hedda-maret-eenmaa,75557
+1326,NOR,Ida HØYLAND,+11,0 - 3,0,20 / 1,https://bwfbadminton.com/player/63138/ida-h%C3%98yland,63138
+1326,EST,Aidi HAMBURG,+11,4 - 7,0,20 / 1,https://bwfbadminton.com/player/64785/aidi-hamburg,64785
+1329,BUL,Stefani STOEVA,+11,159 - 59,"$6,522.50",15 / 1,https://bwfbadminton.com/player/46169/stefani-stoeva,46169
+1330,KOR,AN Seyoung,+11,41 - 3,0,10 / 1,https://bwfbadminton.com/player/87442/an-seyoung,87442
+1331,NCL,Johanna KOU,+11,17 - 30,0,2 / 1,https://bwfbadminton.com/player/13882/johanna-kou,13882

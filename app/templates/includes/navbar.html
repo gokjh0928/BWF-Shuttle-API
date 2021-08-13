@@ -1,0 +1,46 @@
+<nav class="navbar navbar-expand-sm navbar-custom">
+    
+    
+    <a class="navbar-brand" href="{{ url_for('main.home') }}"><img class='nav-logo' src="{{ url_for('static', filename='images/bwf_logo.png') }}" alt="">Shuttle API</a>
+    <button class="navbar-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#collapsibleNavId"
+        aria-controls="collapsibleNavId" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="collapsibleNavId">
+        <ul class="navbar-nav mr-auto mt-2 mt-lg-0" id="no-margin">
+            <li class="nav-item">
+                <a class="nav-link" href="{{ url_for('rankings.home') }}">Rankings</a>
+            </li>
+            <!-- <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="dropdownId" data-toggle="dropdown" aria-haspopup="true"
+                    aria-expanded="false">Shop</a>
+                <div class="dropdown-menu" aria-labelledby="dropdownId">
+                    <a class="dropdown-item" href="#">Products</a>
+                    <a class="dropdown-item" href="#">
+                        Cart
+                    </a>
+                </div>
+            </li> -->
+            <li class="nav-item">
+                <a class="nav-link" href="{{ url_for('rankings.players') }}">Players</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="{{ url_for('main.contact') }}">Contact</a>
+            </li>
+        </ul>
+        <ul class="navbar-nav ml-auto">
+            <!-- <li class="nav-item">
+                <a href="#" class="nav-link">Login</a>
+            </li>
+            <li class="nav-item">
+                <a href="#" class="nav-link">Register</a>
+            </li>
+            <li class="nav-item">
+                <a href="#" class="nav-link">Logout</a>
+            </li> -->
+            <li class="nav-item">
+                <a href="https://bwfbadminton.com" class="nav-link">BWF Fansite</a>
+            </li>
+        </ul>
+    </div>
+</nav>
