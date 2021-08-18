@@ -1,0 +1,1238 @@
+rank,rank_change,prev_rank,country,player,member_id,points,tournaments,profile_link
+1,0,1,TPE,TAI Tzu Ying,61427,98317,15,https://bwf.tournamentsoftware.com/player-profile/E7478462-B482-44AA-8170-A719B6AE45C9
+2,0,2,JPN,Akane YAMAGUCHI,96312,87743,17,https://bwf.tournamentsoftware.com/player-profile/1A40C2CC-EC5F-46A6-9860-8E67AC09CD3E
+3,0,3,IND,PUSARLA V. Sindhu,73173,85414,17,https://bwf.tournamentsoftware.com/player-profile/0BF2D10A-66EB-4B90-BB4B-3F70D4ADAD99
+4,0,4,THA,Ratchanok INTANON,35642,77307,17,https://bwf.tournamentsoftware.com/player-profile/99EA34EF-1515-4CE4-94A2-9A3304DD28A5
+5,0,5,CHN,CHEN Yu Fei,78778,73689,17,https://bwf.tournamentsoftware.com/player-profile/5C227C4B-0D18-4C14-90CB-6CD5D3ABA9A8
+6,0,6,ESP,Carolina MARIN,18228,73666,14,https://bwf.tournamentsoftware.com/player-profile/213226C1-39FD-4443-A603-69E07939C39E
+7,0,7,CHN,HE Bing Jiao,87434,71669,17,https://bwf.tournamentsoftware.com/player-profile/4C24F628-477B-4A65-B2E0-67342034035E
+8,0,8,JPN,Nozomi OKUHARA,96713,64207,14,https://bwf.tournamentsoftware.com/player-profile/2D28B50A-695D-4CC0-9DAD-633D35E87B4D
+9,0,9,KOR,SUNG Jihyun,76594,59153,19,https://bwf.tournamentsoftware.com/player-profile/18BDE483-5C63-4C57-8D4F-47EEECBEA966
+10,0,10,IND,Saina NEHWAL,52748,58014,14,https://bwf.tournamentsoftware.com/player-profile/3E7EEDF9-07F0-474E-A02B-CB598BBE365A
+11,0,11,THA,Nitchaon JINDAPOL,57971,55322,21,https://bwf.tournamentsoftware.com/player-profile/4E3EB7BA-92FE-49F1-BA2F-309FF38357C7
+12,0,12,USA,Beiwen ZHANG,53806,54430,17,https://bwf.tournamentsoftware.com/player-profile/CDD166DD-3FA5-41E9-BEC8-AE7134F1DFC6
+13,0,13,JPN,Sayaka TAKAHASHI,34890,53936,12,https://bwf.tournamentsoftware.com/player-profile/7AB4EC1B-2FFD-4610-8090-5C63F5AF24D2
+14,0,14,CHN,GAO Fang Jie,78116,48946,12,https://bwf.tournamentsoftware.com/player-profile/5133CE1F-5956-4741-B201-EF731E7137FD
+15,0,15,CAN,Michelle LI,84523,48641,24,https://bwf.tournamentsoftware.com/player-profile/133E8A7F-4D1A-4333-AB97-9BACE04294FA
+16,0,16,JPN,Sayaka SATO,77317,46596,19,https://bwf.tournamentsoftware.com/player-profile/6C8F6FDE-65A8-4755-B8E3-4501791937C4
+17,0,17,JPN,Aya OHORI,95189,44696,15,https://bwf.tournamentsoftware.com/player-profile/5829046A-E2C5-4DAB-9DEF-4DF806988861
+18,0,18,DEN,Mia BLICHFELDT,91224,44602,20,https://bwf.tournamentsoftware.com/player-profile/A55CAA52-4052-41E9-8F7C-E5385103DC73
+19,0,19,JPN,Minatsu MITANI,66644,43750,15,https://bwf.tournamentsoftware.com/player-profile/6FEDE8B0-F788-416C-914D-38E23B4CED8A
+20,0,20,THA,Pornpawee CHOCHUWONG,84062,43002,20,https://bwf.tournamentsoftware.com/player-profile/FE40A5A6-154A-4AD9-88A9-E3C183F236B2
+21,0,21,HKG,CHEUNG Ngan Yi,87709,42081,18,https://bwf.tournamentsoftware.com/player-profile/375472CD-2242-4D7D-9937-94ED146F7ED7
+22,0,22,KOR,LEE Jang Mi,84992,41614,14,https://bwf.tournamentsoftware.com/player-profile/1D2D0455-E851-42F9-8ADC-E6237D7581D9
+23,0,23,INA,Gregoria Mariska TUNJUNG,83802,41020,16,https://bwf.tournamentsoftware.com/player-profile/B1AADF28-20FE-43E0-8A50-0AD024E89F7A
+24,0,24,THA,Busanan ONGBAMRUNGPHAN,58271,40089,19,https://bwf.tournamentsoftware.com/player-profile/2E8E31B9-0832-43E8-A7CC-A620D9DF8DE0
+25,0,25,DEN,Line Højmark KJAERSFELDT,63437,39649,20,https://bwf.tournamentsoftware.com/player-profile/9E63BADD-7736-4CFF-89E8-8B21A88B2E7B
+26,0,26,MAS,GOH Jin Wei,69012,39435,12,https://bwf.tournamentsoftware.com/player-profile/8667CAD7-473A-487F-A5FA-99D9DBD7A6B9
+27,0,27,CHN,HAN Yue,92967,37310,10,https://bwf.tournamentsoftware.com/player-profile/FAABB859-1D13-4B23-8EEE-750DCEBA67B3
+28,0,28,SCO,Kirsty GILMOUR,48528,37210,14,https://bwf.tournamentsoftware.com/player-profile/5DDC41B8-6CC4-4FA2-81DD-D9C7393C4107
+29,0,29,ESP,Beatriz CORRALES,95780,36663,20,https://bwf.tournamentsoftware.com/player-profile/F428D761-FD1E-4FDC-A90F-54B4A70E68E8
+30,0,30,KOR,KIM Hyo Min,91598,36460,12,https://bwf.tournamentsoftware.com/player-profile/DC644BC0-1B98-4E46-AA15-C2160AD7F2C6
+31,0,31,TPE,PAI Yu Po,99925,35772,17,https://bwf.tournamentsoftware.com/player-profile/D86742D7-05F9-4302-889E-1126E17DE398
+32,0,32,HKG,YIP Pui Yin,51649,35624,16,https://bwf.tournamentsoftware.com/player-profile/B368A130-10A6-4C37-886A-4EF8AE4D6E78
+33,0,33,CHN,CHEN Xiao Xin,58637,35135,11,https://bwf.tournamentsoftware.com/player-profile/B263CAA3-E967-4327-A356-99445C2DCC4E
+34,0,34,CHN,CAI Yan Yan,89700,34960,9,https://bwf.tournamentsoftware.com/player-profile/4AC28697-1438-4664-A190-DCBFCECEEA17
+35,0,35,TPE,LEE Chia Hsin,76717,34013,16,https://bwf.tournamentsoftware.com/player-profile/D1E00364-9840-4281-B4D5-0222C590E746
+36,0,36,RUS,Evgeniya KOSETSKAYA,92400,33871,19,https://bwf.tournamentsoftware.com/player-profile/6EDDEE76-2C2D-4223-8514-DD504DB44B54
+37,0,37,MAS,Soniia CHEAH,18143,33389,14,https://bwf.tournamentsoftware.com/player-profile/52D1D9D3-8C2F-4DE5-90D4-9CE24142C0D0
+38,0,38,INA,Fitriani FITRIANI,96892,32689,16,https://bwf.tournamentsoftware.com/player-profile/1170A6C4-07E0-428D-AB4D-38C18ABB3BA8
+39,0,39,JPN,Saena KAWAKAMI,61568,32030,10,https://bwf.tournamentsoftware.com/player-profile/8FC13F3E-7CCA-4226-AE33-0599D335F077
+40,0,40,MAS,LEE Ying Ying,64889,31721,12,https://bwf.tournamentsoftware.com/player-profile/E564A4ED-4F5F-48F6-8699-236773E18059
+41,0,41,CHN,ZHANG Yi Man,58720,30950,10,https://bwf.tournamentsoftware.com/player-profile/66B0CB6D-FBE1-4927-9F2E-D775D5A0264C
+42,0,42,BUL,Linda ZETCHIRI,15105,30733,13,https://bwf.tournamentsoftware.com/player-profile/A942373B-2091-47D5-A275-7301C22E3057
+43,0,43,CAN,Rachel HONDERICH,95664,29964,10,https://bwf.tournamentsoftware.com/player-profile/424DD148-A51A-434B-ADDE-D2C489B27E62
+44,0,44,TUR,Neslihan YIGIT,87885,29434,14,https://bwf.tournamentsoftware.com/player-profile/B458F084-183F-4AD9-87EC-B768664D0F18
+45,0,45,INA,Dinar Dyah AYUSTINE,61665,28823,12,https://bwf.tournamentsoftware.com/player-profile/A406399D-77F5-49D5-AB23-E923E97357B9
+46,11,57,HKG,DENG Joy Xuan,62313,28790,11,https://bwf.tournamentsoftware.com/player-profile/2F1ADA75-59A4-4754-A53F-5B44C944F056
+47,-1,46,DEN,Natalia Koch ROHDE,78534,28754,13,https://bwf.tournamentsoftware.com/player-profile/629073CB-4801-48C8-9071-D7CD373C32FB
+48,-1,47,TPE,CHIANG Ying Li,27588,27999,17,https://bwf.tournamentsoftware.com/player-profile/E1DBAF1D-E8A2-4972-8D2B-75A287327BF2
+49,-1,48,ENG,Chloe BIRCH,50715,27971,19,https://bwf.tournamentsoftware.com/player-profile/C652376D-B287-4C7C-9084-0762A23C3F46
+50,-1,49,GER,Yvonne LI,91106,26054,20,https://bwf.tournamentsoftware.com/player-profile/F66C3FB7-01FC-4885-9601-7324C48143FD
+51,-1,50,VIE,Thi Trang (B) VU,71455,25359,14,https://bwf.tournamentsoftware.com/player-profile/8DC67D7E-A311-4F87-BC5A-009644CCFD6D
+52,-1,51,VIE,Thuy Linh NGUYEN,75678,25271,11,https://bwf.tournamentsoftware.com/player-profile/692881F8-EACB-42FD-A4E6-B5D760B95A8C
+53,-1,52,DEN,Mette POULSEN,43761,25190,16,https://bwf.tournamentsoftware.com/player-profile/9CAA0586-C6C6-431F-BC80-7DB55B302FE1
+54,4,58,CAN,Brittney TAM,97087,25137,16,https://bwf.tournamentsoftware.com/player-profile/F41CDF13-0591-46D5-B9C4-F7A6F3A50F6B
+55,-2,53,IND,Vaishnavi Reddy JAKKA,87723,25075,19,https://bwf.tournamentsoftware.com/player-profile/6C943849-1343-4AC5-BF56-E2C478374771
+56,-2,54,SUI,Sabrina JAQUET,54068,25010,10,https://bwf.tournamentsoftware.com/player-profile/F2108DAF-E325-457C-99D6-77806B05CBF3
+57,-2,55,FRA,QI Xuefei,77256,24940,12,https://bwf.tournamentsoftware.com/player-profile/00820343-E647-4C1F-BBA7-9ABEC025DB25
+58,-2,56,INA,Lyanny Alessandra MAINAKY,64558,24820,20,https://bwf.tournamentsoftware.com/player-profile/9EC5A34D-4B83-45A2-90BF-50A242D13FAD
+59,15,74,SGP,YEO Jia Min,83822,24720,8,https://bwf.tournamentsoftware.com/player-profile/440E13BF-47D0-48DE-9AD0-2E813CBAF80D
+60,-1,59,TPE,SUNG Shuo Yun,88807,24687,14,https://bwf.tournamentsoftware.com/player-profile/73A87077-E474-4474-ADCB-01BC534C91D9
+61,-1,60,INA,Yulia Yosephine SUSANTO,67996,24530,11,https://bwf.tournamentsoftware.com/player-profile/96DBC307-6185-4DAB-B520-9A51662D3805
+62,-1,61,ISR,Ksenia POLIKARPOVA,67069,24510,16,https://bwf.tournamentsoftware.com/player-profile/C30F9FBA-1E9B-4683-A14E-76A35ECD6F2E
+63,-1,62,JPN,Ayumi MINE,69082,24380,10,https://bwf.tournamentsoftware.com/player-profile/9E49CB32-59C3-4A96-8439-5D35CDBB19B8
+64,-1,63,DEN,Julie Dawall JAKOBSEN,77002,24296,17,https://bwf.tournamentsoftware.com/player-profile/C5B1E8DC-1B44-49D1-A518-9FEB570B3059
+65,-1,64,TUR,Aliye DEMIRBAG,98643,24163,13,https://bwf.tournamentsoftware.com/player-profile/36B002C0-EEFD-43BF-9E0F-C253D76C6C0B
+66,-1,65,CHN,LI Xue Rui,64643,23812,4,https://bwf.tournamentsoftware.com/player-profile/A8B4DEC1-972C-4517-9D80-4FBB300F91ED
+67,-1,66,NED,Soraya DE VISCH EIJBERGEN,93419,23590,15,https://bwf.tournamentsoftware.com/player-profile/6B573A83-631F-4D22-92EC-610B8668BB0D
+68,-1,67,TPE,CHEN Su Yu,71673,23130,9,https://bwf.tournamentsoftware.com/player-profile/EC15B5A8-E9C6-4622-926A-E116262D9504
+69,-1,68,GER,Fabienne DEPREZ,21854,22884,17,https://bwf.tournamentsoftware.com/player-profile/6A01B36E-A085-43A7-B540-7A047771F982
+70,11,81,INA,Ruselli HARTAWAN,81986,22271,11,https://bwf.tournamentsoftware.com/player-profile/97C62180-0C74-413A-BFAC-AC384ED790FF
+71,-2,69,KOR,JEON Jui,57813,22170,11,https://bwf.tournamentsoftware.com/player-profile/6DF1EE10-F394-421D-B801-F606E4C0678C
+72,-2,70,MRI,Kate FOO KUNE,42679,21544,18,https://bwf.tournamentsoftware.com/player-profile/56086DAB-A3E9-47CC-9952-E50C2AB50092
+73,38,111,KOR,KIM Gaeun,70930,21250,9,https://bwf.tournamentsoftware.com/player-profile/52E188CD-59F3-4EB7-8C0E-508A001FB1A9
+74,-3,71,GER,Luise HEIM,67857,21096,16,https://bwf.tournamentsoftware.com/player-profile/354B0B1C-F113-4687-8E5D-D3ECF32F923F
+75,-3,72,RUS,Natalia PERMINOVA,78605,21085,16,https://bwf.tournamentsoftware.com/player-profile/D5D25301-6DE3-44FF-9A00-6728CC96CFD5
+76,-3,73,JPN,Shiori SAITO,77278,21070,9,https://bwf.tournamentsoftware.com/player-profile/43C2100C-B976-4A5D-AAF4-15CD45031C6C
+77,9,86,IND,Sri Krishna Priya KUDARAVALLI,88809,20712,17,https://bwf.tournamentsoftware.com/player-profile/FFFD9499-2E43-4A95-9058-B907D4D2C9E2
+78,-3,75,THA,Porntip BURANAPRASERTSUK,54511,20680,11,https://bwf.tournamentsoftware.com/player-profile/0E37B63A-1D68-48EB-A948-A1EB8D72B171
+79,-3,76,INA,Hanna RAMADINI,97207,20583,8,https://bwf.tournamentsoftware.com/player-profile/B928B2B8-94FD-419C-9C5A-A26758D5DAB3
+80,-3,77,JPN,Natsuki NIDAIRA,91896,20410,8,https://bwf.tournamentsoftware.com/player-profile/3CDC2FE1-09E3-4E50-A50A-C10E4C4DAA02
+81,-3,78,THA,Phittayaporn CHAIWAN,62301,20350,8,https://bwf.tournamentsoftware.com/player-profile/182834A7-9B76-41BA-A5DE-AB9F8F7BE0D0
+82,-2,80,USA,Jamie HSU,79853,20272,11,https://bwf.tournamentsoftware.com/player-profile/4E4DD814-F179-48AC-97B6-339928FBF494
+83,2,85,IND,Mugdha AGREY,56940,19930,14,https://bwf.tournamentsoftware.com/player-profile/7FA05A58-3AA1-4293-BCF7-4B12C243C35B
+84,-2,82,EST,Kristin KUUBA,73015,19836,16,https://bwf.tournamentsoftware.com/player-profile/AE0E382A-9A6C-49B5-95DE-F6881185FAFE
+85,-6,79,AUS,Hsuan-Yu Wendy CHEN,40545,19753,7,https://bwf.tournamentsoftware.com/player-profile/30E828D0-1DAA-4566-B547-9D7F9E6BE513
+86,4,90,IND,GADDE Ruthvika Shivani,69619,19706,8,https://bwf.tournamentsoftware.com/player-profile/EF757969-55B1-4CD7-90B9-E280BA65A9F7
+87,-4,83,TUR,Ozge BAYRAK,94762,19680,10,https://bwf.tournamentsoftware.com/player-profile/FB58D012-153E-436D-B0C4-CF6F0DD7ED92
+88,-4,84,THA,Chananchida JUCHAROEN,83013,19670,10,https://bwf.tournamentsoftware.com/player-profile/782F99B4-C309-4A53-9DC4-01257A122F9D
+89,-2,87,NED,Gayle MAHULETTE,89454,18900,18,https://bwf.tournamentsoftware.com/player-profile/AB9709CD-5AC3-474F-99B2-4257EE36E630
+90,-2,88,SVK,Martina REPISKA,75188,18777,13,https://bwf.tournamentsoftware.com/player-profile/1855B6E6-C7D1-464A-86B0-FDFB93FA2335
+91,-2,89,MAS,THINAAH Muralitharan,68628,18730,10,https://bwf.tournamentsoftware.com/player-profile/4214BA79-2B43-4AE0-BF80-99D8681C43AB
+92,-1,91,USA,Crystal PAN,99017,17850,12,https://bwf.tournamentsoftware.com/player-profile/2BF2C45D-9825-408A-B18A-DE5F03489CD2
+93,28,121,IND,Rasika RAJE,59370,17570,10,https://bwf.tournamentsoftware.com/player-profile/51711CF2-E6D9-4E62-B673-C72E8EFD7115
+94,-2,92,KOR,LEE Se Yeon,95820,17514,8,https://bwf.tournamentsoftware.com/player-profile/88B43F23-63F4-4CC4-B6B3-E52C3FADF77B
+95,-2,93,BUL,Mariya MITSOVA,57906,17511,15,https://bwf.tournamentsoftware.com/player-profile/0D056E4C-B197-4EDF-B025-CF2B73D0CDE6
+96,-2,94,JPN,Haruko SUZUKI,81880,17510,6,https://bwf.tournamentsoftware.com/player-profile/86E4CF80-C1F5-4121-828B-4EC3E79B55B8
+97,-2,95,USA,Disha GUPTA,59692,17310,11,https://bwf.tournamentsoftware.com/player-profile/B1046332-F7E6-4C05-9344-16D4B5AC0D6A
+98,-2,96,THA,Thamolwan POOPRADUBSIL,86511,17260,12,https://bwf.tournamentsoftware.com/player-profile/47260C7A-A8D9-40DB-837C-6C065C962994
+99,-2,97,MAS,LIM Yin Fun,62867,17238,10,https://bwf.tournamentsoftware.com/player-profile/52E2A2F5-1018-41B8-804A-B0023B1DC156
+100,-2,98,DEN,Irina Amalie ANDERSEN,96276,17220,16,https://bwf.tournamentsoftware.com/player-profile/2312DDD8-1A8C-4C23-AA99-DE3D27B0E4AC
+101,-2,99,FRA,Delphine LANSAC,79056,17060,9,https://bwf.tournamentsoftware.com/player-profile/931C5F38-2A69-4C74-90DA-49485F5F6A0A
+102,-2,100,SGP,CHUA Hui Zhen Grace,81033,16905,13,https://bwf.tournamentsoftware.com/player-profile/D496F688-FD22-4FBA-8DEE-1335C3070107
+103,11,114,IND,Rituparna DAS,67864,16890,7,https://bwf.tournamentsoftware.com/player-profile/2E836101-C1FC-40E7-A3C5-C68D25046BC7
+104,-3,101,NGR,Dorcas Ajoke ADESOKAN,73121,16798,8,https://bwf.tournamentsoftware.com/player-profile/79D7CE7E-CC57-4E96-BB4B-5D1F602B271A
+105,-3,102,MAS,KISONA Selvaduray,92014,16697,8,https://bwf.tournamentsoftware.com/player-profile/BE121ABE-82C1-4B1A-90C3-6E83F4CA5D39
+106,2,108,IND,Sai Uttejitha Rao CHUKKA,93187,16620,11,https://bwf.tournamentsoftware.com/player-profile/7CD219BF-99F2-4F33-B0DF-8C4B2EE280BD
+107,-4,103,USA,Jennie GAI,83074,16560,11,https://bwf.tournamentsoftware.com/player-profile/5027469F-7831-45E0-BC14-75DEB9F9D1CD
+108,-4,104,MAS,HO Yen Mei,87629,16550,6,https://bwf.tournamentsoftware.com/player-profile/2620D42C-2296-4DA3-92BC-58EE88EBE7CF
+109,-4,105,ESP,Clara AZURMENDI,74218,16310,10,https://bwf.tournamentsoftware.com/player-profile/BA050564-3365-4552-BA07-9A960CB4F083
+110,-4,106,DEN,Sofie Holmboe DAHL,82707,16250,10,https://bwf.tournamentsoftware.com/player-profile/8085FBE6-31AF-40E1-BBE7-A44913350707
+111,-4,107,PER,Daniela MACIAS,71252,16229,9,https://bwf.tournamentsoftware.com/player-profile/4347A173-2A8F-4B57-8950-B1724C29AB31
+112,-3,109,UKR,Maria ULITINA,76349,15889,9,https://bwf.tournamentsoftware.com/player-profile/07455DFA-D0F7-4F83-89EA-2ABFBF17FDF8
+113,-3,110,SUI,Ayla HUSER,92691,15880,17,https://bwf.tournamentsoftware.com/player-profile/094E3D5A-2702-47D5-B5A5-828D38DF367B
+114,2,116,IND,VAIDEHI CHOUDHARI,87945,15680,12,https://bwf.tournamentsoftware.com/player-profile/601F018D-31DD-4906-BE25-3202DB33BAA1
+115,-3,112,IND,Saili RANE,56471,15680,11,https://bwf.tournamentsoftware.com/player-profile/616B2716-1AC7-49AB-83F1-15BE3B213FAD
+116,-3,113,JPN,Yukino NAKAI,56834,15670,8,https://bwf.tournamentsoftware.com/player-profile/CA24DEF3-498E-4F6F-9CE7-560FCCDAE63A
+117,-2,115,DEN,Michelle SKØDSTRUP,84113,15350,7,https://bwf.tournamentsoftware.com/player-profile/DDDF775E-DBBB-4A78-8A78-41F37F9BC007
+118,-1,117,ESP,Sara PEÑALVER,76747,15142,14,https://bwf.tournamentsoftware.com/player-profile/D46DDC15-A234-462D-8777-6F2D03C7471E
+119,-1,118,BEL,Lianne TAN,55318,14890,15,https://bwf.tournamentsoftware.com/player-profile/15A49408-9066-4EB1-B2D7-8B9CEA0E4511
+120,8,128,IND,Riya MOOKERJEE,76459,14790,11,https://bwf.tournamentsoftware.com/player-profile/C4640514-A0BF-404A-BB02-3FF80E6D2262
+121,-2,119,JPN,Asuka TAKAHASHI,94712,14760,7,https://bwf.tournamentsoftware.com/player-profile/647DD7E6-BB2A-44B4-8F8F-ECA4D27031E1
+122,-2,120,CHN,JI Shu Ting,79753,14760,4,https://bwf.tournamentsoftware.com/player-profile/83B2F943-CE13-4EF6-BF83-B82C35C23F13
+123,0,123,IND,Anura PRABHUDESAI,76882,14740,15,https://bwf.tournamentsoftware.com/player-profile/167EDC9E-1AA3-4C90-9F14-453286231CA3
+124,-2,122,CUB,Taymara OROPESA PUPO,98960,14400,8,https://bwf.tournamentsoftware.com/player-profile/D9AF08CD-D553-47DF-842F-F40C7D150A0E
+125,-1,124,CZE,Katerina TOMALOVA,81794,14025,17,https://bwf.tournamentsoftware.com/player-profile/B3B2087C-D852-4938-A9B7-3B5C9B3682D2
+126,-1,125,DEN,Anna Thea MADSEN,50331,13720,6,https://bwf.tournamentsoftware.com/player-profile/9067E2CC-6860-49F8-ABA4-1142253537C5
+127,-1,126,THA,Mattana HEMRACHATANUN,76682,13700,9,https://bwf.tournamentsoftware.com/player-profile/59DE43DD-368E-4E2E-858F-D3524044618D
+128,-1,127,USA,Isabel ZHONG,52636,13610,12,https://bwf.tournamentsoftware.com/player-profile/BB09769D-409C-4CA4-B13F-C187012299C1
+129,0,129,POL,Jordan HART,94806,13550,16,https://bwf.tournamentsoftware.com/player-profile/94B4802F-25DF-40C2-BDF8-79A930C5684F
+130,0,130,ENG,Georgina BLAND,87660,13470,17,https://bwf.tournamentsoftware.com/player-profile/AE0E34DF-9DB6-4119-8004-CCF9D7527688
+131,0,131,BLR,Alesia ZAITSAVA,52294,13210,13,https://bwf.tournamentsoftware.com/player-profile/F657036F-94DB-42B0-B333-B7F0CDCB94EC
+132,0,132,EGY,Hadia HOSNY,52901,12928,8,https://bwf.tournamentsoftware.com/player-profile/D64EDC94-6596-4D81-975D-874105236552
+133,0,133,UGA,Aisha NAKIYEMBA,66881,12815,9,https://bwf.tournamentsoftware.com/player-profile/503E7796-6EB8-45F5-941A-805FE3122035
+134,0,134,CHN,WANG Zhi Yi,61854,12750,3,https://bwf.tournamentsoftware.com/player-profile/9B5D0AD0-CBA9-4A16-A0F6-AB1FF3F8B71C
+135,0,135,EST,Getter SAAR,86222,12525,18,https://bwf.tournamentsoftware.com/player-profile/E8C78321-7D80-43A2-9591-3658C1E8274E
+136,0,136,BRA,Fabiana SILVA,52908,12510,7,https://bwf.tournamentsoftware.com/player-profile/F4448B93-2D61-49DB-A6DB-8405832DB8BB
+137,0,137,THA,Supanida KATETHONG,91422,12350,8,https://bwf.tournamentsoftware.com/player-profile/24A42C67-1682-4360-AEEA-2287E6A1AC77
+138,0,138,HUN,Agnes KOROSI,74051,12300,16,https://bwf.tournamentsoftware.com/player-profile/F527E1B0-5788-425B-9028-52018B30049E
+139,0,139,DEN,Amalie HERTZ,70495,12240,12,https://bwf.tournamentsoftware.com/player-profile/7ED6F48A-7833-4586-BD7E-98E4A7593BC1
+140,0,140,RUS,Ksenia EVGENOVA,64352,11651,13,https://bwf.tournamentsoftware.com/player-profile/D8C087D0-76F8-4B30-ADEC-8C494C10F551
+141,0,141,AUS,Louisa MA,73559,11540,5,https://bwf.tournamentsoftware.com/player-profile/8E6C7B2A-FDF4-4F07-8D2F-F40923FE388D
+142,0,142,EGY,Doha HANY,61746,11260,7,https://bwf.tournamentsoftware.com/player-profile/2CCE4AE0-B6F1-4E59-9786-8793C066B6FC
+143,0,143,UKR,Natalya VOYTSEKH,76910,11177,11,https://bwf.tournamentsoftware.com/player-profile/AB53C84F-48C7-44B5-A5B5-5817366550EE
+144,12,156,FRA,Marie BATOMENE,94743,10976,11,https://bwf.tournamentsoftware.com/player-profile/CE18289C-0D62-4766-86F1-C3114A7C3C25
+145,-1,144,POR,Sonia GONCALVES,72489,10871,14,https://bwf.tournamentsoftware.com/player-profile/ED6409B8-3BDE-4B4B-97A7-D7F4450F2C50
+146,-1,145,INA,Rusydina Antardayu RIODINGIN,74525,10830,10,https://bwf.tournamentsoftware.com/player-profile/3F601201-5E70-4FCF-9C3D-207295B7B67A
+147,-1,146,EST,Kati-Kreet MARRAN,66267,10490,16,https://bwf.tournamentsoftware.com/player-profile/44D76DD1-652C-44C3-8294-59EF8EEB2A29
+148,-1,147,TPE,CHANG Ya Lan,14865,10490,11,https://bwf.tournamentsoftware.com/player-profile/42D12FD7-AB77-4AC3-9E78-F88C10A6F86D
+149,0,149,INA,Asty Dwi WIDYANINGRUM,74788,10240,5,https://bwf.tournamentsoftware.com/player-profile/1D83BE0C-C0BF-487C-B3D6-4B539C8EEDDE
+150,0,150,USA,Jamie SUBANDHI,52771,10157,6,https://bwf.tournamentsoftware.com/player-profile/1254F52E-8534-45D5-AF11-C33ED8719330
+151,0,151,SUI,Ronja STERN,81056,10090,12,https://bwf.tournamentsoftware.com/player-profile/CBD31D26-57AE-48B5-9A53-BB09D0DEE387
+152,11,163,RUS,Anastasiia SEMENOVA,73195,10060,13,https://bwf.tournamentsoftware.com/player-profile/FB27B7FE-50C9-4EF9-B4B3-C6A124FC6A2A
+153,-1,152,FIN,Airi MIKKELA,55770,9990,8,https://bwf.tournamentsoftware.com/player-profile/14AFA42C-EAB9-46AE-A1E4-81C3E20C6421
+154,23,177,THA,Benyapa AIMSAARD,80871,9910,8,https://bwf.tournamentsoftware.com/player-profile/6F79BFD7-D98B-45E1-A455-5366F83384B3
+155,-7,148,AUS,Jennifer TAM,57665,9833,7,https://bwf.tournamentsoftware.com/player-profile/0C97354A-FA8F-4B11-86BF-02CAF338EC63
+156,51,207,KOR,SIM Yujin,99069,9780,5,https://bwf.tournamentsoftware.com/player-profile/4F628772-A2D9-414C-AD8A-13ADF49F3AC2
+157,-4,153,IND,Vrushali GUMMADI,67568,9710,7,https://bwf.tournamentsoftware.com/player-profile/D97634E9-A0BD-4C81-91C3-FCAD4E0074D2
+158,26,184,THA,Nuntakarn AIMSAARD,79198,9650,7,https://bwf.tournamentsoftware.com/player-profile/45218FFC-0B62-4D42-9F68-224717AC7FB1
+159,11,170,IND,IRA SHARMA,83856,9540,8,https://bwf.tournamentsoftware.com/player-profile/7B640EF8-CD93-46C5-861B-68795EE8BD7D
+160,-5,155,INA,Jesica MULJATI,93338,9460,5,https://bwf.tournamentsoftware.com/player-profile/C9B9B686-B036-475E-9CC9-16B3361628BA
+161,-3,158,RUS,Elizaveta PYATINA,81552,9410,11,https://bwf.tournamentsoftware.com/player-profile/6F86CB7B-1E59-48D8-9051-CFFBF35655A5
+162,-5,157,MEX,Yaqueline DUARTE,82210,9250,8,https://bwf.tournamentsoftware.com/player-profile/D166F900-13DA-424B-8855-29176E318E9D
+163,-4,159,CZE,Zuzana PAVELKOVA,34229,9097,14,https://bwf.tournamentsoftware.com/player-profile/AA01B868-138F-4600-9033-6795DDA09449
+164,-4,160,THA,Chasinee KOREPAP,71801,9040,5,https://bwf.tournamentsoftware.com/player-profile/958E736F-76D6-48AF-9EFF-4DA7FAA07A49
+165,-4,161,USA,Lauren LAM,69091,9030,7,https://bwf.tournamentsoftware.com/player-profile/AE3C2653-D33E-40F5-82D0-86D1CB2B340B
+166,-4,162,DEN,Line CHRISTOPHERSEN,85302,9027,5,https://bwf.tournamentsoftware.com/player-profile/A718342E-EA06-4447-95D5-13B56339D0AC
+167,-3,164,HUN,Daniella GONDA,98804,8911,15,https://bwf.tournamentsoftware.com/player-profile/7C7E1974-0F85-46B3-8228-9EE839FCE55D
+168,-3,165,MEX,Mariana UGALDE,61244,8840,8,https://bwf.tournamentsoftware.com/player-profile/AAD4695F-D800-4132-ABE2-3C3B7E8B1C65
+169,-3,166,FRA,Yaelle HOYAUX,82409,8654,13,https://bwf.tournamentsoftware.com/player-profile/D8B224B5-9885-47FA-9E66-77E6F52F3F92
+170,-3,167,ALG,Halla BOUKSANI,64063,8405,8,https://bwf.tournamentsoftware.com/player-profile/937872F0-A52D-4458-B051-8F0EE3168942
+171,-3,168,CZE,Tereza ŠVÁBÍKOVÁ,60397,8361,10,https://bwf.tournamentsoftware.com/player-profile/BE5C2E01-EE5F-4E50-A0EF-6177621D61C2
+172,-3,169,MYA,THET HTAR THUZAR,62385,8350,7,https://bwf.tournamentsoftware.com/player-profile/BF953C55-36EE-4C20-B607-054BCF5E8A36
+173,-19,154,TPE,LIN Hsiang Ti,96725,8330,7,https://bwf.tournamentsoftware.com/player-profile/4D2B0F13-BAA7-4EF0-B027-1418DAC418C2
+174,55,229,USA,Iris WANG,57798,8250,3,https://bwf.tournamentsoftware.com/player-profile/BCA9B2D6-FF34-4FC7-99BC-39BBB9B85803
+175,-4,171,ALG,Linda MAZRI,59922,8214,7,https://bwf.tournamentsoftware.com/player-profile/DA3FE0AF-E325-4636-BEBE-B1C4084AD814
+176,-4,172,JPN,Natsumi SHIMODA,97921,8190,5,https://bwf.tournamentsoftware.com/player-profile/A9BF7316-EFBF-46B9-9517-AD4F8778DB7B
+177,-4,173,MRI,Aurelie Marie Elisa ALLET,84390,8132,8,https://bwf.tournamentsoftware.com/player-profile/4E989346-5CED-4C7C-BE23-C41B175D1DCD
+178,-4,174,ENG,Abigail HOLDEN,72346,8036,13,https://bwf.tournamentsoftware.com/player-profile/9DAD325A-3734-41BE-B7A1-A329DFF9548A
+179,13,192,RUS,Victoria SLOBODYANYUK,67073,7950,7,https://bwf.tournamentsoftware.com/player-profile/45E069FC-91E0-4286-A390-A0F6CDCBB79B
+180,-5,175,FRA,Manon KRIEGER,89836,7920,11,https://bwf.tournamentsoftware.com/player-profile/A73D1A61-98A8-41DD-9F34-031A6218CB69
+181,10,191,FRA,Katia NORMAND,55629,7873,15,https://bwf.tournamentsoftware.com/player-profile/D4BA2152-8BD8-4540-B589-48627B0D492A
+182,-6,176,PER,Fernanda SAPONARA RIVVA,88063,7860,6,https://bwf.tournamentsoftware.com/player-profile/DE7894E4-407E-44E4-B9ED-C134BFD8BC9D
+183,63,246,KOR,AN Seyoung,87442,7790,5,https://bwf.tournamentsoftware.com/player-profile/F01113A4-2115-4611-8923-85E45C4A2193
+184,-6,178,RUS,Anastasiia PUSTINSKAIA,81322,7739,8,https://bwf.tournamentsoftware.com/player-profile/FFD90F52-1DD6-49EB-9FB0-485D35FF0104
+185,-6,179,DEN,Iben BERGSTEIN,76370,7720,11,https://bwf.tournamentsoftware.com/player-profile/DD0C7ECF-829D-4AFC-8364-86723A1640E0
+186,-6,180,JPN,Mako URUSHIZAKI,56963,7720,3,https://bwf.tournamentsoftware.com/player-profile/B623AEC7-9C11-483D-97AE-5413723664B1
+187,-6,181,TPE,LIN Ying Chun,57244,7614,9,https://bwf.tournamentsoftware.com/player-profile/9E15FD70-5C56-45A2-AD7C-74C9164CDE29
+188,-6,182,ZAM,Ogar SIAMUPANGILA,51665,7610,5,https://bwf.tournamentsoftware.com/player-profile/6749C50E-33BF-4206-83B2-CC327605ECD3
+189,-6,183,UKR,Maryna ILYINSKAYA,64424,7556,11,https://bwf.tournamentsoftware.com/player-profile/B91611F4-EA7F-4C14-818F-453E59453E96
+190,-5,185,THA,Manassanan LERTHATTASIN,74153,7530,7,https://bwf.tournamentsoftware.com/player-profile/0870A538-CE63-4513-8857-59646540BA78
+191,-5,186,TPE,LIANG Ting Yu,93852,7410,5,https://bwf.tournamentsoftware.com/player-profile/628E5E75-094E-4104-837C-76F3A85E1971
+192,-5,187,HUN,Laura SAROSI,34899,7180,8,https://bwf.tournamentsoftware.com/player-profile/F0873D0F-0F78-4B22-8C21-AC2085E043C4
+193,-5,188,IRL,Rachael DARRAGH,80889,7109,11,https://bwf.tournamentsoftware.com/player-profile/3106179C-6C83-468A-801C-0218DD66C85A
+194,-5,189,ENG,Fontaine Mica WRIGHT,55536,7100,5,https://bwf.tournamentsoftware.com/player-profile/C4017C5A-7B06-478F-B2B7-CAAE83925570
+195,16,211,IND,Reshma KARTHIK,59536,7090,5,https://bwf.tournamentsoftware.com/player-profile/A2CBD3FE-C464-42B5-97BF-F0F1DF320F05
+196,-3,193,GUA,Diana CORLETO SOTO,56401,6993,7,https://bwf.tournamentsoftware.com/player-profile/05A435EF-5E67-4979-A072-48EFA765CBB1
+197,-3,194,SUI,Cendrine HANTZ,74309,6930,7,https://bwf.tournamentsoftware.com/player-profile/388E99F8-AA99-485A-8FCB-CD7572A03E31
+198,-3,195,AUS,Joy LAI,91611,6873,2,https://bwf.tournamentsoftware.com/player-profile/3AB36485-9A60-4105-94C5-BB64A3C4EFF4
+199,18,217,IND,PARDESHI Shreyanshi,67630,6850,7,https://bwf.tournamentsoftware.com/player-profile/3413664F-F30F-43D2-AE63-B14757991A5D
+200,18,218,INA,Aurum Oktavia WINATA,68199,6830,6,https://bwf.tournamentsoftware.com/player-profile/4C853046-10D9-4E14-A057-7204A2E6780A
+201,51,252,HKG,CHEUNG Ying Mei,70188,6768,8,https://bwf.tournamentsoftware.com/player-profile/87DEE91A-F2C6-4421-80C9-F2B18AF422D4
+202,-6,196,VIE,Thi Phuong Thuy TRAN,73814,6750,7,https://bwf.tournamentsoftware.com/player-profile/9A6E65E2-9D9A-4534-926A-F023A5856B93
+203,-6,197,MDV,Fathimath Nabaaha ABDUL RAZZAQ,62853,6710,6,https://bwf.tournamentsoftware.com/player-profile/143857BC-8BF9-4862-9180-99DA3F82448E
+204,52,256,IND,AAKARSHI KASHYAP,80402,6630,3,https://bwf.tournamentsoftware.com/player-profile/DE47B5E4-D47A-4D20-8CD4-B8112A0AC459
+205,-15,190,AUS,Zecily FUNG,58515,6525,4,https://bwf.tournamentsoftware.com/player-profile/C86B7C7C-229E-47B5-A8A7-792907A4A6C0
+206,-8,198,JPN,Yui HASHIMOTO,43256,6260,3,https://bwf.tournamentsoftware.com/player-profile/150A85EA-A7A3-4D93-BFA6-604B6E83E0CC
+207,-8,199,PER,Ines Lucia CASTILLO SALAZAR,79258,6239,8,https://bwf.tournamentsoftware.com/player-profile/DE04324E-D7CB-4D7C-A08A-715C1FBAA9BE
+208,-8,200,CZE,Sabina MILOVA,68580,6230,13,https://bwf.tournamentsoftware.com/player-profile/B48435B8-4D41-49BA-AF6E-39D76E274A7B
+209,-8,201,JPN,Shiori EBIHARA,57727,6200,2,https://bwf.tournamentsoftware.com/player-profile/202EFF79-5176-40BF-A4C0-977FC2FB6F6E
+210,-2,208,BLR,Anastasiya CHERNIAVSKAYA,94400,6171,11,https://bwf.tournamentsoftware.com/player-profile/13CA8C78-6969-473C-BF8F-6A9B9622A7F9
+211,28,239,IND,SMIT TOSHNIWAL,58397,6150,8,https://bwf.tournamentsoftware.com/player-profile/15CB325A-D384-49B5-AF09-A06DDCE92DDF
+212,28,240,IND,Shruti MUNDADA,82685,6150,7,https://bwf.tournamentsoftware.com/player-profile/FEF2D0A8-3430-4618-A960-BC00B67B39C2
+213,-11,202,MEX,Haramara GAITAN,85514,6150,3,https://bwf.tournamentsoftware.com/player-profile/242E2FD7-1F50-4646-9925-71B3AC4EB68C
+214,-11,203,JPN,Yuri NAKAMURA,60094,6080,4,https://bwf.tournamentsoftware.com/player-profile/1EFC301D-56EF-4DE2-B667-7E2B2B43A9EA
+215,-11,204,NZL,Sally FU,88713,6070,4,https://bwf.tournamentsoftware.com/player-profile/DF460843-6D06-495B-9283-ADAD824213D3
+216,-11,205,IRI,Soraya AGHAEIHAJIAGHA,45380,6060,5,https://bwf.tournamentsoftware.com/player-profile/F2E4454F-562F-4E0D-A355-671228E10CFE
+217,-11,206,TUR,Cemre FERE,89027,5990,4,https://bwf.tournamentsoftware.com/player-profile/C54748E3-652B-4797-9814-427BBC5CED72
+218,-5,213,LTU,Vytaute FOMKINAITE,72367,5976,13,https://bwf.tournamentsoftware.com/player-profile/D3EBF0FA-850E-4936-88E2-8FE1F8F468E4
+219,32,251,IND,Shikha GAUTAM,77808,5950,5,https://bwf.tournamentsoftware.com/player-profile/248CDA43-CD15-4830-8159-9AD25AE14B8B
+220,-11,209,NZL,Shaunna LI,62883,5870,3,https://bwf.tournamentsoftware.com/player-profile/B38D2DDB-FC64-4E00-B840-B1BC6B32E84D
+221,-11,210,EGY,Jana ASHRAF,63656,5804,7,https://bwf.tournamentsoftware.com/player-profile/09BAA690-9CC8-43CF-8127-96EB046E6F14
+222,-10,212,GUA,Alejandra Jose PAIZ QUAN,96554,5760,7,https://bwf.tournamentsoftware.com/player-profile/5DDB36C9-D837-49AC-8547-63B93BEA51F3
+223,68,291,INA,Choirunnisa CHOIRUNNISA,98727,5740,3,https://bwf.tournamentsoftware.com/player-profile/203702CD-39E1-41A6-8E3C-170D5E115145
+224,-10,214,BRA,Jaqueline LIMA,57457,5650,4,https://bwf.tournamentsoftware.com/player-profile/29CABE8E-E9DE-4BA4-A793-BAA7B87FC8ED
+225,-10,215,INA,Sri FATMAWATI,55717,5630,5,https://bwf.tournamentsoftware.com/player-profile/F6E5E42C-D089-4905-BDCA-BD3419280ECB
+226,-10,216,RUS,Elena KOMENDROVSKAJA,36996,5604,6,https://bwf.tournamentsoftware.com/player-profile/F18E3300-304E-4900-81D4-A61B00477BCE
+227,-8,219,NED,Debora JILLE,67373,5530,6,https://bwf.tournamentsoftware.com/player-profile/C3FE1E70-9266-4488-9354-949F2638B615
+228,-8,220,CRO,Maja PAVLINIC,87268,5500,7,https://bwf.tournamentsoftware.com/player-profile/C70BEE5D-9396-4953-A60D-28A1A0639B29
+229,-8,221,NGR,Uchechukwu Deborah UKEH,69682,5492,3,https://bwf.tournamentsoftware.com/player-profile/E8EEABDA-57B5-42E1-8C5B-10E8BD82CF13
+230,-8,222,LTU,Gerda VOITECHOVSKAJA,53814,5450,11,https://bwf.tournamentsoftware.com/player-profile/74527CE0-B793-40EF-8F67-82F7AA5E9C0B
+231,-8,223,LAT,Ieva POPE,87721,5427,11,https://bwf.tournamentsoftware.com/player-profile/CC96AA69-7907-4326-8240-85EB44C029F9
+232,-8,224,JAM,Katherine WYNTER,77611,5390,5,https://bwf.tournamentsoftware.com/player-profile/CD85A851-DB7C-4990-BB5A-9520F40E6CE5
+233,-8,225,RSA,Johanita SCHOLTZ,75193,5390,3,https://bwf.tournamentsoftware.com/player-profile/0399F887-18D7-4E77-A131-7C2FACE5DEB9
+234,-8,226,MDV,Moosa Aminath SHAHURUNAZ,81991,5345,5,https://bwf.tournamentsoftware.com/player-profile/32E1E31D-F2F7-4149-B2ED-70A1396CD24B
+235,-8,227,PAK,Mahoor SHAHZAD,51218,5320,3,https://bwf.tournamentsoftware.com/player-profile/9236599A-A412-48AC-8DE2-E6D4014B5BA3
+236,-4,232,UKR,Anna MIKHALKOVA,59810,5310,12,https://bwf.tournamentsoftware.com/player-profile/2A35630A-C2B1-467D-91C2-1623D8C72E2D
+237,-9,228,ZAM,Evelyn SIAMUPANGILA,55777,5310,6,https://bwf.tournamentsoftware.com/player-profile/CE7029E1-AD27-4AB0-9557-351AE95A9962
+238,-8,230,IND,Eshita RAJU. K,77439,5140,5,https://bwf.tournamentsoftware.com/player-profile/1EBDE6B6-B36F-49B2-8A10-82B4067729FA
+239,-8,231,JPN,Moto HAYASHI,75398,5140,2,https://bwf.tournamentsoftware.com/player-profile/CFFAEC68-ACF4-4433-9A8C-C6C2205C7F49
+240,-7,233,MRI,Kobita DOOKHEE,69361,5128,7,https://bwf.tournamentsoftware.com/player-profile/B1EB912A-734E-4C25-B449-BAC7A82F933F
+241,13,254,INA,Bening Sri RAHAYU,78940,5060,3,https://bwf.tournamentsoftware.com/player-profile/2D5D779A-F62C-4422-883F-876050EAE304
+242,-7,235,SWE,Johanna MAGNUSSON,73556,5052,12,https://bwf.tournamentsoftware.com/player-profile/B85A0CEF-973C-4B12-877D-160B510CF22D
+243,-7,236,UGA,Bridget Shamim BANGI,83532,5040,4,https://bwf.tournamentsoftware.com/player-profile/DC4AF423-68D6-4273-88BA-79978CC94C46
+244,22,266,RUS,Elizaveta TARASOVA,82524,5010,7,https://bwf.tournamentsoftware.com/player-profile/999B8651-070F-4BDD-8468-9865164CC062
+245,-8,237,IRI,Samin ABEDKHOJASTEH,72615,4950,5,https://bwf.tournamentsoftware.com/player-profile/F9D17E13-D4E2-4FF7-97AE-0DF093C20A39
+246,-8,238,USA,Isabelle RUSLI,89998,4870,6,https://bwf.tournamentsoftware.com/player-profile/D1BA84F5-DEE9-42AE-99FF-4ED1CA83A9FF
+247,-6,241,KOR,Byeol Lim LEE,98991,4830,2,https://bwf.tournamentsoftware.com/player-profile/FEEF8618-B825-45F8-BF32-0524F43A4B75
+248,-6,242,BUL,Maria DELCHEVA,61923,4805,5,https://bwf.tournamentsoftware.com/player-profile/2585F9BF-B9F0-4F59-8A0B-0CD332F982A9
+249,1,250,NOR,Elisa WIBORG,92893,4802,12,https://bwf.tournamentsoftware.com/player-profile/992C44A7-1929-4149-86C8-5D736055EF9B
+250,-7,243,INA,Devi Yunita INDAH SARI,78068,4800,4,https://bwf.tournamentsoftware.com/player-profile/777D9F01-96FA-40CA-8861-3EB50D4C00B5
+251,-7,244,SWE,Ashwathi PILLAI,81068,4798,7,https://bwf.tournamentsoftware.com/player-profile/E90141E6-695C-4C1B-87F3-D4BB705B95C1
+252,3,255,HKG,FAN Ka Yan,95905,4780,5,https://bwf.tournamentsoftware.com/player-profile/8E30978F-E101-4453-A9BB-2A8EC87F0D3B
+253,-8,245,ZAM,Elizaberth CHIPELEME,58650,4760,5,https://bwf.tournamentsoftware.com/player-profile/16FCE34D-86ED-4DB7-B181-DFA51F224CEE
+254,-7,247,IND,Tanvi LAD,66615,4730,2,https://bwf.tournamentsoftware.com/player-profile/10A5744C-0F05-4E99-BD3A-19CE06D7D11C
+255,-7,248,NEP,Nangsal TAMANG,78543,4700,3,https://bwf.tournamentsoftware.com/player-profile/9C996B9E-0F4D-497D-9B85-2F47613235A7
+256,-7,249,TPE,HU Ling Fang,87176,4690,4,https://bwf.tournamentsoftware.com/player-profile/AC5EF9BE-F852-4854-A877-3833D957D1DE
+257,-4,253,BLR,Kristina SILICH,63639,4570,9,https://bwf.tournamentsoftware.com/player-profile/7C1FC9BC-FD9B-4BC5-BC55-CE82DAAF35D8
+258,-1,257,DOM,Nairoby Abigail JIMENEZ,71061,4490,3,https://bwf.tournamentsoftware.com/player-profile/FB07512E-25D8-4931-B7ED-426EECBEBA78
+259,66,325,IND,Simran SINGHI,75190,4450,5,https://bwf.tournamentsoftware.com/player-profile/971E8C41-2B01-4F83-A34E-9A42042BB563
+260,18,278,IND,Amolika Singh SISODIYA,82108,4420,5,https://bwf.tournamentsoftware.com/player-profile/4CFBA8C3-1328-4F0F-8D38-2A2D27DAE3DB
+261,-3,258,RUS,Viktoriia VOROBEVA,75083,4340,8,https://bwf.tournamentsoftware.com/player-profile/94FAFC51-572D-4088-A5CE-67073A0DEB6D
+262,9,271,IND,Tanishq MAMILLA PALLI,80146,4290,6,https://bwf.tournamentsoftware.com/player-profile/97DC2823-3750-4DA3-9C20-873286CE2B25
+263,-4,259,ALG,Ines ZIANI,66639,4260,5,https://bwf.tournamentsoftware.com/player-profile/99CA23C9-9BDC-4337-B53D-B65870C9D6AE
+264,-4,260,BRA,Bianca Oliveira LIMA,71483,4240,2,https://bwf.tournamentsoftware.com/player-profile/EDD56B62-A257-4FBA-9F47-C60AE573494C
+265,-4,261,SLO,Lia SALEHAR,99177,4210,9,https://bwf.tournamentsoftware.com/player-profile/F220AF3D-751D-470C-B5CD-853473802733
+266,-4,262,TPE,TANG Wan Yi,78755,4200,4,https://bwf.tournamentsoftware.com/player-profile/8A763413-744C-4A6A-A593-2885C0A9B572
+267,-4,263,ENG,Grace KING,60246,4144,5,https://bwf.tournamentsoftware.com/player-profile/ACEB3F93-01E6-4BE5-8464-69341DDAA50B
+268,-4,264,IND,Prashi JOSHI,99019,4140,7,https://bwf.tournamentsoftware.com/player-profile/1E0477CA-7958-45A9-BC6F-540D8926C73D
+269,-4,265,BAR,Tamisha WILLIAMS,72058,4130,4,https://bwf.tournamentsoftware.com/player-profile/408DCBDD-B9ED-4C55-B8B7-37ADB1DBF34E
+270,-3,267,MAC,Weng Chi NG,95068,4080,4,https://bwf.tournamentsoftware.com/player-profile/74715223-781C-40FC-841F-0759B2810157
+271,-3,268,GUA,Sara Michele BARRIOS CHIONG,78320,4080,3,https://bwf.tournamentsoftware.com/player-profile/07F5D144-7171-4472-8330-D06A3E39650C
+272,-3,269,GUA,Mariana Isabel PAIZ QUAN,76901,4064,6,https://bwf.tournamentsoftware.com/player-profile/8BDAC6EA-9F0A-4225-9000-4B7856A4A9EE
+273,-3,270,ECU,Maria Delia ZAMBRANO,95277,4050,6,https://bwf.tournamentsoftware.com/player-profile/65BFA714-A88B-4D8B-9D28-59ECD30575FC
+274,-2,272,GUA,Nikte Alejandra SOTOMAYOR,17774,4040,3,https://bwf.tournamentsoftware.com/player-profile/077216EA-6655-4DF5-8B8F-8EAB6C1C1398
+275,-2,273,PER,Paula LA TORRE REGAL,95819,4010,4,https://bwf.tournamentsoftware.com/player-profile/FF581749-575C-4177-8BBA-D541A4C5D068
+276,-2,274,NGR,Zainab MOMOH,63462,3999,3,https://bwf.tournamentsoftware.com/player-profile/055B3D5B-E2E9-49A6-A0C6-7AE417C605C9
+277,-2,275,GHA,Grace ANNABEL ATIPAKA,87188,3984,4,https://bwf.tournamentsoftware.com/player-profile/BCDF7876-953C-4002-A138-2DC1DF7971D6
+278,-2,276,PAK,Sehra AKRAM,78319,3970,2,https://bwf.tournamentsoftware.com/player-profile/AC54823A-1DB7-44FA-85EF-27D2DEAEECED
+279,-2,277,CHN,LI Yun,76632,3950,2,https://bwf.tournamentsoftware.com/player-profile/E5FFC825-8150-43D6-978E-A555A3C5EFFA
+280,9,289,BLR,Katsiaryna ZABLOTSKAYA,95699,3940,13,https://bwf.tournamentsoftware.com/player-profile/1B36373C-5758-4437-963B-8257FD52F0EC
+281,-2,279,CAN,Olivia (Li) LEI,84913,3910,2,https://bwf.tournamentsoftware.com/player-profile/C6C62077-7AC8-4E02-BC7F-D949C0F7C372
+282,-2,280,SWE,Rebecca KUHL,57304,3900,8,https://bwf.tournamentsoftware.com/player-profile/F825BEB2-F54B-4446-A0B0-1BF6F236C5E6
+283,-2,281,INA,Gabriela Meilani MONINGKA,80425,3900,3,https://bwf.tournamentsoftware.com/player-profile/5BAE9EF3-2FF8-4D01-9C3C-BD0E1F84E6BE
+284,24,308,IND,Ritika THAKER,88389,3860,5,https://bwf.tournamentsoftware.com/player-profile/49B9D7EF-7392-46E6-8E2F-F134D4369710
+285,-3,282,CAN,Talia NG,69393,3859,3,https://bwf.tournamentsoftware.com/player-profile/CECA4F1B-6BB6-4EC1-9EC2-BD8B00EC99DB
+286,-3,283,TPE,CHEN Hsiao Huan,51518,3850,3,https://bwf.tournamentsoftware.com/player-profile/58BDD3B7-AE1C-4632-8EC3-9B08221625F4
+287,-3,284,HKG,TSANG Wing Chiu Avery,59216,3830,4,https://bwf.tournamentsoftware.com/player-profile/25444CF6-2AF9-4D95-982B-CC85B4F121DD
+288,-3,285,INA,Ni Made Pranita SULISTYA DEVI,92946,3800,4,https://bwf.tournamentsoftware.com/player-profile/C970C92E-2B5C-4E7B-882F-B05627AC54C2
+289,33,322,RUS,Olga ARKHANGELSKAYA,8558,3780,6,https://bwf.tournamentsoftware.com/player-profile/1BB0FFFD-046B-4A8B-98D4-FCC07BC57906
+290,-4,286,CHN,LI Wen Mei,78837,3780,2,https://bwf.tournamentsoftware.com/player-profile/CA5A0070-F3D1-4184-8008-37003AC7CB3F
+291,-4,287,NGR,Grace GABRIEL,80210,3760,4,https://bwf.tournamentsoftware.com/player-profile/F4FF1AEF-4A3F-43DE-81F0-16F2D4284202
+291,-4,287,USA,Ariel LEE,59441,3760,4,https://bwf.tournamentsoftware.com/player-profile/C70D345F-75FD-4C71-B0A4-2E6F03045430
+293,20,313,LAT,Monika RADOVSKA,57646,3738,11,https://bwf.tournamentsoftware.com/player-profile/8EA7270C-ACAA-45D8-A419-2708A99AEA6A
+294,-4,290,INA,Maharani Sekar BATARI,86412,3650,5,https://bwf.tournamentsoftware.com/player-profile/DE8DD96E-FFFE-4C4A-B444-650B7671BDC4
+295,-4,291,NZL,Jenny ZHU,63380,3630,2,https://bwf.tournamentsoftware.com/player-profile/55CB7C0A-BA05-41E7-8D76-8F03BAC4A4C8
+296,-3,293,SRI,KAVIDI SIRIMANNAGE,92656,3600,1,https://bwf.tournamentsoftware.com/player-profile/80757C43-81A9-49C0-AB77-BBE5B02138AE
+297,23,320,NOR,Emilie HAMANG,96168,3548,10,https://bwf.tournamentsoftware.com/player-profile/7A2A9F32-680E-42BC-913B-132ED5532601
+298,-4,294,CYP,Eleni CHRISTODOULOU,71421,3540,8,https://bwf.tournamentsoftware.com/player-profile/DB57229F-2590-4797-AADA-4583D204B30D
+299,22,321,POL,Oliwia SOCHA,89778,3527,12,https://bwf.tournamentsoftware.com/player-profile/346CDAF6-3C68-40C3-9CF6-3228D0AFA5A2
+300,-3,297,PER,Daniela ZAPATA,63012,3477,4,https://bwf.tournamentsoftware.com/player-profile/8DF500DA-A668-4754-B030-87BD8B246337
+301,-3,298,HUN,Reka MADARASZ,94323,3471,4,https://bwf.tournamentsoftware.com/player-profile/8B5E056E-3CB2-4D56-9BAE-45AD9140DD30
+302,15,317,IND,PURVA BARVE,58421,3450,4,https://bwf.tournamentsoftware.com/player-profile/FB070B8F-74B4-43E1-BE6A-369AA9873006
+303,-4,299,HKG,CHOW King Ling,91755,3430,3,https://bwf.tournamentsoftware.com/player-profile/0AC200D4-DDBC-4842-A7B0-6918DE4E5859
+304,-3,301,CUB,Yeily Mari ORTIZ RODRIGUEZ,67477,3400,4,https://bwf.tournamentsoftware.com/player-profile/7E42C753-ACCA-4A08-A090-73932DDC9BDE
+305,-3,302,JPN,Kaho FUNAHASHI,92829,3400,1,https://bwf.tournamentsoftware.com/player-profile/B04BDC51-37E2-4A4D-9E5D-30EA4F917145
+305,-3,302,JPN,Ayaho SUGINO,65711,3400,1,https://bwf.tournamentsoftware.com/player-profile/2C6F2D6E-30A6-44B2-822D-71C040F29B2E
+307,-3,304,ZAM,Ngandwe MIYAMBO,35183,3390,4,https://bwf.tournamentsoftware.com/player-profile/FB1ADF14-458A-4C2B-987A-CA309BE3A9FB
+308,-3,305,NZL,Catelyn ROZARIO,83371,3370,3,https://bwf.tournamentsoftware.com/player-profile/4C299719-4D3A-4081-873F-C386A701D0A0
+308,-3,305,NZL,Ella SMITH,64139,3370,3,https://bwf.tournamentsoftware.com/player-profile/6CFE7F92-963F-4E5F-B7B4-02CE40DA60AB
+310,-3,307,MAS,LEE Zii Yii,97655,3360,3,https://bwf.tournamentsoftware.com/player-profile/958FC36F-6772-4097-853E-BEBB2DE6B0C1
+311,-2,309,INA,Made Deya Surya SARASWATI,87163,3340,5,https://bwf.tournamentsoftware.com/player-profile/B791AF34-D4C7-463F-B494-56BD1517CA91
+312,21,333,USA,Ruhi RAJU,63214,3310,6,https://bwf.tournamentsoftware.com/player-profile/2A910C4F-4DB7-4BDF-B68E-323805C4803C
+313,-3,310,USA,Jacqueline Wendy MYERS,62708,3300,6,https://bwf.tournamentsoftware.com/player-profile/98BD6E61-ED13-42C6-9958-30698BCC15E2
+314,-3,311,RUS,Anastasiia SHAPOVALOVA,70379,3280,6,https://bwf.tournamentsoftware.com/player-profile/9FDA20D8-3683-4A97-9920-8D2232198E72
+315,-3,312,POL,Wiktoria DABCZYNSKA,84178,3240,5,https://bwf.tournamentsoftware.com/player-profile/16753944-EB63-416B-9391-CE0D9C9B38B0
+316,-2,314,DOM,Bermary Altagracia POLANCO MUNOZ,72946,3220,3,https://bwf.tournamentsoftware.com/player-profile/517EFE54-E95F-4304-AB7E-98B8122E2C77
+316,-2,314,CIV,Aïcha Laurene N'DIA,75792,3220,3,https://bwf.tournamentsoftware.com/player-profile/0D899C0E-C72C-40A8-9886-62B679CACC87
+318,-2,316,NZL,Justine VILLEGAS,77993,3215,5,https://bwf.tournamentsoftware.com/player-profile/C94F50DE-927A-477F-A4F7-6D635D361947
+319,-1,318,DEN,Camilla MARTENS,44738,3200,4,https://bwf.tournamentsoftware.com/player-profile/5940AEED-933D-44A9-A4ED-699373091948
+319,-1,318,UKR,Valeriya RUDAKOVA,70622,3200,4,https://bwf.tournamentsoftware.com/player-profile/56731D76-7A58-4D63-963F-CDADD47765F4
+321,1,322,DEN,Freja RAVN,88933,3180,5,https://bwf.tournamentsoftware.com/player-profile/39F0C6A0-8B63-48A7-B15D-3814ED47FF7A
+322,2,324,CHI,Ashley MONTRE,82677,3180,3,https://bwf.tournamentsoftware.com/player-profile/624C758E-107A-49EE-A48E-00A65DB62B6F
+323,3,326,SWE,Emma KARLSSON,98566,3150,5,https://bwf.tournamentsoftware.com/player-profile/C7FE676A-1B62-4797-8BEF-B0E32C83E180
+324,3,327,TPE,PENG Li Ting,70347,3140,3,https://bwf.tournamentsoftware.com/player-profile/77AB585C-7EDF-4C38-AE66-3B5FCD53FE78
+325,3,328,INA,Silvi WULANDARI,95374,3120,2,https://bwf.tournamentsoftware.com/player-profile/0276AC60-8A90-4DEA-A170-F5435AEC0B47
+325,3,328,INA,Eprilia Mega Ayu SWASTIKA,74265,3120,2,https://bwf.tournamentsoftware.com/player-profile/7AC087E9-DE42-4590-901D-E5E54F463259
+325,3,328,JPN,Tsukiko YASAKI,70027,3120,2,https://bwf.tournamentsoftware.com/player-profile/BE9917DF-6F05-4E03-9E10-A2CE0DAFFA42
+328,3,331,EST,Helina RÜÜTEL,75821,3100,7,https://bwf.tournamentsoftware.com/player-profile/B5E9AD87-81CF-4110-A925-BB060FE3892A
+329,3,332,SRI,Thilini HENDAHEWA,79705,3100,2,https://bwf.tournamentsoftware.com/player-profile/AF1747A2-4B11-4571-A89C-9D83B9DB3FE6
+330,4,334,NGR,Chineye IBERE,80069,3050,2,https://bwf.tournamentsoftware.com/player-profile/53708A59-5C34-4F4D-BFD4-43A42C19CD78
+331,4,335,UKR,Mariya RUD,89963,3040,5,https://bwf.tournamentsoftware.com/player-profile/C6835DF1-D6B5-4F02-92B6-D7F80EED362B
+332,4,336,NZL,Gaea GALVEZ,87799,3040,3,https://bwf.tournamentsoftware.com/player-profile/573C79EA-E242-4D9E-AD90-D0BCE03BD4D9
+333,4,337,CHN,WEI Ya Xin,57246,3030,2,https://bwf.tournamentsoftware.com/player-profile/60832C19-0DE7-4C64-A3B9-907CBB4A30CE
+334,21,355,FRA,Julie FERRIER,74464,2990,9,https://bwf.tournamentsoftware.com/player-profile/60CD5DBE-2A47-4F50-88A6-B7376393BA33
+335,3,338,CHI,Camila MACAYA,34449,2990,4,https://bwf.tournamentsoftware.com/player-profile/DBF58044-4FAA-41DB-A5B6-24BD8DF2CDEC
+335,3,338,ARG,Barbara Maria BERRUEZO,76011,2990,4,https://bwf.tournamentsoftware.com/player-profile/63380258-397B-4008-A2D9-7ACE3F38311D
+337,3,340,MRI,Ganesha MUNGRAH,74892,2990,3,https://bwf.tournamentsoftware.com/player-profile/1C0B2347-286A-4986-923C-DE3DD63568F5
+338,3,341,MAS,Saranya NAVARATNAJAH,63998,2930,5,https://bwf.tournamentsoftware.com/player-profile/1FDF973B-3748-4C95-A49B-7875242C0091
+339,3,342,UKR,Vladyslava LESNAYA,83254,2870,5,https://bwf.tournamentsoftware.com/player-profile/007CC2BE-2697-423C-BC92-813B359E2DF5
+340,3,343,HUN,Vivien SANDORHAZI,61949,2861,4,https://bwf.tournamentsoftware.com/player-profile/B5432A50-A384-41C0-A1CE-D5EBDCCF9E84
+341,3,344,MDV,Aminath Nabeeha ABDUL RAZZAQ,77393,2805,4,https://bwf.tournamentsoftware.com/player-profile/7CB25B06-4993-4241-8D81-DBDB8C64A01A
+342,3,345,NEP,Jessica GURUNG,83437,2770,2,https://bwf.tournamentsoftware.com/player-profile/77377179-54C0-495B-9824-BA1499936FA0
+343,3,346,MEX,Adelina QUIÑONES,71039,2760,3,https://bwf.tournamentsoftware.com/player-profile/4E58C416-2E3B-4B78-B264-4369D54DAAB1
+344,3,347,INA,Wulan Cahya Utami SUKOPUTRI,69504,2750,2,https://bwf.tournamentsoftware.com/player-profile/CC00DA67-7B80-4CF3-A0C8-8C43292D9F01
+345,47,392,IND,Vaishnavi KARRI,72739,2720,7,https://bwf.tournamentsoftware.com/player-profile/15F46E45-B2BB-4D6F-BB2A-19D16C4CA8B4
+346,2,348,KOR,Ji Won BAE,63070,2720,1,https://bwf.tournamentsoftware.com/player-profile/5FC4CE87-6D9E-45F0-96DB-DAAF7002FF39
+347,2,349,NZL,Roanne APALISOK,96913,2710,2,https://bwf.tournamentsoftware.com/player-profile/4DF49AD4-31FC-4E7B-BC3B-9BE081F49E08
+348,2,350,ALG,Dounia NAAMA,72550,2690,2,https://bwf.tournamentsoftware.com/player-profile/4D2CA5AF-6BB2-4C76-B073-3C8506DC31FA
+349,2,351,UKR,Anastasiya PROZOROVA,82788,2688,5,https://bwf.tournamentsoftware.com/player-profile/2C8A6AF8-9C4A-49B0-9158-8E2123A1998C
+350,2,352,RSA,Demi BOTHA,80448,2670,2,https://bwf.tournamentsoftware.com/player-profile/E94E8285-D0E5-41E2-94E8-981946236256
+350,2,352,BRA,Lohaynny VICENTE,74742,2670,2,https://bwf.tournamentsoftware.com/player-profile/DD752B8C-F0A7-48EC-934F-F3DEAB208BB3
+352,4,356,EGY,Hana TAREK ZAHER,77353,2620,3,https://bwf.tournamentsoftware.com/player-profile/186F7B09-397F-4A50-A3BE-E1E95E9758B5
+353,4,357,CHN,FAN Mengyan,88907,2620,2,https://bwf.tournamentsoftware.com/player-profile/63664435-13D1-4105-AC9B-BA5784EDC98B
+354,-120,234,TPE,HUNG En-Tzu,62639,2600,3,https://bwf.tournamentsoftware.com/player-profile/10228EF5-25D3-4563-A612-3D12448591DF
+355,3,358,TPE,KUO Yen Chi,55570,2590,5,https://bwf.tournamentsoftware.com/player-profile/03E2855A-695E-4ADD-80B2-62633CF00FDA
+356,3,359,LTU,Akvile STAPUSAITYTE,14894,2590,2,https://bwf.tournamentsoftware.com/player-profile/BD009184-986D-4610-9B48-C13733873E46
+357,3,360,INA,Isra FARADILLA,64385,2560,4,https://bwf.tournamentsoftware.com/player-profile/19101FB4-F798-4610-A726-8F6C1CF13E8D
+358,3,361,JPN,Natsuki OIE,88133,2560,2,https://bwf.tournamentsoftware.com/player-profile/9FF91140-7F03-4BCF-88F5-6CDDA6502DEF
+359,3,362,KOR,Bo Min KIM,81749,2550,2,https://bwf.tournamentsoftware.com/player-profile/CAE893C1-4216-4AF7-82D8-68673E31FB60
+360,4,364,BAR,Sabrina SCOTT,54547,2530,4,https://bwf.tournamentsoftware.com/player-profile/90878F3C-97DA-4748-9E17-E5D3DC3E2945
+361,4,365,SUR,Mary - Ann ZHONG,63056,2520,3,https://bwf.tournamentsoftware.com/player-profile/9AF3F2AB-B0CA-478D-9D90-80F144F98935
+362,4,366,UGA,Gladys MBABAZI,86234,2502,3,https://bwf.tournamentsoftware.com/player-profile/9DA5E075-C4A9-4863-A230-D0CFEA822C1B
+363,4,367,JPN,Saya YAMAMOTO,97138,2500,1,https://bwf.tournamentsoftware.com/player-profile/10BA1ABA-2537-4E31-858D-6F0F22A06CFF
+363,-63,300,SRI,Lekha SHEHANI,96090,2500,1,https://bwf.tournamentsoftware.com/player-profile/FAD36D15-1126-454C-A08C-B60AB9A245E9
+365,3,368,FIJ,Andra WHITESIDE,13993,2462,3,https://bwf.tournamentsoftware.com/player-profile/1C0F1899-3DEB-4377-83C2-375768CC0D37
+365,3,368,FIJ,Karyn GIBSON,96372,2462,3,https://bwf.tournamentsoftware.com/player-profile/04F6225A-C197-45BC-8EB0-69B0458CD122
+367,3,370,NZL,Ashley TAN,99815,2460,2,https://bwf.tournamentsoftware.com/player-profile/9EBF2458-3272-4087-8234-4B7A2617D8B3
+368,3,371,HUN,Monika SZOKE,66695,2440,2,https://bwf.tournamentsoftware.com/player-profile/A6D3FE50-E39F-4A9E-A264-129C6679EF5D
+368,26,394,INA,Rizma Anestasy VIOLETA,91541,2440,2,https://bwf.tournamentsoftware.com/player-profile/567A7454-C805-4EE1-83C5-E53F24AB8A7A
+370,2,372,ARG,Florencia BERNATENE,90876,2420,4,https://bwf.tournamentsoftware.com/player-profile/8BE44220-6ADD-4E60-A549-EE838342BCCB
+371,2,373,SLO,Iza SALEHAR,84389,2410,7,https://bwf.tournamentsoftware.com/player-profile/A5A889A3-D497-48A0-8466-E8E667A7A565
+372,2,374,DEN,Sofie ZACHO,81193,2400,6,https://bwf.tournamentsoftware.com/player-profile/8B860341-F791-4128-8651-250BC7CF5EE2
+373,2,375,MAS,Li Lian YANG,63369,2390,3,https://bwf.tournamentsoftware.com/player-profile/88F876A4-FF82-4EBE-87B9-1D5AE4EE26D9
+373,2,375,CRC,Lauren VILLALOBOS,84697,2390,3,https://bwf.tournamentsoftware.com/player-profile/1053CB93-0DE6-43E6-A7EC-B23809F388E4
+373,2,375,TPE,HUNG Yi-Ting,80795,2390,3,https://bwf.tournamentsoftware.com/player-profile/09AA75B7-89E9-4437-9877-243FB4A35517
+373,2,375,USA,Graceline GUNAWAN,99046,2390,3,https://bwf.tournamentsoftware.com/player-profile/50E582A2-F350-49D2-B112-69E043288A42
+373,2,375,CIV,Esme Osseane Davila LOESS,94071,2390,3,https://bwf.tournamentsoftware.com/player-profile/A825A2C6-4F2F-4263-97FF-349CF27FA949
+378,2,380,MDA,Vlada GINGA,64127,2380,6,https://bwf.tournamentsoftware.com/player-profile/685C4A3F-BA38-45B4-A302-8EFDCD835510
+379,2,381,TPE,CHENG Chi Ya,92339,2350,2,https://bwf.tournamentsoftware.com/player-profile/900B353C-1B85-494F-8BEB-7364FA72A608
+380,30,410,IND,Preethi KONADAM,77960,2310,3,https://bwf.tournamentsoftware.com/player-profile/023A35AC-01D3-4D95-8815-2A3983F495AF
+381,2,383,CZE,Michaela ZELINKOVA,78213,2290,7,https://bwf.tournamentsoftware.com/player-profile/E3409E8B-F54C-486F-A191-8F8BFE6463B0
+382,2,384,SUR,Santusha RAMZAN,76143,2290,2,https://bwf.tournamentsoftware.com/player-profile/1775B235-5475-4545-AE3D-D7CC04A8AD43
+382,2,384,NGR,Ruth AIYENUGBA,55970,2290,2,https://bwf.tournamentsoftware.com/player-profile/97D064DA-47D3-46F1-BC7A-E5195F137876
+382,2,384,NGR,Ashilu Lois MAKIR,87409,2290,2,https://bwf.tournamentsoftware.com/player-profile/B120A586-454D-4DA5-B0DE-E99BCA429016
+385,2,387,INA,Ana ROVITA,48714,2270,3,https://bwf.tournamentsoftware.com/player-profile/3DE04221-CD78-42A7-B346-64FFDCCD7C23
+386,2,388,HKG,LEUNG Yuet Yee,60557,2220,1,https://bwf.tournamentsoftware.com/player-profile/91622B8B-79FE-410A-9E40-BDF63B1D3320
+386,2,388,KSA,Rana ABU HARBESH,82358,2220,1,https://bwf.tournamentsoftware.com/player-profile/BF5C4BE8-D8B6-430F-BD63-93909506A503
+386,2,388,KSA,Shatha ALMUTAIRI,85434,2220,1,https://bwf.tournamentsoftware.com/player-profile/7F80AD21-9E2B-4688-83C7-5885D581CCFD
+386,2,388,AFG,Lidaa SARAJ,69338,2220,1,https://bwf.tournamentsoftware.com/player-profile/D492E133-BF56-47C9-A73E-1329962B1753
+390,3,393,BRA,Jeisiane ALVES,71746,2210,2,https://bwf.tournamentsoftware.com/player-profile/2B4A9C3D-8CB6-45F5-A4FC-81D0C99AC499
+391,3,394,CHN,XU Wei,62186,2200,1,https://bwf.tournamentsoftware.com/player-profile/D62F47E7-CF6C-415E-B78A-754CEA453F11
+391,3,394,NGR,Amin Yop CHRISTOPHER,71838,2200,1,https://bwf.tournamentsoftware.com/player-profile/F834614A-1820-41F6-9741-CD42961EEACD
+391,3,394,JPN,Nozomi SHIMIZU,90442,2200,1,https://bwf.tournamentsoftware.com/player-profile/2E17EE48-DD98-4DA3-815C-A56D9E011D0F
+394,4,398,ENG,Ella SODERSTROM,57206,2190,4,https://bwf.tournamentsoftware.com/player-profile/5B58FEBB-F27D-4F2B-A3A8-318C6D0E3853
+395,4,399,IRL,Chloe MAGEE,89666,2184,1,https://bwf.tournamentsoftware.com/player-profile/61A45524-5573-4D57-A3C5-81127A1350EE
+396,4,400,JPN,Kie NAKANISHI,87428,2180,2,https://bwf.tournamentsoftware.com/player-profile/342D0BF2-E912-451F-A610-2E9C975C5F18
+396,4,400,SUI,Jenjira STADELMANN,59566,2180,2,https://bwf.tournamentsoftware.com/player-profile/4E43BF7F-38CA-41C4-9536-3C1BD36A54A9
+398,4,402,IND,Bhavya RISHI,78457,2170,3,https://bwf.tournamentsoftware.com/player-profile/29A4D599-08EB-43E1-BD01-E7D1FCE297F6
+399,4,403,AUT,Carina MEINKE,71702,2160,8,https://bwf.tournamentsoftware.com/player-profile/261D5540-39AD-4A64-BF60-5CB7D2B9E6DE
+400,4,404,INA,Debora Rumate VEHRENICA,70481,2140,4,https://bwf.tournamentsoftware.com/player-profile/54F3CE1E-464A-4A2F-BA77-FEEDBE84787B
+401,-106,295,SRI,Kavindika DE SILVA,84640,2130,1,https://bwf.tournamentsoftware.com/player-profile/AF4C0C2C-1FBB-4C40-B952-BEFC56EDC9E9
+401,4,405,SRI,Hasini AMBALANGODAGE,99312,2130,1,https://bwf.tournamentsoftware.com/player-profile/FA651C15-865A-4D83-B94C-564E8375B74B
+403,3,406,CMR,Stella Joel NGADJUI,87542,2110,2,https://bwf.tournamentsoftware.com/player-profile/2A8661F4-E864-47BF-8D16-B79472F4DC69
+404,3,407,NZL,Jahvaya WHEKI,93592,2110,1,https://bwf.tournamentsoftware.com/player-profile/0FDD93B3-7613-432E-B816-EC66CC7E3A0F
+405,40,445,BLR,Julia BITSOUKOVA,72961,2096,7,https://bwf.tournamentsoftware.com/player-profile/2295D4C9-CE53-4983-BC77-092E10E96EB1
+406,2,408,ALG,Malak OUCHEFOUN,57847,2082,4,https://bwf.tournamentsoftware.com/player-profile/EBBBE5DB-BD61-49F4-ACF7-5548C84FB9A0
+407,2,409,DEN,Sia Emilie BERG,59070,2080,5,https://bwf.tournamentsoftware.com/player-profile/DA886FCB-2538-4E21-B962-83AC7561F300
+408,3,411,POR,Adriana F. GONCALVES,56466,2065,8,https://bwf.tournamentsoftware.com/player-profile/49A37161-F5EB-496F-B9AC-815FC8E5CF43
+409,3,412,RUS,Anastasia OSIYANENKO,67784,2030,4,https://bwf.tournamentsoftware.com/player-profile/22B54E52-1D81-4CA9-8C09-6D416ED03619
+410,3,413,THA,Sarita SUWANNAKITBORIHAN,87513,2030,2,https://bwf.tournamentsoftware.com/player-profile/29EE787E-72BF-4D4E-8DBA-DA449CA46C8A
+410,3,413,JPN,Yui SUIZU,54996,2030,2,https://bwf.tournamentsoftware.com/player-profile/6494E428-C9F5-41FF-BB7A-8C99A22C36BB
+412,3,415,ISR,Dana DANILENKO,74785,2022,4,https://bwf.tournamentsoftware.com/player-profile/C7A746CA-A4CD-4575-B8C7-FF10C4862928
+413,3,416,BAR,Monyata RIVIERA,64740,2020,3,https://bwf.tournamentsoftware.com/player-profile/105C50AB-F2DC-4564-83A5-69A4518BD7EA
+413,3,416,SWE,Elin SVENSSON,89196,2020,3,https://bwf.tournamentsoftware.com/player-profile/01B52C24-AF48-49D6-8D06-8764922DDFB3
+415,3,418,IRL,Sara BOYLE,73274,1990,4,https://bwf.tournamentsoftware.com/player-profile/5C3D6AA8-CB87-4D97-BA2E-C378BA8B577A
+416,-53,363,AUS,Yingzi JIANG,74582,1990,2,https://bwf.tournamentsoftware.com/player-profile/71FF5EF6-41C2-4D91-AD81-2FF279888778
+417,2,419,CRC,Ana Laura MARTINEZ VEGA,70036,1980,3,https://bwf.tournamentsoftware.com/player-profile/BB43D771-16A9-44A0-B824-1EA388868B56
+417,2,419,GUA,Ana Lucia ALBANES CORDON,73320,1980,3,https://bwf.tournamentsoftware.com/player-profile/0A3344DC-41E6-4D66-ABAC-27620B95A492
+419,2,421,CZE,Veronika DOBIÁŠOVÁ,76069,1970,6,https://bwf.tournamentsoftware.com/player-profile/AA667279-1F93-44D8-98D6-7DE4F290CAB2
+420,2,422,GUY,Priyanna RAMDHANI,68576,1970,2,https://bwf.tournamentsoftware.com/player-profile/9CFA097D-F0C6-43B4-A7C1-A0C81BD80F1A
+420,2,422,TOG,Rolande ADJIMA,78345,1970,2,https://bwf.tournamentsoftware.com/player-profile/DB85A940-3FA5-4313-BCCC-1D659ECF44F1
+422,2,424,KEN,Mercy JOSEPH,98243,1940,3,https://bwf.tournamentsoftware.com/player-profile/124163E9-95D6-441A-85E3-29E12D7E1EF1
+422,2,424,EGY,Salmeen ESSAM ELSAID SALEM,80420,1940,3,https://bwf.tournamentsoftware.com/player-profile/272DB345-1F1A-4D14-B4EE-94885340F2ED
+424,2,426,FRA,Marion LE TURDU,95045,1930,3,https://bwf.tournamentsoftware.com/player-profile/C207F635-B55A-49FC-9C6B-A45444397ED4
+425,108,533,LAT,Jekaterina ROMANOVA,89697,1910,7,https://bwf.tournamentsoftware.com/player-profile/F18FB888-BA93-4B1F-9692-2A3016153079
+426,1,427,GHA,Eyram YAA MIGBODZI,99823,1907,3,https://bwf.tournamentsoftware.com/player-profile/B3E21844-FC84-4AE2-862A-00C19620DB2F
+427,1,428,ISL,Arna Karen JOHANNSDOTTIR,87859,1905,6,https://bwf.tournamentsoftware.com/player-profile/20ADB7CE-D3C8-4D33-9E38-1CB859840C6A
+428,1,429,CRO,Katarina GALENIC,96569,1900,5,https://bwf.tournamentsoftware.com/player-profile/96566C81-60DB-43DF-A523-B79E11767B51
+429,1,430,FIJ,Danielle WHITESIDE,13992,1892,3,https://bwf.tournamentsoftware.com/player-profile/60EB9EB6-E23B-4706-ABCB-0F7AE9BFC803
+430,1,431,NZL,Rachel LI,69639,1890,2,https://bwf.tournamentsoftware.com/player-profile/184730EF-EE5E-4DF1-BF20-7EA48B6E3886
+431,1,432,ALG,Yasmina CHIBAH,75658,1870,2,https://bwf.tournamentsoftware.com/player-profile/01133D79-D4B7-4C99-8DB3-FCB4B51FA2EF
+432,1,433,PER,Stefany Ying Chie CHEN CHEN,73554,1840,2,https://bwf.tournamentsoftware.com/player-profile/1BAF6A45-A32F-43C0-837D-1EDA6DCA31FD
+432,1,433,VIE,Thi Anh Thu VU,57230,1840,2,https://bwf.tournamentsoftware.com/player-profile/73C7833E-4303-4F04-8758-D34A0ABAF666
+432,1,433,INA,Aisha Galuh MAHESWARI,99479,1840,2,https://bwf.tournamentsoftware.com/player-profile/B9F06673-5EE1-4F77-9F14-386AAE51CEE4
+432,1,433,INA,Desima Aqmar SYARAFINA,79426,1840,2,https://bwf.tournamentsoftware.com/player-profile/1396E2B0-0DA1-4BDE-9756-6BC2FB1E577E
+432,1,433,TTO,Chequeda DE BOULET,83488,1840,2,https://bwf.tournamentsoftware.com/player-profile/EF65C853-3820-4BF7-919A-47B743C5578F
+437,2,439,PER,Micaela FLORES VASQUEZ DE VELASCO,97366,1820,3,https://bwf.tournamentsoftware.com/player-profile/5029798F-A86A-4E71-9AC2-7B538A3B119B
+438,37,475,IND,Neha PANDIT,81493,1760,2,https://bwf.tournamentsoftware.com/player-profile/0ACCE00D-4A56-4C46-9F36-555A615A8104
+439,1,440,ENG,Freya REDFEARN,90839,1750,4,https://bwf.tournamentsoftware.com/player-profile/40DDF332-AB23-4678-83CA-07100C2BE819
+440,1,441,USA,Megumi TARUNO,54532,1750,1,https://bwf.tournamentsoftware.com/player-profile/844FDB6C-D209-41F1-8C53-1776D80166B4
+440,1,441,RSA,Michelle BUTLER-EMMETT,51335,1750,1,https://bwf.tournamentsoftware.com/player-profile/749D7C82-B245-4B6D-9C38-FAFDAA452822
+440,1,441,CMR,Madeleine Carene Leticia AKOUMBA ZE,93713,1750,1,https://bwf.tournamentsoftware.com/player-profile/EDF00345-B17E-48BB-ABE1-D0D1C5C3342D
+440,1,441,DEN,Mathilde MØLLER,64074,1750,1,https://bwf.tournamentsoftware.com/player-profile/E8D06AAE-0B1A-4306-89DD-CCB5D02488A4
+444,2,446,INA,Putri Kusuma WARDANI,76890,1730,2,https://bwf.tournamentsoftware.com/player-profile/E9478817-8363-4F94-852E-F4D5C2E75739
+445,41,486,IND,Khushi GUPTA,84652,1710,3,https://bwf.tournamentsoftware.com/player-profile/E70247AD-DDFA-41E7-B37D-FA754AFC2768
+446,1,447,TTO,Avril PLAZA MARCELLE,66358,1700,3,https://bwf.tournamentsoftware.com/player-profile/1359413C-F546-4321-9C19-D57AE6DEDD03
+447,1,448,BEN,Pascaline Ludoskine Yenoukounme VITOU,60347,1700,1,https://bwf.tournamentsoftware.com/player-profile/D033BA1A-FCAD-4275-8EDB-13D28909583F
+447,1,448,MAS,Karupathevan LETSHANAA,59367,1700,1,https://bwf.tournamentsoftware.com/player-profile/60387728-CF1E-4E38-A0AC-9F4069F8C026
+449,1,450,SWE,Frida LINDSTROM,81790,1680,4,https://bwf.tournamentsoftware.com/player-profile/10E5E969-6C2B-45BD-8C2D-0614BFC1B0AC
+450,1,451,IND,Kanika KANWAL,89342,1670,4,https://bwf.tournamentsoftware.com/player-profile/BB63791C-6C2F-41A1-9663-47BDC2F8E715
+451,1,452,INA,Febby ANGGUNI,66963,1670,1,https://bwf.tournamentsoftware.com/player-profile/5262FCEC-B9CC-40CB-9342-3BE772EB5371
+451,1,452,KOR,Yoo Ri CHOI,71305,1670,1,https://bwf.tournamentsoftware.com/player-profile/E8AE9A0F-0D1B-4A58-A501-C7ED10DDB6AF
+451,1,452,KOR,Ye Ji KIM,82616,1670,1,https://bwf.tournamentsoftware.com/player-profile/F1BA7AF8-13C1-4097-B972-49D5815D2B57
+454,1,455,CUB,Adriana ARTIZ ATAURY,88009,1660,3,https://bwf.tournamentsoftware.com/player-profile/ADA25A57-16E5-43F3-95F7-2436C4230B53
+455,1,456,ARM,Lilit POGHOSYAN,91044,1650,8,https://bwf.tournamentsoftware.com/player-profile/3151D1B4-B73C-4982-BE06-532D4143C6AA
+456,1,457,GER,Brid STEPPER,98162,1650,4,https://bwf.tournamentsoftware.com/player-profile/D7981182-D547-46C0-A324-05565869D2FA
+457,1,458,EGY,Hana hesham MOHAMED ABDELKADER,75022,1650,3,https://bwf.tournamentsoftware.com/player-profile/EC495355-EEAF-4BB9-82F7-6B7E0B0B3889
+458,1,459,FIJ,Carline BENTLEY,93581,1642,3,https://bwf.tournamentsoftware.com/player-profile/1B6C2F09-5B72-474F-85AE-F8C51BA31734
+459,1,460,BAN,Alina SULTANA,94843,1640,3,https://bwf.tournamentsoftware.com/player-profile/D8FE7929-9348-45BF-AC05-4310D4396F21
+459,1,460,FIJ,Alissa DEAN,13538,1640,3,https://bwf.tournamentsoftware.com/player-profile/042E2F3D-E7A7-4EF4-9DB2-59BBF2F8FB19
+459,1,460,THA,Pornpicha CHOEIKEEWONG,72280,1640,3,https://bwf.tournamentsoftware.com/player-profile/AD0B1A15-9DC9-4290-8764-88F17CF8C9F7
+459,1,460,PYF,Esther TAU,87972,1640,3,https://bwf.tournamentsoftware.com/player-profile/38D27094-9210-4C3F-93FC-813B70E7D987
+459,1,460,PYF,MéIissa MI YOU,79442,1640,3,https://bwf.tournamentsoftware.com/player-profile/ED910F41-50EA-4C02-8524-4637B6433A0D
+464,1,465,AUS,Leesa GRUNDY,55377,1640,2,https://bwf.tournamentsoftware.com/player-profile/5A355A00-17D9-421B-9D87-11DEA42F4827
+464,1,465,GUM,Grace CAI,87936,1640,2,https://bwf.tournamentsoftware.com/player-profile/785755D1-1511-4F6F-ADD4-C1BC9DE25BEE
+464,1,465,GUM,Sarah CAI,93094,1640,2,https://bwf.tournamentsoftware.com/player-profile/84A6CC58-F2F4-40BC-B17F-BF89A20A93AD
+464,1,465,NZL,Rebecca Hayley FONG,80022,1640,2,https://bwf.tournamentsoftware.com/player-profile/C550E0BC-A27F-4538-8D51-5868121B9926
+464,1,465,PYF,Nina SMITS,81695,1640,2,https://bwf.tournamentsoftware.com/player-profile/8CBA5D41-524A-45C6-9D67-4478A702E400
+464,1,465,PYF,Karine DESFOUR,63675,1640,2,https://bwf.tournamentsoftware.com/player-profile/8D2E8EC6-B0D0-4417-ACD0-425EE3B1AE8B
+470,1,471,FRA,LéOnice HUET,88582,1580,4,https://bwf.tournamentsoftware.com/player-profile/7B81621E-594F-43DA-A47B-74568DF080BB
+471,1,472,SCO,Toni WOODS,87840,1570,9,https://bwf.tournamentsoftware.com/player-profile/1EFA1452-0D1A-4D69-9687-805DAB65DA6A
+472,1,473,GHA,Gifty MENSAH,69146,1522,2,https://bwf.tournamentsoftware.com/player-profile/121FFB74-853F-4288-B790-793678833DAA
+473,262,735,RUS,Ekaterina KUT,74997,1520,2,https://bwf.tournamentsoftware.com/player-profile/72CA4604-F983-4A1F-8A6F-4836A684D81D
+473,1,474,PER,Micaela Fernanda CASTILLO SALAZAR,81867,1520,2,https://bwf.tournamentsoftware.com/player-profile/C8638535-7044-41BD-A9F7-93ABAA058C6E
+475,0,475,MAS,Lyddia Yi Yu CHEAH,52103,1520,1,https://bwf.tournamentsoftware.com/player-profile/0512A4F4-E243-44C9-BFF2-106FC5C9D295
+475,0,475,IRI,Pegah KAMRANI,89872,1520,1,https://bwf.tournamentsoftware.com/player-profile/B4B34CA7-D33D-4B3C-8AD4-07D0E4E67F0E
+475,0,475,NGR,Patricia AKPUSUGH,99302,1520,1,https://bwf.tournamentsoftware.com/player-profile/C7EBF892-AB46-4273-A88C-99A6E98C2293
+475,0,475,USA,Maya CHEN,62974,1520,1,https://bwf.tournamentsoftware.com/player-profile/254510B7-2793-4077-B22F-C746B44BE2F3
+475,0,475,IRI,Nasim SAFAEI,88037,1520,1,https://bwf.tournamentsoftware.com/player-profile/EB4464A7-2D44-4F9C-8AA3-846EC690A320
+475,0,475,IRI,Romina TAJIK,64288,1520,1,https://bwf.tournamentsoftware.com/player-profile/6033A10A-63A5-4149-BBE3-2EAD4E93B517
+475,0,475,IRI,Yeganeh SEYEDTAFRISHIKHAMENEH,70225,1520,1,https://bwf.tournamentsoftware.com/player-profile/CFCDA1AC-16A2-4E61-822C-7263802F2A6F
+475,0,475,INA,Komang Ayu Cahya DEWI,64349,1520,1,https://bwf.tournamentsoftware.com/player-profile/D2B93FAA-F8CD-4032-9CE7-4A738631A2B9
+475,0,475,IRI,Setayesh ABDOLKARIMI,98397,1520,1,https://bwf.tournamentsoftware.com/player-profile/31A90A78-9317-405C-9606-1A501C2D9408
+475,0,475,NGR,Opeyemi Helen OJO,99163,1520,1,https://bwf.tournamentsoftware.com/player-profile/AAC56290-AC9B-4AD4-8AD8-7D98794D8A1E
+485,1,486,TTO,Nekeisha BLAKE,54108,1470,2,https://bwf.tournamentsoftware.com/player-profile/422FE893-8A1B-4A52-8908-CDEAB6BEBAA2
+485,1,486,DOM,Licelott SANCHEZ,39137,1470,2,https://bwf.tournamentsoftware.com/player-profile/9029B10F-B057-4E18-8288-4229231D1194
+485,1,486,BOT,Botho MAKUBATE,87582,1470,2,https://bwf.tournamentsoftware.com/player-profile/C921B4AD-6A5D-4E88-85FA-FE4381062F65
+485,1,486,IRI,Sara DELAVARI KASHANI,69729,1470,2,https://bwf.tournamentsoftware.com/player-profile/DF600FB7-BF03-4EF2-89C0-4116C44899BC
+485,1,486,BOT,Leungo Bronia TSHWENEETSILE,12669,1470,2,https://bwf.tournamentsoftware.com/player-profile/0D8A7945-B9E2-4E00-A601-7DB9E16A33DF
+485,1,486,MAS,YAP Yee,75832,1470,2,https://bwf.tournamentsoftware.com/player-profile/D7054ADB-E7B6-4F9C-871D-E40558415F6E
+485,1,486,IRI,Yeganeh KERMANI,68579,1470,2,https://bwf.tournamentsoftware.com/player-profile/A54F2945-5EE0-4401-BD3B-BBCBE94FDA6E
+485,1,486,ZAM,Penelope MUDENDA,62659,1470,2,https://bwf.tournamentsoftware.com/player-profile/3BE15F8F-B254-4948-8525-82A58CB9B953
+485,1,486,IND,Lalita DAHIYA,99711,1470,2,https://bwf.tournamentsoftware.com/player-profile/E00E89AA-9D60-4419-AC21-64FFD589AB21
+485,1,486,DOM,Noemi ALMONTE,80151,1470,2,https://bwf.tournamentsoftware.com/player-profile/65B8053E-F003-4293-BE92-A60232ED59F4
+485,1,486,PER,Ines MENDOZA ROSELL,77512,1470,2,https://bwf.tournamentsoftware.com/player-profile/CF6B71E0-890C-4CB1-AE4C-D4FA97FFAE2D
+485,1,486,INA,Diana SETIYONINGSIH,79718,1470,2,https://bwf.tournamentsoftware.com/player-profile/A3935E82-0E48-4C51-ADBF-AD841714770D
+497,3,500,UGA,Mable NAMAKOYE,94784,1460,3,https://bwf.tournamentsoftware.com/player-profile/46FF25F7-F110-4855-AA4C-026778C1C92E
+497,3,500,SLO,Petra POLANC,61268,1460,3,https://bwf.tournamentsoftware.com/player-profile/C2C8A18B-3B0F-42DF-AE0A-FFAEE5260E74
+499,3,502,ENG,Paige BUTLER,75619,1440,4,https://bwf.tournamentsoftware.com/player-profile/3F7E114D-3F39-416A-9564-42C6A60FA993
+500,3,503,JPN,Chisato HOSHI,65751,1430,2,https://bwf.tournamentsoftware.com/player-profile/2997E7E3-1D4A-4190-969B-26AB1031397B
+500,3,503,ESA,Katherine Sarai LARA GUZMAN,79834,1430,2,https://bwf.tournamentsoftware.com/player-profile/53238CFE-B5FD-4D87-8405-23E5B3666FAF
+500,3,503,CAN,Eliana ZHANG,70079,1430,2,https://bwf.tournamentsoftware.com/player-profile/E508409D-B5AA-4EDF-8E06-85A0513340B5
+500,3,503,JPN,Yuki SUZUKI,76456,1430,2,https://bwf.tournamentsoftware.com/player-profile/626E1430-B665-4BCC-ADE1-7A0252F320A6
+504,3,507,KOR,Sang Eun PARK,95783,1420,2,https://bwf.tournamentsoftware.com/player-profile/BB25448F-9A32-4A44-B39B-E29B2EEEE5DD
+505,3,508,BEN,Xena ARISA,96421,1420,1,https://bwf.tournamentsoftware.com/player-profile/5B6940B9-1495-47F7-A824-9B8D6F40529C
+506,93,599,BLR,Maryana VIARBITSKAYA,86613,1390,8,https://bwf.tournamentsoftware.com/player-profile/19DA1A75-5D3D-4E87-B1B3-2E34B670D9BE
+507,2,509,CYP,Anastasia ZINTSIDOU,68882,1390,4,https://bwf.tournamentsoftware.com/player-profile/A1244B5E-030D-46B1-B475-EF02629A158F
+508,2,510,HKG,YEUNG Sum Yee,74916,1370,4,https://bwf.tournamentsoftware.com/player-profile/ABC05FA1-AA6B-438B-BFAD-0A3EA56457AB
+509,2,511,PAK,Palwasha BASHIR,75632,1370,1,https://bwf.tournamentsoftware.com/player-profile/3D58E92B-F71B-417C-B01E-6AEAA70C83A3
+509,2,511,SGP,LIANG Xiaoyu,47646,1370,1,https://bwf.tournamentsoftware.com/player-profile/91BA11D3-D6AA-41AD-AB15-49F6103A9289
+509,2,511,PAK,Khizra RASHEED,97224,1370,1,https://bwf.tournamentsoftware.com/player-profile/BEBCD29E-B125-4A9A-AD9D-8BF1092C6636
+509,2,511,BOT,Kgalalelo KEGAKILWE,23340,1370,1,https://bwf.tournamentsoftware.com/player-profile/DE6F815C-8A1D-4BDC-85B9-B298306D99AB
+509,2,511,JOR,Domou AMRO,81950,1370,1,https://bwf.tournamentsoftware.com/player-profile/A1D02628-9D2B-45BD-9182-590B2D5A1745
+509,2,511,INA,Ghaida Nurul GHANIYU,88318,1370,1,https://bwf.tournamentsoftware.com/player-profile/F65EA21D-EC5D-45B0-BA30-AE0C80911C63
+509,2,511,THA,Laksika KANLAHA,74803,1370,1,https://bwf.tournamentsoftware.com/player-profile/B6A3E1D4-1502-41F1-B021-1537DE4019E3
+509,2,511,PAK,Ghazala SADDIQUE,81451,1370,1,https://bwf.tournamentsoftware.com/player-profile/6C1688F7-200D-4545-9D77-A40181116371
+509,2,511,BRA,Manoela KOEPSEL,57491,1370,1,https://bwf.tournamentsoftware.com/player-profile/51202A04-1AEA-4D42-B14E-4362192D1C4B
+509,2,511,PAK,Bushra QAYYUM,66461,1370,1,https://bwf.tournamentsoftware.com/player-profile/7991BCCF-57F8-44F2-A602-2ECDAD897960
+509,-214,295,TPE,HSIEH Yu Ying,76780,1370,1,https://bwf.tournamentsoftware.com/player-profile/2E54062F-2B6A-4672-8397-9F42687232F9
+509,2,511,CMR,Louise Reine MBIDA MBIDA,88315,1370,1,https://bwf.tournamentsoftware.com/player-profile/087828D1-E1F4-45F2-A75E-528186220676
+509,2,511,MEX,Cecilia OJEDA,82510,1370,1,https://bwf.tournamentsoftware.com/player-profile/07684D1B-40D5-4E64-BDCB-BBB9320F7637
+509,2,511,BOT,Aisha TAPELA,73764,1370,1,https://bwf.tournamentsoftware.com/player-profile/70FBA967-977C-4656-BB7C-8C8B28F6A98C
+509,2,511,RSA,Megan DE BEER,59557,1370,1,https://bwf.tournamentsoftware.com/player-profile/5FC62408-C3BC-4755-B418-D23B1E41857D
+509,2,511,CIV,Lou Gohi Theophile Annick DOULOU,56979,1370,1,https://bwf.tournamentsoftware.com/player-profile/500425C0-D07C-4973-9DE0-523B11112D95
+509,2,511,MAC,Xue Xin GONG,74979,1370,1,https://bwf.tournamentsoftware.com/player-profile/E8C0BC92-7D37-4F3C-9220-4ADAF7976D65
+509,2,511,CAN,Katie HO-SHUE,56445,1370,1,https://bwf.tournamentsoftware.com/player-profile/0F400C7F-BBD9-4D8E-80F5-105B6AEE31F9
+527,3,530,GRE,Grammatoula SOTIRIOU,65483,1360,3,https://bwf.tournamentsoftware.com/player-profile/CA13F594-DC0A-4009-9CFE-FABD9671DC9F
+528,3,531,ENG,Abbygael HARRIS,61095,1340,3,https://bwf.tournamentsoftware.com/player-profile/8B090F5C-09AA-4F48-B250-E65642DC711A
+529,3,532,GER,Theresa ISENBERG,70420,1320,4,https://bwf.tournamentsoftware.com/player-profile/2BD7BEC9-579B-4A27-8A1E-F04D35FA84E7
+530,4,534,TPE,YU Chien Hui,75154,1290,1,https://bwf.tournamentsoftware.com/player-profile/B364E8A1-9529-4710-9858-2CA645D2DEF7
+530,4,534,CHN,HUI Xirui,76601,1290,1,https://bwf.tournamentsoftware.com/player-profile/8F3B09B5-3235-402E-AB40-F93E0643E977
+530,-97,433,AUS,Claudia LAM,80376,1290,1,https://bwf.tournamentsoftware.com/player-profile/E91CF63C-D3C4-492A-9E0B-4B9E4876F326
+530,4,534,RUS,Daria RADCHENKO,86653,1290,1,https://bwf.tournamentsoftware.com/player-profile/4D07C1F9-039C-48D6-AAB2-0E74642D8450
+530,4,534,CHN,ZHOU Meng,79438,1290,1,https://bwf.tournamentsoftware.com/player-profile/2ECC20E9-0DE8-477C-B920-F39A75776B4A
+530,4,534,CHN,ZHENG Shu Ya,64853,1290,1,https://bwf.tournamentsoftware.com/player-profile/D22CA1F9-A504-4EC8-8E3E-F970FB825D97
+530,4,534,CHN,DAI Wang,81585,1290,1,https://bwf.tournamentsoftware.com/player-profile/8AFB4AC4-97E1-4D1C-B0D2-66C21EE3C689
+530,4,534,CHN,YANG Rui Wen,64544,1290,1,https://bwf.tournamentsoftware.com/player-profile/52D04907-B04B-4B95-AF72-20BCAD091E75
+530,4,534,CHN,CHEN Nianzu,99205,1290,1,https://bwf.tournamentsoftware.com/player-profile/E6EED506-9567-44A0-8DA3-B033B4FDA423
+530,4,534,CHN,HAN Qian Xi,92928,1290,1,https://bwf.tournamentsoftware.com/player-profile/A9788414-2C64-4135-A92A-8220F45FBD7B
+530,4,534,CAN,Alexandra MOCANU,89013,1290,1,https://bwf.tournamentsoftware.com/player-profile/0B6CD488-CE79-443A-80A6-3E7CBEB70EB0
+541,4,545,CMR,Louise Lisane MBAS,76840,1280,2,https://bwf.tournamentsoftware.com/player-profile/5204E11A-B5B4-4670-BD6D-DB2A88D70A4F
+541,4,545,TUR,Nazlıcan INCI,73023,1280,2,https://bwf.tournamentsoftware.com/player-profile/926FACE7-8BAA-4BFE-BF1F-250246AD2F08
+541,4,545,RUS,Anastasia RONZHINA,86997,1280,2,https://bwf.tournamentsoftware.com/player-profile/977A2D24-E958-432D-BFE7-D74CF921D202
+541,4,545,JPN,Nanami AKECHI,65338,1280,2,https://bwf.tournamentsoftware.com/player-profile/94A8940A-FA8E-45EA-91F2-AA6F25C6CB12
+541,4,545,ALG,Amrouni KAHINA,62372,1280,2,https://bwf.tournamentsoftware.com/player-profile/1B6B229E-8B8A-4E27-B1B7-28D0408EC431
+541,4,545,JPN,Erika YOKOYAMA,84232,1280,2,https://bwf.tournamentsoftware.com/player-profile/4AACA86F-B569-4DF0-AE13-3EFBC5FA40E2
+547,4,551,FIN,Hanna KARKAUS,55878,1270,8,https://bwf.tournamentsoftware.com/player-profile/1C5A4E94-0318-4B9E-BCD5-5CCAC0238FF2
+548,4,552,BAN,Aktar SHAPLA,89240,1270,3,https://bwf.tournamentsoftware.com/player-profile/0C4492B6-18CB-494D-B287-D11BEAF0E7D3
+548,4,552,TUR,Busra UNLU,63873,1270,3,https://bwf.tournamentsoftware.com/player-profile/46D5759D-7990-4617-B446-31578FE93554
+548,4,552,IND,Dapasha JOSHI,92240,1270,3,https://bwf.tournamentsoftware.com/player-profile/FCD0DAAC-3D97-4C4C-9AFF-7EDC87042C78
+551,4,555,ARG,Iona GUALDI,79132,1270,2,https://bwf.tournamentsoftware.com/player-profile/4E0E4712-7487-46FB-8391-4A46EC379ACC
+551,4,555,BUL,Hristomira POPOVSKA,81649,1270,2,https://bwf.tournamentsoftware.com/player-profile/EC998374-C898-41DF-916C-F9BB9490007E
+553,4,557,SCO,Holly NEWALL,98373,1260,3,https://bwf.tournamentsoftware.com/player-profile/55ED0C70-256D-417A-BAA4-26AEC8265271
+553,4,557,MRI,Sendila MOURAT,95613,1260,3,https://bwf.tournamentsoftware.com/player-profile/13A20563-BA95-4F33-84DC-DC4DBDF38CA8
+555,141,696,UKR,Yevgeniya PAKSYUTOVA,71783,1250,6,https://bwf.tournamentsoftware.com/player-profile/EA96A04B-3ACD-409E-B699-3C7ACC68F242
+556,3,559,ENG,Rosemary ALLEN,96384,1250,5,https://bwf.tournamentsoftware.com/player-profile/1FFE482B-AA20-43AB-8CDB-EACF6D3E5615
+557,3,560,GER,Stine KÜSPERT,78795,1250,3,https://bwf.tournamentsoftware.com/player-profile/DB80D6AA-248D-44E6-8206-20E5FF306873
+558,3,561,DEN,Anna BYGUM,88185,1240,6,https://bwf.tournamentsoftware.com/player-profile/83A30414-3872-4552-BBE5-A474CC723B8B
+559,3,562,NOR,Stine ANDERSEN,58577,1220,4,https://bwf.tournamentsoftware.com/player-profile/5A84BD34-0C1D-4E37-AEDA-FDB29DF5E45A
+560,3,563,THA,Piramon CHAMNAKTAN,97857,1210,2,https://bwf.tournamentsoftware.com/player-profile/ED7A89C7-0160-4422-ACAA-29D8CD89C167
+561,4,565,ENG,Emily BEACH,72873,1190,3,https://bwf.tournamentsoftware.com/player-profile/9E0EF01A-A2C6-4212-BBAC-2A271382E4CE
+562,4,566,VIE,Thi Phuong Hong DINH,94428,1185,2,https://bwf.tournamentsoftware.com/player-profile/D37658D4-E591-499E-89D8-AD26C4E056C9
+563,4,567,BEL,Joke DE LANGHE,70025,1180,5,https://bwf.tournamentsoftware.com/player-profile/4C22A060-FB7D-440D-9B59-94D5D4A1910C
+564,4,568,KOR,Ji Hye LEE,82470,1170,2,https://bwf.tournamentsoftware.com/player-profile/71E2A952-A657-4A3E-8274-77EFAB3BF946
+565,4,569,SUR,Rugshaar ISHAAK,98108,1170,1,https://bwf.tournamentsoftware.com/player-profile/BEC079A7-62D9-4764-90F4-3EC00C45B8E8
+565,4,569,BEN,Adjele Joeline DEGBEY,76644,1170,1,https://bwf.tournamentsoftware.com/player-profile/9A56B42C-95F0-44C3-A565-44A33A3C581C
+565,4,569,BEN,Pernelle FABOSSOU,91638,1170,1,https://bwf.tournamentsoftware.com/player-profile/B4C7F1B7-7209-4650-AF29-9BD51618F118
+568,4,572,ISL,Margrét JOHANNSDOTTIR,77397,1155,2,https://bwf.tournamentsoftware.com/player-profile/906202A2-2DC3-48B8-9CEC-1FC9899E35AF
+569,4,573,SUR,Anjali PARAGSINGH,72339,1150,2,https://bwf.tournamentsoftware.com/player-profile/BA6D69DD-16BC-4D0E-A745-BEF668E3D80C
+569,4,573,PER,Yue YANG CAO,57506,1150,2,https://bwf.tournamentsoftware.com/player-profile/949EDB46-537B-4D92-B1E2-483E6EF93622
+571,4,575,PHI,Sarah Joy BARREDO,93300,1134,1,https://bwf.tournamentsoftware.com/player-profile/D0A0C82D-8E8C-4913-B418-E438C540FC71
+572,4,576,INA,Narulia. R ERSA,60768,1130,2,https://bwf.tournamentsoftware.com/player-profile/5AEEE354-162A-4854-8056-72351B51E2AE
+572,4,576,MDV,Nafha NASRULLAH,69860,1130,2,https://bwf.tournamentsoftware.com/player-profile/7736B6ED-3205-4EDA-94C0-23C38E4A2949
+572,4,576,IND,Vidhu NAIR,62310,1130,2,https://bwf.tournamentsoftware.com/player-profile/733D6A98-EF0A-464B-AF2D-867621A000E1
+572,4,576,IRL,Rachael WOODS,84777,1130,2,https://bwf.tournamentsoftware.com/player-profile/8453565A-E37E-47C2-91C7-3910C5259ADA
+576,128,704,POL,Karolina WLADZINSKA,98597,1128,5,https://bwf.tournamentsoftware.com/player-profile/042FB51F-25FE-4B47-86BC-F988768A23B0
+577,3,580,GER,Annabella JAEGER,56675,1110,3,https://bwf.tournamentsoftware.com/player-profile/728022AC-A197-4F9B-9E84-FE23531ADDB2
+578,3,581,SWE,Emma THORNE,98862,1100,4,https://bwf.tournamentsoftware.com/player-profile/49F6B1BF-81CA-4B1C-ACE2-8E5AE1E9BAF5
+579,3,582,NOR,Vilde ESPESETH,67942,1100,2,https://bwf.tournamentsoftware.com/player-profile/9A3A4D99-CA1C-4089-AC5C-281B110E44A8
+579,3,582,SGP,Ming Hui LIM,67745,1100,2,https://bwf.tournamentsoftware.com/player-profile/EC88FE7B-CB51-411E-A4F8-7029F93B2FC7
+579,3,582,JAM,Alana BAILEY,76027,1100,2,https://bwf.tournamentsoftware.com/player-profile/CF3FCFC6-D8A8-47ED-930B-EEC2150772D9
+579,3,582,NEP,Shova GAUCHAN,66959,1100,2,https://bwf.tournamentsoftware.com/player-profile/057BB0A9-E12C-43B7-8B49-52A79593D925
+579,3,582,NEP,Sunayana MUKHIYA,88179,1100,2,https://bwf.tournamentsoftware.com/player-profile/01D4A992-2FD8-4164-8DB9-6613B9B187CB
+579,3,582,DEN,Frederikke LUND,77596,1100,2,https://bwf.tournamentsoftware.com/player-profile/90317531-A4AF-4D96-8245-06E785D93A5E
+585,4,589,CZE,Magdalena LAJDOVA,72320,1090,3,https://bwf.tournamentsoftware.com/player-profile/312A820C-8B2E-4F41-B057-D9F3DAE5D79D
+586,4,590,INA,Olivia Chelin Maria KAMBEY,83268,1090,2,https://bwf.tournamentsoftware.com/player-profile/7D57D20C-386A-4F9B-90AF-2FC5894222D2
+586,4,590,IND,RIYA AROLKAR,96504,1090,2,https://bwf.tournamentsoftware.com/player-profile/6E7FD7E9-F548-4FB2-A534-7EE0CA0EFD14
+588,4,592,FRA,Juliane PIRON,78120,1080,3,https://bwf.tournamentsoftware.com/player-profile/F82F76C2-D8A6-4843-847A-1A8143068CE8
+589,4,593,HUN,Bianka BUKOVICZKI,86193,1070,3,https://bwf.tournamentsoftware.com/player-profile/1D25F64F-A11D-4C5F-B9D5-85CD84AE0F91
+590,4,594,MEX,Sabrina SOLIS,98186,1060,2,https://bwf.tournamentsoftware.com/player-profile/871F2F73-4B56-47BA-9310-463C6E4C2CA1
+590,4,594,ESA,URRUTIA Cecilia,57516,1060,2,https://bwf.tournamentsoftware.com/player-profile/7B0B4E17-8E48-4863-9B33-BFA867605F06
+590,4,594,ESA,Fatima Beatriz CENTENO FUENTES,61443,1060,2,https://bwf.tournamentsoftware.com/player-profile/F6EF08B9-F3BD-44AE-8BF1-426BC46C2DE0
+590,4,594,GUA,Diana Judith MONTERROSO ORTIZ,62499,1060,2,https://bwf.tournamentsoftware.com/player-profile/D32E654B-1D61-48C8-A5FF-997EB4D39790
+594,4,598,CHN,PENG Qin,72019,1060,1,https://bwf.tournamentsoftware.com/player-profile/BF112B83-F8A9-453E-8244-A2126629FEF4
+595,5,600,AUT,Jenny ERTL,97859,1040,5,https://bwf.tournamentsoftware.com/player-profile/A0C05E11-CDF0-41D7-A4AF-BB67C35FB0F5
+596,5,601,INA,Putri Ayu DESIDERIANTI,94262,1020,2,https://bwf.tournamentsoftware.com/player-profile/75354FA5-717B-45DE-A918-F2D70DC91C7A
+596,5,601,IND,Rashi TYAGI,75734,1020,2,https://bwf.tournamentsoftware.com/player-profile/61C27B8A-187D-4D23-BA17-A4B0E3EC7A5E
+598,5,603,NOR,Vera ELLINGSEN,96743,1015,5,https://bwf.tournamentsoftware.com/player-profile/BF76E167-121E-4D4F-AD4A-291CE77E977E
+599,5,604,ISL,Thorunn EYLANDS,81558,1010,5,https://bwf.tournamentsoftware.com/player-profile/AE310A87-00CF-4654-9DBE-2A9D7DF9B4BB
+600,5,605,ENG,Cristen Elizabeth MARRITT,62400,1010,3,https://bwf.tournamentsoftware.com/player-profile/12373E1A-A361-4E5E-A335-82E610E5BD6B
+601,5,606,NOR,Marlene WÅLAND,64948,1000,3,https://bwf.tournamentsoftware.com/player-profile/EA28F03B-AB6D-49D8-99A3-365707EB8676
+602,5,607,GHA,Stella Koteikai AMASAH,69869,999,2,https://bwf.tournamentsoftware.com/player-profile/AAF5E78B-EE82-4398-9DD7-3EF8C617D001
+603,5,608,RUS,Yulia VASILYEVA,75150,990,5,https://bwf.tournamentsoftware.com/player-profile/EA2C4D33-B2D7-4F57-831E-89971827418D
+604,5,609,DEN,Trine VILLADSEN,57982,990,2,https://bwf.tournamentsoftware.com/player-profile/45251632-837A-4A40-8FD2-63C35012AB2F
+604,5,609,MAS,Chloe Jennifer WHITTINGTON,73400,990,2,https://bwf.tournamentsoftware.com/player-profile/7BA18B48-00D6-43C4-82C3-75C830158E3F
+606,5,611,ISL,Sigridur ARNADOTTIR,69993,989,5,https://bwf.tournamentsoftware.com/player-profile/C2F3F287-34AC-4245-A9A6-F92913387417
+607,5,612,EST,Helis PAJUSTE,74696,980,7,https://bwf.tournamentsoftware.com/player-profile/08E157EA-1E13-4FB5-AFCF-540E78460EF2
+608,5,613,DEN,Mathilde HAAPANEN,63635,980,5,https://bwf.tournamentsoftware.com/player-profile/5F7D5864-228F-4A1A-BEC0-AC1A9ECFCFFA
+609,5,614,POL,Zuzanna PARYSZ,88584,980,2,https://bwf.tournamentsoftware.com/player-profile/29C49547-4420-480E-9C2D-CE3B7276A5A2
+610,330,940,RUS,Tatiana SAMBURSKAIA,84296,960,2,https://bwf.tournamentsoftware.com/player-profile/B7206148-17B0-4CE2-B923-5C89D0AEF82E
+611,4,615,GER,Annalena DIKS,98100,950,2,https://bwf.tournamentsoftware.com/player-profile/745B96B3-4F15-419B-B890-0A5E28193E00
+612,4,616,MAR,Rajae ROCHDY,89791,920,1,https://bwf.tournamentsoftware.com/player-profile/3259528B-3E9C-4A6A-ACB4-3EAC9E822E1E
+612,4,616,RSA,Sandra LE GRANGE,63068,920,1,https://bwf.tournamentsoftware.com/player-profile/5B06329B-FAF3-49F0-B56F-C18523D75D74
+612,4,616,IRI,Yosra BEIGI,56262,920,1,https://bwf.tournamentsoftware.com/player-profile/6B10EEC8-17A0-4466-8C7B-8BDF6807B4A3
+612,4,616,IRI,Elnaz FEIZMANESH,88751,920,1,https://bwf.tournamentsoftware.com/player-profile/BEF6AFD3-6A36-4556-AB69-019783D17950
+612,4,616,TUR,Busra YALÇINKAYA,69847,920,1,https://bwf.tournamentsoftware.com/player-profile/05FECA5A-0157-465D-A156-84141B715CFD
+612,4,616,BOT,Tebogo NDZINGE,66474,920,1,https://bwf.tournamentsoftware.com/player-profile/115F7ACF-00EF-4D9D-8B48-AF8569A1262E
+612,4,616,BOT,Orefilwe KOLOLO,93364,920,1,https://bwf.tournamentsoftware.com/player-profile/3ECC868B-1AED-4F08-A5BC-80FDDA0DB47F
+612,4,616,IND,Revati DEVASTHALE,96882,920,1,https://bwf.tournamentsoftware.com/player-profile/AE0C9DB3-9879-49F2-8397-34F4D196B7B2
+612,4,616,ETH,BELETE Melat,84458,920,1,https://bwf.tournamentsoftware.com/player-profile/6DDE444F-17E3-4505-9466-14491543969E
+612,4,616,JOR,Haneen Derar AL-WEDYAN,89134,920,1,https://bwf.tournamentsoftware.com/player-profile/60EEAC24-AC22-48DC-8763-E19B6E45E4B1
+612,4,616,THA,Kunjira KHONGDEE,96952,920,1,https://bwf.tournamentsoftware.com/player-profile/2F98FB70-14B6-45A6-A46A-923A034C5C04
+612,4,616,THA,Sararat CHUEBOCA,75836,920,1,https://bwf.tournamentsoftware.com/player-profile/2A591AA2-7505-4359-8611-F10D2748DA23
+612,4,616,NGR,Asisat OGUNKANBI,90833,920,1,https://bwf.tournamentsoftware.com/player-profile/E9DF58DC-C35D-437D-A472-64830C3EF96E
+612,4,616,NGR,Felicia OMOTOLA,86524,920,1,https://bwf.tournamentsoftware.com/player-profile/236643DF-A831-4058-9C70-5DC6D62296B7
+612,4,616,NGR,Grace IJADARE,58417,920,1,https://bwf.tournamentsoftware.com/player-profile/C8C53E3E-F69C-4E35-B8B8-891DB145BC2A
+612,4,616,NGR,Adijat ONASANYA,67380,920,1,https://bwf.tournamentsoftware.com/player-profile/26B6F1E7-5300-4DD6-AB67-BC094191BF56
+612,4,616,BRA,Mariana COUTO,69055,920,1,https://bwf.tournamentsoftware.com/player-profile/A1B350CF-9B59-4B08-ABB7-332360EF7F9D
+612,4,616,MEX,Yesenia DUARTE,66876,920,1,https://bwf.tournamentsoftware.com/player-profile/5EDEBE5D-407A-4BA8-BECA-66B32966A6AA
+612,4,616,IRI,HAMEDANCHI AZAD Hale,57231,920,1,https://bwf.tournamentsoftware.com/player-profile/F5CC4DFD-2C62-46FF-9C5F-A2C852D6030D
+612,4,616,ZAM,Towela GONDWE,57584,920,1,https://bwf.tournamentsoftware.com/player-profile/C3544F04-371E-4666-9102-8728B8BF7541
+612,4,616,INA,Alya Rahma MULYANI,97286,920,1,https://bwf.tournamentsoftware.com/player-profile/F6462FBB-7CD5-483E-A55C-DEA7AD2C7237
+612,4,616,UGA,Fatuma NABIRUNGI,59102,920,1,https://bwf.tournamentsoftware.com/player-profile/EAA2DEEC-C7C3-4046-865B-31CF920EEC80
+612,4,616,CUB,Thalia MENGANA MARRERO,74019,920,1,https://bwf.tournamentsoftware.com/player-profile/0CC31C8C-204C-4930-AB78-F52802E365A9
+612,4,616,CUB,Adaivis ROBINSON GARCIA,76576,920,1,https://bwf.tournamentsoftware.com/player-profile/7BBB0AFD-E3D7-425A-A05F-CF73532A49B8
+612,4,616,CIV,Nogona Celine BAKAYOKO,62120,920,1,https://bwf.tournamentsoftware.com/player-profile/7047A705-CE26-4E9D-97F2-A7B5D1C62846
+612,4,616,JPN,Rira KAWASHIMA,99532,920,1,https://bwf.tournamentsoftware.com/player-profile/5F8D70BC-F1A2-429B-8E7D-F62661960D88
+612,4,616,JPN,Aya FUKUNAGA,62115,920,1,https://bwf.tournamentsoftware.com/player-profile/03157A18-B069-422F-85A6-795A8FE9AEA9
+612,4,616,IND,PRANALI KARANI,59841,920,1,https://bwf.tournamentsoftware.com/player-profile/1A901937-1BF7-4C18-8D4B-B1F9EF219185
+612,4,616,IRI,Hediyeh SHAMS,94101,920,1,https://bwf.tournamentsoftware.com/player-profile/DCE7D2F0-3ECD-4BD1-A945-07DC1F3191AC
+612,4,616,IRI,Nazanin ZAMANI,65167,920,1,https://bwf.tournamentsoftware.com/player-profile/3D1E71D9-09F2-40A1-8C9D-9754E868AB02
+612,4,616,IRI,Taravat ALINEZHAD,79539,920,1,https://bwf.tournamentsoftware.com/player-profile/1B1EFE3E-0DCD-403A-A3FD-C7F4D1571247
+612,4,616,IRI,Paria ESKANDARI,82341,920,1,https://bwf.tournamentsoftware.com/player-profile/F280D2B9-9D75-4FE8-9D2F-6A67390D588A
+612,4,616,IRI,Elahe SEPIDAN,84751,920,1,https://bwf.tournamentsoftware.com/player-profile/0CF2DC7A-A263-4AC7-AB34-580BA632AAB5
+612,4,616,BRA,Gabriele PEREIRA,95174,920,1,https://bwf.tournamentsoftware.com/player-profile/59A828D0-5F5C-4498-98C9-81EB75D480CE
+612,4,616,PER,Ingrid Valeria SALAS HUAMANI,68636,920,1,https://bwf.tournamentsoftware.com/player-profile/5AE54CFE-2DCE-42A2-8EC1-9B233B40FA44
+612,4,616,ESP,NEREA DIAZ,77536,920,1,https://bwf.tournamentsoftware.com/player-profile/475AF885-7118-4BD5-910B-1FAF54209853
+612,-260,352,TPE,HUANG Yin Hsuan,98445,920,1,https://bwf.tournamentsoftware.com/player-profile/319AB74D-F322-46F1-BC36-1B569865A274
+612,4,616,USA,Carissa CHUNG,96371,920,1,https://bwf.tournamentsoftware.com/player-profile/2A35070F-2760-4CAB-81A7-57A9393B6459
+612,4,616,NGR,Faridah UMAR,95105,920,1,https://bwf.tournamentsoftware.com/player-profile/4778E4C2-A8D5-4D8D-9776-E03E8AD7B6F1
+612,4,616,THA,Runshida SUKJAI,94492,920,1,https://bwf.tournamentsoftware.com/player-profile/5C7204DC-D9A9-49E4-8430-2991108F13AE
+612,4,616,CMR,Josephine Brinda MENGUE,79490,920,1,https://bwf.tournamentsoftware.com/player-profile/530F0889-CE8F-4173-8087-5417465FB27E
+612,4,616,JPN,Minami KAWASHIMA,78591,920,1,https://bwf.tournamentsoftware.com/player-profile/5DF3965B-3EC3-41E1-B73A-49ED1204F3AC
+612,4,616,NZL,XIE Yongshi,52000,920,1,https://bwf.tournamentsoftware.com/player-profile/CD09908A-39A2-4229-B633-B74C63EB7EE5
+612,4,616,ETH,Mako TAKAHASHI,89913,920,1,https://bwf.tournamentsoftware.com/player-profile/CA765609-28AC-4078-A424-A6135E925C50
+612,4,616,PAR,Camila Dahiana ALVAREZ BENITEZ,56338,920,1,https://bwf.tournamentsoftware.com/player-profile/91533D21-E6C6-4B69-9BA9-B8B781AB31D1
+612,4,616,BRA,Rosalina De SOUZA,63492,920,1,https://bwf.tournamentsoftware.com/player-profile/FDACCD75-8D72-4DD7-A39D-143F61BABBDF
+612,4,616,PAR,Megu MINODA,71827,920,1,https://bwf.tournamentsoftware.com/player-profile/F751C72C-CB08-4D65-B662-61F9A8FA5108
+612,4,616,INA,Elok MACHSUNNAH,91134,920,1,https://bwf.tournamentsoftware.com/player-profile/D989A0B0-23AC-4FA7-ACD8-B63B0F5E773A
+612,4,616,DOM,Mileiky ACOSTA,72795,920,1,https://bwf.tournamentsoftware.com/player-profile/5B22B08D-DE12-43BE-8E7A-0356375A5BEE
+612,4,616,DOM,Clarisa PIE,68661,920,1,https://bwf.tournamentsoftware.com/player-profile/C6C26D51-1F60-4360-A984-E5D8D148B3E8
+612,4,616,DOM,Lia LOCKWARD,90379,920,1,https://bwf.tournamentsoftware.com/player-profile/A80C65B0-F6C7-4921-A30C-94A052D91066
+612,4,616,DOM,Liseth SOSA,60623,920,1,https://bwf.tournamentsoftware.com/player-profile/5C771698-C3E4-4CE5-8553-D00767FDEFAD
+612,4,616,THA,Ajjima TONGCHAI,60134,920,1,https://bwf.tournamentsoftware.com/player-profile/6917B34D-5378-45D6-BB15-087990FB6E8C
+612,4,616,THA,Kotchasorn PHANAK,76795,920,1,https://bwf.tournamentsoftware.com/player-profile/D3D169EB-C070-4F95-919E-E6B85F32DF56
+612,4,616,PAK,Zubaira BUTT,79908,920,1,https://bwf.tournamentsoftware.com/player-profile/F1FD339F-A91F-42DC-AB7B-2A809E8606E9
+612,4,616,BOT,Natalie MPHINYAE,93515,920,1,https://bwf.tournamentsoftware.com/player-profile/069E32C9-149F-48B9-9FCE-948246024B46
+612,4,616,BOT,Leungo MOOKETS,94702,920,1,https://bwf.tournamentsoftware.com/player-profile/30D0FA2E-32BF-4D8E-9C47-C6A549F71E31
+612,4,616,RSA,Chantall MCCARTHY,82825,920,1,https://bwf.tournamentsoftware.com/player-profile/5C48EF02-E1FF-4279-8DA5-D11F32381F13
+612,4,616,MAD,Soaniaina RAZANAMALY,69095,920,1,https://bwf.tournamentsoftware.com/player-profile/1806F500-AD27-4B54-A9D9-178953B6F91C
+612,4,616,USA,Vanessa YANG,68531,920,1,https://bwf.tournamentsoftware.com/player-profile/4FB6CEB4-5765-4456-A0FE-AA0AD5B4F9DB
+612,4,616,IRI,Hananeh YAGHOBZADEH,60488,920,1,https://bwf.tournamentsoftware.com/player-profile/A6060321-079F-4055-B377-20D898E501B3
+612,4,616,IRI,Nastaran KARAMI,84543,920,1,https://bwf.tournamentsoftware.com/player-profile/9FCB4DB8-6FC7-4C74-8C50-569CD1382B02
+612,4,616,ALG,Bounaas MELISSA,58544,920,1,https://bwf.tournamentsoftware.com/player-profile/911D7FBC-F9F5-4DE3-9593-5D6691417634
+612,4,616,TPE,TUNG Ciou-Tong,61614,920,1,https://bwf.tournamentsoftware.com/player-profile/4286BDCE-D684-4011-AB59-F2E923AAF058
+612,4,616,TPE,HUANG Yu-Hsun,97685,920,1,https://bwf.tournamentsoftware.com/player-profile/090DE08A-9662-48F0-8F5E-6D718785E544
+612,4,616,BRA,Tamires SANTOS,84917,920,1,https://bwf.tournamentsoftware.com/player-profile/C50B6F3B-25FD-459B-89E0-6737ABEFC426
+612,4,616,JPN,Akari KURIHARA,93372,920,1,https://bwf.tournamentsoftware.com/player-profile/2E3989B0-C285-4FE1-8989-53485ED2E714
+612,4,616,JPN,Asuka SUGIYAMA,91698,920,1,https://bwf.tournamentsoftware.com/player-profile/42808343-E755-4CB3-84A8-30BB1E31D3F1
+612,4,616,JPN,Nanami SOMEYA,65337,920,1,https://bwf.tournamentsoftware.com/player-profile/1F079E66-D719-40BE-ACE4-94B0D71608DB
+612,4,616,USA,Angela ZHANG,61563,920,1,https://bwf.tournamentsoftware.com/player-profile/8BCD6182-CAC2-469A-9B56-82BE13474D42
+612,4,616,ARG,Ailen OLIVA,71396,920,1,https://bwf.tournamentsoftware.com/player-profile/16B8E889-1574-4CC7-B396-D1617E9F4AF9
+612,4,616,ARG,Micaela SUAREZ,70005,920,1,https://bwf.tournamentsoftware.com/player-profile/98196C0E-68F6-4641-92DF-DB493BE3C2AC
+612,4,616,INA,Yasnita Enggira SETIAWAN,85154,920,1,https://bwf.tournamentsoftware.com/player-profile/8D8D4C9E-B7F1-4843-B795-ADD641181DAB
+612,4,616,CMR,Cathleen Isabelle FAULA,90903,920,1,https://bwf.tournamentsoftware.com/player-profile/B0D7F27A-51A5-4AC8-BD17-A85DD883883C
+612,4,616,CIV,Naffissatou Abolaye KAMILU,80214,920,1,https://bwf.tournamentsoftware.com/player-profile/EA1C9D2A-85C9-4329-B613-F5930DB9FFAF
+612,4,616,NGR,Iyanuoluwa OLUKAYODE,77709,920,1,https://bwf.tournamentsoftware.com/player-profile/201781AE-60D4-4CE7-A3B9-2CD58A8CB53F
+612,4,616,NGR,Juliet ODIGIE,84477,920,1,https://bwf.tournamentsoftware.com/player-profile/C36B896A-EF2F-408E-AEB2-A62ED1037EB7
+689,5,694,UGA,Daisy NAKALYANGO,48833,910,3,https://bwf.tournamentsoftware.com/player-profile/C7D8C89A-5C2F-4806-89F8-954F20E23C48
+690,5,695,IND,Deepali GUPTA,75519,910,2,https://bwf.tournamentsoftware.com/player-profile/52AFE26D-0B19-4A2E-BB55-959BA1F102E7
+691,6,697,PER,Valeria Carolina WONG LAM,65447,900,3,https://bwf.tournamentsoftware.com/player-profile/E46A0177-3A8B-458A-91FF-6D077DD776DD
+692,6,698,GER,Miranda WILSON,92606,900,2,https://bwf.tournamentsoftware.com/player-profile/C12BF4F3-CDD9-4168-B1B3-2AFEEBE3B56D
+693,6,699,IRL,Moya RYAN,58337,863,3,https://bwf.tournamentsoftware.com/player-profile/A895D770-1853-43A4-B728-F32AE6A11ADC
+694,215,909,RUS,Anastasiia SHARAPOVA,74493,860,4,https://bwf.tournamentsoftware.com/player-profile/A742FE66-3615-4920-88F1-6691899AB7EE
+695,5,700,GER,Alicia MOLITOR,87987,830,3,https://bwf.tournamentsoftware.com/player-profile/D86C5619-DB7F-4A69-9CFD-A20DE9835D47
+696,5,701,CAN,Catherine CHOI,57791,816,3,https://bwf.tournamentsoftware.com/player-profile/EF129216-A610-41DC-8BA4-208F807DEC15
+697,227,924,UKR,Yuliia MIROSHNYCHENKO,78372,800,5,https://bwf.tournamentsoftware.com/player-profile/CC9C0167-CD3B-4C3A-9259-1B45B136E9E4
+698,4,702,USA,Natalie CHI,68566,786,2,https://bwf.tournamentsoftware.com/player-profile/9D2695DC-D27E-452F-8C7E-DC57A3705165
+699,4,703,ENG,Evie BURBIDGE,56534,780,3,https://bwf.tournamentsoftware.com/player-profile/67336709-307B-48FC-B27E-A80840C43ABB
+700,5,705,POR,Mariana PINTO LEITE,58813,770,3,https://bwf.tournamentsoftware.com/player-profile/1F1AB86A-F3A7-4B65-851C-234A6D8617AE
+701,5,706,RUS,Viktoriia KOZYREVA,85556,760,4,https://bwf.tournamentsoftware.com/player-profile/6A4EA83D-4770-4369-868C-7333CD3F5CF2
+702,5,707,THA,Peeraya KHANTARUANGSAKUL,50569,760,2,https://bwf.tournamentsoftware.com/player-profile/7D6DE7B3-09AD-4926-BDAD-24FE7A7BD04E
+703,5,708,MAC,Chi Leng KUAN,90855,750,2,https://bwf.tournamentsoftware.com/player-profile/96AA29D4-DB37-4FDD-9120-E9720CC653ED
+704,-160,544,AUS,Lauren LIM,83425,735,1,https://bwf.tournamentsoftware.com/player-profile/10F19E20-5ACD-4EF4-A8D9-4CB7D154FD0A
+705,4,709,DEN,Amalie SCHULZ,70651,730,4,https://bwf.tournamentsoftware.com/player-profile/2CB485F7-151C-4F82-867F-6CCBCB5C0FAD
+706,4,710,SVK,Katarina VARGOVA,82827,726,2,https://bwf.tournamentsoftware.com/player-profile/8063FC69-ED78-449A-A88A-4D4DD9E59D13
+707,4,711,DEN,Anne FUGLSANG,72821,720,3,https://bwf.tournamentsoftware.com/player-profile/2BBCC7BF-1A96-4EAA-9D40-18B1A35A3021
+708,4,712,IND,Gauri ASAJI,87106,720,2,https://bwf.tournamentsoftware.com/player-profile/9D38068C-F933-401A-94E3-B7B4E387A4AE
+709,4,713,ISR,Margeret LURIE,77682,715,2,https://bwf.tournamentsoftware.com/player-profile/A4C486FE-F078-4B01-AB98-B9CB2BAB174B
+710,4,714,DEN,Amalie VESTMAR,89047,710,5,https://bwf.tournamentsoftware.com/player-profile/3A52B464-AA6B-42DC-9F2D-9193095044C8
+711,4,715,RUS,Alena IAKOVLEVA,65657,700,5,https://bwf.tournamentsoftware.com/player-profile/C9E32CF9-D4C2-408A-8347-F0193B368CF3
+712,4,716,ISR,Yuval PUGACH,61046,700,2,https://bwf.tournamentsoftware.com/player-profile/FD4FE29A-42E2-43AD-814F-DF8D7BC27C2D
+712,4,716,ROU,Ioana GRECEA,98061,700,2,https://bwf.tournamentsoftware.com/player-profile/8C6E2B24-8D80-442D-A1C0-8D6E75A16BB7
+712,4,716,ENG,Alexandra OPRISAN,83228,700,2,https://bwf.tournamentsoftware.com/player-profile/A531D771-DA36-42D7-97A0-468FF1D6DAAC
+715,4,719,BRA,Paloma Eduarda da SILVA,93397,690,3,https://bwf.tournamentsoftware.com/player-profile/0CF65152-E6A3-4C65-869A-9391B1E8221F
+716,4,720,AUT,Katrin NEUDOLT,87854,680,4,https://bwf.tournamentsoftware.com/player-profile/65B4960E-582B-4585-800E-BC0FE1D8C240
+717,4,721,IRL,Kate FROST,58478,676,3,https://bwf.tournamentsoftware.com/player-profile/4CEFABDE-9A97-4EB8-9FDC-A41586C6E51E
+718,4,722,ENG,Natalia MITCHELL,85972,670,3,https://bwf.tournamentsoftware.com/player-profile/56BF4F31-9955-4301-AECA-E32BE3092814
+719,4,723,DEN,Signe SCHULZ,89885,660,3,https://bwf.tournamentsoftware.com/player-profile/0F32277E-CFAB-4F59-8623-9C8B30D0F251
+720,4,724,SWE,Althea LJUNGQVIST,68912,660,2,https://bwf.tournamentsoftware.com/player-profile/1623AE8F-7050-4DF0-A0CC-569AC895A0B0
+721,4,725,KOR,Bo Hyun KI,66854,660,1,https://bwf.tournamentsoftware.com/player-profile/35EB7F22-3F86-4442-8F5C-C697A0E67A85
+721,4,725,FRA,Juliette MOINARD,75759,660,1,https://bwf.tournamentsoftware.com/player-profile/748783F9-B4B5-44F0-AE0C-46FD10B52628
+721,-158,563,AUS,Kelly XU,75435,660,1,https://bwf.tournamentsoftware.com/player-profile/AF993219-C2B3-4A1B-ABA3-E4D01D39EE47
+721,4,725,FRA,Ainoa DESMONS,70645,660,1,https://bwf.tournamentsoftware.com/player-profile/09C64167-D720-41D2-A910-E05CF87F0539
+721,4,725,KOR,Ye Jin CHOI,71085,660,1,https://bwf.tournamentsoftware.com/player-profile/7467D3CF-9795-4553-A67B-9E951BCD00BC
+721,4,725,KOR,Min Jeong PARK,81842,660,1,https://bwf.tournamentsoftware.com/player-profile/88954432-5298-4179-9ACA-8942F120C992
+727,3,730,IND,Manali SINHA,82147,650,2,https://bwf.tournamentsoftware.com/player-profile/69FA78BF-55B6-4DA8-AD22-ED6EBA7B3044
+728,3,731,KOR,Soo Bin LIM,50626,640,2,https://bwf.tournamentsoftware.com/player-profile/4F08AB9A-95BF-4892-AA0E-5591623DE91C
+729,3,732,POR,Mariana CHANG,90777,625,4,https://bwf.tournamentsoftware.com/player-profile/AD941CAD-B559-4E48-BE63-AAC728C7A5C2
+730,3,733,POL,Daniela BIELINSKA,80785,610,2,https://bwf.tournamentsoftware.com/player-profile/F0489BC5-EBF1-459C-9354-C9C422688688
+730,3,733,POL,Magdalena KULSKA,72685,610,2,https://bwf.tournamentsoftware.com/player-profile/55264BDC-A9C9-46E9-9AD7-ADDD2866C7D0
+732,3,735,ROU,Sonia RATIU,80494,600,1,https://bwf.tournamentsoftware.com/player-profile/3DEAEE60-F896-4A2C-86D2-875051E902F1
+732,3,735,SWE,Berfin ASLAN,73322,600,1,https://bwf.tournamentsoftware.com/player-profile/8474AEAC-88CC-4D34-BA44-47B27CF273AC
+732,3,735,ARG,Natalia MONTIEL,89291,600,1,https://bwf.tournamentsoftware.com/player-profile/F2F33BAE-027D-48FB-8AC9-0021F5A251C0
+732,3,735,CUB,Barbara Ines LA ROSA TORRES,60231,600,1,https://bwf.tournamentsoftware.com/player-profile/BECB7C17-30B0-4023-A760-BD0F02C66213
+732,3,735,SUR,Imani MANGROE,89636,600,1,https://bwf.tournamentsoftware.com/player-profile/F1B3E59F-01D3-4D8E-9694-D049326CF692
+732,3,735,CUB,Marianne GONZALEZ ORTIZ,76468,600,1,https://bwf.tournamentsoftware.com/player-profile/66F585FD-DB80-4213-80B9-4EABC6FAA114
+732,3,735,CUB,Camila PALACIO REYES,92085,600,1,https://bwf.tournamentsoftware.com/player-profile/53E6CC51-23BA-4CAA-91C2-A3C36F2BBFBE
+732,3,735,CUB,Yudima GARCIA VALDEZ,91709,600,1,https://bwf.tournamentsoftware.com/player-profile/50666CB2-7B20-4DDA-B661-AC43A4C48E0A
+732,3,735,BEN,Synthyche KpetchéHoué DEHOTIN,70619,600,1,https://bwf.tournamentsoftware.com/player-profile/A38F8067-8F48-4C92-A3EC-567758B68862
+732,3,735,ALG,Ferd HOUDA,66091,600,1,https://bwf.tournamentsoftware.com/player-profile/DF89F0D8-F587-4BDC-A573-D6FAEE360C15
+732,3,735,TPE,TSAI Hsin-Pei,89473,600,1,https://bwf.tournamentsoftware.com/player-profile/790E0638-4508-4F4E-A053-277803901587
+732,3,735,ARG,Yovella PETRUCCI,71448,600,1,https://bwf.tournamentsoftware.com/player-profile/2AA9D690-E821-4650-9D79-BFDFFF433C90
+732,3,735,ARG,Lara GALLARDO,59760,600,1,https://bwf.tournamentsoftware.com/player-profile/273F96EF-ECE2-44B8-8F65-2CEEA105C87F
+732,3,735,ARG,Marilyn ROMERO,97129,600,1,https://bwf.tournamentsoftware.com/player-profile/79321FD0-D080-4D9C-A701-B15EF824E097
+732,3,735,NED,Chloe MAYER,94258,600,1,https://bwf.tournamentsoftware.com/player-profile/A886F2B4-E7BD-4069-ADBB-CE7784CFB75E
+732,3,735,PER,Rafaela MUNAR SOLIMANO,69671,600,1,https://bwf.tournamentsoftware.com/player-profile/FC3D9962-6CD4-42D1-8E1C-46977BBC2B68
+732,3,735,PER,Namie MIYAHIRA TSUKAZAN,78292,600,1,https://bwf.tournamentsoftware.com/player-profile/9BC28DB0-40F5-41D5-BCB6-D592F074F292
+732,3,735,BEN,Michelle KPANOU,77263,600,1,https://bwf.tournamentsoftware.com/player-profile/AAE5C175-938C-4331-88EA-466EFEB571E9
+732,3,735,BEN,Jonnie Georgie FAHOUEGNON,56523,600,1,https://bwf.tournamentsoftware.com/player-profile/A1867C68-9B5F-44F7-8895-0421685A257A
+732,3,735,TTO,Meera MAHABIR,83952,600,1,https://bwf.tournamentsoftware.com/player-profile/A490EFD1-8B42-4C99-AB62-A37B4A142967
+732,3,735,TTO,Cathline RAMROOP,71983,600,1,https://bwf.tournamentsoftware.com/player-profile/9DCDCC05-CB76-438F-91DA-C38AD1A78FC1
+732,732,0,RUS,Victoriia GRIGOREVA,80073,600,1,https://bwf.tournamentsoftware.com/player-profile/BB1C2B5E-1BF9-4AC8-85E9-61A565C7E792
+754,263,1017,RUS,Alina BUSYGINA,73692,590,3,https://bwf.tournamentsoftware.com/player-profile/EFB09975-7CD9-4E60-BA3E-6C4934F05A98
+755,2,757,HUN,Orsolya VARGA,51849,580,3,https://bwf.tournamentsoftware.com/player-profile/B4AB396E-AFBB-4BB4-A20E-03D1F06D9F89
+756,2,758,SUI,Jennifer KOBELT,75099,570,5,https://bwf.tournamentsoftware.com/player-profile/7CAA8DBF-6953-47A1-8E2D-559BD30C9AFF
+757,2,759,FIN,Tuuli HÄRKÖNEN,95544,570,2,https://bwf.tournamentsoftware.com/player-profile/14087510-1427-45DE-957B-6A3B6F77420F
+757,2,759,POL,Olga MIKSZA,64322,570,2,https://bwf.tournamentsoftware.com/player-profile/5E729581-1BF5-47D2-93E0-66038C6F2154
+759,2,761,SVK,Alzbeta PERUNSKA,80099,567,4,https://bwf.tournamentsoftware.com/player-profile/06E22AE4-BFCD-4ECD-9C61-057D11846CB8
+760,2,762,SUR,Danielle MELCHIOT,12905,550,1,https://bwf.tournamentsoftware.com/player-profile/59307890-368E-4363-8366-1CE855B05106
+760,-178,582,PAK,Sara MOHMAND,54220,550,1,https://bwf.tournamentsoftware.com/player-profile/FF42B25E-066E-4A6E-B301-0EBE0D67500D
+760,2,762,UGA,Brenda AWOR,23101,550,1,https://bwf.tournamentsoftware.com/player-profile/6D141E50-1C33-46BC-910C-3EFB24D6DD31
+760,2,762,MEX,Cynthia GONZALEZ,24247,550,1,https://bwf.tournamentsoftware.com/player-profile/294B0C57-827E-4C91-9BBD-CAA217057DE2
+760,2,762,EGY,Nadine ASHRAF,71367,550,1,https://bwf.tournamentsoftware.com/player-profile/F87A025B-E2C8-4061-AFD6-0377037B2C70
+760,2,762,MDV,Neela NAJEEB,67242,550,1,https://bwf.tournamentsoftware.com/player-profile/9CE658B7-125E-4180-9631-5894F4F89B4A
+760,2,762,MAR,Jinane BITARIE,85543,550,1,https://bwf.tournamentsoftware.com/player-profile/6F276F72-9EB1-41CF-AB51-3852EE699A9D
+760,2,762,MAR,Ghita CHAROUITE,95371,550,1,https://bwf.tournamentsoftware.com/player-profile/5F6C5797-9207-4402-99C2-D28A3BBA8615
+760,2,762,INA,Marsa Indah SALSABILA,84004,550,1,https://bwf.tournamentsoftware.com/player-profile/9F277B65-0855-44BA-A6F4-D6578B407D0A
+760,2,762,TPE,SU Hsiang Ling,83662,550,1,https://bwf.tournamentsoftware.com/player-profile/D93E8C18-0B5A-4AD1-9325-0E32FC6FE552
+760,2,762,ALG,Baya NESRINE,30158,550,1,https://bwf.tournamentsoftware.com/player-profile/A64E8CEA-FC2C-4D19-A3ED-93F1A43ED86B
+760,2,762,EGY,Menna ELTANANY,94632,550,1,https://bwf.tournamentsoftware.com/player-profile/F3F3D51D-42C3-4D86-87FE-A84987B244E8
+760,2,762,BOT,Tessa KABELO,88189,550,1,https://bwf.tournamentsoftware.com/player-profile/5B5CE8EC-355C-4578-B8F9-2027ADE9861A
+760,2,762,NGR,Augustina EBHOMIEN SUNDAY,92376,550,1,https://bwf.tournamentsoftware.com/player-profile/F8987AC4-C590-4B59-85F3-34679B5F7377
+760,2,762,MDV,Maisa Fathuhulla ISMAIL,89832,550,1,https://bwf.tournamentsoftware.com/player-profile/046ABCB8-5F97-4189-9BAB-F7CE7EAABF7C
+760,2,762,INA,Guniarti RAFIKA MUTIARA,73506,550,1,https://bwf.tournamentsoftware.com/player-profile/C6521EE7-9BED-4672-9FB1-B76F7282474E
+760,2,762,ETH,BERHANU Samrawit,81002,550,1,https://bwf.tournamentsoftware.com/player-profile/B6CAD7FA-09EE-42D0-8693-340EFCAA06F5
+760,2,762,ETH,DANIEL Mahlet,78690,550,1,https://bwf.tournamentsoftware.com/player-profile/8B54B8EA-BFF8-4D54-A700-66D5F614597B
+760,2,762,ETH,MENGISTU Berhan,59532,550,1,https://bwf.tournamentsoftware.com/player-profile/1A519181-ED8F-4D68-AC67-449B6E37D0B5
+760,2,762,SUI,Nadia FANKHAUSER,81375,550,1,https://bwf.tournamentsoftware.com/player-profile/4922F018-40D7-4D6E-A43C-49748151D59B
+760,2,762,ZAM,Delphine NAKANYIKA,42678,550,1,https://bwf.tournamentsoftware.com/player-profile/3BEDDBB8-26A4-4531-99BE-79A212F48439
+760,2,762,DOM,Anny Elizabeth SANCHEZ MATOS,58887,550,1,https://bwf.tournamentsoftware.com/player-profile/8500DC41-19DC-4F42-8C19-360FFD5AEA53
+760,2,762,MAR,Oumaima ELHERZ,85553,550,1,https://bwf.tournamentsoftware.com/player-profile/9CD2F9AC-3958-4A81-8BB1-9DAFAA63EB57
+760,2,762,ZAM,Mary CHILAMBE,73995,550,1,https://bwf.tournamentsoftware.com/player-profile/43703749-8053-44FD-878F-C45E5BA6FD68
+760,2,762,INA,Savira SANDRADEWI,91676,550,1,https://bwf.tournamentsoftware.com/player-profile/2FC6DC21-DF19-43D9-9986-6A88CC8758B2
+760,2,762,GHA,Victoria ASMAH,80002,550,1,https://bwf.tournamentsoftware.com/player-profile/BE6FA7A6-41A2-4F3A-9F2F-A2F4D437C014
+760,2,762,TUR,Edanur KOYBASI,99337,550,1,https://bwf.tournamentsoftware.com/player-profile/113E4067-9296-4768-BAE4-1E8D0A4CC38D
+760,2,762,SUR,Shemara LINDVELD,76439,550,1,https://bwf.tournamentsoftware.com/player-profile/FC02B06F-27BC-4E11-8166-1A3DB33E8795
+760,2,762,ZAM,Jenipher PHIRI,88524,550,1,https://bwf.tournamentsoftware.com/player-profile/FE5ACF1F-9655-4B80-8628-985015F134A8
+760,2,762,NEP,Amita GIRI,74747,550,1,https://bwf.tournamentsoftware.com/player-profile/97500850-3B95-4E5A-AC78-0C71624B0286
+760,2,762,IND,Seema PANCHAL,86930,550,1,https://bwf.tournamentsoftware.com/player-profile/8B02E0D3-1E4A-4E7E-A9B7-A1D6D5955EF5
+760,2,762,TUR,Basak KILIC,70406,550,1,https://bwf.tournamentsoftware.com/player-profile/B95F3259-C016-40FA-8D77-242A77AF8983
+760,2,762,PHI,Airah Mae Nicole ALBO,64080,550,1,https://bwf.tournamentsoftware.com/player-profile/0B96C401-161D-4218-8249-E188CAFB859A
+760,2,762,GHA,Eunice ABENA ARTHUR,83935,550,1,https://bwf.tournamentsoftware.com/player-profile/A0C6D1EE-29D7-48DB-A89D-C66DB3DD744B
+760,2,762,SGP,Yue Yann Jaslyn HOOI,94594,550,1,https://bwf.tournamentsoftware.com/player-profile/D278EE90-04D1-4936-9E62-623A96DEE49D
+760,2,762,GUA,Andrea Maria MORALES GUIROLA,62163,550,1,https://bwf.tournamentsoftware.com/player-profile/9E323559-92A8-4F48-A836-1C717E4FBDA2
+760,2,762,ESA,Camila NAVAS,71275,550,1,https://bwf.tournamentsoftware.com/player-profile/2EFFBC91-CB43-44D3-97BB-048E939207FD
+760,2,762,MGL,Undrakh DELGERMAA,86258,550,1,https://bwf.tournamentsoftware.com/player-profile/DB5779C3-FD9B-48B1-BEF2-2EFD8CA2CD43
+760,2,762,MGL,Narantsetseg BAYARSAIKHAN,96745,550,1,https://bwf.tournamentsoftware.com/player-profile/CFF4E01E-4AB6-4E22-AD52-1A95E84924C2
+760,2,762,MGL,Dashdondov BULGAMAA,78496,550,1,https://bwf.tournamentsoftware.com/player-profile/A2301665-AAC8-455E-A612-471355CCF9A7
+760,2,762,MGL,Khaliunaa BYAMBAA,60646,550,1,https://bwf.tournamentsoftware.com/player-profile/D5A9436E-7AD4-4CBA-92A6-80CDD0B761CE
+760,2,762,ETH,Tigist GETACHEW,73894,550,1,https://bwf.tournamentsoftware.com/player-profile/FC38D642-31E3-474B-B8E4-F553A307EAD8
+760,2,762,ETH,Kidist HAILU,72506,550,1,https://bwf.tournamentsoftware.com/player-profile/DDB97325-679F-4484-B6BD-6250B22EE79F
+760,2,762,EGY,Salma ASHRAF MOHAMED,70338,550,1,https://bwf.tournamentsoftware.com/player-profile/7946100B-EE1B-47A5-A46B-E86E387A9929
+760,2,762,EGY,Rahma MOHAMED SAAD ELADAWY,78895,550,1,https://bwf.tournamentsoftware.com/player-profile/DB176E9D-686E-4C8A-9E91-D42C204E665A
+760,2,762,EGY,Farida MOSTAFA,55958,550,1,https://bwf.tournamentsoftware.com/player-profile/C8667AC2-1B5E-4402-AFC5-1489B192F1C1
+760,2,762,EGY,Hania MOHAMED GAMALELDIN,87603,550,1,https://bwf.tournamentsoftware.com/player-profile/3A3C8266-F0C0-4232-8DD6-FDA1658B4AC4
+760,2,762,SUR,Chan YANG,69601,550,1,https://bwf.tournamentsoftware.com/player-profile/04F18879-8EE5-4A01-B45B-2CFA7602A7E2
+760,2,762,ZAM,Matildah KALANDANYA,78142,550,1,https://bwf.tournamentsoftware.com/player-profile/D9D1CE8A-C5C2-43B6-8176-705D15A30891
+760,2,762,ZAM,Lorain MUMBA,60855,550,1,https://bwf.tournamentsoftware.com/player-profile/8E2F658F-D82D-4B73-9B1F-578745902CE5
+760,2,762,MEX,Anahi Paola DE LA TORRE MARTINEZ,62814,550,1,https://bwf.tournamentsoftware.com/player-profile/CE71D03F-260C-4F69-85D4-0DB20CDEB8C2
+760,2,762,UGA,Betty APIO,93570,550,1,https://bwf.tournamentsoftware.com/player-profile/9700C8FB-54F8-4717-BE11-3E4112434D43
+760,2,762,UGA,Husina KOBUGABE,96365,550,1,https://bwf.tournamentsoftware.com/player-profile/47FC9BB5-2962-4010-A216-3C75BF8656D3
+760,2,762,UGA,Salma MUTESI,78246,550,1,https://bwf.tournamentsoftware.com/player-profile/A0A0F975-21E3-4CC0-90EB-4E106A4ECF47
+760,2,762,UGA,Mellon NAHIRYA,90598,550,1,https://bwf.tournamentsoftware.com/player-profile/39F66B39-ECF6-4DD8-A37C-0E0EBA6A386D
+760,2,762,JAM,Shezelle Terisa MCTYSON,89190,550,1,https://bwf.tournamentsoftware.com/player-profile/DFCA8D43-8B83-45FD-A5E1-E3C3E7A1D146
+760,2,762,JAM,Taina DAILEY,80100,550,1,https://bwf.tournamentsoftware.com/player-profile/A90DE732-6641-4D65-967A-6F7C3021CE25
+760,2,762,TUR,Betul SONER,78453,550,1,https://bwf.tournamentsoftware.com/player-profile/8F47B0AE-864D-4563-AFBC-608A47459EB9
+760,2,762,MEX,Vanessa Karmine VILLALOBOS VAZQUEZ,80824,550,1,https://bwf.tournamentsoftware.com/player-profile/287EAF8A-B404-49A5-9403-C490E73A265F
+760,2,762,POL,Aleksandra FELSKA,87345,550,1,https://bwf.tournamentsoftware.com/player-profile/D6C957B6-6216-485E-A592-1D3C306304FB
+760,-274,486,TPE,LIN Jhih Yun,69009,550,1,https://bwf.tournamentsoftware.com/player-profile/98B06F02-4A5C-4E20-A1AC-ACEF6513F796
+760,2,762,ETH,Workinesh TILAHUN,78677,550,1,https://bwf.tournamentsoftware.com/player-profile/83BC7DEC-A949-4772-B3EA-894B2B1AF133
+760,2,762,ETH,Cheru HIBST,70949,550,1,https://bwf.tournamentsoftware.com/player-profile/05EB9C06-AAAF-47CE-AC2E-21D28E7A8EA6
+760,2,762,ETH,Yirga FREHIWOT,71683,550,1,https://bwf.tournamentsoftware.com/player-profile/9ACB8910-0B36-4262-8C70-A549C0C68ACB
+760,2,762,PAK,Saba RASHEED,95025,550,1,https://bwf.tournamentsoftware.com/player-profile/B6AA69C7-AF43-4183-83E6-0CC0C48E5735
+760,2,762,PAK,Javeria TAHIR,59440,550,1,https://bwf.tournamentsoftware.com/player-profile/429B6113-1793-4CEC-AC04-DCC5705AD1C5
+760,2,762,PAK,Huma JAVEED,97821,550,1,https://bwf.tournamentsoftware.com/player-profile/0B7AC3EE-C965-4565-8DA6-1EEBE186A8C7
+760,2,762,EGY,Yara AKRAM,83934,550,1,https://bwf.tournamentsoftware.com/player-profile/88D3B2C5-982A-4AFE-909A-8F88BB33D3D8
+760,2,762,DOM,Carmen GARCIA,90873,550,1,https://bwf.tournamentsoftware.com/player-profile/CB2FBD8C-A22E-4AB8-A10D-56277BD1BD2F
+760,2,762,DOM,Walkiris CESAR,67833,550,1,https://bwf.tournamentsoftware.com/player-profile/E4E239A1-A57A-4CC5-A521-92C02CF952A4
+760,-378,382,TPE,LIN Sih Yun,88079,550,1,https://bwf.tournamentsoftware.com/player-profile/80BEC953-A1DA-430C-84A6-563BFA60CB3D
+760,2,762,ZAM,Sakuwanda KUSOLU,85897,550,1,https://bwf.tournamentsoftware.com/player-profile/BCFDF89D-5C78-4016-9677-08D0119B44E4
+760,2,762,ZAM,Ngoma NANDIPA,92192,550,1,https://bwf.tournamentsoftware.com/player-profile/A0062E35-0803-46B4-9D06-4CEE9946FC33
+760,2,762,MAC,I Kuan AO,96347,550,1,https://bwf.tournamentsoftware.com/player-profile/530F3B67-C0FD-4132-9E1C-14640EE30D10
+760,2,762,NEP,Anu MAYA RAI,97526,550,1,https://bwf.tournamentsoftware.com/player-profile/9FEA7A40-1C7A-453C-BD7E-C949C2A66CAB
+760,2,762,UGA,Bridget ATEGEKA,68758,550,1,https://bwf.tournamentsoftware.com/player-profile/D0FBA884-D7A3-479E-95DE-ABA0128251A2
+760,2,762,JAM,Tahlia RICHARDSON,90267,550,1,https://bwf.tournamentsoftware.com/player-profile/078AEA90-BF53-41BD-9EDB-FABC253BF759
+760,2,762,TPE,YU Chieh,82898,550,1,https://bwf.tournamentsoftware.com/player-profile/DA10C6E9-98D1-4020-A48D-4334CD221F24
+760,2,762,INA,Nandini Putri ARUMNI,71458,550,1,https://bwf.tournamentsoftware.com/player-profile/08C85073-EA8B-40C8-8F28-273CC2E339AA
+760,2,762,MGL,Khaliun ERKHEMZAYA,61547,550,1,https://bwf.tournamentsoftware.com/player-profile/2DB4E436-3C8E-4918-AC51-84DE8653940A
+760,2,762,GUA,BARRIOS Heidy Dallana,54995,550,1,https://bwf.tournamentsoftware.com/player-profile/9A4378E3-F6A1-42E6-B32E-8B0F932432FE
+760,2,762,EGY,Nour AHMED YOUSSRI,88020,550,1,https://bwf.tournamentsoftware.com/player-profile/B36FA690-1B27-4195-B1A6-1B0C5E686213
+760,2,762,GHA,Jennifer ABITTY,88228,550,1,https://bwf.tournamentsoftware.com/player-profile/E2F58F68-10E6-49EE-A4D9-47C4BA951EC4
+760,2,762,GHA,Stella BENTUM,93204,550,1,https://bwf.tournamentsoftware.com/player-profile/6E80C8DD-EBA4-44B7-8828-B0FA177A430E
+760,2,762,THA,Phakhawadi SUKJAI,64747,550,1,https://bwf.tournamentsoftware.com/player-profile/AE838618-F5FB-48EF-AFE8-CF3E89C1148C
+760,2,762,USA,Maya CHEW,59228,550,1,https://bwf.tournamentsoftware.com/player-profile/3A669E82-7D29-4EE5-877E-4266B5C04A44
+760,2,762,TTO,Latoya WALROND,61626,550,1,https://bwf.tournamentsoftware.com/player-profile/B6135E4E-EB21-448E-8AE4-59A10F0B1C8A
+760,2,762,MEX,Karol SANDOVAL,99661,550,1,https://bwf.tournamentsoftware.com/player-profile/1D26CF3F-7430-46C5-8C9E-64EE3E97768D
+760,2,762,MEX,Mixtli Azucena LUPERCIO MENDEZ,77716,550,1,https://bwf.tournamentsoftware.com/player-profile/F423D12E-8391-4019-B484-7740DF455CE5
+760,2,762,MEX,Jessica Jazmin BAUTISTA TRIGUEROS,73275,550,1,https://bwf.tournamentsoftware.com/player-profile/00588EBB-C91B-4FBF-8B8F-A3237E3CE6D8
+760,2,762,POL,Dagmara PEKALA,68166,550,1,https://bwf.tournamentsoftware.com/player-profile/949C9B2D-DA41-4F00-8E06-9053C0E1FB64
+760,2,762,POL,Hanna SZYMANSKA,62248,550,1,https://bwf.tournamentsoftware.com/player-profile/D04BC531-E271-4D51-870C-BC8264898EE8
+760,2,762,ETH,Betlhem SOLOMON,76511,550,1,https://bwf.tournamentsoftware.com/player-profile/87B291CC-37E3-4493-8014-C30ECDE1C639
+760,2,762,ETH,Elisabeth SEIFE,81525,550,1,https://bwf.tournamentsoftware.com/player-profile/8A8389D7-05EA-48FC-9EF7-AFB08F3B3347
+760,2,762,ETH,Eyeruse DEREJE,93342,550,1,https://bwf.tournamentsoftware.com/player-profile/85565F34-2074-4682-89B4-CE3A14F07858
+760,2,762,ESA,Daniela HERNANDEZ,83786,550,1,https://bwf.tournamentsoftware.com/player-profile/9B2884FD-392D-407A-A194-483C0B1D442B
+760,2,762,PAN,Michelle HERNANDEZ ADAMES,95075,550,1,https://bwf.tournamentsoftware.com/player-profile/21682AD6-BECB-4FEE-A478-96A27F0CE8FB
+760,2,762,PAN,Kelly YAU,63230,550,1,https://bwf.tournamentsoftware.com/player-profile/12DA7AAC-EB32-4395-B924-3E1E65CD3F13
+760,2,762,DOM,Megan GARRIDO,79867,550,1,https://bwf.tournamentsoftware.com/player-profile/C9DCA1E8-6891-4FA1-93EF-E8C11B888957
+760,2,762,DOM,Romaira LABOUR,82934,550,1,https://bwf.tournamentsoftware.com/player-profile/EB46F938-8816-4CC3-B481-ECB6A1D40385
+760,2,762,DOM,Lisette SANTANA,72180,550,1,https://bwf.tournamentsoftware.com/player-profile/E74994CD-FB85-49C6-BFC4-78997D97F066
+760,2,762,DOM,Alisa Juleisy ACOSTA,98560,550,1,https://bwf.tournamentsoftware.com/player-profile/FB7BF590-BBD9-4414-971E-ACAE35D5B5ED
+760,2,762,DOM,Daniela ACOSTA,86993,550,1,https://bwf.tournamentsoftware.com/player-profile/0D041251-9F01-4532-9A73-419587985C34
+760,2,762,DOM,Daly FLORIAN,92175,550,1,https://bwf.tournamentsoftware.com/player-profile/C588EEA8-0B0D-466C-9B95-A287A4B0EEBD
+760,2,762,DOM,Kahina Lucero VASQUEZ FERRERAS,96744,550,1,https://bwf.tournamentsoftware.com/player-profile/F1B9711D-9FE5-4389-A6C5-B56E9C695F87
+760,2,762,EGY,Ganna TAREK MOHAMED REDA ELWAZERY,83702,550,1,https://bwf.tournamentsoftware.com/player-profile/9E623BE9-F5DE-4957-AEB4-0621982F608C
+760,2,762,LAO,Onlyone PHOUANGMALA,82560,550,1,https://bwf.tournamentsoftware.com/player-profile/90584C73-F51C-4581-A7BE-24F2507CED66
+760,2,762,THA,Siwarat SANGNATE,82660,550,1,https://bwf.tournamentsoftware.com/player-profile/022F1E53-F1C2-461E-9035-A18D965186DB
+760,2,762,MAS,LEONG Mei Chin,65247,550,1,https://bwf.tournamentsoftware.com/player-profile/EB0A600F-2F90-4A08-99AD-38661345ACCB
+760,2,762,THA,Chanoknan KAEWKHAM,79183,550,1,https://bwf.tournamentsoftware.com/player-profile/645739EA-01ED-4136-B964-1EF086196753
+760,2,762,LAO,Mimi SIXOMXEUANE,87834,550,1,https://bwf.tournamentsoftware.com/player-profile/3B3D4C02-25A8-4815-840C-4A2AB85E615D
+760,2,762,THA,Thipthida KHONGSON,61009,550,1,https://bwf.tournamentsoftware.com/player-profile/24ED9B3A-44D3-430F-B546-2814491C9F94
+760,2,762,THA,Piyaporn THIANGARROM,96001,550,1,https://bwf.tournamentsoftware.com/player-profile/1510024C-742A-49D9-834B-C1F0523CFA82
+760,2,762,THA,Buntita WIANGKAM,69412,550,1,https://bwf.tournamentsoftware.com/player-profile/F79D0487-787C-4D3B-9DE8-D7285C8B226E
+760,2,762,THA,Ramita UTSANON,91030,550,1,https://bwf.tournamentsoftware.com/player-profile/E572B7DA-6EF2-41E9-ACEC-36F6D9E31572
+760,2,762,BAR,Cheyanna BURNETT-GRIFFITH,85920,550,1,https://bwf.tournamentsoftware.com/player-profile/F4DEA4ED-76AA-40E2-B8DD-30497793A03B
+760,2,762,BOT,Onkutlule MABUSE,86689,550,1,https://bwf.tournamentsoftware.com/player-profile/4D703FC4-7201-41CF-BA4C-0DED8731401E
+760,2,762,BOT,Patience MOLEFE,70174,550,1,https://bwf.tournamentsoftware.com/player-profile/92DF848B-5E5F-4B83-905E-70C18EE26E4C
+760,2,762,BOT,Amogelang KGAKOLE,97848,550,1,https://bwf.tournamentsoftware.com/player-profile/5FFA9CD1-CBA2-455B-B62B-37090FB517AD
+760,2,762,BOT,Onneile Katlego MOISAEMANG,55445,550,1,https://bwf.tournamentsoftware.com/player-profile/19DF3D4E-D432-4E9B-84D8-44FCD7E84EEC
+760,2,762,BOT,Gaone KEABETSWE,66686,550,1,https://bwf.tournamentsoftware.com/player-profile/72A6B2E2-1A6E-46C2-B9F1-760A8D314E7E
+760,2,762,BOT,Catherine WAHENG,56064,550,1,https://bwf.tournamentsoftware.com/player-profile/476ECBBB-A639-4027-88ED-F27543719D4D
+760,2,762,BOT,Dolly GOLEANYE,74089,550,1,https://bwf.tournamentsoftware.com/player-profile/E395E6D0-766B-4FC5-AD06-D7530D8D32C7
+760,2,762,IND,Ananya GOEL,84967,550,1,https://bwf.tournamentsoftware.com/player-profile/9C24FB27-DE64-4A4F-8209-5C9C60BDE09A
+760,2,762,IND,Kaivalya Lakshmi YADAVALLI,99418,550,1,https://bwf.tournamentsoftware.com/player-profile/A7681309-B933-42E2-96C6-5518450DDB92
+760,2,762,ZAM,Mwansa ESTHER,92252,550,1,https://bwf.tournamentsoftware.com/player-profile/09D1EDB3-1F9B-4B75-9071-8F94F4D8142A
+760,2,762,ZAM,Nakubiana SITONDO,61796,550,1,https://bwf.tournamentsoftware.com/player-profile/D46457E9-0F9A-46C4-A582-027941BCE6FD
+760,2,762,ZAM,Annet NJOBVU,56828,550,1,https://bwf.tournamentsoftware.com/player-profile/B6743300-103E-4228-9AF8-3824ADA11BA7
+760,2,762,IRI,Fatemeh BABAEI,82046,550,1,https://bwf.tournamentsoftware.com/player-profile/1B048A2E-B7C1-411C-8941-2B8852421E2E
+760,2,762,BHU,Phuntsho Choden THINGH,84186,550,1,https://bwf.tournamentsoftware.com/player-profile/2F02703F-13EE-4ABF-8AAF-5554AD1A1AFB
+760,2,762,DEN,Sarah Frederikke VISHART,75614,550,1,https://bwf.tournamentsoftware.com/player-profile/6E235D26-479D-4411-8B66-81DDE5157FA1
+760,2,762,UGA,Fadilah Shamika MOHAMED RAFI,93199,550,1,https://bwf.tournamentsoftware.com/player-profile/F004FD3D-8EAA-4CD3-B7EA-93951F614388
+760,2,762,INA,Stephanie WIDJAJA,87718,550,1,https://bwf.tournamentsoftware.com/player-profile/0E44278C-F844-48B5-97AE-9B057F6AED47
+760,2,762,MGL,Kherlen DARKHANBAATAR,84600,550,1,https://bwf.tournamentsoftware.com/player-profile/425BA96E-8C44-4208-AEE6-D57BC89983BE
+760,2,762,KAZ,Aisha ZHUMABEK,74774,550,1,https://bwf.tournamentsoftware.com/player-profile/245FE685-B9E9-4295-AADD-18E9462CB788
+760,2,762,GHA,Regina ASIEBEKA,60959,550,1,https://bwf.tournamentsoftware.com/player-profile/3D720DEB-5F91-47A1-AEA1-E84FEE8C1341
+760,2,762,USA,Katelin NGO,57795,550,1,https://bwf.tournamentsoftware.com/player-profile/1E07A0A6-B4CB-4ACB-BBE4-DA899AC445D5
+760,2,762,USA,Ashley YANG,70777,550,1,https://bwf.tournamentsoftware.com/player-profile/1188F23B-74A4-4B1F-93F1-C07FB756A838
+760,2,762,USA,Esther SHI,71881,550,1,https://bwf.tournamentsoftware.com/player-profile/FCCA7D12-D91F-453E-B3F0-C5A976DE5738
+760,2,762,TPE,CHAO Jen Wei,88364,550,1,https://bwf.tournamentsoftware.com/player-profile/3125CFE2-4245-453D-938A-FF57564ADBD0
+760,2,762,USA,Kalea SHEUNG,77599,550,1,https://bwf.tournamentsoftware.com/player-profile/E290FDF3-1296-41A8-9509-008E9B371459
+901,3,904,FRA,Melanie POTIN,79845,540,3,https://bwf.tournamentsoftware.com/player-profile/81AB522F-14A9-40CD-922C-748B5B6AF715
+902,3,905,ZIM,Kuzivakwashe Tritania MUDZAMIRI,57358,540,2,https://bwf.tournamentsoftware.com/player-profile/DEE870D2-8E1B-420A-B0C2-92430D41C867
+902,3,905,ZIM,Nyasha KOPOLO,79758,540,2,https://bwf.tournamentsoftware.com/player-profile/B0B0869D-F4D3-4B36-A5CC-5DA3AA81521E
+904,3,907,POR,Catarina M. MARTINS,74099,530,3,https://bwf.tournamentsoftware.com/player-profile/A5638E6B-B2F5-4187-982D-5814AD27ECFE
+905,3,908,CZE,Veronika KUBEČKOVÁ,59019,520,3,https://bwf.tournamentsoftware.com/player-profile/726124E7-54B4-4539-820D-7A5DB2BB79B3
+906,4,910,CHI,SKARIC Mickaela,62001,510,1,https://bwf.tournamentsoftware.com/player-profile/321900B2-6468-40BA-A0F5-C4C089565C95
+906,4,910,CHI,Constanza NARANJO,58168,510,1,https://bwf.tournamentsoftware.com/player-profile/D0A3636D-3879-4D5F-9528-0E91687C6FF0
+906,4,910,ESA,Daniela MATAMOROS,88559,510,1,https://bwf.tournamentsoftware.com/player-profile/45623E0F-B299-43B9-9F0D-53EC262FF1A8
+906,4,910,PAN,Nathalie Angelique FEDNEY VIDAL,90086,510,1,https://bwf.tournamentsoftware.com/player-profile/0CD77403-2231-40C3-BE78-A0AF3EE49210
+906,4,910,CHN,LYU Xue Zhou,83734,510,1,https://bwf.tournamentsoftware.com/player-profile/6605DD84-F3DC-4B34-850A-F541A105CEE4
+906,4,910,CHN,WU Yu Han,59236,510,1,https://bwf.tournamentsoftware.com/player-profile/99C5F385-0E53-46B1-A1EF-4B89DCA86096
+906,4,910,RUS,Ekaterina RIAZANTCEVA,65618,510,1,https://bwf.tournamentsoftware.com/player-profile/66301687-E735-4F8E-81FD-105034C38266
+913,4,917,AUT,Katharina HOCHMEIR,85127,490,3,https://bwf.tournamentsoftware.com/player-profile/DD9BA5B3-1C65-4C4D-BA01-22F8D862DBD0
+914,4,918,ENG,Chloe LE TISSIER,85171,480,3,https://bwf.tournamentsoftware.com/player-profile/D60B4B1E-7C0C-45A5-9AC8-808DCE08330F
+915,4,919,GRE,Polyvia TZIKA,58737,480,2,https://bwf.tournamentsoftware.com/player-profile/EB6B3934-5D9D-4B00-98C9-374C4BA5119B
+916,4,920,GRE,Eirini GOYGLERI,95124,470,3,https://bwf.tournamentsoftware.com/player-profile/87C07899-E2D9-40E4-A609-2E2B492D525B
+917,4,921,FIN,Johanna LUOSTARINEN,68269,460,4,https://bwf.tournamentsoftware.com/player-profile/AE5B7505-BA45-4656-A24E-848E2347A14D
+918,4,922,SGP,ONG Xi Qing,83449,460,2,https://bwf.tournamentsoftware.com/player-profile/F6C22AC3-5AA5-463F-8785-4FFACAEA2436
+918,4,922,IND,Megha Morchana BORA,78494,460,2,https://bwf.tournamentsoftware.com/player-profile/A815E8F7-FA5E-47B2-9783-013C347A7AB6
+920,5,925,CRO,Dorotea SUTARA,79928,450,3,https://bwf.tournamentsoftware.com/player-profile/0BFF8A38-E0AF-4C62-9A21-278FC06A1E17
+921,5,926,ROU,Maria Alexandra DUTU,94885,450,2,https://bwf.tournamentsoftware.com/player-profile/3AF1547E-313B-490A-866F-172BC543D550
+921,5,926,GRE,Eleni MOUTEVELIDOU,96134,450,2,https://bwf.tournamentsoftware.com/player-profile/66D360C7-9748-461E-B3AF-A89D8519902F
+921,5,926,GRE,Theodora LAMBRIANIDOU,59788,450,2,https://bwf.tournamentsoftware.com/player-profile/DE1F35AD-0B1C-40C0-AC48-8169211AAE69
+924,5,929,RUS,Anastasia STOGOVA,90786,430,5,https://bwf.tournamentsoftware.com/player-profile/CB69F667-2A4E-4A72-8D24-AF77C0E5CB20
+925,5,930,MLT,Fiorella Marie SADOWSKI,91527,420,2,https://bwf.tournamentsoftware.com/player-profile/2FD00B67-6318-489A-8388-8734115B3BE9
+925,5,930,ITA,Giulia FIORITO,58993,420,2,https://bwf.tournamentsoftware.com/player-profile/8CF0FE99-CBBD-4F75-A4E4-FC58CA9E29E2
+925,5,930,ITA,Lidia RAINERO,73255,420,2,https://bwf.tournamentsoftware.com/player-profile/5C16CB8F-98A5-4991-98B8-9906F6649895
+925,5,930,ITA,Camilla TARAMELLI,79895,420,2,https://bwf.tournamentsoftware.com/player-profile/535023AF-8DAA-44D4-B147-2A65A119C8FD
+925,5,930,IND,Shivani Vaishnavi Devi GANGULA,95845,420,2,https://bwf.tournamentsoftware.com/player-profile/502DE2DF-93E0-47AD-A269-8D09C45455D5
+925,260,1185,BLR,Ulyana ZAKHARAVA,56074,420,2,https://bwf.tournamentsoftware.com/player-profile/3F259C1E-B894-42E8-AD6A-6940D73EABCF
+931,4,935,HUN,Kitti SZOTAK,97306,410,2,https://bwf.tournamentsoftware.com/player-profile/E810C1DF-ED0F-450D-9263-6AF5C344E239
+932,4,936,UKR,Valyeriya MASAYLO,55720,400,2,https://bwf.tournamentsoftware.com/player-profile/9C7464E9-9977-4C47-82D8-B6C46E628FE8
+933,4,937,SVK,Lucia GRENCIKOVA,96335,377,2,https://bwf.tournamentsoftware.com/player-profile/F64E4A75-70A4-4518-8DF3-D9C3D425E419
+934,4,938,LAT,Una BERGA,90193,360,4,https://bwf.tournamentsoftware.com/player-profile/6334B923-64ED-4DFF-8784-D254A3BEAA59
+935,4,939,ZIM,Olga MATSANURA,90870,360,2,https://bwf.tournamentsoftware.com/player-profile/FA40C911-A92D-4388-A80C-3C6CEB6F341D
+936,4,940,CZE,Dominika KOUKALOVA,54455,360,1,https://bwf.tournamentsoftware.com/player-profile/8A90BE81-0834-4033-8CE3-D55EA38D3DA3
+936,4,940,ESP,Manuela DIAZ,27758,360,1,https://bwf.tournamentsoftware.com/player-profile/51B557C4-7148-4243-A959-56A62D538E63
+936,4,940,UKR,Darya SAMARCHANTS,95248,360,1,https://bwf.tournamentsoftware.com/player-profile/91302755-2011-48CF-BCF7-2E874E8E28AA
+936,4,940,SGP,Yun LIANG,60447,360,1,https://bwf.tournamentsoftware.com/player-profile/29AED112-F4A3-49D1-B2FD-FFFE05431836
+936,4,940,ESP,Laura PRIMO,90270,360,1,https://bwf.tournamentsoftware.com/player-profile/B1D6C7C9-A90D-4C5F-B755-3B86FC4A8873
+936,4,940,CAN,Eunice HERMANTO,52950,360,1,https://bwf.tournamentsoftware.com/player-profile/848BC5B9-8A6C-4134-9ED1-B1ACD7A52DD1
+936,4,940,IRI,Hadis AHMADI,67556,360,1,https://bwf.tournamentsoftware.com/player-profile/2EF5E234-63FD-44B7-AE06-0F1ED40A4BB6
+936,4,940,INA,Nurul SHABILLAH,56146,360,1,https://bwf.tournamentsoftware.com/player-profile/1A3D7F54-025C-437F-B93E-BE21058E420F
+936,4,940,INA,Melsya Nur FITRIANI,59664,360,1,https://bwf.tournamentsoftware.com/player-profile/98703903-43FE-4A57-BFA0-2115838B7862
+936,4,940,RUS,Mariia GOLUBEVA,59482,360,1,https://bwf.tournamentsoftware.com/player-profile/1633BC96-C8E9-4D1C-A710-5447EECC8E85
+936,4,940,UKR,Mariia KALIUZHNA,63951,360,1,https://bwf.tournamentsoftware.com/player-profile/5CC67334-D29F-46BA-B937-F05222A15AD8
+936,4,940,UKR,Polina BUHROVA,96877,360,1,https://bwf.tournamentsoftware.com/player-profile/2B372F7E-6B6E-42E5-87A3-D84260FEE628
+936,4,940,UKR,Varvara FROLOVA,71180,360,1,https://bwf.tournamentsoftware.com/player-profile/30923CC7-D014-45F1-B69D-0D203CB4C498
+936,4,940,INA,Debora Pungky CAHYADEWI,61523,360,1,https://bwf.tournamentsoftware.com/player-profile/B033E967-61D9-45D1-88BD-328C96696B7E
+936,4,940,SVK,Mia TARCALOVA,92290,360,1,https://bwf.tournamentsoftware.com/player-profile/40916415-BF05-41DD-985F-E7F50D529D02
+936,4,940,IND,S.S.Lakshmi Priyanka SUBRAMANIAN,78225,360,1,https://bwf.tournamentsoftware.com/player-profile/FEF783A2-0FB0-45EC-A4F0-49028C70DC49
+936,4,940,IND,Unnati BISHT,69641,360,1,https://bwf.tournamentsoftware.com/player-profile/877575EA-4517-45E8-86A5-E498A9428539
+936,4,940,IND,APEKSHA NAYAK,91298,360,1,https://bwf.tournamentsoftware.com/player-profile/3FAF374A-56A4-4A9E-ACB6-2530DAF28B79
+936,4,940,IRI,Sayeh KHALIL RAHMAN,76505,360,1,https://bwf.tournamentsoftware.com/player-profile/DB4694DB-FBB5-48FF-B473-FD8F8FEF9B45
+936,4,940,IRI,Atena HAMIDIFAR,86570,360,1,https://bwf.tournamentsoftware.com/player-profile/3C3B6FDB-B900-4FE0-8054-225E6DE9FAC5
+936,4,940,IRI,Hajar KABIRI,87212,360,1,https://bwf.tournamentsoftware.com/player-profile/FD36ED54-10CC-4D28-824D-3E9A8A56AC23
+936,4,940,IRI,Saghar RAFEI,57499,360,1,https://bwf.tournamentsoftware.com/player-profile/6A6FE1E7-74D3-4F28-8069-2D65065BC1B9
+936,4,940,IRI,Parnia NABAVI,64675,360,1,https://bwf.tournamentsoftware.com/player-profile/CE12B320-C5E3-462A-837C-8BABDAC1E672
+936,4,940,TUN,Safa JEBALI,81113,360,1,https://bwf.tournamentsoftware.com/player-profile/49D6F938-7CDD-46C7-BC34-F71B6E2061CE
+936,4,940,THA,Pornnicha SUWATNODOM,85354,360,1,https://bwf.tournamentsoftware.com/player-profile/14CA87BF-950D-4C2A-B512-E908F81A3B81
+936,4,940,JPN,Momoka KIMURA,79790,360,1,https://bwf.tournamentsoftware.com/player-profile/B640EEE9-584F-44E9-A75D-8B9AB53B8CE9
+936,4,940,JPN,Yuki MINEI,77698,360,1,https://bwf.tournamentsoftware.com/player-profile/9A87ACAD-366C-4263-9BF8-EDD82FF8171D
+936,4,940,RUS,Kristina LIPOVSKAYA,89264,360,1,https://bwf.tournamentsoftware.com/player-profile/373B663E-D732-425B-8BFB-D49ADB73284A
+936,4,940,UKR,Daria POIDA,69111,360,1,https://bwf.tournamentsoftware.com/player-profile/0CECC95D-17DE-4190-B27E-7F47220C7629
+936,4,940,UKR,Oleksandra KYSELYOVA,71409,360,1,https://bwf.tournamentsoftware.com/player-profile/F8B6EA5A-8F97-43FA-AF7C-691DEEEB14A7
+936,4,940,UKR,Maryna BONDARENKO,91850,360,1,https://bwf.tournamentsoftware.com/player-profile/57B49A13-B0CE-46D0-B3DC-E8C53DC77BE4
+967,5,972,LAT,Liana LENCEVICA,56752,357,5,https://bwf.tournamentsoftware.com/player-profile/EB99218A-E4DC-4ACE-B229-1C8546FA542D
+968,5,973,PYF,Estelle COLOMBIES,79255,350,2,https://bwf.tournamentsoftware.com/player-profile/9A69B44B-A8FA-4870-930B-023D793DCC22
+969,5,974,ROU,Andra OLARIU,92664,350,1,https://bwf.tournamentsoftware.com/player-profile/7A6139FB-3ABD-407F-B1FB-1FFABA440ECF
+969,5,974,DEN,Josefine Redkjær JENSEN,61356,350,1,https://bwf.tournamentsoftware.com/player-profile/0DC3CDFD-E284-4DAC-99E6-4C253F464C99
+969,5,974,NZL,Charmaine WU,81942,350,1,https://bwf.tournamentsoftware.com/player-profile/97FEF912-37BA-482A-8F99-0D7C67B0B54F
+969,5,974,MRI,Jemimah LEUNG FOR SANG,94256,350,1,https://bwf.tournamentsoftware.com/player-profile/57DA2CAE-4920-477D-9FA2-8C7A56968FB4
+969,5,974,AUS,Maggie CHAN,97044,350,1,https://bwf.tournamentsoftware.com/player-profile/D7A0A1DF-535E-44D3-B9C8-C01E27C60408
+969,5,974,MKD,Ina STEFANOVSKA,84976,350,1,https://bwf.tournamentsoftware.com/player-profile/81CFAF86-5DBD-42E9-ACA6-35D53EBAEF38
+969,5,974,ISR,Shery ROTSHTEIN,72617,350,1,https://bwf.tournamentsoftware.com/player-profile/71E2CFDA-0907-45D3-8A1B-47F2ACED17F9
+969,5,974,ISR,Shirel BALENKI,78447,350,1,https://bwf.tournamentsoftware.com/player-profile/DB0A13B0-3C6A-432F-9012-739DF6D00A79
+969,5,974,MRI,Kritisha MUNGRAH,69078,350,1,https://bwf.tournamentsoftware.com/player-profile/C46FEA0D-5578-4A79-8EB6-931BB293B675
+969,5,974,MRI,Jeisha CHINIAH,61512,350,1,https://bwf.tournamentsoftware.com/player-profile/0F492CF6-CBD0-4579-9741-5BD3D03E2D94
+969,5,974,MRI,Vilina APPIAH,63440,350,1,https://bwf.tournamentsoftware.com/player-profile/E612DCDC-CD89-47EA-8A7A-D37669DA2E4F
+969,5,974,GER,Katja HOLENZ,62158,350,1,https://bwf.tournamentsoftware.com/player-profile/67AC8988-B082-4A8B-9682-5A391416ED0D
+969,5,974,BUL,Maria BOEVSKA,86164,350,1,https://bwf.tournamentsoftware.com/player-profile/37961063-B080-4A48-9CEF-E4A1CEDC3176
+969,5,974,ISR,Noa BULLER,91675,350,1,https://bwf.tournamentsoftware.com/player-profile/73D49A48-3F6E-4D06-A45B-BE28EFF426B2
+969,5,974,ISR,Anastasia BANTISH,82191,350,1,https://bwf.tournamentsoftware.com/player-profile/F10FEC35-762D-4996-85B8-734A7C33FAFD
+969,5,974,ALG,Kenza GHASSIL,85228,350,1,https://bwf.tournamentsoftware.com/player-profile/96F1820A-58F9-4EF8-9B1E-B266729608E7
+969,5,974,ALG,Abed ARINA,96061,350,1,https://bwf.tournamentsoftware.com/player-profile/F5822EB6-4ECB-4AC3-A35F-556272683FFD
+969,5,974,ALG,Leticia KARA,68266,350,1,https://bwf.tournamentsoftware.com/player-profile/26FB1C9D-DBD2-491B-9CBB-8244E14284D0
+969,5,974,ALG,Imane CHEKKAL,68936,350,1,https://bwf.tournamentsoftware.com/player-profile/31551CAE-7694-4433-943E-C8EF8E24BD17
+969,5,974,NED,Amy TAN,93917,350,1,https://bwf.tournamentsoftware.com/player-profile/9A17DE67-2979-41EA-BFDA-4F6FA6098ADF
+969,5,974,BOL,Linda BU,74262,350,1,https://bwf.tournamentsoftware.com/player-profile/BE9BD7F6-8E3C-4EEE-B3F7-3776E6650F3F
+969,5,974,PER,Andrea FLORES VASQUEZ DE VELASCO,64475,350,1,https://bwf.tournamentsoftware.com/player-profile/2920D5B9-4CB6-4381-B909-DB637885E648
+969,5,974,PER,Ariana MOROMISATO KINA,61108,350,1,https://bwf.tournamentsoftware.com/player-profile/6E287126-EAAF-46E4-B973-2E08462C932D
+969,5,974,PER,Fernanda MUNAR SOLIMANO,77280,350,1,https://bwf.tournamentsoftware.com/player-profile/8462A1EC-541E-44A2-982C-6572D5C2CC32
+969,5,974,PER,Ariane NAKASONE RODRIGUEZ,90160,350,1,https://bwf.tournamentsoftware.com/player-profile/4ECC83E2-9AD3-4694-B8CA-8D3F2AB80A8F
+969,5,974,MRI,Poshita LUCHOOMUN,80796,350,1,https://bwf.tournamentsoftware.com/player-profile/61819AB6-1244-490A-A353-813C64DA32F8
+969,5,974,MRI,Dorothy ROUSSEAU,62548,350,1,https://bwf.tournamentsoftware.com/player-profile/47F66874-49F6-4627-A5E2-E61D1D215214
+969,5,974,MRI,Mandira LUBAH,98228,350,1,https://bwf.tournamentsoftware.com/player-profile/335CE7E7-7154-4CA7-9C58-74E86A24C605
+969,969,0,RUS,Galina MEZENTSEVA,68564,350,1,https://bwf.tournamentsoftware.com/player-profile/D0C135CE-F5D0-4157-9B34-2249CE507BA0
+998,4,1002,ENG,Sophie MALES,73605,340,2,https://bwf.tournamentsoftware.com/player-profile/0FAAEC37-9286-43EE-A363-64AB1E9CA255
+998,4,1002,ROU,Luiza MILU,78038,340,2,https://bwf.tournamentsoftware.com/player-profile/625812E6-341F-4285-A978-F7B291641501
+1000,4,1004,CRO,Inga SADAIĆ,75109,330,4,https://bwf.tournamentsoftware.com/player-profile/CFB36902-5759-4C62-8386-3FCCB4F16E7A
+1001,4,1005,ENG,Sian KELLY,81761,330,3,https://bwf.tournamentsoftware.com/player-profile/5922D61F-7459-4969-A92C-DDD8E9188F9F
+1002,4,1006,INA,Mia MAWARTI,97080,320,1,https://bwf.tournamentsoftware.com/player-profile/5B5A61A2-ECF6-4861-90BC-5CA8D2E83B2E
+1003,4,1007,ENG,Gemma WHITING,65664,310,2,https://bwf.tournamentsoftware.com/player-profile/716CFA5F-742E-4358-BD2E-B23B7883AC08
+1003,4,1007,SWE,Nathalie WANG,73456,310,2,https://bwf.tournamentsoftware.com/player-profile/95D27AE1-91A7-479C-9E5A-728C5F81C345
+1005,4,1009,FIN,Jessica JÄNTTI,86990,300,3,https://bwf.tournamentsoftware.com/player-profile/5520A18A-68B6-42DB-A113-A9094D6388F2
+1006,4,1010,ENG,Til'Shiloh SHAW,74239,300,2,https://bwf.tournamentsoftware.com/player-profile/CD92C6DB-E632-43EC-A476-F3A0D389F3C5
+1006,4,1010,NED,Madouc LINDERS,65753,300,2,https://bwf.tournamentsoftware.com/player-profile/EA3383C2-2365-4C38-AB54-8C61BFBB1DB3
+1008,4,1012,IND,CH. Poornima,69187,270,2,https://bwf.tournamentsoftware.com/player-profile/D99DF0C4-AF97-47E0-9228-7D4ADBE4B0CD
+1008,4,1012,IND,Supriya BALLI,57730,270,2,https://bwf.tournamentsoftware.com/player-profile/B4DF2EA1-E401-4390-91BC-11C5350D2BB9
+1008,4,1012,TPE,HUANG Ching Ping,94348,270,2,https://bwf.tournamentsoftware.com/player-profile/2718E3B2-EEC8-46D7-846F-409CA65EB3C1
+1011,4,1015,RUS,Julia ZAPOLSKAYA,49317,260,3,https://bwf.tournamentsoftware.com/player-profile/D77982D8-F2A0-4AE9-A543-42EA426EE503
+1012,4,1016,POL,SZUBERT Karolina,76604,240,5,https://bwf.tournamentsoftware.com/player-profile/A91A7203-D412-4E7D-90FE-47DDCFD45D3F
+1013,5,1018,RUS,Polina MAKKOVEEVA,20987,240,1,https://bwf.tournamentsoftware.com/player-profile/34B83A39-AEDA-4491-A33C-11ACE35D8A17
+1013,5,1018,CAN,Wen Yu ZHANG,91560,240,1,https://bwf.tournamentsoftware.com/player-profile/5F9933AD-5959-4419-9794-61EF976C7EBA
+1013,5,1018,RUS,Liliia ABIBULAEVA,60952,240,1,https://bwf.tournamentsoftware.com/player-profile/49F63017-F025-48A9-8795-9FBED84336B2
+1013,5,1018,RUS,Sofiia DOROSHENKO,93240,240,1,https://bwf.tournamentsoftware.com/player-profile/73660CC1-6433-4900-BE98-1E471B375968
+1013,5,1018,ENG,Jessica LI,58802,240,1,https://bwf.tournamentsoftware.com/player-profile/2C7068D0-B601-4CB6-97B2-5A215A72001C
+1013,5,1018,RUS,Inga BUDARINA,88474,240,1,https://bwf.tournamentsoftware.com/player-profile/F13CAB02-F3B3-48DB-A3D6-6A7061F5057A
+1013,5,1018,CAN,Samantha HUI,77783,240,1,https://bwf.tournamentsoftware.com/player-profile/641C1E9B-A7BD-422F-B1EF-B80AC3AF8E9B
+1020,5,1025,FIN,Nella SIILASMAA,56687,230,3,https://bwf.tournamentsoftware.com/player-profile/0BD7F1E2-DCAF-4342-8291-AC33B315084F
+1021,5,1026,GRE,Irini TENTA,98532,230,2,https://bwf.tournamentsoftware.com/player-profile/24BE8D9F-2287-4F26-9BC2-AD2EAFB31508
+1021,5,1026,EST,Hannaliina PIHO,56514,230,2,https://bwf.tournamentsoftware.com/player-profile/1F565BDA-7096-4256-8D0C-CB1A31D57490
+1021,5,1026,NOR,Marie CHRISTENSEN,83125,230,2,https://bwf.tournamentsoftware.com/player-profile/FB3203B7-07F0-4C32-98B9-AD357ECAE896
+1021,5,1026,FIN,Maija KRZYWACKI,68022,230,2,https://bwf.tournamentsoftware.com/player-profile/92722B71-9B78-45B9-BBE4-04DD7FA819AC
+1021,5,1026,SWE,Malena NORRMAN,78641,230,2,https://bwf.tournamentsoftware.com/player-profile/9661E0D5-065B-4C6C-9A11-EE906B35712B
+1021,5,1026,ENG,Amy HAYHOE,57911,230,2,https://bwf.tournamentsoftware.com/player-profile/BFC56739-B7BF-4BA4-9587-B67A356AF7CC
+1027,5,1032,RUS,Anastasiia BOIARUN,91650,210,4,https://bwf.tournamentsoftware.com/player-profile/588AE4A5-7C26-4C8A-B024-B4AE12414C54
+1028,5,1033,NEP,Poonam GURUNG,70413,210,1,https://bwf.tournamentsoftware.com/player-profile/25C26131-BBB2-42C7-BC86-D46EBB2655D7
+1028,5,1033,UGA,Brenda MUGABI,61958,210,1,https://bwf.tournamentsoftware.com/player-profile/1D641E6C-651D-476E-BB76-D0695691B626
+1028,5,1033,SWE,Malin ANDERSSON,77036,210,1,https://bwf.tournamentsoftware.com/player-profile/870F8A1A-EF64-4B28-B518-80E469CFF6B5
+1028,5,1033,UGA,Olivia NAKAJJA,67954,210,1,https://bwf.tournamentsoftware.com/player-profile/8AAD5B47-2619-4F56-8688-A320B98A69D7
+1028,5,1033,NOR,Thea Kristina JOHANSEN,66092,210,1,https://bwf.tournamentsoftware.com/player-profile/C89E2479-32BD-4B58-BAD9-98C4F5D87FF2
+1028,5,1033,KEN,Juma AKOTH,68940,210,1,https://bwf.tournamentsoftware.com/player-profile/664EE100-5B43-4D91-86E1-FCF23AC7B527
+1028,5,1033,ISL,Alda Karen JONSDOTTIR,73909,210,1,https://bwf.tournamentsoftware.com/player-profile/03A75703-C31F-4020-AACD-94C02FEA36C5
+1028,5,1033,THA,Ornnicha JONGSATHAPORNPARN,99988,210,1,https://bwf.tournamentsoftware.com/player-profile/9A0BB391-E1A9-4A2B-8530-A2572D245882
+1028,5,1033,AUT,Antonia MEINKE,86895,210,1,https://bwf.tournamentsoftware.com/player-profile/E177E4DA-2224-4956-B227-58E6A3FF6443
+1028,5,1033,TUR,Sevval Buse ALSOY,86126,210,1,https://bwf.tournamentsoftware.com/player-profile/5EF7BF09-E7E2-40DB-90AA-81DA2A0C00B3
+1028,5,1033,EGY,Amira ASHRAF MAHMOUD ALY,71825,210,1,https://bwf.tournamentsoftware.com/player-profile/3E25513F-F43B-45A3-AD9C-EC192FE77624
+1028,5,1033,EGY,Esraa MOHAMED HANY,97596,210,1,https://bwf.tournamentsoftware.com/player-profile/623EF8F3-37ED-4FC5-A6CD-A26779054B76
+1028,5,1033,KEN,KIVISI Andia,77162,210,1,https://bwf.tournamentsoftware.com/player-profile/FE7AEA24-406B-4B4F-89E7-EB740218AFB5
+1028,5,1033,UGA,Tracy NALUWOOZA,74714,210,1,https://bwf.tournamentsoftware.com/player-profile/9FA1FAC4-709E-4DB0-9371-F506AAB89FCA
+1028,5,1033,UGA,Ruth NAKAWOYA,75142,210,1,https://bwf.tournamentsoftware.com/player-profile/B8BAFEBD-2FE5-4F04-904F-552F5586D467
+1028,5,1033,TUR,Filiz HALBURCU,91714,210,1,https://bwf.tournamentsoftware.com/player-profile/282F10A1-224D-4090-BE77-108158CA4101
+1028,5,1033,MAS,"Desiree, Hao Shan SIOW",65389,210,1,https://bwf.tournamentsoftware.com/player-profile/610FA212-AADF-44C2-81A0-3AD6231D3C1E
+1028,5,1033,EGY,Aya EZZAT ABDELRAHIM,99416,210,1,https://bwf.tournamentsoftware.com/player-profile/C32B2C20-229F-4231-8547-2ECB7A782A2D
+1028,5,1033,IND,Priya KONJENGBAM,50322,210,1,https://bwf.tournamentsoftware.com/player-profile/C9886899-D5FC-4EBA-BA1A-1B9EF57B4DBC
+1028,5,1033,TUR,Naime YILMAZ,79252,210,1,https://bwf.tournamentsoftware.com/player-profile/A3E77306-697A-4335-AEDA-FF9CD6B1801A
+1028,5,1033,ISL,Katrin Vala EINARSDOTTIR,91091,210,1,https://bwf.tournamentsoftware.com/player-profile/3D056550-D215-42D6-BD03-689D9AE9FFF7
+1028,5,1033,EGY,Mennatallah ASHRAF SAID MOHAMED,83140,210,1,https://bwf.tournamentsoftware.com/player-profile/D8832A32-5AAC-4C3D-92B9-7CB0DB506E3D
+1028,5,1033,UZB,Sevinch SODIKOVA,56877,210,1,https://bwf.tournamentsoftware.com/player-profile/4C3E62CA-8141-4FC5-A278-29C8FB1DA994
+1028,5,1033,EGY,Jana HESHAM MOHAMED ABDELKADER,95812,210,1,https://bwf.tournamentsoftware.com/player-profile/3898ABF7-FA23-4212-A854-303F841113C2
+1028,5,1033,EGY,Farah Abdelkarim MOSTAFA ELGOHARY,57692,210,1,https://bwf.tournamentsoftware.com/player-profile/28C3525C-90CD-4E03-A487-93931FD8664C
+1028,5,1033,IND,Varshini VISWANATH SRI,97060,210,1,https://bwf.tournamentsoftware.com/player-profile/90E90D5F-6589-4202-AF23-FBB34D6C35EB
+1028,5,1033,IND,Meghana Reddy MAREDDY,75837,210,1,https://bwf.tournamentsoftware.com/player-profile/B1E38188-D5EE-42BE-A7E9-4E9A22BC4C5A
+1028,5,1033,IND,Mrunmayi SAOJI,94118,210,1,https://bwf.tournamentsoftware.com/player-profile/F6F1B7C8-B664-4048-AE21-F7F79E9793AB
+1028,5,1033,TUR,Ece Sare BASAKIN,63625,210,1,https://bwf.tournamentsoftware.com/player-profile/15AB48DA-23B0-43DA-B42F-D375332649E5
+1028,5,1033,NEP,Sita RAI,85397,210,1,https://bwf.tournamentsoftware.com/player-profile/32E63F7A-3610-45AA-B269-CD2FFDEABFF9
+1028,5,1033,BHU,Thinley WANGMO,56442,210,1,https://bwf.tournamentsoftware.com/player-profile/D02BC9FC-31C2-4B1E-9CF3-5BF8B9C418A7
+1028,5,1033,NEP,Rasila MAHARJAN,90039,210,1,https://bwf.tournamentsoftware.com/player-profile/BB3BB37F-AE49-486D-B909-FC4A9B364B45
+1028,5,1033,BHU,Eden EDEN,70998,210,1,https://bwf.tournamentsoftware.com/player-profile/F8533FED-5266-4A29-931E-0504C244CB5E
+1028,5,1033,NEP,Samjhana SHARMA,58789,210,1,https://bwf.tournamentsoftware.com/player-profile/BE88B934-913F-4B4C-A6ED-08103E82CBA6
+1028,5,1033,BHU,Rinzin WANGMO,74818,210,1,https://bwf.tournamentsoftware.com/player-profile/B9E052AD-D516-428A-BEDA-EBA3E85EFE22
+1028,5,1033,TPE,LEE Yu-Hsuan,75174,210,1,https://bwf.tournamentsoftware.com/player-profile/B27B5348-91C5-45EF-ADF1-C05BA73E6E44
+1028,5,1033,DEN,Emilie MELGAARD,68481,210,1,https://bwf.tournamentsoftware.com/player-profile/57ED623F-81EC-4D92-9949-19EC2BC1790D
+1028,5,1033,UGA,Hanifa HAMUZA,60355,210,1,https://bwf.tournamentsoftware.com/player-profile/8A04FD78-1A13-4D8A-B0DE-E771193A915A
+1028,5,1033,TPE,YEH Szu-Jou,60693,210,1,https://bwf.tournamentsoftware.com/player-profile/60026026-6E33-4FBD-BE07-039B4F1A253A
+1028,5,1033,TPE,CHEN Li,66804,210,1,https://bwf.tournamentsoftware.com/player-profile/172CB4DC-FEE3-4973-AC45-1D4ACA34C1E9
+1028,5,1033,INA,Devita Puti ALIFIA,64590,210,1,https://bwf.tournamentsoftware.com/player-profile/A765AC7F-A485-411B-855E-D268176DD269
+1028,5,1033,TPE,CHEN You-Chi,74003,210,1,https://bwf.tournamentsoftware.com/player-profile/815808E2-EBF9-49C2-A338-78304CC7E8D0
+1070,5,1075,ENG,Kimberley Helen CLAGUE,77258,200,2,https://bwf.tournamentsoftware.com/player-profile/6F6ED970-B80C-4873-9A0A-47AF1D8E438F
+1070,5,1075,SGP,Jia Rong SITO,63404,200,2,https://bwf.tournamentsoftware.com/player-profile/29086A3D-501C-4C5E-8134-A118EEB8BD58
+1070,5,1075,SWE,Madeleine PERSSON,94427,200,2,https://bwf.tournamentsoftware.com/player-profile/3BB05EA6-817C-4A51-AC61-B87078F5FA48
+1070,5,1075,GRL,Sara Lindskov JACOBSEN,81280,200,2,https://bwf.tournamentsoftware.com/player-profile/9E943E06-CE9D-4C03-BEB6-2A08F0BBCD38
+1074,5,1079,BUL,Gergana PAVLOVA,64151,190,2,https://bwf.tournamentsoftware.com/player-profile/D2252EAF-2E76-4ACF-96E8-80AB4AA48E7A
+1074,5,1079,SWE,Olivia HELLMAN,79997,190,2,https://bwf.tournamentsoftware.com/player-profile/AF024F09-7DBE-490D-BD17-FB7484296162
+1076,5,1081,AUT,Natalie HERBST,86858,170,3,https://bwf.tournamentsoftware.com/player-profile/ABB294EE-1CA2-4442-B656-C4EA0996A53F
+1076,5,1081,AUT,Martina NÖST,62565,170,3,https://bwf.tournamentsoftware.com/player-profile/B21DA136-E9B1-4FA0-81FB-06BF4E70DFD7
+1078,5,1083,SCO,Laura MUIR,75866,170,2,https://bwf.tournamentsoftware.com/player-profile/BBDFDD55-E3CA-46FA-A07B-548AB423CEA5
+1079,5,1084,IND,Vijeta BHARGAVA,72085,170,1,https://bwf.tournamentsoftware.com/player-profile/8EB26BB5-B92A-4A35-A32D-7510F5BDB930
+1079,5,1084,IND,Rucha NIKAM,66614,170,1,https://bwf.tournamentsoftware.com/player-profile/DF2EE921-F738-454F-910A-CF863C9048FE
+1079,5,1084,BEL,Presence BEELEN,64504,170,1,https://bwf.tournamentsoftware.com/player-profile/4177B929-3A04-4A0D-A9D0-67AD2EC9DEB9
+1079,5,1084,FRA,Margot LAMBERT,99891,170,1,https://bwf.tournamentsoftware.com/player-profile/3FDFD6A6-2419-421F-A1C9-94455D990867
+1079,5,1084,NED,Lisa BOMERS,89479,170,1,https://bwf.tournamentsoftware.com/player-profile/D34F2203-A076-4BB7-8C8C-324D72F0166F
+1079,5,1084,RUS,Mariya MALYGINA,78972,170,1,https://bwf.tournamentsoftware.com/player-profile/D3A10019-381D-4162-B02D-8BCC314A8736
+1079,5,1084,RUS,Kseniia GLUSHCHENKO,96419,170,1,https://bwf.tournamentsoftware.com/player-profile/FA8328D9-5255-4DC4-B9ED-9833BE5C3711
+1079,5,1084,GRE,Ioanna KARETSA,78581,170,1,https://bwf.tournamentsoftware.com/player-profile/337E6031-0F1F-4995-891F-4CD4A9E05CB4
+1079,5,1084,BEL,Clara LASSAUX,60035,170,1,https://bwf.tournamentsoftware.com/player-profile/A22E7A95-A9CD-4255-BFA2-07D269AAD593
+1079,5,1084,DEN,Emilie AALESTRUP,58394,170,1,https://bwf.tournamentsoftware.com/player-profile/66242F91-FAA3-48BD-A094-0D86554E4DA2
+1079,5,1084,SUI,Sereina HOFSTETTER,90999,170,1,https://bwf.tournamentsoftware.com/player-profile/35AE3C48-AA0E-4B77-8394-6E15EF43F4F1
+1079,5,1084,JPN,Miki KOBAYASHI,98312,170,1,https://bwf.tournamentsoftware.com/player-profile/565D99F9-491E-4119-A273-666E7B5E7475
+1079,5,1084,UKR,Sofiia DEMYDENKO,71716,170,1,https://bwf.tournamentsoftware.com/player-profile/DC2184AD-29BA-4CA7-AE69-3DC15A0F4835
+1079,5,1084,IND,Aastha SHARMA,77107,170,1,https://bwf.tournamentsoftware.com/player-profile/D7888CA2-66BF-46DE-8483-0FA066A7EB6E
+1079,5,1084,IND,KALPITA SAWANT,59468,170,1,https://bwf.tournamentsoftware.com/player-profile/BF56560E-0B2F-4A89-BCB9-0ECECCF4D4A1
+1079,5,1084,UKR,Anastasiia PROKOPOVYCH,59714,170,1,https://bwf.tournamentsoftware.com/player-profile/B37395D4-E86D-4A60-91B1-3A223138215E
+1095,5,1100,ENG,Grace TAYLOR,71578,160,2,https://bwf.tournamentsoftware.com/player-profile/04116045-9949-4242-9D2C-A4E91A8E4392
+1095,5,1100,GRE,Rafailia MERTZEMEKI,95817,160,2,https://bwf.tournamentsoftware.com/player-profile/0F785492-FCF0-45F7-B87E-E8E99D51311B
+1095,5,1100,ROU,Loredana LUNGU,82068,160,2,https://bwf.tournamentsoftware.com/player-profile/93A10030-DD5E-4035-9CFF-F1D5F6211B42
+1098,5,1103,KOR,So Yeon HAN,57477,130,1,https://bwf.tournamentsoftware.com/player-profile/A9165161-A503-41BA-9252-5740FF7AF326
+1098,5,1103,TPE,CHUNG Yu Feng,57068,130,1,https://bwf.tournamentsoftware.com/player-profile/538D43C9-8B3B-42A5-B153-271B46E1B41E
+1098,5,1103,KOR,Ho Yeon KIM,62241,130,1,https://bwf.tournamentsoftware.com/player-profile/0A98B0AB-374F-4381-96EA-15FF7DCD714A
+1098,5,1103,DEN,Rikke PEDERSEN,71192,130,1,https://bwf.tournamentsoftware.com/player-profile/74A6DD1E-B4E1-4026-86CC-6B9790B2AEA6
+1098,5,1103,CYP,Ioanna PISSI,77088,130,1,https://bwf.tournamentsoftware.com/player-profile/6C4FA786-EE41-49A4-959C-EEB2C3F696DC
+1098,1098,0,RUS,Alisa SHVETSOVA,97486,130,1,https://bwf.tournamentsoftware.com/player-profile/034B0327-3AE2-49EF-8035-7E56BCFB98F8
+1104,106,1210,RUS,Daria SEREBRIAKOVA,77577,120,2,https://bwf.tournamentsoftware.com/player-profile/FD55D2BE-1695-4EA5-B8F1-F031A630FACD
+1105,3,1108,DEN,Sophia GRUNDTVIG,85723,110,2,https://bwf.tournamentsoftware.com/player-profile/8411B8FF-5027-4316-94C8-F2232B1B6358
+1106,3,1109,BEL,Kirstin BOONEN,58636,100,3,https://bwf.tournamentsoftware.com/player-profile/C89ECA54-9FC8-414D-ACBE-3BE375002D3C
+1107,3,1110,THA,Phanitta SANGKAWATANA,81725,100,1,https://bwf.tournamentsoftware.com/player-profile/A40A71E3-D57A-4767-9B28-1DBE73C7AA94
+1107,3,1110,NOR,Anne KLYVE,61749,100,1,https://bwf.tournamentsoftware.com/player-profile/71A7EC28-5983-427B-8376-D3E3ADA28686
+1107,3,1110,MAS,LIM Peiy Zhean,80705,100,1,https://bwf.tournamentsoftware.com/player-profile/A0A2A85F-8916-4B68-9C67-F67E66FB7A6B
+1107,3,1110,SWE,Lovisa JOHANSSON,66469,100,1,https://bwf.tournamentsoftware.com/player-profile/DD339F46-7BF0-4D93-B4A4-49E27DBE8B97
+1107,3,1110,TUR,Arzu DELIBALTA,73612,100,1,https://bwf.tournamentsoftware.com/player-profile/FC5B7181-352F-4183-8CA4-C2D7E49885F2
+1107,3,1110,TUR,Buse CEYLAN,89222,100,1,https://bwf.tournamentsoftware.com/player-profile/933958F1-DA3B-466E-A053-D532AAAA9AB9
+1107,3,1110,UGA,Suzan ASANO,56874,100,1,https://bwf.tournamentsoftware.com/player-profile/E5B81D09-BE3F-4BBD-B98A-198838D318A5
+1107,3,1110,POR,Joana LOPES,88621,100,1,https://bwf.tournamentsoftware.com/player-profile/DFAE0C44-F8A3-47F7-AC9D-6F14D5A754C9
+1107,3,1110,THA,Atitaya POVANON,59892,100,1,https://bwf.tournamentsoftware.com/player-profile/40968A7B-147E-4FF4-A7F8-09848B0F7A1F
+1107,3,1110,TUR,Aysin YESIL,74263,100,1,https://bwf.tournamentsoftware.com/player-profile/8E5ADA80-94A8-4FFF-8732-712D5D18B206
+1107,3,1110,MAS,Zuelaikha IDRIS,71299,100,1,https://bwf.tournamentsoftware.com/player-profile/1ED37621-CA6F-48F6-955A-4BDCFD3E5DDE
+1107,3,1110,EGY,Eman MOSTAFA MOHAMED,88211,100,1,https://bwf.tournamentsoftware.com/player-profile/6EE6B5A0-26F1-42D6-83CD-9EDF5717340C
+1107,3,1110,TUR,Aleyna ARSLAN,72410,100,1,https://bwf.tournamentsoftware.com/player-profile/31DF284D-78A0-457D-B791-CC507396F39C
+1107,3,1110,UGA,Rehema NAKALEMA,65259,100,1,https://bwf.tournamentsoftware.com/player-profile/51EEFCF2-ABB5-4FFB-B6B5-EA08DA82B402
+1107,3,1110,UGA,Labella NASASIRA,86696,100,1,https://bwf.tournamentsoftware.com/player-profile/314033AD-3A9B-4B97-B3BB-189DEA6F3BEB
+1107,3,1110,UGA,Carle UWILINGIMANA,98947,100,1,https://bwf.tournamentsoftware.com/player-profile/D036B95A-5E06-41DC-9CCE-8B57EE1624E3
+1107,3,1110,ESP,Ana CARBON,96839,100,1,https://bwf.tournamentsoftware.com/player-profile/A19C2A4A-F504-45B6-A51F-BBFAD32CFDAF
+1107,3,1110,EGY,Hania SHAHIN,94401,100,1,https://bwf.tournamentsoftware.com/player-profile/DA0E7FD1-D9B7-4D83-ACC0-3D7CDFED33D4
+1107,3,1110,EGY,Toka ELWAZIRI,80417,100,1,https://bwf.tournamentsoftware.com/player-profile/6FDF2076-015B-4102-B4AB-C070ABF3E3F0
+1107,3,1110,IND,KEYURA MOPATI,66005,100,1,https://bwf.tournamentsoftware.com/player-profile/DA240270-DCF3-4F08-9F6C-EB495282EAEA
+1107,3,1110,IND,Shenan CHRISTIAN,94729,100,1,https://bwf.tournamentsoftware.com/player-profile/10A5B0CD-0A2A-494B-91E0-E0AFF6C74288
+1107,3,1110,IND,Vanshika KAPILA,92069,100,1,https://bwf.tournamentsoftware.com/player-profile/DA32B821-704E-4E24-BAE8-492B795C0687
+1107,3,1110,TUR,Zeynep ÖZGEN,56215,100,1,https://bwf.tournamentsoftware.com/player-profile/CD54CE21-45CF-44CF-9E07-3B76816E3766
+1107,3,1110,TUR,Esra DIKMENTEPE,66231,100,1,https://bwf.tournamentsoftware.com/player-profile/8762DA9E-7BC0-48DB-A04E-CCCA8164B7AE
+1107,3,1110,TUR,Selen GUNEY,74530,100,1,https://bwf.tournamentsoftware.com/player-profile/29C6C451-6521-4DCB-A338-2B05BCE9286E
+1107,3,1110,ISL,Halla Maria GUSTAFSDOTTIR,99796,100,1,https://bwf.tournamentsoftware.com/player-profile/5E67B678-740A-411F-8CB4-73976647F015
+1107,3,1110,ISL,Una Hrund ORVAR,87277,100,1,https://bwf.tournamentsoftware.com/player-profile/24E0641F-A8D5-45E4-83D1-1904D21606EC
+1107,3,1110,UGA,Ronah BAYIGA,92562,100,1,https://bwf.tournamentsoftware.com/player-profile/0B37E252-BA64-42F5-9B4A-A4CA1C80740C
+1107,3,1110,EST,Merit MÄGI,58569,100,1,https://bwf.tournamentsoftware.com/player-profile/CFF261F3-6648-4E73-8278-062154EF8B16
+1107,3,1110,ESP,Elena ANDREU,65325,100,1,https://bwf.tournamentsoftware.com/player-profile/1D45E3A0-0908-4B1A-9D75-90F119A872A8
+1107,3,1110,MAS,KONG Yi Jin,57931,100,1,https://bwf.tournamentsoftware.com/player-profile/E998E0FF-9AAD-4333-9120-91EFEFE13BCB
+1107,3,1110,SGP,Wen Jun CHEAH,85637,100,1,https://bwf.tournamentsoftware.com/player-profile/3C94106D-7C81-451A-AFAA-851DC01614E6
+1107,3,1110,IND,Meghana Anil KULKARNI,74523,100,1,https://bwf.tournamentsoftware.com/player-profile/95DF10EC-CFDF-4EB6-B0A6-E0A9C9E72D36
+1107,3,1110,SGP,Jing Yun CHIU,96771,100,1,https://bwf.tournamentsoftware.com/player-profile/840E345D-0763-47C8-8F97-F9251B40B1B1
+1107,3,1110,EGY,Youmna MOHAMED SHAWKI,68732,100,1,https://bwf.tournamentsoftware.com/player-profile/6E97DC88-5E20-4F75-9D95-BAAD0F526A85
+1107,3,1110,EGY,Sama Wael HELMY ABDELAAL,71781,100,1,https://bwf.tournamentsoftware.com/player-profile/2BB07DFF-C87B-4974-832E-A425A079A6DF
+1107,3,1110,EGY,Malak BASEM SOBHY EBRAHIM,83099,100,1,https://bwf.tournamentsoftware.com/player-profile/C4144FB1-1262-47AF-8608-AB2D0809BED5
+1107,3,1110,EGY,Yara ahmed FOAD OMRAN,96246,100,1,https://bwf.tournamentsoftware.com/player-profile/2E3D2167-3898-41BC-9069-0B8A95B23325
+1107,3,1110,EGY,Nour Elhoda TAREK MOHAMED,95015,100,1,https://bwf.tournamentsoftware.com/player-profile/6B205A54-9E4D-43AE-9AC5-2A18E7011CF1
+1107,3,1110,EGY,Rowaida ABDALLAH MORSI,82369,100,1,https://bwf.tournamentsoftware.com/player-profile/5612A73A-B0A9-4C6F-857F-6297A84479C5
+1107,3,1110,EGY,Salma AHMED FOUAD MOHAMED,64987,100,1,https://bwf.tournamentsoftware.com/player-profile/4F884884-93B1-48CF-80FB-C4642107A7FC
+1107,3,1110,EGY,Nada Abdelrahman ELSAYED AHMED,72074,100,1,https://bwf.tournamentsoftware.com/player-profile/900FCC21-A240-4C42-BBD1-CB95F344EA96
+1107,3,1110,EGY,Sara AYMAN GAMALELDIN,55620,100,1,https://bwf.tournamentsoftware.com/player-profile/C4767CF6-338C-4C00-8404-C9BD439856E9
+1107,3,1110,EGY,Laila KHALED ABDELAZIZ,55471,100,1,https://bwf.tournamentsoftware.com/player-profile/56FBE3A9-681B-499B-B11F-D232E5C818DF
+1107,3,1110,EGY,Dina ESSAM MOHAMED,79238,100,1,https://bwf.tournamentsoftware.com/player-profile/DF1AEF07-78BA-4701-ACB8-A98022824341
+1107,3,1110,SWE,Salisa CHAYRUKSA,75700,100,1,https://bwf.tournamentsoftware.com/player-profile/F03EA728-3330-463C-8506-511ACB9A8FD1
+1107,3,1110,SWE,Emelie BORGSTEDT,97055,100,1,https://bwf.tournamentsoftware.com/player-profile/33F7FBBC-1FBD-426F-9F9E-4F2B96E010DF
+1107,3,1110,NOR,Emilia PETERSEN NORBERG,93321,100,1,https://bwf.tournamentsoftware.com/player-profile/BF02DB39-DDE9-4430-9DF1-F3E3B22DED36
+1107,3,1110,NOR,Emma WÅLAND,75208,100,1,https://bwf.tournamentsoftware.com/player-profile/A9067879-CD3E-47E0-ABB6-3BFE8469BFA0
+1107,3,1110,IND,Mamitha KADARI,88632,100,1,https://bwf.tournamentsoftware.com/player-profile/EE36FA17-59CF-4520-899C-7664342DD150
+1107,3,1110,IND,Niranjana ANIL,97872,100,1,https://bwf.tournamentsoftware.com/player-profile/260CBF27-7C0A-4A6F-BBA4-2182CBB0A151
+1107,3,1110,IND,Rohini BILAWAR,89979,100,1,https://bwf.tournamentsoftware.com/player-profile/6946B8BE-4217-47F7-8AEE-C1E3FBADEE87
+1107,3,1110,IND,Vibhuti SHARMA,82324,100,1,https://bwf.tournamentsoftware.com/player-profile/62DCE5D4-736A-45C3-AA0A-DC814A5C573C
+1107,3,1110,TUR,Bahar YAVRU,56693,100,1,https://bwf.tournamentsoftware.com/player-profile/0DB85D75-6904-4EFD-BFEE-9B354CA7569D
+1107,3,1110,SWE,Isabelle GRAFSUND,82840,100,1,https://bwf.tournamentsoftware.com/player-profile/41FBA5DB-8296-496F-8C82-09617A941B61
+1107,3,1110,SWE,Johanna SJOSTEDT,62101,100,1,https://bwf.tournamentsoftware.com/player-profile/643AB74A-A169-4EE7-999F-384509E45AE5
+1107,3,1110,SWE,Klara HJELM,79497,100,1,https://bwf.tournamentsoftware.com/player-profile/BFE640A1-D7CA-4947-9F01-A506D4348C64
+1107,3,1110,DEN,Matilde NORDAL,61945,100,1,https://bwf.tournamentsoftware.com/player-profile/521D2D0B-DC5B-4BA9-B4C6-6574BB892C9A
+1107,3,1110,ISL,Solrun Anna INGVARSDOTTIR,72203,100,1,https://bwf.tournamentsoftware.com/player-profile/6F1B875F-9BF6-4CB2-940B-B1136CFE8370
+1107,3,1110,ISL,Juliana Karitas JOHANNSDOTTIR,93634,100,1,https://bwf.tournamentsoftware.com/player-profile/8FE3B441-03AE-41CF-B493-447896D25327
+1107,3,1110,ISL,Anna Alexandra PETERSEN,55768,100,1,https://bwf.tournamentsoftware.com/player-profile/17B6A161-D87F-4CA0-944D-E8309A6E9840
+1107,3,1110,ISL,Karolina PRUS,85770,100,1,https://bwf.tournamentsoftware.com/player-profile/83BEF124-F6AE-48EE-936E-DE77D575DEFC
+1107,3,1110,ISL,Ragnheidur Birna RAGNARSDOTTIR,93525,100,1,https://bwf.tournamentsoftware.com/player-profile/1821059F-3B23-4B3F-8344-A1D10A42B97B
+1107,3,1110,UGA,Afuwa NANDUDU,62156,100,1,https://bwf.tournamentsoftware.com/player-profile/20F43500-A434-4B85-91DF-5DA1AC9978B7
+1107,3,1110,UGA,Majida MUTESI,92531,100,1,https://bwf.tournamentsoftware.com/player-profile/EEBE0A43-A0B4-475D-82FB-7D22616D725A
+1107,3,1110,UGA,Bridget NAKASI,80236,100,1,https://bwf.tournamentsoftware.com/player-profile/6EB7A6E3-CF36-4B54-9397-25D6EA301CAE
+1107,3,1110,UGA,Daisy KABALUNGI,77695,100,1,https://bwf.tournamentsoftware.com/player-profile/E1E17967-1078-4207-B655-C9FA5B5A6FBA
+1107,3,1110,UGA,Rajab SHAMSA MBIRA,81980,100,1,https://bwf.tournamentsoftware.com/player-profile/FB2676C3-6E96-4EE4-A580-E6C14125A861
+1107,3,1110,UGA,Martha CANIVERAL,90729,100,1,https://bwf.tournamentsoftware.com/player-profile/A9A99EB3-F7B5-442F-87F6-BD18048878C8
+1107,3,1110,UGA,Natasha ARINDA,70075,100,1,https://bwf.tournamentsoftware.com/player-profile/0C282855-086C-48C2-82E2-168BFDC423BE
+1107,3,1110,UGA,Gorette MARIA,80311,100,1,https://bwf.tournamentsoftware.com/player-profile/80D9CF79-2A01-4192-A688-E073301D9E2A
+1107,3,1110,UGA,Olivia NABATANZI,81443,100,1,https://bwf.tournamentsoftware.com/player-profile/605240E4-3AA0-494E-B36B-3C395B28B198
+1107,3,1110,POR,Claudia LOURENÇO,73659,100,1,https://bwf.tournamentsoftware.com/player-profile/702580A6-5509-4075-9609-28218364E5BE
+1180,3,1183,MDA,Elena-Alexandra DIORDIEV,99079,90,2,https://bwf.tournamentsoftware.com/player-profile/FBCB5119-2573-4F62-8322-EDF62803C95B
+1181,3,1184,LTU,Rebeka ALEKSEVICIUTE,79813,80,3,https://bwf.tournamentsoftware.com/player-profile/CFC66A25-AC15-4282-8FAF-F9CF6FE942B0
+1182,3,1185,AUS,Ann-Louise SLEE,53607,70,1,https://bwf.tournamentsoftware.com/player-profile/BE603136-466B-4C33-A460-92BCAE079AB9
+1182,3,1185,FIN,Anna PAAVOLA,97457,70,1,https://bwf.tournamentsoftware.com/player-profile/55F30D28-6BC3-4198-B573-2DD5B6B6A5AD
+1182,3,1185,RUS,Daria DZHEDZHULA,63417,70,1,https://bwf.tournamentsoftware.com/player-profile/E588C12B-B03D-4292-988D-4629C39B12F3
+1182,3,1185,RUS,Anastasia REDKINA,72099,70,1,https://bwf.tournamentsoftware.com/player-profile/834DAAFE-CE0D-423B-83AC-9A82F40E4BEE
+1182,3,1185,CZE,Veronika KOLDOVÁ,64258,70,1,https://bwf.tournamentsoftware.com/player-profile/7A8942EC-0475-4F8A-8C84-0857899A2093
+1182,3,1185,RUS,Anna KRASNOSCHEKOVA,66305,70,1,https://bwf.tournamentsoftware.com/player-profile/A75D4365-F5A2-479E-B8A7-624B62159424
+1182,3,1185,RUS,Alina ROMANKO,87990,70,1,https://bwf.tournamentsoftware.com/player-profile/FD1AD8F0-4503-4EAB-BF5A-8EEA71B78522
+1182,3,1185,KAZ,Yelizaveta KHARCHENKO,97518,70,1,https://bwf.tournamentsoftware.com/player-profile/CA44AFC0-8537-4A37-9771-12966EDBD30E
+1182,3,1185,CHN,WEI Yawen,59394,70,1,https://bwf.tournamentsoftware.com/player-profile/356462C5-F7C6-42F8-A45E-DCE918549712
+1182,3,1185,FIN,Henna-Leena LINDBERG,85187,70,1,https://bwf.tournamentsoftware.com/player-profile/95DBA814-44A8-4546-A1FA-4A9FC323F5F8
+1182,3,1185,CHN,LI Sizhuo,95507,70,1,https://bwf.tournamentsoftware.com/player-profile/BEE712C4-7F50-4B0F-8EEC-1E3038D7536F
+1182,3,1185,CZE,Anna ŠKARKOVÁ,77299,70,1,https://bwf.tournamentsoftware.com/player-profile/69950E12-36BC-4BDA-8441-F874D9A69C44
+1182,3,1185,RUS,Olga KULKOVA,59475,70,1,https://bwf.tournamentsoftware.com/player-profile/CB22FD80-F10D-46F0-B79B-D36D446168C6
+1182,3,1185,UKR,Yevheniia KANTEMYR,94032,70,1,https://bwf.tournamentsoftware.com/player-profile/C2E37372-DB80-4A4E-831D-36FE7DE58B29
+1182,3,1185,UKR,Mariia KHOLODNA,94138,70,1,https://bwf.tournamentsoftware.com/player-profile/379BA63C-5A49-4981-BD34-18DC8D56D458
+1182,3,1185,UKR,Mariia STOLIARENKO,64766,70,1,https://bwf.tournamentsoftware.com/player-profile/6A42AB78-F9E9-4B07-9340-E57AB7F10AA1
+1182,3,1185,SVK,Lucia VOJTEKOVA,95781,70,1,https://bwf.tournamentsoftware.com/player-profile/AE75C368-5628-4384-8A1D-7B1F19776574
+1182,3,1185,ESP,Nerea IVORRA,72777,70,1,https://bwf.tournamentsoftware.com/player-profile/F435964C-64CB-4A61-A796-95EB4536A0C5
+1182,3,1185,ESP,Claudia LEAL,62941,70,1,https://bwf.tournamentsoftware.com/player-profile/F7CDB89A-B78D-4B08-869C-B64713CA167C
+1182,3,1185,ESP,Laura SOLIS,57698,70,1,https://bwf.tournamentsoftware.com/player-profile/B7F555DC-34FC-4582-AD50-7D5A4C466C15
+1182,3,1185,UKR,Yana SOBKO,76789,70,1,https://bwf.tournamentsoftware.com/player-profile/5F95299F-0DB5-42A6-A1F8-B11ECA996397
+1182,3,1185,UKR,Amina LYSENKO,69901,70,1,https://bwf.tournamentsoftware.com/player-profile/75F0EC3A-287A-491E-BA09-113D30F23E98
+1182,3,1185,UKR,Yelyzaveta BAHRIANTSEVA,56677,70,1,https://bwf.tournamentsoftware.com/player-profile/65EE4F79-DAB1-4DA3-8C9B-9CD9F860BFB3
+1182,3,1185,UKR,Olha ASADOVA,80928,70,1,https://bwf.tournamentsoftware.com/player-profile/D8F7A71A-302D-4B0F-911B-2B1129980858
+1206,4,1210,ENG,Sarah PREECE,58293,60,1,https://bwf.tournamentsoftware.com/player-profile/373AEE2B-3D31-4F4F-8F5A-71258F2F68F7
+1206,4,1210,SWE,Hanna SIDVALL,63037,60,1,https://bwf.tournamentsoftware.com/player-profile/5605769D-F25F-4CDF-A210-0FE8B1AE115B
+1206,4,1210,ENG,Megan CHANNON,75820,60,1,https://bwf.tournamentsoftware.com/player-profile/2A6A1E64-9B80-4C7C-B923-8C762C10E420
+1206,4,1210,ENG,Hannah BODEN,83559,60,1,https://bwf.tournamentsoftware.com/player-profile/2FA17174-5D78-4461-A0C7-0D91E6171EE3
+1206,4,1210,ENG,Emily ROBINSON,78541,60,1,https://bwf.tournamentsoftware.com/player-profile/80BF933B-3677-4976-802B-368D5E1D1DB3
+1206,4,1210,DEN,Amalie A. FRIHAGEN,83241,60,1,https://bwf.tournamentsoftware.com/player-profile/8D25CE86-453A-4C10-827B-3FB7504CA914
+1206,4,1210,ROU,Madalina ILIE,81521,60,1,https://bwf.tournamentsoftware.com/player-profile/4545704F-098C-44C3-8DA3-B7CF1DBAC2A9
+1206,4,1210,GRE,Elisavet KORONIDOU,86702,60,1,https://bwf.tournamentsoftware.com/player-profile/2D88537B-4F21-4A23-BC21-E8E31D381D9A
+1206,4,1210,GER,Ann-Kathrin SPÖRI,86539,60,1,https://bwf.tournamentsoftware.com/player-profile/B520B4FB-01F4-425F-BC1C-76275200DCAF
+1206,4,1210,JEY,Emily TEMPLE REDSHAW,90863,60,1,https://bwf.tournamentsoftware.com/player-profile/6939F991-F3DE-4259-BA51-5FE8791C86BF
+1206,4,1210,GER,Anke FASTENAU,98650,60,1,https://bwf.tournamentsoftware.com/player-profile/22564688-3CCC-48AC-A0F5-139D01973D4A
+1206,4,1210,ENG,Lisa ELLIOTT,78441,60,1,https://bwf.tournamentsoftware.com/player-profile/F1329541-F817-4996-A55C-9C80F51CC158
+1206,4,1210,ENG,Gunjan RANDHAWA,65383,60,1,https://bwf.tournamentsoftware.com/player-profile/A4DC81B1-D53F-4F56-B16E-50479A094FCB
+1206,4,1210,SVK,Alexandra REMENOVA,74966,60,1,https://bwf.tournamentsoftware.com/player-profile/7FE9A6D7-0A80-464B-B302-B441AD992390
+1206,4,1210,CRO,Ira MARTINUŠ,78321,60,1,https://bwf.tournamentsoftware.com/player-profile/BF8C8CE1-E5DD-4B61-85B9-CF3849CC4BC3
+1206,4,1210,CRO,Emilija TALAN,61606,60,1,https://bwf.tournamentsoftware.com/player-profile/6FFE5A89-E68A-4FAC-B99D-6F778516D79F
+1206,4,1210,GRE,Maria Despoina MAKOU,72592,60,1,https://bwf.tournamentsoftware.com/player-profile/5963E814-373D-46DF-98A2-213B3ED789B6
+1206,4,1210,GER,Lena GERMANN,69620,60,1,https://bwf.tournamentsoftware.com/player-profile/ABBB946B-4ABC-4FDB-980B-6F5614A02195
+1206,1206,0,BLR,Veranika TARUSAVA,73874,60,1,https://bwf.tournamentsoftware.com/player-profile/700CC919-6B8A-49F1-BDD8-597B6F8904C8
+1206,1206,0,BLR,Hanna BANDARENKA,61776,60,1,https://bwf.tournamentsoftware.com/player-profile/32812BC8-03DF-404C-9D88-1BD0C9FBA316
+1206,1206,0,LAT,Diana BALTINA,98514,60,1,https://bwf.tournamentsoftware.com/player-profile/37F846AC-BEE9-4D79-9026-99F6AD19DF6E
+1227,2,1229,SLO,Kaja STANKOVIC,65194,40,1,https://bwf.tournamentsoftware.com/player-profile/1AD40C56-1818-444A-9DC9-FFE1B7D78EED
+1227,2,1229,DEN,Amalie Cecilie KUDSK,68532,40,1,https://bwf.tournamentsoftware.com/player-profile/594B5637-457C-4276-8AE2-86411C9E06EC
+1229,2,1231,MRI,Nicki CHAN-LAM,73055,34,1,https://bwf.tournamentsoftware.com/player-profile/9223731D-4B7B-4882-836E-BCB4D95927F7
+1230,2,1232,POL,JOANNA STANISZ,67569,20,1,https://bwf.tournamentsoftware.com/player-profile/ED27BCB2-EC74-4A18-839B-5DBA2264F0AC
+1230,2,1232,EST,Liisa-Lotta TANNIK,83520,20,1,https://bwf.tournamentsoftware.com/player-profile/31E28DAC-108E-4F0E-AD20-68102656E583
+1230,2,1232,EST,Victoria KOROBOVA,72649,20,1,https://bwf.tournamentsoftware.com/player-profile/484C7656-C534-4EB2-B22C-9D86FA98F78A
+1230,2,1232,LTU,Vitalija MOVSOVIC,91278,20,1,https://bwf.tournamentsoftware.com/player-profile/4721D57F-3F41-45B2-BF99-A7DE3764982D
+1230,2,1232,GER,Maria KUSE,65630,20,1,https://bwf.tournamentsoftware.com/player-profile/B46DBE45-D06F-419A-9EB2-82A6D43401E4
+1230,2,1232,SCO,Basia GRODYNSKA,72384,20,1,https://bwf.tournamentsoftware.com/player-profile/27FDBB72-34EC-4ED1-A5BE-B3B19EF8C301
+1230,2,1232,ENG,Emma HOOPER,57927,20,1,https://bwf.tournamentsoftware.com/player-profile/138F7FC3-E4D4-4033-B057-D58A3BE1534B
+1237,2,1239,BUL,Stefani STOEVA,46169,15,1,https://bwf.tournamentsoftware.com/player-profile/37F09748-6834-46BC-B6B8-0AA8087CEB45

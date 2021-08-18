@@ -23,15 +23,27 @@
         </header>
 
         <main id="content" class="container pt-3 pb-5">
+            {% with messages=get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+            {% for c, m in messages %}
+            <div class="alert alert-{{ c }} alert-dismissible fade show" role="alert">
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <strong>{{ m }}</strong>
+            </div>
+            {% endfor %}
+            {% endif %}
+            {% endwith %}
             {% block content %}{% endblock content %}
         </main>
 
         <!-- The loading animation that will display once a button is clicked -->
-        <div id="loading" class="container bottom-p-spacing" style="display:none;">
+        <div id="loading" class="container bottom-p-spacing pt-3 pb-5" style="display:none;">
             <img class="rounded mx-auto" src="../static/images/birdie-spinner.gif" alt="loading-gif" />
             <br />
             <div class="typewriter" style="display:inline-block">
-                <h2>Generating Ranking Table...</h2>
+                <h2>Generating...</h2>
             </div>
         </div>
 

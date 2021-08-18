@@ -1,0 +1,708 @@
+rank,rank_change,prev_rank,country,player,member_id,points,tournaments,profile_link
+1,0,1,MAS,LEE Chong Wei,50152,81771,15,https://bwf.tournamentsoftware.com/player-profile/2E62073C-AD95-40BE-8364-0A2EC054A4AC
+2,0,2,CHN,LIN Dan,50906,71345,8,https://bwf.tournamentsoftware.com/player-profile/296B69A5-3C25-4E3D-964E-DDFA46A1333A
+3,0,3,INA,Taufik HIDAYAT,10337,65060,12,https://bwf.tournamentsoftware.com/player-profile/08A4099B-DF05-4295-A672-0711C6B69C34
+4,0,4,DEN,Peter Hoeg GADE,6926,63455,12,https://bwf.tournamentsoftware.com/player-profile/D5745F12-D4EC-4638-B380-0E7EB18419F8
+5,0,5,CHN,CHEN Jin,51592,62260,10,https://bwf.tournamentsoftware.com/player-profile/36060B60-5413-4DE7-A2D5-FDBAE446908E
+6,0,6,INA,Simon SANTOSO,51599,56480,13,https://bwf.tournamentsoftware.com/player-profile/9C5D7BA0-3A42-4DCC-A7F6-1154489631B7
+7,0,7,INA,Sony Dwi KUNCORO,50427,55212,11,https://bwf.tournamentsoftware.com/player-profile/5D5CBB33-58AF-4572-90B0-A081781698D4
+8,0,8,CHN,BAO Chunlai,51274,53500,11,https://bwf.tournamentsoftware.com/player-profile/F882194D-79B9-487B-9F97-CB9D5777324C
+9,0,9,KOR,PARK Sung Hwan,51324,52927,11,https://bwf.tournamentsoftware.com/player-profile/086C6D60-AB80-4273-89DB-D0B0DFF661E5
+10,0,10,DEN,Jan O JORGENSEN,54431,52308,17,https://bwf.tournamentsoftware.com/player-profile/7D1E14D8-1B2E-48E1-B6A4-3973D713C3EF
+11,0,11,VIE,Tien Minh NGUYEN,14107,50310,13,https://bwf.tournamentsoftware.com/player-profile/26791000-C115-4F98-A3F7-EC3A12D28386
+12,0,12,CHN,CHEN Long,75787,49620,12,https://bwf.tournamentsoftware.com/player-profile/8F42FC23-89C1-40CF-8F20-8519DE2BE4EF
+13,0,13,THA,Boonsak PONSANA,11959,47392,14,https://bwf.tournamentsoftware.com/player-profile/0CA686F7-D694-4C53-A2E1-08950598A827
+14,0,14,MAS,Choong Hann WONG,4240,44900,19,https://bwf.tournamentsoftware.com/player-profile/BF774378-F73E-4BDE-8038-2BCEF6CAD0D5
+15,0,15,HKG,CHAN Yan Kit,51306,42263,18,https://bwf.tournamentsoftware.com/player-profile/E0BC1E13-F583-4188-A186-3B542310627A
+16,0,16,TPE,HSIEH Yu Hsing,15751,40610,16,https://bwf.tournamentsoftware.com/player-profile/44622196-E662-4813-86B9-F239578B20F3
+17,0,17,IND,Chetan ANAND,11691,38389,19,https://bwf.tournamentsoftware.com/player-profile/B093D2D8-8706-4022-8AEE-4749549BE54E
+18,0,18,DEN,Joachim PERSSON,51053,38050,11,https://bwf.tournamentsoftware.com/player-profile/4BDA7CCB-E9AA-441D-9B3C-94BB0D889BB4
+19,0,19,HKG,HU Yun,14869,37930,13,https://bwf.tournamentsoftware.com/player-profile/37B8D414-634F-4C3F-93AC-91C7399EF113
+20,0,20,NED,Dicky PALYAMA,6967,37807,16,https://bwf.tournamentsoftware.com/player-profile/247634BE-A647-4D40-AEF5-11A2C8F3E8F8
+21,0,21,JPN,Kenichi TAGO,63707,37462,14,https://bwf.tournamentsoftware.com/player-profile/A351C07C-62BC-4300-875D-7DE62E771AAD
+22,0,22,GER,Marc ZWIEBLER,50858,37208,16,https://bwf.tournamentsoftware.com/player-profile/39E76D72-B750-49D1-864B-18FE1B2B3367
+23,0,23,MAS,Muhammad Hafiz HASHIM,12370,36900,11,https://bwf.tournamentsoftware.com/player-profile/D5A36BB6-EDE4-4A73-95EB-EC93BC35A0F7
+24,0,24,ENG,Rajiv OUSEPH,51613,34383,18,https://bwf.tournamentsoftware.com/player-profile/331723FE-F589-433C-86C8-687467F176B0
+25,0,25,POL,Przemyslaw WACHA,8396,34041,15,https://bwf.tournamentsoftware.com/player-profile/10397B31-1500-49A3-8A5E-C32F5BB8926C
+26,0,26,JPN,Sho SASAKI,50905,32707,14,https://bwf.tournamentsoftware.com/player-profile/21E15CFC-B686-44B7-BD61-324605C679AA
+27,0,27,NED,Eric PANG,10319,32640,16,https://bwf.tournamentsoftware.com/player-profile/806F7F5F-AC8E-4FFE-BBB0-18F351B9075D
+28,0,28,ENG,Andrew SMITH,14078,31937,21,https://bwf.tournamentsoftware.com/player-profile/482146EE-2592-417D-B656-AF29F44516F3
+29,0,29,IND,Arvind BHAT,15319,30732,19,https://bwf.tournamentsoftware.com/player-profile/F97BD4D2-F120-44D0-9847-4FF52D17FCA6
+30,0,30,CHN,DU Pengyu,55380,30040,9,https://bwf.tournamentsoftware.com/player-profile/C07A72AE-0687-40A1-86D2-5613BBB1462F
+31,0,31,INA,Andre Kurniawan TEDJONO,52738,29960,10,https://bwf.tournamentsoftware.com/player-profile/5DE786C5-A694-4C59-92D3-94CDCF444A4B
+32,1,33,IND,PARUPALLI Kashyap,53944,29380,16,https://bwf.tournamentsoftware.com/player-profile/0DE63AAB-7715-46DC-8F3A-845734C2FA54
+33,1,34,FRA,Brice LEVERDEZ,52968,28861,19,https://bwf.tournamentsoftware.com/player-profile/00BA89AE-88B8-4575-98CA-815506AC4E8E
+34,-2,32,DEN,Hans-Kristian Solberg VITTINGHUS,53753,28580,13,https://bwf.tournamentsoftware.com/player-profile/4C55FDF0-BC29-4F2E-BD6D-36D7BE4BA4E2
+35,1,36,THA,Tanongsak SAENSOMBOONSUK,54513,28150,17,https://bwf.tournamentsoftware.com/player-profile/07BB032D-0C06-461D-844B-F7018DCCF14F
+36,1,37,HKG,NG Wei,9662,27870,13,https://bwf.tournamentsoftware.com/player-profile/A0CDE7EE-6392-4CDB-9560-1E1734928663
+37,1,38,FIN,Ville LANG,15453,27533,15,https://bwf.tournamentsoftware.com/player-profile/DF71F833-E503-4FE9-A991-D2128441CDB0
+38,-3,35,ENG,Carl BAXTER,53119,27330,18,https://bwf.tournamentsoftware.com/player-profile/27A9A874-535F-4348-B87F-60E3AE62DF19
+39,0,39,INA,Dionysius Hayom RUMBAKA,66990,27310,9,https://bwf.tournamentsoftware.com/player-profile/A231A11E-1ED5-46F2-AA97-7AD6E5E0C347
+40,0,40,IND,Anup SRIDHAR,51310,27130,16,https://bwf.tournamentsoftware.com/player-profile/0D01ECED-A06B-471D-84E3-6A44CCEC26EE
+41,3,44,DEN,Peter MIKKELSEN,15172,26560,12,https://bwf.tournamentsoftware.com/player-profile/57B4ABC4-EA79-463A-89EF-ABAEA390E34C
+42,-1,41,KOR,SON Wanho,54346,25910,10,https://bwf.tournamentsoftware.com/player-profile/CB6FBD50-283A-4AA2-A5CE-5FE0778BC1E3
+43,0,43,DEN,Christian LIND THOMSEN,53825,25380,20,https://bwf.tournamentsoftware.com/player-profile/49E09BA4-EDB1-44F8-BA64-8FC8E4BF9F01
+44,-2,42,FRA,Matthieu LO YING PING,53011,25046,20,https://bwf.tournamentsoftware.com/player-profile/C4239B0F-97D0-442B-A6DD-20DFA53394EA
+45,0,45,IND,Anand PAWAR,51598,24290,16,https://bwf.tournamentsoftware.com/player-profile/330FEE24-5AD8-4A42-B167-0BBE4627E4D8
+46,0,46,GUA,Kevin CORDON,54897,23710,12,https://bwf.tournamentsoftware.com/player-profile/B8ECFF4D-C7A9-4778-AE13-900E7F626638
+47,0,47,MAS,CHONG Wei Feng,52030,23550,11,https://bwf.tournamentsoftware.com/player-profile/B4C578E6-C57D-4414-B7E5-F5C25E21D9E5
+48,0,48,TPE,HSUEH Hsuan Yi,52983,23361,12,https://bwf.tournamentsoftware.com/player-profile/09B6282C-ED80-4A31-98E1-7609ED206FE9
+49,0,49,MAS,Tsuen Seng LEE,9166,23250,10,https://bwf.tournamentsoftware.com/player-profile/2E952639-99E8-4ADC-AC2F-140A1C16A683
+50,0,50,EST,Raul MUST,51531,23108,13,https://bwf.tournamentsoftware.com/player-profile/EC44637A-BF62-4998-8EEF-9B707FFE573E
+51,0,51,UKR,Dmytro ZAVADSKY,54439,23075,16,https://bwf.tournamentsoftware.com/player-profile/3106A0A1-9AE6-45B7-A806-F93F8B218455
+52,1,53,MAS,Sairul Amar AYOB,9567,22120,10,https://bwf.tournamentsoftware.com/player-profile/1E978C7F-6CCD-47FF-AB94-D2D6415091A9
+53,11,64,SWE,Henri HURSKAINEN,52325,21503,14,https://bwf.tournamentsoftware.com/player-profile/4936E803-3FC7-4B24-9CD8-54BE4B6C2B9E
+54,0,54,MAS,Beng Hong KUAN,13133,20970,10,https://bwf.tournamentsoftware.com/player-profile/19CF63A0-215A-42F9-8437-F991E1FBC30F
+55,0,55,JPN,Kazuteru KOZAI,52032,20870,11,https://bwf.tournamentsoftware.com/player-profile/2D398D60-BF7D-4D9F-A0DB-C1F00F735D8A
+56,3,59,CAN,Stefan WOJCIKIEWICZ,13310,20690,17,https://bwf.tournamentsoftware.com/player-profile/41F2BA3C-37D9-40B0-AA46-D187603F0359
+57,-1,56,CZE,Petr KOUKAL,15585,20635,17,https://bwf.tournamentsoftware.com/player-profile/E4E5A1C6-5DF0-44FD-8033-47F046886869
+58,0,58,RUS,Vladimir MALKOV,51682,20257,16,https://bwf.tournamentsoftware.com/player-profile/4B101ABC-CF0C-46B3-8469-E354592F74DA
+59,1,60,JPN,Kazushi YAMADA,54025,20030,12,https://bwf.tournamentsoftware.com/player-profile/28F9B982-A224-448B-8FCF-81D4B0DAB7D1
+60,1,61,JPN,Koichi SAEKI,15419,19230,11,https://bwf.tournamentsoftware.com/player-profile/BD356BF5-E89A-4BF5-B1A6-99AAFEFF83BC
+61,-9,52,IND,GURUSAIDUTT R. M. V.,32722,19150,12,https://bwf.tournamentsoftware.com/player-profile/B0190B7C-900C-45E4-AEFA-632EA75910EF
+62,0,62,HKG,WONG Wing Ki Vincent,55280,18960,11,https://bwf.tournamentsoftware.com/player-profile/D27868EC-90CD-4D18-81E0-7C80BAD3CFAF
+63,0,63,KOR,HONG Ji Hoon,53856,18900,11,https://bwf.tournamentsoftware.com/player-profile/16511FAA-C4F8-4234-9C58-B1E0736E7BFA
+64,-7,57,IRL,Scott EVANS,15241,18557,16,https://bwf.tournamentsoftware.com/player-profile/6C98077F-F080-4544-9E86-ECD83960A6AA
+65,0,65,UKR,Valeriy ATRASHCHENKOV,52290,18271,17,https://bwf.tournamentsoftware.com/player-profile/E95DE1A1-2A58-4ED1-A71A-ED00D3DB9CC9
+66,7,73,RUS,Vladimir IVANOV,53924,18222,13,https://bwf.tournamentsoftware.com/player-profile/01F92222-86C1-4C20-AA4F-BEF46B1B5E37
+67,1,68,MAS,Beryno Jiann Tze WONG,52699,18090,11,https://bwf.tournamentsoftware.com/player-profile/4F24F3D7-D603-4DD3-AF43-193EAF07B4BB
+68,-2,66,CHN,ZHOU Wenlong,67259,18080,6,https://bwf.tournamentsoftware.com/player-profile/B69037D1-E09C-4F3E-89DA-FB4D629187BE
+69,-2,67,LTU,Kestutis NAVICKAS,13460,17304,14,https://bwf.tournamentsoftware.com/player-profile/A685C85A-67E9-4400-9E1C-3F351A0229E2
+70,-1,69,MAS,Chun Seang TAN,52867,17180,10,https://bwf.tournamentsoftware.com/player-profile/F31FE74C-C00C-4A50-84DE-A9A621B94DF2
+71,-1,70,CZE,Jan VONDRA,8296,17140,17,https://bwf.tournamentsoftware.com/player-profile/90AA6140-E70C-4CD6-8C5B-0C7FF9C66929
+72,-1,71,MAS,LIEW Daren,52864,16830,10,https://bwf.tournamentsoftware.com/player-profile/76C0DB76-3230-4FA0-9036-99E71183E73C
+73,-1,72,THA,Pakkawat VILAILAK,58064,16640,8,https://bwf.tournamentsoftware.com/player-profile/475B5569-73A6-441D-87B9-7596D85F3351
+74,0,74,CHN,GONG Weijie,14611,16390,5,https://bwf.tournamentsoftware.com/player-profile/4726B4ED-2C2B-45B3-A82B-D7B94406D317
+75,0,75,USA,Kwong Beng CHAN,52041,15730,8,https://bwf.tournamentsoftware.com/player-profile/C6A2F5D8-946B-43C7-9689-A58E31B647C8
+76,0,76,DEN,Kasper IPSEN,53900,15440,14,https://bwf.tournamentsoftware.com/player-profile/A4BFB549-C1DF-418E-9EBA-93B1778C6D4C
+77,24,101,ESP,Pablo ABIAN,14251,15115,9,https://bwf.tournamentsoftware.com/player-profile/638FB7FF-AEC5-45EA-A2C2-0DBD6DA58BAB
+78,0,78,BEL,Yuhan TAN,51690,15049,16,https://bwf.tournamentsoftware.com/player-profile/0AB7EB15-13AF-43A4-B502-DCD2B58DE81C
+79,1,80,KOR,LEE Cheol Ho,52773,14460,5,https://bwf.tournamentsoftware.com/player-profile/C38A4DEC-5DD7-4CAD-AB4A-26A10EA53A3C
+80,-3,77,SCO,Kieran MERRILEES,54204,14304,11,https://bwf.tournamentsoftware.com/player-profile/083EBA49-1466-4A0A-997B-9AB0CC318369
+81,25,106,IRI,Ali SHAHHOSSEINI,12296,14250,7,https://bwf.tournamentsoftware.com/player-profile/98D90EB3-5EC0-43F3-95B7-18C40F600109
+82,0,82,CAN,David SNIDER,82979,14150,7,https://bwf.tournamentsoftware.com/player-profile/CC094BA9-F0FA-4FBC-8DD9-5B5F4E1CCC1E
+83,0,83,NZL,CHAN Alan Yun Lung,3907,14130,10,https://bwf.tournamentsoftware.com/player-profile/B3F835AE-C133-4D83-94B6-5250007152E0
+84,0,84,THA,Suppanyu AVIHINGSANON,46874,14100,9,https://bwf.tournamentsoftware.com/player-profile/7E30B761-859A-4C6A-BC30-651FFD4A7664
+85,0,85,CHN,GAO Huan,93496,14020,4,https://bwf.tournamentsoftware.com/player-profile/00D2D216-A789-4AF5-B24B-E4FE814BA772
+86,1,87,ISR,Misha ZILBERMAN,52953,13880,16,https://bwf.tournamentsoftware.com/player-profile/E538ADF6-1701-42A7-8BB2-A3AEBD094781
+87,7,94,BRA,Daniel PAIOLA,62506,13830,17,https://bwf.tournamentsoftware.com/player-profile/4E7EA3FF-4BA2-490C-8716-7BADEEE9358B
+88,1,89,INA,Tommy SUGIARTO,14587,13770,6,https://bwf.tournamentsoftware.com/player-profile/755488DF-BE39-49C8-ABA0-38BF8ADDA058
+89,13,102,GER,Dieter DOMKE,51886,13737,9,https://bwf.tournamentsoftware.com/player-profile/C0191871-4A43-4B8D-BCA9-330300CDBC06
+90,0,90,MAS,Wee Chung PEI,3145,13670,11,https://bwf.tournamentsoftware.com/player-profile/E335C9C4-593E-4720-926D-7290DC56D00D
+91,-10,81,SVK,Michal MATEJKA,12795,13620,18,https://bwf.tournamentsoftware.com/player-profile/4AF65B61-0138-4130-91A2-59746BCB3316
+92,-1,91,NZL,Joe WU,14739,13610,9,https://bwf.tournamentsoftware.com/player-profile/45D10886-9CFC-477C-85A5-FEBDF274D310
+93,-1,92,KOR,JANG Young Soo,50955,13520,5,https://bwf.tournamentsoftware.com/player-profile/82ED91C1-F5FF-4530-92C6-2786CE004345
+94,-1,93,DEN,Sune GAVNHOLT,51717,13490,10,https://bwf.tournamentsoftware.com/player-profile/637205F4-3B78-404C-8587-FA58EEF9067B
+95,4,99,GER,Sven Eric KASTENS,14922,13380,13,https://bwf.tournamentsoftware.com/player-profile/D88F8636-4C12-4BBB-A739-9BE5AFB5FAFB
+96,8,104,MAS,Kay Bin YEOH,10302,13380,8,https://bwf.tournamentsoftware.com/player-profile/60412212-40EC-4043-A275-947FE0396EC2
+97,-18,79,ENG,Harry WRIGHT,52136,13340,14,https://bwf.tournamentsoftware.com/player-profile/596A7DBE-B33B-41CC-9204-ACB20DEF2DDB
+98,-3,95,IND,Ajay JAYARAM,55351,13250,9,https://bwf.tournamentsoftware.com/player-profile/C4E68A77-F815-443A-B109-F19A91BA687A
+99,-3,96,SGP,Zi Liang Derek WONG,52701,13209,10,https://bwf.tournamentsoftware.com/player-profile/57552FF3-165C-497C-AF24-9FD6EF50F8F6
+100,-3,97,AUT,Michael LAHNSTEINER,15031,13100,16,https://bwf.tournamentsoftware.com/player-profile/8F0BD156-3635-4B56-91AC-9ED688315C28
+101,-3,98,KOR,KIM Sa Rang,84007,13050,6,https://bwf.tournamentsoftware.com/player-profile/A620CE8B-3C6F-4661-80B7-D420A98C1639
+102,7,109,DEN,Kristian MIDTGAARD,50365,12900,15,https://bwf.tournamentsoftware.com/player-profile/CE744534-8CC5-45E1-9462-D1608D87BD2C
+103,9,112,RUS,Ivan SOZONOV,67068,12794,13,https://bwf.tournamentsoftware.com/player-profile/934DC735-EC0E-4B83-820D-CA784F3B931D
+104,-1,103,MAS,Mohamad Arif Ab Latif ARIF,53131,12710,9,https://bwf.tournamentsoftware.com/player-profile/8FF01D45-3FFA-46D9-B66C-EBDD1386625F
+105,-17,88,SWE,Mattias WIGARDT,53246,12521,14,https://bwf.tournamentsoftware.com/player-profile/73A350E3-A9CD-4FB1-8836-C41A12A183F0
+106,-1,105,POR,Pedro MARTINS,57034,12451,10,https://bwf.tournamentsoftware.com/player-profile/98E873C5-4182-4223-BB92-D4A8E7459A9D
+107,-8,99,IRI,Kaveh MEHRABI,50546,12410,12,https://bwf.tournamentsoftware.com/player-profile/3B4BABE3-7EC0-4A94-8C6E-985981111A82
+108,2,110,SWE,Magnus SAHLBERG,15160,12190,8,https://bwf.tournamentsoftware.com/player-profile/98479A27-2586-4348-929D-8505B21E4323
+109,-2,107,NOR,Steinar KLAUSEN,15161,12070,16,https://bwf.tournamentsoftware.com/player-profile/2EFB4FA2-7549-4A53-95BC-00AEF9D7526A
+110,23,133,DEN,Rune ULSING,51303,12060,6,https://bwf.tournamentsoftware.com/player-profile/3E49241C-61AF-41ED-B049-506A72B4BB18
+111,-3,108,GER,Marcel REUTER,15147,11980,12,https://bwf.tournamentsoftware.com/player-profile/FEF350DE-327E-4C96-A88E-37A51AA47C33
+112,-26,86,INA,Andreas ADITYAWARMAN,15810,11780,5,https://bwf.tournamentsoftware.com/player-profile/DE8F0CDB-CA88-4CBA-9500-5B7A22962174
+113,0,113,FRA,Simon MAUNOURY,51356,11750,9,https://bwf.tournamentsoftware.com/player-profile/9F61F2D1-28C2-4A28-A3F4-414F135E016A
+114,0,114,BUL,Stilian MAKARSKI,15084,11239,13,https://bwf.tournamentsoftware.com/player-profile/923837C7-454C-46B9-AEC6-CFAEA05EAF57
+115,0,115,HUN,Henrik TOTH,14311,11206,17,https://bwf.tournamentsoftware.com/player-profile/D5AE4AFD-C0FB-4089-81CC-597A5E674BAA
+116,-5,111,ENG,BONSELS Jamie,39736,11180,14,https://bwf.tournamentsoftware.com/player-profile/4B53E564-FBA4-402B-856B-0096BBF30885
+117,-1,116,RUS,Stanislav PUKHOV,8354,11003,4,https://bwf.tournamentsoftware.com/player-profile/0AF005F4-992C-4AEF-88FD-0038E6B8D16B
+118,0,118,UKR,Vitaly KONOV,54467,10859,12,https://bwf.tournamentsoftware.com/player-profile/835BE7F7-ED41-44BF-B8C1-7955B3295079
+119,0,119,NED,Rune MASSING,5770,10710,13,https://bwf.tournamentsoftware.com/player-profile/DB196C7B-03E5-48D8-895F-C24A2F5C35F1
+120,0,120,JPN,Riichi TAKESHITA,61799,10590,10,https://bwf.tournamentsoftware.com/player-profile/F27520A0-0FD8-43C2-AC7C-D3EF49DCAF6C
+121,-4,117,DEN,Emil Vind,55268,10500,13,https://bwf.tournamentsoftware.com/player-profile/26433029-A8E2-4F7F-9EA5-995EC8F4943F
+122,-1,121,GUA,Rodolfo RAMIREZ,52347,10490,9,https://bwf.tournamentsoftware.com/player-profile/4D346FCD-A9E2-48FF-9538-276D829DDCB3
+123,-1,122,KOR,RHO Ye Wook,89137,10320,4,https://bwf.tournamentsoftware.com/player-profile/FBE91A09-7059-4BD5-8645-DF2B7EC4440C
+124,-1,123,CAN,Andrew DABEKA,7200,10300,8,https://bwf.tournamentsoftware.com/player-profile/7D5743B9-91D5-4109-AE87-62D4698EBD46
+125,-1,124,CHN,LU Yi,14868,10260,4,https://bwf.tournamentsoftware.com/player-profile/A1600EC0-72D5-4D38-AC50-92918DCF9B10
+126,0,126,CZE,Pavel FLORIAN,53043,10130,16,https://bwf.tournamentsoftware.com/player-profile/BC55E0D7-C08A-4F11-93A6-669DE659CAEC
+127,0,127,INA,Adnan FAUZI,54019,10080,5,https://bwf.tournamentsoftware.com/player-profile/46B548F2-D23C-4D59-AFF5-3C75CD800750
+128,0,128,SCO,Alistair CASEY,13641,10070,8,https://bwf.tournamentsoftware.com/player-profile/33B08F97-D64D-4C91-9B4B-4B589471024A
+129,0,129,ENG,Ben BECKMAN,46898,10010,12,https://bwf.tournamentsoftware.com/player-profile/AEC72318-A939-4FAB-AD99-15A57666CDC8
+130,0,130,USA,Nicholas JINADASA,51475,9707,8,https://bwf.tournamentsoftware.com/player-profile/D0A015F0-59F1-422E-ACE9-3573853D5306
+131,0,131,FRA,Maxime MORA,15376,9640,13,https://bwf.tournamentsoftware.com/player-profile/6F18BA5A-333F-4F6D-A5D9-7949741B41D0
+132,0,132,SUI,Iztok UTROSA,53872,9190,14,https://bwf.tournamentsoftware.com/player-profile/B72357FC-35D1-4C31-A855-D5FE08813CA4
+133,2,135,CAN,Joseph ROGERS,55410,9158,10,https://bwf.tournamentsoftware.com/player-profile/9EDBD428-005A-4B3C-86B5-513CAE74E658
+134,2,136,SGP,Robin GONANSA,30924,8850,7,https://bwf.tournamentsoftware.com/player-profile/7B1E8E7A-F4F2-4957-9D02-18C36F8DE9DD
+135,2,137,TPE,LU Chi Yuan,67095,8820,6,https://bwf.tournamentsoftware.com/player-profile/3440DAEF-CC8D-4B97-9C31-85AD7ED307B3
+136,-2,134,NED,Lester OEY,53828,8660,10,https://bwf.tournamentsoftware.com/player-profile/837C93BE-29CB-424F-9916-E039E5C57E42
+137,2,139,NGR,Ola FAGBEMI,39324,8620,4,https://bwf.tournamentsoftware.com/player-profile/8998D21A-B53B-4779-A87A-BB3208D78DD8
+138,2,140,IND,Aditya PRAKASH,46574,8610,6,https://bwf.tournamentsoftware.com/player-profile/06EBAFC4-03BE-4E58-9A32-F274E7570648
+139,2,141,VIE,Hoang Nam NGUYEN,54660,8590,6,https://bwf.tournamentsoftware.com/player-profile/0377BF1F-81BE-42FC-92F9-3474D5F4FF41
+140,2,142,GER,Yoga PRATAMA,55019,8470,6,https://bwf.tournamentsoftware.com/player-profile/9893A4D4-D50A-4E60-9B94-6864CE87FE5D
+141,2,143,SCO,Gordon THOMSON,52288,8422,10,https://bwf.tournamentsoftware.com/player-profile/4861A8C9-6566-4038-9698-9DEE5C9EB32E
+142,2,144,JPN,Mao FUJITA,54404,8420,6,https://bwf.tournamentsoftware.com/player-profile/B617A897-6676-4431-8C17-5980944FA139
+143,-18,125,SWE,Gabriel ULLDAHL,42705,8400,11,https://bwf.tournamentsoftware.com/player-profile/07B3D3F9-E9B5-4375-A7A3-7927545EEC1A
+144,1,145,MAS,KHRISHNAN Yogendran,12377,8300,6,https://bwf.tournamentsoftware.com/player-profile/77CC5BC1-B64F-497A-B06D-4513CA51B610
+145,1,146,GER,Hannes KAESBAUER,55098,8140,12,https://bwf.tournamentsoftware.com/player-profile/7C548C95-054E-4BA4-89AB-954C9DEF6294
+146,1,147,THA,Poodchalat PISIT,67161,8080,8,https://bwf.tournamentsoftware.com/player-profile/7CFC1C66-CB9B-4965-A7BA-5E1F2FF07DAA
+147,1,148,CHN,QIU Yanbo,53053,7920,5,https://bwf.tournamentsoftware.com/player-profile/0CE8D717-8B77-4632-9699-9498C0C124F2
+148,1,149,CHN,LU Qicheng,53935,7740,3,https://bwf.tournamentsoftware.com/player-profile/E10D009B-0786-4DC2-96D6-5EDBE1053979
+149,2,151,FIN,Markus HEIKKINEN,15452,7580,10,https://bwf.tournamentsoftware.com/player-profile/02C2676C-0AFB-489C-B23B-CECC6BD382A6
+150,2,152,DEN,Kristian NIELSEN,53899,7500,5,https://bwf.tournamentsoftware.com/player-profile/3557900A-7960-4DBC-B310-08267B39E509
+151,2,153,SWE,Kristian KARTTUNEN,51336,7376,7,https://bwf.tournamentsoftware.com/player-profile/ACEFEAB4-7106-4426-B128-647841197297
+152,3,155,TPE,HSU Jen Hao,67100,7330,4,https://bwf.tournamentsoftware.com/player-profile/73739E0E-20CC-47AA-A835-3687D4BB6E98
+153,3,156,INA,Alamsyah YUNUS,14553,7260,4,https://bwf.tournamentsoftware.com/player-profile/21216C98-356B-4D7A-9C04-9CC3D970844B
+154,3,157,KOR,HAN Ki Hoon,53855,7190,3,https://bwf.tournamentsoftware.com/player-profile/1D08012A-F850-41C8-A52A-08218767849E
+155,3,158,SUI,Jan FROHLICH,10565,7160,7,https://bwf.tournamentsoftware.com/player-profile/A403CA6E-7E58-492F-B880-3EB60E7D99F9
+156,3,159,SGP,Yong Zhao Ashton CHEN,52860,7142,6,https://bwf.tournamentsoftware.com/player-profile/68060C32-7979-4379-BD2E-0C2E859CDCAE
+157,3,160,KOR,PARK Wan Ho,32812,7120,4,https://bwf.tournamentsoftware.com/player-profile/F3CF75AA-8A9A-49B7-8245-C5BD8C5FDC11
+158,3,161,AUT,David OBERNOSTERER,54459,7003,16,https://bwf.tournamentsoftware.com/player-profile/A4496406-7B29-443D-B652-B80B765246F4
+159,3,162,JAM,Charles PYNE,12008,6930,7,https://bwf.tournamentsoftware.com/player-profile/9D169119-16BD-4C33-975D-893E38B32EDF
+160,-10,150,IRI,Mohammadreza KHERADMANDI,52166,6930,4,https://bwf.tournamentsoftware.com/player-profile/11F79148-B4C2-4008-979D-7A3E0E521972
+161,36,197,GER,Fabian HAMMES,86759,6920,10,https://bwf.tournamentsoftware.com/player-profile/0CA31D7A-C09F-4DC1-8D65-293FF4B5536B
+162,2,164,JPN,Keigo SONODA,90623,6800,4,https://bwf.tournamentsoftware.com/player-profile/94697FE7-097F-4982-9316-A8A642E17CD5
+163,2,165,KOR,PARK Sung Min,92121,6790,4,https://bwf.tournamentsoftware.com/player-profile/54FE6728-4D2A-406A-96B3-788D5D5A26C1
+164,2,166,PER,Andres CORPANCHO,13762,6705,4,https://bwf.tournamentsoftware.com/player-profile/E5860A82-E75B-4470-9137-064858472941
+165,2,167,CZE,Tomas KOPRIVA,52886,6700,13,https://bwf.tournamentsoftware.com/player-profile/AABC6539-68CC-48EE-B0FA-81705301DA39
+166,2,168,MAS,Zulfadli ZULKIFFLI,89511,6680,7,https://bwf.tournamentsoftware.com/player-profile/4CB96652-D91F-4559-8443-6F079336D333
+167,2,169,MAS,Kam Chung KUAN,54170,6560,7,https://bwf.tournamentsoftware.com/player-profile/4142C96F-8879-468D-9B4E-29DEAF6459B0
+168,2,170,AUT,Daniel GRASSMUCK,53368,6520,14,https://bwf.tournamentsoftware.com/player-profile/056C6FC2-D154-410B-8830-F1B6E2F8B2C3
+169,2,171,NED,Saber AFIF,52286,6470,12,https://bwf.tournamentsoftware.com/player-profile/01209798-9441-4A65-867F-D869C7260C80
+170,2,172,JPN,Rei SATO,97931,6430,5,https://bwf.tournamentsoftware.com/player-profile/63A14896-F026-492A-95C5-DB423EC482E2
+171,2,173,WAL,Raj POPAT,15196,6300,10,https://bwf.tournamentsoftware.com/player-profile/C07022C6-C97B-43AA-BE0C-C96486D5DA81
+172,2,174,CZE,Jakub BITMAN,54443,6290,13,https://bwf.tournamentsoftware.com/player-profile/46807397-1B96-4CB4-BD50-EDBAF1C9D745
+173,2,175,USA,Arnold SETIADI,53921,6260,10,https://bwf.tournamentsoftware.com/player-profile/B9767038-61C7-4A36-BCF4-DD4B4C201FEA
+174,2,176,BUL,Blagovest KISYOV,15085,6254,10,https://bwf.tournamentsoftware.com/player-profile/58FD6FB6-8DBA-4B49-A1F1-9E4EE5D438AB
+175,38,213,GER,Lukas SCHMIDT,55099,6250,10,https://bwf.tournamentsoftware.com/player-profile/D056EA24-A7A6-4FE1-AA28-8095E3C0F64A
+176,1,177,PER,Mario CUBA,54555,6190,7,https://bwf.tournamentsoftware.com/player-profile/2D6FFDF3-8FEA-4A69-A180-C2618E96B3AE
+177,1,178,PER,Martin DEL VALLE,14324,6155,7,https://bwf.tournamentsoftware.com/player-profile/D4A0C141-B2F6-4F62-920C-4768381C8FC1
+178,1,179,SUI,Christian BOESIGER,53013,6154,9,https://bwf.tournamentsoftware.com/player-profile/AC340975-CE4C-4085-A883-95D3E49306E1
+179,1,180,IND,Aditya ELANGO,28799,6150,6,https://bwf.tournamentsoftware.com/player-profile/3E2690A2-6313-4ED7-A6CE-0946860E3D14
+180,1,181,MAS,Iskandar ZULKARNAIN,31871,6090,5,https://bwf.tournamentsoftware.com/player-profile/F90EC20B-3CC6-4852-B956-B20803149737
+181,1,182,TPE,CHOU Tien Chen,34810,6072,5,https://bwf.tournamentsoftware.com/player-profile/41A01287-FA86-45C1-B980-860FC1C2DEB4
+182,1,183,MEX,Salvador SANCHEZ,51910,6069,5,https://bwf.tournamentsoftware.com/player-profile/BA2A5799-F48A-4DD3-B8B8-E00007032D32
+183,2,185,VIE,Ha Anh LE,63935,5840,6,https://bwf.tournamentsoftware.com/player-profile/FB7EF81B-3915-486B-AC66-5E1C74B0D29F
+184,7,191,ESP,Ernesto VELAZQUEZ,54432,5820,7,https://bwf.tournamentsoftware.com/player-profile/B65FFC75-C2D3-414D-99F2-C0EBC6FD4A34
+185,1,186,PER,Antonio DE VINATEA,14327,5810,6,https://bwf.tournamentsoftware.com/player-profile/54BD93B3-2B0D-4C9D-B0F0-A06E986187B1
+186,22,208,ITA,Taufiq Hidayat AKBAR,50429,5800,6,https://bwf.tournamentsoftware.com/player-profile/A37177D9-37EF-4D10-9F5F-612EB3E08E11
+187,0,187,USA,Mathew FOGARTY,11268,5710,10,https://bwf.tournamentsoftware.com/player-profile/FB558CB6-7465-4E65-8A4E-E5D18FA7B84E
+188,0,188,INA,Riyanto SUBAGJA,65705,5710,4,https://bwf.tournamentsoftware.com/player-profile/69F58D3F-6D0B-4FC5-8161-CA64104593EC
+189,0,189,FIN,Eetu HEINO,54484,5670,13,https://bwf.tournamentsoftware.com/player-profile/6D4F7384-7FE4-4BBB-BD3F-6A44461C036E
+190,11,201,DEN,Thomas FYNBO,36716,5660,7,https://bwf.tournamentsoftware.com/player-profile/A7EA959F-4794-4A92-A691-BE50E023FAF4
+191,-1,190,ITA,Rosario MADDALONI,15286,5656,11,https://bwf.tournamentsoftware.com/player-profile/69442DDA-6432-4391-88C4-F1763AA24DFD
+192,0,192,NGR,Jinkan Ifraimu BULUS,51968,5630,3,https://bwf.tournamentsoftware.com/player-profile/1CDBFCA6-53F6-4B9D-A6FF-309C88676D95
+193,0,193,MAS,Muhammad Roslin HASHIM,7790,5600,3,https://bwf.tournamentsoftware.com/player-profile/CB430E2D-1CE4-47D5-87EF-44C6A53014FA
+194,0,194,NZL,James EUNSON,54337,5560,5,https://bwf.tournamentsoftware.com/player-profile/F9F6AFA6-1955-455A-8857-6A293D75B8FE
+195,0,195,TPE,FENG Sheng Jie,51495,5530,5,https://bwf.tournamentsoftware.com/player-profile/B947D024-94A6-4BF7-81F5-20606E3AD4FE
+196,0,196,RUS,Anton IVANOV,67066,5470,8,https://bwf.tournamentsoftware.com/player-profile/13CF69A7-162C-4588-9655-5492F3726955
+197,1,198,PER,Bruno MONTEVERDE,54557,5390,5,https://bwf.tournamentsoftware.com/player-profile/38DF1793-AE16-4E36-A744-BED38F7C41F9
+198,1,199,MAS,Fang Yang LIM,52107,5380,6,https://bwf.tournamentsoftware.com/player-profile/1E908E8C-596C-4009-8AE9-F61E943670C6
+199,-61,138,INA,Nugroho Andi SAPUTRO,66989,5340,5,https://bwf.tournamentsoftware.com/player-profile/8CAC5DE3-529A-48A6-9D09-1B69FB4B14AD
+200,-37,163,SLO,Luka PETRIC,13560,5330,4,https://bwf.tournamentsoftware.com/player-profile/E016593B-218B-49AE-8F92-54013917A8E1
+201,-1,200,RUS,Sergey LUNEV,13841,5310,3,https://bwf.tournamentsoftware.com/player-profile/6D6A447F-7CAA-412C-B54C-D3E5B5F4017C
+202,1,203,SGP,Chao HUANG,53773,5230,6,https://bwf.tournamentsoftware.com/player-profile/6A04112E-0788-4CB9-8603-C979C3E22F60
+203,1,204,TPE,LIU Chih Lun,15759,5200,3,https://bwf.tournamentsoftware.com/player-profile/E4CA1625-45F1-4330-B123-A10B3DA879B3
+204,1,205,AUS,James PAYBODY,46372,5020,5,https://bwf.tournamentsoftware.com/player-profile/5374E1F3-88CE-4B40-BE37-B03C42C09F1F
+205,1,206,INA,Achmad RIVAI,15804,5020,2,https://bwf.tournamentsoftware.com/player-profile/BDD7516E-9559-45E2-AE3F-F5433FFC0BE1
+206,13,219,TUR,XUAN Zhou Jun,91705,5000,4,https://bwf.tournamentsoftware.com/player-profile/65A878BB-160D-49A3-8DDE-1E50324CA118
+207,0,207,ESP,Jose Vicente MARTINEZ,15297,4940,6,https://bwf.tournamentsoftware.com/player-profile/816940EB-9207-48BB-B7C9-69349B8090CD
+208,-6,202,IND,Abhimanyu SINGH,8601,4900,6,https://bwf.tournamentsoftware.com/player-profile/8EAECDAC-6C03-4F98-8333-950A10C201D8
+209,0,209,CAN,Bobby MILROY,8151,4870,3,https://bwf.tournamentsoftware.com/player-profile/D29AEA09-914E-4A88-8490-808A13FF573F
+210,1,211,DEN,Kasper OEDUM,9570,4850,4,https://bwf.tournamentsoftware.com/player-profile/4B0153D3-9A78-497A-A1BB-02870485CB0A
+211,3,214,DEN,Martin BILLE LARSEN,52311,4730,3,https://bwf.tournamentsoftware.com/player-profile/ABE81EE9-84CD-4507-B4BB-97966E783E7E
+212,3,215,USA,Sattawat PONGNAIRAT,74872,4720,3,https://bwf.tournamentsoftware.com/player-profile/9B0B568A-E30E-450F-88CD-BF42B995E075
+213,3,216,SUI,Takahiro HIRAMATSU,53669,4690,10,https://bwf.tournamentsoftware.com/player-profile/45771B15-CC50-4123-9345-A88A06BAF899
+214,3,217,TUR,Murat SEN,52056,4690,8,https://bwf.tournamentsoftware.com/player-profile/5B81C993-A8D7-468C-B96C-2394EC107A4D
+215,3,218,KOR,LEE Dong Keun,64933,4670,3,https://bwf.tournamentsoftware.com/player-profile/5A9A3A00-0127-4D24-9E0C-9555ABE22492
+216,-62,154,INA,Bandar Sigit PAMUNGKAS,54244,4570,3,https://bwf.tournamentsoftware.com/player-profile/82FB0641-E89C-4B14-99DB-B84043E32495
+217,-33,184,DEN,Morten Tolver KRONBORG,54109,4550,7,https://bwf.tournamentsoftware.com/player-profile/A38D2769-C568-4105-9656-4E87572DCF10
+217,3,220,CHN,ZHANG Hong,77799,4550,7,https://bwf.tournamentsoftware.com/player-profile/D4AF17BF-3360-4E8F-8E31-BDB74D1B8A5F
+219,2,221,MGL,Enkhbat OLONBAYAR,53667,4522,4,https://bwf.tournamentsoftware.com/player-profile/F1E7065B-93AD-44F1-AB68-5EAA43FCCA32
+220,2,222,FRA,Vidre WIBOWO,10335,4490,5,https://bwf.tournamentsoftware.com/player-profile/2F7C018A-56AD-4E1C-A7AD-CC0ACE2C9A68
+221,5,226,RUS,Andrei IVANOV,67064,4360,8,https://bwf.tournamentsoftware.com/player-profile/4A082447-AE6F-4303-B47D-E587A3EA153F
+222,3,225,MAS,Chong Chieh LOK,15601,4350,7,https://bwf.tournamentsoftware.com/player-profile/29AB976A-ACDF-42A4-8246-596D7DC0713A
+223,4,227,NZL,Thomas ELLIS,61019,4280,6,https://bwf.tournamentsoftware.com/player-profile/E8610B26-A50B-4407-B695-31344A568DDE
+224,4,228,BRA,Hugo ARTHUSO,53977,4260,3,https://bwf.tournamentsoftware.com/player-profile/9DF9BEFD-3A12-4D6E-BB0D-1456D26636D4
+225,5,230,ENG,Robert KETTLE,21570,4230,11,https://bwf.tournamentsoftware.com/player-profile/0E7630E5-1E9F-4BE2-B11F-C4FCD6F37168
+226,7,233,ENG,Nathan DCRUZ,88631,4230,10,https://bwf.tournamentsoftware.com/player-profile/8603977E-79C5-4E32-AD88-0D6B4F6D2590
+227,4,231,JPN,Takuma UEDA,47181,4230,4,https://bwf.tournamentsoftware.com/player-profile/0944FFB3-2A06-4E10-8F37-6208BD397A58
+228,4,232,RUS,Anatoliy YARTSEV,60783,4220,3,https://bwf.tournamentsoftware.com/player-profile/0FDFC284-41DB-41A4-BF27-AA2D573A736E
+229,5,234,THA,Watchara BURANAKUEA,85114,4140,4,https://bwf.tournamentsoftware.com/player-profile/D46275DD-FAAB-4F15-8256-C4A1A49CD178
+230,5,235,MRI,Sahir Abdool EDOO,51549,4132,5,https://bwf.tournamentsoftware.com/player-profile/F36175EE-89CD-42B2-B4BF-288D17EA498A
+231,5,236,CAN,Kyle FOLEY,13736,4120,2,https://bwf.tournamentsoftware.com/player-profile/A9FE2E40-A4DB-4B46-AB17-9EE5EA03F597
+231,5,236,GUA,Pedro YANG,2815,4120,2,https://bwf.tournamentsoftware.com/player-profile/DEFBECC0-6188-4FC7-B172-60E2AEC9DB94
+233,5,238,AUT,Luka WRABER,56274,4090,8,https://bwf.tournamentsoftware.com/player-profile/B40FCBF4-EF24-442B-906F-60AD77187337
+234,5,239,USA,Daniel GOUW,52784,4090,7,https://bwf.tournamentsoftware.com/player-profile/0FAF1620-FEF6-42C9-A598-F8F39F8EAE2A
+235,-11,224,IND,Sourabh VERMA,25925,4080,3,https://bwf.tournamentsoftware.com/player-profile/E5384E08-D2A5-4913-A8C8-A04DE72085AB
+236,4,240,DOM,William CABRERA,13654,4050,6,https://bwf.tournamentsoftware.com/player-profile/7D9909A6-53F4-4D0E-A6B5-EFB8B195AFB4
+237,4,241,SEY,Steve MALCOUZANE,13083,4042,4,https://bwf.tournamentsoftware.com/player-profile/6B11A502-7086-484A-8389-83325CB863C2
+238,4,242,GER,Daniel BENZ,53949,4040,11,https://bwf.tournamentsoftware.com/player-profile/B16DEBE6-0D27-4C89-96AD-D46A16FF6332
+239,4,243,ITA,Wisnu Haryo PUTRO,54199,3990,3,https://bwf.tournamentsoftware.com/player-profile/34E0A1CD-E7CC-4927-9447-B1B458BBBCF0
+240,-30,210,NED,Koen RIDDER,51602,3940,4,https://bwf.tournamentsoftware.com/player-profile/E0927C64-4DEB-4672-A762-B2C04992B910
+241,3,244,USA,Bjorn SEGUIN,60178,3920,4,https://bwf.tournamentsoftware.com/player-profile/931AA975-B56E-469C-9DA5-E9C8575FE900
+242,3,245,TPE,LIN Yu Jui,89255,3910,4,https://bwf.tournamentsoftware.com/player-profile/CDAD4D39-73EE-48EC-9153-BCD1689668BD
+243,4,247,CHN,WANG Zhengming,23736,3890,2,https://bwf.tournamentsoftware.com/player-profile/5347291B-7325-4866-AC14-CEE94178DE93
+244,5,249,JPN,Shu WADA,20531,3850,5,https://bwf.tournamentsoftware.com/player-profile/38084D30-00C5-4AD6-82EA-A0B2EED85D58
+245,5,250,THA,Parinyawat THONGNUAM,73786,3840,6,https://bwf.tournamentsoftware.com/player-profile/0A3A8F45-C604-4B5C-B2C0-68D98100C221
+246,0,246,ISL,Helgi JOHANNESSON,12125,3835,10,https://bwf.tournamentsoftware.com/player-profile/936459B6-7D2F-4626-9EE1-7B5A91D82DF3
+247,4,251,BLR,Yauheni YAKAUCHUK,52302,3815,12,https://bwf.tournamentsoftware.com/player-profile/BF3986FE-5BAD-47DA-A877-6ED16B2ABA11
+248,4,252,TUR,Kamil Vehbe AKCEBE,21470,3790,9,https://bwf.tournamentsoftware.com/player-profile/17C2D8FD-51EB-4A08-ABA7-2198426791BA
+249,4,253,TPE,CHU Han Chou,53858,3770,3,https://bwf.tournamentsoftware.com/player-profile/84F3C14E-B751-4B66-B6F5-E2F8B1794B7C
+250,7,257,CAN,Alex PANG,53715,3760,6,https://bwf.tournamentsoftware.com/player-profile/BB012505-5494-47CF-ADD4-8FD8A9675732
+251,3,254,TPE,HSU Shao Wen,49231,3760,4,https://bwf.tournamentsoftware.com/player-profile/976DDA60-B1E9-46F0-99E3-6B1A2B91B38C
+252,3,255,JAM,Gareth HENRY,29498,3760,3,https://bwf.tournamentsoftware.com/player-profile/5B2E99BA-81EA-4B54-AFF8-82E2D34094D2
+253,3,256,IND,SAI PRANEETH B.,42776,3740,3,https://bwf.tournamentsoftware.com/player-profile/1ECFF64F-4692-47BA-A619-BDF6E0ED9C4A
+254,94,348,IRI,Mohamad Reza KHANJANI,76058,3670,3,https://bwf.tournamentsoftware.com/player-profile/B7B6B032-3F54-464F-8A18-73DD57A988F2
+255,3,258,USA,Hock Lai LEE,53132,3620,2,https://bwf.tournamentsoftware.com/player-profile/9FD7ADEB-A8B4-4064-B7DA-DEDB21ED3150
+256,3,259,PER,Rodrigo PACHECO CARRILLO,9715,3619,4,https://bwf.tournamentsoftware.com/player-profile/67E4464A-A46B-4E16-BF54-AF5D35CE0226
+257,3,260,RUS,Gordey KOSENKO,53656,3560,4,https://bwf.tournamentsoftware.com/player-profile/19D8E5D1-EB4A-45C1-BA1C-CF2C5B69850B
+257,3,260,RUS,Denis GRACHEV,53663,3560,4,https://bwf.tournamentsoftware.com/player-profile/301A6A80-42D2-4D13-AA98-176332DA895C
+259,13,272,TUR,Ali KAYA,51583,3540,10,https://bwf.tournamentsoftware.com/player-profile/E29BE6C9-77DB-44CD-AB67-D2A47921D24B
+260,4,264,TPE,CHEN Chih Hao,50515,3510,3,https://bwf.tournamentsoftware.com/player-profile/CB3549FA-4BD3-49E6-95FA-A6F1057101FE
+261,4,265,NZL,Michael FOWKE,89001,3470,4,https://bwf.tournamentsoftware.com/player-profile/5FFE15EC-8520-45B2-B85C-A65B53DFB80B
+262,4,266,RUS,Sergey SHUMILKIN,67065,3440,9,https://bwf.tournamentsoftware.com/player-profile/25A20945-0AB2-4B79-A8C4-FA404454453A
+263,4,267,DEN,Jeppe LUND,86263,3440,3,https://bwf.tournamentsoftware.com/player-profile/D35C8A5D-CBD9-4BD1-8941-02DC996516A9
+264,4,268,CAN,Kailai ZHANG,30851,3440,2,https://bwf.tournamentsoftware.com/player-profile/1F28241F-B7F0-4874-A47E-C3C02AE4DA2F
+265,4,269,JPN,Kimihiro YAMAGUCHI,52025,3420,2,https://bwf.tournamentsoftware.com/player-profile/520139D4-19BB-4895-88E4-62DB05D3D3B6
+266,4,270,POL,Michal ROGALSKI,53381,3400,8,https://bwf.tournamentsoftware.com/player-profile/18F37C27-454E-47F5-9B90-4EE1E365587A
+267,4,271,RUS,Nikolai UKK,67082,3390,4,https://bwf.tournamentsoftware.com/player-profile/493E871E-2EBC-49B4-9F53-C809C4F13E2D
+268,5,273,TUR,Goksel KUNDAKCI,54396,3290,9,https://bwf.tournamentsoftware.com/player-profile/B056C654-AA85-4BE9-9EBE-C6296F07B462
+268,-56,212,SWE,Andres NILSON,53247,3290,9,https://bwf.tournamentsoftware.com/player-profile/65E1EEA5-F9B5-49C5-BAE6-C2664FEDCA48
+270,4,274,THA,Tara RUENGSAKVICHIT,43607,3270,2,https://bwf.tournamentsoftware.com/player-profile/065FAAB2-505E-456B-906F-25A98293992E
+271,4,275,SGP,Zong Ren NG,52853,3260,5,https://bwf.tournamentsoftware.com/player-profile/7EC43ADE-D3DA-47A3-BB35-8F495191B880
+272,4,276,SWE,Andy Hartono TANDAPUTRA,54088,3250,5,https://bwf.tournamentsoftware.com/player-profile/66B126DB-0D96-48F5-9836-2C3E97261A4F
+273,8,281,DEN,Christopher Bruun JENSEN,54111,3230,9,https://bwf.tournamentsoftware.com/player-profile/36FC44C9-B291-46FF-AB6E-5771680383D3
+274,3,277,FIN,Aki KANANEN,54481,3220,8,https://bwf.tournamentsoftware.com/player-profile/7548A34B-B7AA-4D81-9453-2B2FB203EA23
+275,3,278,WAL,. IRWANSYAH,5759,3214,3,https://bwf.tournamentsoftware.com/player-profile/12C7D603-34CF-40DF-9B66-7E13222DD57D
+276,3,279,RUS,Konstantin ABRAMOV,60635,3190,4,https://bwf.tournamentsoftware.com/player-profile/437BD33C-C996-4D5B-9FCA-221BEF9652FC
+277,3,280,USA,David NEWMAN,23794,3170,7,https://bwf.tournamentsoftware.com/player-profile/4D916FE7-9914-4AD3-A828-E8F20CB2F556
+278,5,283,CHN,WEN Yue,22502,3120,2,https://bwf.tournamentsoftware.com/player-profile/CD2CFD69-9E69-4B2C-9F73-896C91F1FDE5
+279,6,285,INA,Febriyan IRVANNALDY,95925,3070,5,https://bwf.tournamentsoftware.com/player-profile/3D4B4947-A7C5-4DA5-BFEA-9958703C5531
+280,6,286,CUB,Osleni GUERRERO,52364,3050,2,https://bwf.tournamentsoftware.com/player-profile/9D87000D-56BF-4614-98D0-265DFB550D56
+281,6,287,CAN,Tommy MCKEE,67183,3010,3,https://bwf.tournamentsoftware.com/player-profile/8E70D9A0-CB9E-4345-83C7-17EA13BC8ACE
+281,6,287,VIE,Hoang Hai NGUYEN,53500,3010,3,https://bwf.tournamentsoftware.com/player-profile/9A98C532-CF8C-4FC0-A9FC-E368A5C5993F
+283,6,289,FIN,Kasper LEHIKOINEN,42726,3000,6,https://bwf.tournamentsoftware.com/player-profile/918C9AB4-7DB8-4148-B3C6-A24606957878
+284,13,297,GER,Sebastian RDUCH,37473,2960,10,https://bwf.tournamentsoftware.com/player-profile/5B196849-3A89-4FCC-816F-9150844F6570
+285,6,291,CAM,Sophoan NUON,54659,2950,3,https://bwf.tournamentsoftware.com/player-profile/296DA50B-1D2A-4C25-95B7-2FDFFF87FC42
+285,6,291,THA,Siriwat MATAYANUMATI,15094,2950,3,https://bwf.tournamentsoftware.com/player-profile/881FCBE1-B618-40F0-A960-F6B568B7C750
+287,6,293,POL,Hubert PACZEK,51024,2940,4,https://bwf.tournamentsoftware.com/player-profile/A4A5B961-23A4-4872-837F-CB38F6606B93
+287,-64,223,BUL,Boris KESSOV,4998,2940,4,https://bwf.tournamentsoftware.com/player-profile/4E5EF662-EA4D-4E17-B2AF-B4B66ED7F9EF
+289,5,294,RUS,Nikita KHAKIMOV,17576,2940,3,https://bwf.tournamentsoftware.com/player-profile/F384FC46-16A7-4146-AC95-3B876A806303
+290,5,295,MAS,Kim Loong HOO,7748,2920,5,https://bwf.tournamentsoftware.com/player-profile/24661189-5BAB-4C0B-8999-C0A6ADD67696
+291,5,296,UGA,Wilson TUKIRE,79272,2892,4,https://bwf.tournamentsoftware.com/player-profile/B1C80543-B070-474D-9096-B3CAE5C97CAE
+292,-63,229,UGA,Edwin EKIRING,52645,2890,5,https://bwf.tournamentsoftware.com/player-profile/96FCF986-7957-43E5-BA1E-6F3A2D840504
+293,5,298,UGA,Brian SSUNNA,66616,2880,4,https://bwf.tournamentsoftware.com/player-profile/4DE97E8B-2E76-4045-91DF-D9B7DD85FD63
+294,5,299,GER,Bjoern JOPPIEN,11809,2860,3,https://bwf.tournamentsoftware.com/player-profile/AAAE9607-AAE1-4BD7-BC85-350FBFA06495
+295,5,300,CAN,MAXIME Belanger,38153,2840,4,https://bwf.tournamentsoftware.com/player-profile/0081C7C5-E3ED-4A9F-A3B3-E8EC7DA7DAEE
+296,5,301,MGL,Zolzaya MUNKHBAATAR,53488,2840,3,https://bwf.tournamentsoftware.com/player-profile/B2CACD6D-4090-419F-AB9D-F3B86ECDC7BB
+297,5,302,GUA,Erick ANGUIANO,4023,2840,2,https://bwf.tournamentsoftware.com/player-profile/B2133EDC-3354-4F09-BAC8-040EA88D7362
+298,5,303,RSA,Jacob MALIEKAL,38907,2811,5,https://bwf.tournamentsoftware.com/player-profile/719A82A7-EA67-44DD-9A4C-21B6F75F9BB1
+299,5,304,THA,Nathapon CHOKDEEPANICH,59668,2800,3,https://bwf.tournamentsoftware.com/player-profile/2E7E1A30-D30A-490A-9AA2-6B3FBA691A1D
+299,5,304,NZL,Kevin DENNERLY-MINTURN,54739,2800,3,https://bwf.tournamentsoftware.com/player-profile/AE733592-9CA2-4584-BFB8-1D8D7D52528A
+301,5,306,MGL,Sainbuyan PUREVSUREN,54788,2790,2,https://bwf.tournamentsoftware.com/player-profile/764C9C25-AD78-469F-93A2-741720A7CA61
+302,5,307,TPE,LIAO Sheng Shiun,50283,2760,3,https://bwf.tournamentsoftware.com/player-profile/436DE80E-1619-4087-A004-78D71BF105CC
+303,5,308,LAO,Phakornkham FONGMALAYSENG,83360,2750,3,https://bwf.tournamentsoftware.com/player-profile/F1A008E3-0025-43CC-A9A5-1D026A1DE2A6
+304,5,309,USA,Howard SHU,46776,2750,2,https://bwf.tournamentsoftware.com/player-profile/B8AC1951-26B9-4EB4-B33C-9CDA6B637876
+305,5,310,PHI,Antonio Benjamin GADI,23318,2721,4,https://bwf.tournamentsoftware.com/player-profile/E43B5B71-1806-49AF-9253-44828E7D122B
+306,5,311,ESP,Javier TUR,15668,2720,9,https://bwf.tournamentsoftware.com/player-profile/112AFF1E-94E9-439F-842C-6DB8084B8107
+307,5,312,INA,Stenny KUSUMA,51087,2720,4,https://bwf.tournamentsoftware.com/player-profile/3D6B8691-331F-4CB3-9630-30089DACDC4B
+308,5,313,CAN,Dang KAI,37778,2690,2,https://bwf.tournamentsoftware.com/player-profile/B91D5872-9E4E-46B4-82A8-E41D01D1DD18
+309,5,314,EGY,Abdelrahman KASHKAL,24294,2672,3,https://bwf.tournamentsoftware.com/player-profile/3D0362C4-EB6D-4A0F-A74C-29F96E39AA3B
+310,5,315,UKR,Mykola DMITRISHIN,89235,2670,5,https://bwf.tournamentsoftware.com/player-profile/49390DF8-7198-4E92-86F6-529FE46F5352
+311,5,316,MAS,Weng Jun SAW,54960,2660,5,https://bwf.tournamentsoftware.com/player-profile/328E128F-7AE1-46C1-9DD3-E1C249D95C10
+312,5,317,CHN,CHEN Tianyu,53936,2650,2,https://bwf.tournamentsoftware.com/player-profile/E23A97B4-4241-4AFE-8444-920858834B0D
+313,5,318,LAO,Nyothin LATSAVONG,53621,2640,3,https://bwf.tournamentsoftware.com/player-profile/8DFCF35B-7518-44CB-B487-468A634B1849
+314,5,319,USA,Hendri WINARTO,54020,2630,5,https://bwf.tournamentsoftware.com/player-profile/23FA4A92-358E-4DD8-81C2-EAE791676810
+315,5,320,GER,Ary TRISNANTO,75986,2620,2,https://bwf.tournamentsoftware.com/player-profile/1EDCE2DB-0CCA-49B4-8A96-02DA50A5A96D
+316,5,321,MAS,Jiann Shiarng CHIANG,11701,2600,5,https://bwf.tournamentsoftware.com/player-profile/C5667006-FE7B-472F-AF61-DE0219A5186C
+317,5,322,TTO,Rahul RAMPERSAD,53020,2570,3,https://bwf.tournamentsoftware.com/player-profile/9AA2A9BE-BD93-4971-BCBC-5E667677C1AA
+318,5,323,CAM,Yongvannak TEAV,46844,2560,2,https://bwf.tournamentsoftware.com/player-profile/BE2F92A6-7CF6-47A8-909C-4338AA2E6856
+319,5,324,RUS,Konstantin KHLESTOV,53660,2550,4,https://bwf.tournamentsoftware.com/player-profile/98F7A183-B7CA-4D3C-98CA-9BCD11C8B854
+320,5,325,NZL,Brock MATHESON,19895,2550,3,https://bwf.tournamentsoftware.com/player-profile/1FEB16E9-3481-424D-961C-9A2D0D4DA131
+321,5,326,TPE,SHIH Kuei Chun,67096,2550,2,https://bwf.tournamentsoftware.com/player-profile/A7BD4655-BD25-4C22-ACE9-0EC2335D135D
+322,5,327,NZL,Asher RICHARDSON,97075,2540,2,https://bwf.tournamentsoftware.com/player-profile/11586131-AB6C-42DE-9281-2DFB9C80C1BF
+323,5,328,USA,Ted SHEAR,14785,2530,4,https://bwf.tournamentsoftware.com/player-profile/1E1F9AB6-649A-469B-AC57-DF9BE51D7EFD
+324,5,329,AUS,Jeff THO,52666,2520,3,https://bwf.tournamentsoftware.com/player-profile/CB6A5A57-C337-42B7-9935-A319984070B2
+325,5,330,IND,Oscar BANSAL,41087,2510,5,https://bwf.tournamentsoftware.com/player-profile/3A96E929-BD81-4E23-9217-5059E01AB4ED
+326,5,331,RSA,Enrico JAMES,51605,2502,4,https://bwf.tournamentsoftware.com/player-profile/F552CED5-EF8E-456E-9A43-0DC809DF62E3
+326,5,331,UGA,Abraham Kennedy WOGUTE,52955,2502,4,https://bwf.tournamentsoftware.com/player-profile/8B983366-1683-4FAF-9A13-A6EED3769751
+328,5,333,INA,Ardinasyah PUTRA,7965,2470,4,https://bwf.tournamentsoftware.com/player-profile/259FFD57-152B-4B92-A4FA-235862541544
+329,5,334,IRI,Soroush ESKANDARI VATANNEJAD,24470,2460,3,https://bwf.tournamentsoftware.com/player-profile/423E3E52-40D5-4EB1-8385-E846DECB55E5
+329,5,334,DEN,Henrik Nedergaard CHRISTENSEN,34067,2460,3,https://bwf.tournamentsoftware.com/player-profile/735437F5-5D6D-4BE2-A74A-95C68577978B
+331,5,336,CZE,Lukas ZEVL,44932,2450,7,https://bwf.tournamentsoftware.com/player-profile/06C406F0-E9A0-48ED-95F3-197306270DBA
+332,5,337,NZL,Maoni HU HE,54909,2450,3,https://bwf.tournamentsoftware.com/player-profile/0A25489E-17CF-44C9-814F-127566242389
+333,5,338,RUS,Sergey SCHERBIN,81481,2440,2,https://bwf.tournamentsoftware.com/player-profile/FE49205E-3501-4AF1-8F59-791C6C842A42
+334,5,339,IND,REDDY B. Sumeeth,24172,2410,2,https://bwf.tournamentsoftware.com/player-profile/EA6CD83C-C2E8-45AE-84B0-0C9D195EA879
+335,5,340,ECU,Santiago ZAMBRANO,9577,2390,4,https://bwf.tournamentsoftware.com/player-profile/D9934030-49D7-4424-B620-E5A72020E781
+336,5,341,MAS,Muhd Syawal MOHD ISMAIL,99391,2390,3,https://bwf.tournamentsoftware.com/player-profile/D85092FE-134D-4AC6-BAC1-32AB480D4D5B
+337,5,342,AUT,Heimo GOTSCHL,2020,2380,4,https://bwf.tournamentsoftware.com/player-profile/15107BF2-6F82-46C4-AE8D-0B2F6D7FD829
+338,5,343,MEX,Lino MUNOZ,96461,2380,3,https://bwf.tournamentsoftware.com/player-profile/C0D66387-DB87-41AC-96FB-B4A9BC390C48
+339,-57,282,SWE,Nico RUPONEN,90714,2370,9,https://bwf.tournamentsoftware.com/player-profile/44348EE2-BFEA-4730-B1D7-DF1681973A9B
+340,10,350,ESP,Carlos LONGO,12919,2360,6,https://bwf.tournamentsoftware.com/player-profile/7C2D6108-DC8A-4B71-B99A-069E8557954A
+341,3,344,DOM,Nelson JAVIER,15591,2332,4,https://bwf.tournamentsoftware.com/player-profile/0B4B2D2A-01CD-4300-9868-D93312B11939
+342,3,345,PHI,Ian MENDEZ,89966,2330,4,https://bwf.tournamentsoftware.com/player-profile/3676466D-753C-4A9D-8C70-3EBBD42E8A63
+343,3,346,MAS,Zairul Hafiz ZAINUDIN,53648,2300,4,https://bwf.tournamentsoftware.com/player-profile/3DF9B2B9-4A04-42F3-BC14-5C9100285D93
+344,3,347,MEX,Mauricio CASILLAS,71784,2300,3,https://bwf.tournamentsoftware.com/player-profile/5B584BCB-ED22-473B-A977-2FAAABE89809
+345,4,349,ESP,Alejandro BARRIGA,54444,2290,6,https://bwf.tournamentsoftware.com/player-profile/0283F460-B4AC-4AEF-94A7-9B2BAECA1C57
+346,5,351,NZL,Praveen TAYALAN,67055,2290,3,https://bwf.tournamentsoftware.com/player-profile/83DF37CD-866F-4BF3-8643-E47B66CE15B9
+347,5,352,USA,Agusriadi Wijaya AMPHIE,54318,2280,2,https://bwf.tournamentsoftware.com/player-profile/F72DFD7D-F062-4A15-9B1D-99B058ED76D5
+348,5,353,NED,Jordy HILBINK,67174,2270,5,https://bwf.tournamentsoftware.com/player-profile/3FB66ED5-8513-4BF5-8FCA-32EB6AFB25EE
+349,5,354,MRI,Yoni Dany LOUISON,51546,2262,5,https://bwf.tournamentsoftware.com/player-profile/4A44A7DB-5AF0-42EC-B714-A2DB270F89D1
+350,5,355,CRO,Luka ZDENJAK,52251,2240,8,https://bwf.tournamentsoftware.com/player-profile/72760DAF-1019-41CF-8DD5-A69089000956
+351,5,356,SUR,Virgil SOEROREDJO,52222,2230,3,https://bwf.tournamentsoftware.com/player-profile/C250CDC2-0BB6-4032-8971-732E2D014BDE
+352,5,357,BUL,Krasimir YANKOV,15088,2224,3,https://bwf.tournamentsoftware.com/player-profile/2954F1CA-7449-4C42-A0AC-14764A96F697
+353,12,365,TUR,Mehmet TURAL,14209,2208,7,https://bwf.tournamentsoftware.com/player-profile/916C9FCE-E334-4F09-B223-8B945971CB3B
+354,4,358,CRO,Zvonimir HOELBLING,29793,2200,11,https://bwf.tournamentsoftware.com/player-profile/23E9C4E7-18DA-4F48-A0CF-6B3C9EF6F41F
+355,4,359,MAS,HO Khek Mong,54790,2200,3,https://bwf.tournamentsoftware.com/player-profile/50A9B000-33C5-44D0-9E4F-EAA25E71A82F
+356,4,360,CAN,Richard LIANG,53717,2190,4,https://bwf.tournamentsoftware.com/player-profile/D914FD74-622E-4069-8051-948C4791A158
+357,4,361,UKR,Eugeny POCHTAREV,52291,2180,4,https://bwf.tournamentsoftware.com/player-profile/BCF78542-980C-4FA9-8F41-5E2B022420F4
+358,4,362,EST,Rainer KALJUMAE,53706,2160,7,https://bwf.tournamentsoftware.com/player-profile/67E07770-69D1-4747-AA9F-A2683F510AFE
+359,4,363,INA,PUTRA ARIYANTO HARYADI,23057,2150,3,https://bwf.tournamentsoftware.com/player-profile/30305690-E9EB-4D95-8E52-55EADDB46498
+360,10,370,GER,Alexander ROOVERS,55505,2130,5,https://bwf.tournamentsoftware.com/player-profile/CC61C8F5-8379-4EB7-BBB0-47ED2D91A58B
+361,5,366,KAZ,YERZHAKANOV SAMAT,56764,2130,3,https://bwf.tournamentsoftware.com/player-profile/B2AEC533-27E5-4414-B1A1-9A454299AA4C
+362,5,367,JPN,Michiharu KIDO,65614,2070,4,https://bwf.tournamentsoftware.com/player-profile/FF0CFA40-6635-4E0C-88A7-87FD51AD0F76
+363,5,368,UKR,Kyrylo LEONOV,82280,2070,2,https://bwf.tournamentsoftware.com/player-profile/EDCC917E-CD4A-4831-B2FE-4DB407F2B6C4
+364,7,371,FIN,Tuomas PALMQVIST,88757,2050,6,https://bwf.tournamentsoftware.com/player-profile/E78EBCA0-31F0-4E77-978F-C421AEADD97E
+365,7,372,PHI,Kennevic ASUNCION,8166,2030,2,https://bwf.tournamentsoftware.com/player-profile/15AE1E74-617B-4A5E-9B65-A7493DE66FD7
+365,7,372,INA,Aditya ARIFIN,55008,2030,2,https://bwf.tournamentsoftware.com/player-profile/B10C8B58-3FDF-417A-89A6-34A0E27E7F8D
+367,7,374,EGY,Ali Ahmed EL KHATEEB,80660,2010,4,https://bwf.tournamentsoftware.com/player-profile/639CB013-F742-4E63-BD5B-3DCE2CE83ED8
+368,-105,263,ISL,Magnus Ingi HELGASON,9823,1993,5,https://bwf.tournamentsoftware.com/player-profile/C0CB1710-6260-4994-BE2A-71946F8D6852
+369,-5,364,ENG,Darryl JACOBS,67887,1950,10,https://bwf.tournamentsoftware.com/player-profile/E452AAB2-9DF7-42A4-9F56-A7062A2B7EC6
+370,6,376,THA,Boonyakorn THUMPANICHWONG,72520,1940,3,https://bwf.tournamentsoftware.com/player-profile/52C52CB4-2C9E-441F-A634-430063E950B0
+371,6,377,BEL,Frederic GASPARD,53967,1920,8,https://bwf.tournamentsoftware.com/player-profile/3D7B6052-5BDD-48A2-BB0A-3329D4546AB7
+372,6,378,MAS,Kenn LIM,15607,1920,2,https://bwf.tournamentsoftware.com/player-profile/EDF2269B-45D6-46A1-A19D-76A8C467D07A
+372,-4,368,BRN,JAFFER EBRAHIM,14009,1920,2,https://bwf.tournamentsoftware.com/player-profile/81FFCE01-6175-47F5-B066-8B699F4802A7
+374,6,380,ENG,Arak BHOKANANDH,54296,1900,4,https://bwf.tournamentsoftware.com/player-profile/DAB82953-F824-4771-ABC2-6BDABFBC44AD
+375,27,402,GER,Kai WALDENBERGER,53068,1890,4,https://bwf.tournamentsoftware.com/player-profile/A7B56B70-7A7C-4E5E-B62C-701BA1BE8035
+376,49,425,GER,Andreas HEINZ,88130,1880,5,https://bwf.tournamentsoftware.com/player-profile/C8AEF659-85FF-4463-BD38-96082727DF1F
+377,4,381,JPN,Yuya KOMATSUZAKI,20434,1880,4,https://bwf.tournamentsoftware.com/player-profile/36F9069D-7CE6-418A-8259-0B8BCE3FC735
+378,4,382,CAN,PHILLIPE Charron,50199,1880,3,https://bwf.tournamentsoftware.com/player-profile/CB9833A1-D5D2-45E9-A5F6-7E7CC7DD14E7
+378,4,382,CAN,Francois CHAMPAGNE,55399,1880,3,https://bwf.tournamentsoftware.com/player-profile/88D45592-DF36-4CA1-ADFA-DAA0BB61C458
+380,4,384,ZAM,MABO DONALD,99795,1840,2,https://bwf.tournamentsoftware.com/player-profile/90BFFBD9-F011-4D98-8D93-ECB1207924A4
+381,4,385,UKR,Mykola SHKLIAIEV,43397,1830,3,https://bwf.tournamentsoftware.com/player-profile/6F65F7C8-E461-461A-A84F-6A56EF72D0CB
+382,4,386,NZL,Dean NUTTALL,54905,1830,2,https://bwf.tournamentsoftware.com/player-profile/186A18D8-4282-4B65-B95D-D1F4EBDAB16C
+383,4,387,MEX,Lopez ANDRES,45386,1820,3,https://bwf.tournamentsoftware.com/player-profile/94FB5351-10FC-4991-BC5F-4FEA9B337195
+384,4,388,PHI,Gabriel VILLANUEVA,35297,1810,4,https://bwf.tournamentsoftware.com/player-profile/4762A15A-498E-4D53-8BCE-2C95A43A3975
+385,4,389,GRE,Georgios CHARALAMBIDIS,13568,1800,7,https://bwf.tournamentsoftware.com/player-profile/C3FD74B5-76B7-4626-B38C-E6F82E5831D9
+386,4,390,KEN,Jiten PATEL,77234,1790,4,https://bwf.tournamentsoftware.com/player-profile/FCF32468-750F-4BAD-A85B-440BEDC0FD4D
+387,4,391,SEY,Georgie CUPIDON,12216,1790,3,https://bwf.tournamentsoftware.com/player-profile/BD0125EF-4779-4081-99D1-BA8F6733755B
+388,4,392,PUR,Mercado JOSE,85285,1770,4,https://bwf.tournamentsoftware.com/player-profile/B9791FCB-50DC-4F38-B64D-C24B39245FBD
+389,4,393,AUS,Tin PHAM,67218,1770,2,https://bwf.tournamentsoftware.com/player-profile/C74E287F-252F-48CD-A697-73C269FAB9CD
+390,4,394,PUR,Saul SOTO,99132,1760,4,https://bwf.tournamentsoftware.com/player-profile/36B23688-7892-41FD-9A63-0264886DD069
+391,4,395,RUS,Maxim DANCHENKO,53923,1750,4,https://bwf.tournamentsoftware.com/player-profile/5981B7E5-D328-40A1-8BF1-A9F2615FFF5D
+392,4,396,MAS,Yu Sheng LIM,80493,1740,4,https://bwf.tournamentsoftware.com/player-profile/A9DAF5C0-756A-40AE-8E76-5411B477ABAD
+393,4,397,USA,Phillip CHEW,36299,1730,2,https://bwf.tournamentsoftware.com/player-profile/5E779CA7-5532-4CDA-AF60-31A463306B83
+393,4,397,MAS,GOH Soon Huat,92593,1730,2,https://bwf.tournamentsoftware.com/player-profile/10D0AFA0-14EB-4B8D-BA0E-CD2DAFE6B39D
+395,5,400,ITA,Giovanni GRECO,54314,1727,6,https://bwf.tournamentsoftware.com/player-profile/4B191E2D-AB32-464A-9917-E3127A0AEE77
+396,5,401,NZL,James PATERSON,60337,1720,4,https://bwf.tournamentsoftware.com/player-profile/CCC01388-B4F6-46D5-8CC0-5918239F988B
+397,6,403,JPN,Shohei HOSHINO,66649,1710,3,https://bwf.tournamentsoftware.com/player-profile/59148F60-BA96-49F5-B0B5-D1FCFC7941F4
+398,13,411,ZAM,Eli MAMBWE,4187,1700,3,https://bwf.tournamentsoftware.com/player-profile/7AC6AD10-2FD2-4056-A49C-30AC54E303FA
+399,5,404,KAZ,Victor KRAVCHENKO,39734,1690,4,https://bwf.tournamentsoftware.com/player-profile/6D6FEA7A-29C4-4278-8BBF-AA239D9F843F
+400,5,405,ECU,Sebastian TERAN,35529,1680,3,https://bwf.tournamentsoftware.com/player-profile/108BEF92-D4E2-4EBB-947C-5C464F2B3D39
+401,5,406,PHI,Mark Alvin NATIVIDAD,53738,1670,2,https://bwf.tournamentsoftware.com/player-profile/CDDFBF59-8206-46FF-9A9B-BD01F2CC5F63
+402,5,407,ESP,Alejandro VILLAR,15666,1660,5,https://bwf.tournamentsoftware.com/player-profile/FEED987F-24AA-45BE-AD8C-5356F73AE479
+403,5,408,CAN,Timothy CHIU,61666,1650,2,https://bwf.tournamentsoftware.com/player-profile/ED5B9D49-5A84-421F-A3D4-BE28F55F8333
+404,5,409,ITA,Manuel BATISTA,54315,1640,12,https://bwf.tournamentsoftware.com/player-profile/AF120072-0314-4661-A172-02766EC668B4
+405,5,410,CAN,Timothy MA,75968,1640,3,https://bwf.tournamentsoftware.com/player-profile/67D63F42-3E12-4782-8C4A-7E95FF929FDB
+406,5,411,AUS,Boris MA,54692,1630,2,https://bwf.tournamentsoftware.com/player-profile/32CEFF6A-6470-4282-B7CA-F7A7F5001CB5
+406,5,411,BRA,Luis CEREDA,31853,1630,2,https://bwf.tournamentsoftware.com/player-profile/3A69F2E6-701A-4A25-8578-D5363C59EA6E
+408,6,414,BEL,Julien WARNOTTE,25944,1620,9,https://bwf.tournamentsoftware.com/player-profile/BD65B14E-FF5B-477E-8359-93E326721DDB
+409,-34,375,AUT,Clemens Michael SMOLA,51510,1620,4,https://bwf.tournamentsoftware.com/player-profile/C4EE705D-7DA3-4EEF-AE0B-097D23856942
+410,5,415,NOR,Ronny WITHERS,52285,1600,5,https://bwf.tournamentsoftware.com/player-profile/7E193658-A634-4F81-9651-83E3C7FC0BCF
+411,5,416,THA,Perawut SUMRETPOON,52357,1580,2,https://bwf.tournamentsoftware.com/player-profile/FEF73018-A8D6-478C-B410-C7C271E63E07
+411,5,416,MAS,Azwan MAT YUSOFF,78987,1580,2,https://bwf.tournamentsoftware.com/player-profile/F1E82CC8-462B-4A48-BCD8-E858D497B413
+411,5,416,RSA,Willem VILJOEN,51604,1580,2,https://bwf.tournamentsoftware.com/player-profile/998BE548-F976-4697-B63C-2510F0130244
+411,5,416,GHA,Solomon Mensah NYARKO,90437,1580,2,https://bwf.tournamentsoftware.com/player-profile/EC005C74-D96E-42E9-BC93-79D859B0956C
+415,5,420,RUS,Nikolaj NIKOLAENKO,8326,1550,4,https://bwf.tournamentsoftware.com/player-profile/F17ACC9B-4790-4DFF-A778-08C05B86A809
+416,6,422,VIE,Quang Tuan BUI,67181,1530,2,https://bwf.tournamentsoftware.com/player-profile/C5D56204-5CA4-4AC9-B861-15D2C35BC836
+416,6,422,VIE,Manh Thang DAO,54672,1530,2,https://bwf.tournamentsoftware.com/player-profile/83D69ECF-DCB5-42BC-8347-D619FEE91335
+418,6,424,ITA,Giovanni TRAINA,50940,1520,5,https://bwf.tournamentsoftware.com/player-profile/8EF7ECCF-9334-4B3C-AB2A-D1079DFF40B7
+419,7,426,CUB,Alexander HERNANDEZ,15029,1520,2,https://bwf.tournamentsoftware.com/player-profile/D514DD2C-89CE-4819-BD4D-4B1B785814BC
+419,7,426,MEX,Jose L GONZALEZ,51911,1520,2,https://bwf.tournamentsoftware.com/player-profile/2978BAA7-6873-4D86-BC00-C32E410189D0
+419,7,426,AUS,Rowan HENDERSON,13936,1520,2,https://bwf.tournamentsoftware.com/player-profile/AFC827EB-BEB0-4239-B826-B9526F212423
+422,7,429,DEN,Soren GRAVHOLT,18267,1500,2,https://bwf.tournamentsoftware.com/player-profile/41650308-BBC6-4C99-AD14-1E57976A6958
+423,60,483,SCO,Martin CAMPBELL,42181,1490,3,https://bwf.tournamentsoftware.com/player-profile/A949A1F0-43EB-4C12-91F0-7165E77813C6
+424,6,430,SVK,Jarolim VICEN,55330,1487,8,https://bwf.tournamentsoftware.com/player-profile/CFE949B7-02A7-4CDB-85AF-B28842BD3E70
+425,6,431,VIE,Ngoc Tung NGUYEN,42757,1480,3,https://bwf.tournamentsoftware.com/player-profile/8B976AA3-FA60-4476-B5D7-59E6C724AB35
+426,6,432,NZL,Brent MILLER,54740,1470,3,https://bwf.tournamentsoftware.com/player-profile/33BB8026-C4EC-4DD9-A4DF-4DEA695294E4
+426,6,432,NZL,Luke CHARLESWORTH,454,1470,3,https://bwf.tournamentsoftware.com/player-profile/457A52AF-9BEB-4E8E-B98B-09BD8A8CA01F
+428,6,434,POL,Rafal HAWEL,50609,1470,2,https://bwf.tournamentsoftware.com/player-profile/38A804DE-203A-48CA-B6D9-C3C80CA4C243
+428,6,434,MAS,Nur Mohd Azriyn Ayub AZRIYN,70443,1470,2,https://bwf.tournamentsoftware.com/player-profile/AE26C502-372F-46A0-B3AD-EEB994B66EA1
+428,6,434,NGR,Olorunfemi ELEWA,53961,1470,2,https://bwf.tournamentsoftware.com/player-profile/E667A556-2C4B-4B5F-93A5-FDFF6DCDE2DC
+431,6,437,GER,Gregory SCHNEIDER,29806,1450,4,https://bwf.tournamentsoftware.com/player-profile/B6BF5FF7-CE4E-44A7-B384-6FFC60905F55
+432,6,438,MAS,Wei Sheng KOAY,54174,1450,3,https://bwf.tournamentsoftware.com/player-profile/9110F2FC-8A72-4F2A-A4E0-FFD093F20B2F
+432,6,438,SUI,Jon LINDHOLM,8610,1450,3,https://bwf.tournamentsoftware.com/player-profile/8C865A7F-D2A5-4A44-91EB-46AE70F9A635
+434,6,440,NZL,Jeremy LIU,53634,1440,3,https://bwf.tournamentsoftware.com/player-profile/896B65E7-F46D-4624-853A-431B65E10504
+435,-145,290,INA,Eko Sartono PRANOTO,54551,1440,2,https://bwf.tournamentsoftware.com/player-profile/7C15BB23-8F34-437E-A6E1-A525B6D51166
+436,5,441,DOM,Jose Luis CABRERA,71298,1410,3,https://bwf.tournamentsoftware.com/player-profile/5222CB00-8933-4D0F-824B-AF265C04817E
+437,5,442,CRO,Zvonimir DURKINJAK,52250,1400,7,https://bwf.tournamentsoftware.com/player-profile/E2C6E5B3-A514-4301-9023-EC31918DB6BC
+438,5,443,MAS,Misbun Ramdan MOHMED MISBUN,72703,1380,3,https://bwf.tournamentsoftware.com/player-profile/7065A96D-10F3-49D5-AFA8-104D9214B587
+439,5,444,USA,Sujay KARVE,32482,1380,2,https://bwf.tournamentsoftware.com/player-profile/AB0F59C9-D3F0-483D-8C2C-D450836F02D7
+439,5,444,NZL,Simon KOO,14354,1380,2,https://bwf.tournamentsoftware.com/player-profile/47E34997-86D9-400B-9DEA-0D4171D49C04
+439,5,444,VIE,Nguyen Thien DO,15431,1380,2,https://bwf.tournamentsoftware.com/player-profile/C12B9C18-86BA-4CD3-813B-5E35D764BCC8
+439,5,444,LAO,Sathien MUANEVONGSA,53612,1380,2,https://bwf.tournamentsoftware.com/player-profile/B8D3E89D-8C4D-436A-B9C2-1E2CC8472BA8
+439,5,444,VIE,Bang Duc BUI,54654,1380,2,https://bwf.tournamentsoftware.com/player-profile/911B093D-99F0-4710-9AC4-E01A4418FBAE
+439,5,444,NZL,Daniel FORREST,14427,1380,2,https://bwf.tournamentsoftware.com/player-profile/EF346E44-3A24-4B33-BC74-FCB3B0FACB87
+439,5,444,AUS,Hung PHAM,18686,1380,2,https://bwf.tournamentsoftware.com/player-profile/C8C8C9AF-85BC-4079-A537-7A18A059E125
+439,5,444,NZL,Viraf VAZIFDAR,67179,1380,2,https://bwf.tournamentsoftware.com/player-profile/D185155A-0620-46CF-87AE-0DFFD96EC96D
+439,5,444,NZL,THAM Leck,94372,1380,2,https://bwf.tournamentsoftware.com/player-profile/41F370B3-438E-41A5-BB60-C2495B887962
+448,5,453,RSA,Christoffel Cornelius DEDNAM,51331,1372,2,https://bwf.tournamentsoftware.com/player-profile/6872F50B-0818-47AB-88C9-7043003B5597
+449,5,454,GER,Matthias KUCHENBECKER,51200,1350,5,https://bwf.tournamentsoftware.com/player-profile/3361D9D0-1A12-4C4F-BF4C-56828F9E49C4
+450,5,455,RUS,Sergey SCHEPETKOV,26704,1340,4,https://bwf.tournamentsoftware.com/player-profile/6A9C3D19-7FCF-439E-849A-C7FCBC622CFC
+451,177,628,EGY,Shehab YEHIA,15060,1340,3,https://bwf.tournamentsoftware.com/player-profile/18F3D802-1F5E-4B26-B090-23A980CB45E6
+452,4,456,NED,Dennis VAN DAALEN DE JEL,14267,1340,2,https://bwf.tournamentsoftware.com/player-profile/F5E98811-2999-4B80-A162-BB08BBBCA982
+452,-190,262,INA,Engga SETIAWAN,25027,1340,2,https://bwf.tournamentsoftware.com/player-profile/54E944CB-2C88-41CA-9491-603AFF619EA0
+454,3,457,POL,Marciej KOWALIK,53382,1330,4,https://bwf.tournamentsoftware.com/player-profile/E81A06B0-4828-4910-B16B-593A1E3AA678
+455,4,459,IRL,Tony STEPHENSON,16797,1320,6,https://bwf.tournamentsoftware.com/player-profile/E8EE0535-B620-40C0-9983-57C922B07CE8
+456,4,460,NOR,Pal WITHERS,61968,1310,5,https://bwf.tournamentsoftware.com/player-profile/84C0A037-3260-4A3B-9CA9-6E6FB97F3547
+457,4,461,AUS,Brendan CHU,23041,1300,2,https://bwf.tournamentsoftware.com/player-profile/B7D8B69D-5EC3-4410-96C9-9FB3F641F8E1
+458,4,462,GER,Andreas LINDNDER,55277,1290,7,https://bwf.tournamentsoftware.com/player-profile/807F894C-B3DE-4D76-9A8E-7084E923AE4A
+459,4,463,FRA,Yoann TURLAN,54072,1290,6,https://bwf.tournamentsoftware.com/player-profile/F25ED1EE-BE87-441F-A224-817280B7D368
+460,4,464,PHI,Christopher FLORES,53737,1280,2,https://bwf.tournamentsoftware.com/player-profile/8C652C17-1B96-4C2C-99E0-32E9075AF605
+461,5,466,CRO,Igor CIMBUR,17504,1250,7,https://bwf.tournamentsoftware.com/player-profile/112F56D4-CF47-4A65-A38B-D6DE2D4FC338
+462,5,467,DOM,Alberto RAPOSO,63816,1250,5,https://bwf.tournamentsoftware.com/player-profile/C48D6F72-BD97-4B4B-90BB-249E977D75F8
+463,5,468,MGL,Uuganbayar TERBISH,76903,1240,2,https://bwf.tournamentsoftware.com/player-profile/86E1034A-6016-4420-BF49-4E7C9E79A77E
+464,5,469,MAS,Wong KIN YIK,76356,1230,3,https://bwf.tournamentsoftware.com/player-profile/3D2C6E3D-6D90-431C-A360-942C0A9AA754
+465,5,470,ITA,Marco MONDAVIO,42698,1210,4,https://bwf.tournamentsoftware.com/player-profile/650A8D19-6ADA-4909-97CB-EA2F32D5FCA3
+466,5,471,THA,Panuwat PISANTANAKUL,53542,1210,2,https://bwf.tournamentsoftware.com/player-profile/AB609A8F-2482-4C72-8A1B-AE5232C09962
+466,5,471,MAS,Wei Sheng LOH,99682,1210,2,https://bwf.tournamentsoftware.com/player-profile/2C3633ED-B614-4C9E-96D7-2BAFDEB8D5E3
+466,5,471,THA,Pailin Limsakul,62090,1210,2,https://bwf.tournamentsoftware.com/player-profile/A975D3D0-BE63-4E27-971D-65D150226B62
+471,6,477,VIE,Tuan Kiet VAN,53617,1180,3,https://bwf.tournamentsoftware.com/player-profile/14CD5C59-564C-4859-9B80-B0FB079C9EBD
+472,6,478,ISL,Atli JOHANNESSON,53101,1168,3,https://bwf.tournamentsoftware.com/player-profile/E3C53A5A-A24F-4299-8F58-FAFF5CB3DE02
+473,19,492,GER,Mathieu POHL,55501,1150,4,https://bwf.tournamentsoftware.com/player-profile/E8270ADF-3101-4B5B-807C-51F187CD526B
+474,5,479,NED,Robert KWEE,50339,1150,2,https://bwf.tournamentsoftware.com/player-profile/1F4D634D-A970-49AE-B01E-26971174C89E
+475,5,480,FIN,Sami TURUNEN,52330,1140,6,https://bwf.tournamentsoftware.com/player-profile/E142D838-7FD0-4D6D-85D9-AB26D9FB0AAF
+476,5,481,CYP,Vasilis VASOU,51776,1140,3,https://bwf.tournamentsoftware.com/player-profile/27480EFA-9A49-4CAB-B41D-620B5D83DD20
+477,5,482,MAR,Elkaadery Zakaria,57103,1132,3,https://bwf.tournamentsoftware.com/player-profile/9232B226-5B27-4FD1-ACEA-39984B903F66
+478,46,524,POL,Adrian DZIOLKO,48962,1130,3,https://bwf.tournamentsoftware.com/player-profile/45BEA336-9AB3-4C0A-A0C9-731043BD90AD
+479,4,483,GHA,Daniel AITEY,52973,1130,2,https://bwf.tournamentsoftware.com/player-profile/7704EC56-0F9D-4BA0-A2D7-1A03681CADCC
+479,4,483,GHA,Ben Noah AYIM,15784,1130,2,https://bwf.tournamentsoftware.com/player-profile/9583CD65-22B1-493A-9907-E3A0098DD235
+479,4,483,PER,Gonzalo DUANY,33244,1130,2,https://bwf.tournamentsoftware.com/player-profile/68B08C11-6A5A-429A-8C87-AB8430B00CCD
+479,4,483,MRI,Stephan BEEHARRY,7865,1130,2,https://bwf.tournamentsoftware.com/player-profile/A27C2F0D-A43E-4458-855A-73A1937D0E2D
+483,5,488,TPE,Feng Tse HSIEH,34812,1120,2,https://bwf.tournamentsoftware.com/player-profile/CFF5DA7E-7901-4E24-919C-423B4F0EAAB7
+484,5,489,PUR,Roman ALEANDRO,97795,1090,3,https://bwf.tournamentsoftware.com/player-profile/A4AA7F0C-CC0B-4C36-A6B6-7AEA3D0B3828
+485,5,490,DEN,Martin KRAGH,91685,1090,2,https://bwf.tournamentsoftware.com/player-profile/786EB051-DE9D-4D3E-BE54-F02A3EADB6F5
+485,5,490,HKG,LEE Chun Hei Reginald,92609,1090,2,https://bwf.tournamentsoftware.com/player-profile/F3B70A40-D62C-4308-B76E-18F86230EA15
+487,6,493,POR,Nuno SANTOS,14191,1070,6,https://bwf.tournamentsoftware.com/player-profile/8E400A8D-6165-4969-A520-B4AC3DA54F20
+488,6,494,CZE,Petr JELINEK,93033,1060,5,https://bwf.tournamentsoftware.com/player-profile/F02DC1A3-CEF0-4506-AB9B-FE684C28F917
+489,6,495,AUS,Ashwant GOBINATHAN,20295,1060,2,https://bwf.tournamentsoftware.com/player-profile/37AAA471-4069-4B2C-AFE2-873FA92A0C1B
+489,6,495,AUS,Andrew SURMAN,51564,1060,2,https://bwf.tournamentsoftware.com/player-profile/6944789F-93A3-4B71-9C54-5B65EECE7835
+489,6,495,AUS,Jack WU,50335,1060,2,https://bwf.tournamentsoftware.com/player-profile/EF150297-54C9-45E6-ABFC-72A00FCF7142
+489,6,495,AUS,Jun Sun (Jason) TAN,43336,1060,2,https://bwf.tournamentsoftware.com/player-profile/CA8406B4-608B-4804-9F31-2628045A8E3E
+489,6,495,FRA,Sebastien BOURBON,50082,1060,2,https://bwf.tournamentsoftware.com/player-profile/44FD93F0-9F73-4BD2-B168-A2E7A79489D9
+489,6,495,MEX,Arturo HERNANDEZ,66431,1060,2,https://bwf.tournamentsoftware.com/player-profile/5BED0185-B997-40BE-85AA-BA471278E3E2
+495,6,501,CZE,Milan LUDIK,95385,1050,5,https://bwf.tournamentsoftware.com/player-profile/6E4DB5ED-A913-4EFD-B147-3F7AECED3A22
+496,6,502,THA,Pollawat BOONPAN,69265,1040,3,https://bwf.tournamentsoftware.com/player-profile/8C628F97-FFBE-4B56-A1F4-93F7340ABC49
+497,6,503,UKR,Kyryll NESTERENKO,20332,1030,3,https://bwf.tournamentsoftware.com/player-profile/FD127D13-17B9-4BF2-A98C-1CB9D5FF4465
+498,6,504,CAM,Chanpisey VANN,42841,1020,2,https://bwf.tournamentsoftware.com/player-profile/F9ED7AFA-1E44-4E32-8A03-F14EEF655AEC
+498,6,504,PHI,Kevin DALISAY,31794,1020,2,https://bwf.tournamentsoftware.com/player-profile/91A488FC-7D41-43A5-BBEA-5302DD0232AA
+498,6,504,PHI,Philip Joper ESCUETA,32857,1020,2,https://bwf.tournamentsoftware.com/player-profile/A166EC3A-2E1A-4801-9396-00E935CCD95E
+498,6,504,PHI,Kevin PANGANIBAN,48866,1020,2,https://bwf.tournamentsoftware.com/player-profile/8B25CCC5-D9F9-4554-8AE3-755B4F258639
+498,6,504,PHI,Jobert Hereli CO,88835,1020,2,https://bwf.tournamentsoftware.com/player-profile/E8A2C6C5-463A-445D-BE4D-ECD9C9713680
+503,6,509,CYP,Charis CHARALAMBOUS,14212,1015,4,https://bwf.tournamentsoftware.com/player-profile/E5A215C4-A98F-4471-BAC5-84C23CAAEDE8
+504,6,510,CHI,Andres TRIGO,89022,1012,3,https://bwf.tournamentsoftware.com/player-profile/DE3847F2-AFEF-457E-90E5-0B4BDE40FB9C
+505,7,512,NZL,Ashraf DHORAY,57044,1010,2,https://bwf.tournamentsoftware.com/player-profile/D4D37EAC-CD1C-4E8A-9BAD-A50AEEAD0E6D
+505,7,512,NZL,Reon MCFARLANE,54907,1010,2,https://bwf.tournamentsoftware.com/player-profile/BD15048D-1E03-4448-BDB8-1FED40BE0B25
+505,7,512,NZL,Jian Dee CHEW,52710,1010,2,https://bwf.tournamentsoftware.com/player-profile/39EECE3E-2A55-4F0C-A429-DB3FE6A8F044
+505,7,512,NZL,ROHRA Sagar,23621,1010,2,https://bwf.tournamentsoftware.com/player-profile/106C2BBF-4A28-4304-805E-8A510AC1963A
+509,7,516,SWE,Simon KNUTSSON,6985,990,5,https://bwf.tournamentsoftware.com/player-profile/55CDF2EA-4127-41F2-B47B-C2B962C95B02
+510,7,517,CAN,Pierre Langlias GAGNE,55405,990,3,https://bwf.tournamentsoftware.com/player-profile/63CCA892-6F81-411E-ACB0-E0E4D4ACF688
+511,-132,379,SWE,Petter YNGVESSON,1453,990,2,https://bwf.tournamentsoftware.com/player-profile/B7627854-9C27-432D-AB67-E76B5F310EDC
+511,7,518,SCO,Craig GODDARD,52221,990,2,https://bwf.tournamentsoftware.com/player-profile/04465ED4-5243-4C1E-BC38-3544D9AFC9CB
+511,7,518,BRA,Alex Yuwan TJONG,73532,990,2,https://bwf.tournamentsoftware.com/player-profile/7C4049A2-068B-4A8C-B45B-401D27BCF597
+511,511,0,SCO,Calum MENZIES,53115,990,2,https://bwf.tournamentsoftware.com/player-profile/F4DAB8FA-BB00-4B97-AB2A-3380939602EA
+515,5,520,PHI,Peter Gabriel MAGNAYE,46447,980,2,https://bwf.tournamentsoftware.com/player-profile/DC49F421-245F-4819-9216-48D769390B86
+516,5,521,TUR,H Huseyin DURAKCAN,54384,970,5,https://bwf.tournamentsoftware.com/player-profile/C5E3009F-857B-4B0C-B083-86C1BE0C51E8
+517,5,522,CZE,Ondrej KOPRIVA,54462,960,6,https://bwf.tournamentsoftware.com/player-profile/8EAE9EA4-CEAC-42B2-8918-FE60E5B3891F
+518,5,523,FRA,Maxime RENAULT,53316,960,3,https://bwf.tournamentsoftware.com/player-profile/27A5845F-B882-4D39-929F-0E863007158C
+519,519,0,ENG,Neil WHITE,52132,960,2,https://bwf.tournamentsoftware.com/player-profile/D4E9FF58-D9F9-4C25-80FB-693F6DB2C400
+520,5,525,GUA,HUMBLERS HEYMARD,23996,950,2,https://bwf.tournamentsoftware.com/player-profile/D9FDF505-8155-441C-8C60-A7D9907129CB
+520,5,525,GUA,SOLIS JONATHAN,25684,950,2,https://bwf.tournamentsoftware.com/player-profile/E7B14813-0A58-40B7-BA72-593F9179F349
+522,5,527,BEL,Lionel WARNOTTE,52275,920,2,https://bwf.tournamentsoftware.com/player-profile/2BFF538A-7598-4AFC-8330-6885D2F41CF5
+522,5,527,FRA,Alexandre FRANCOISE,90912,920,2,https://bwf.tournamentsoftware.com/player-profile/EAED1E91-81EA-4689-A2B8-20546444EB3B
+524,5,529,RUS,Vasily KUZNETSOV,33253,910,2,https://bwf.tournamentsoftware.com/player-profile/68C9F6B0-EC57-458D-9AE3-F4D778613AF1
+524,5,529,RUS,Evgeny VOROBJEV,36025,910,2,https://bwf.tournamentsoftware.com/player-profile/435FE2A7-9659-4B41-BE2B-CB8FC853C9C5
+524,5,529,ENG,Joshua Green,83130,910,2,https://bwf.tournamentsoftware.com/player-profile/591D1BA6-0EF4-42D9-B378-5C3BC99E3B30
+527,6,533,LUX,Joe MICHELS,43101,900,5,https://bwf.tournamentsoftware.com/player-profile/EF097174-B5E0-4BAD-AF23-0C29160D552C
+528,18,546,NED,Hans VAN OS,32305,880,7,https://bwf.tournamentsoftware.com/player-profile/E5DC28D2-1C69-4D8D-9518-F90CFE3A53C0
+529,5,534,NED,Ralph STARREN,55272,870,4,https://bwf.tournamentsoftware.com/player-profile/657D54AA-3A18-41DC-9C34-E8D5FE307EC1
+530,5,535,IND,Venkatesh PRASAD,44329,870,2,https://bwf.tournamentsoftware.com/player-profile/CAD6B29A-3F75-45A6-975F-0FBDE68AE156
+530,5,535,IND,J. B. S. Vidyadhar,13707,870,2,https://bwf.tournamentsoftware.com/player-profile/CBB77C06-6DFD-4F6B-A75F-48EBCFCB2DD1
+530,5,535,IND,Jagadish YADAV,37151,870,2,https://bwf.tournamentsoftware.com/player-profile/3338EEC1-E946-4498-92C7-D537967EBADE
+530,5,535,TKM,Hadjimuhammet NURYEV,84951,870,2,https://bwf.tournamentsoftware.com/player-profile/0248D8A3-32A8-401B-B8FE-CF670F226AFC
+530,5,535,THA,Siripong GETWONG,88149,870,2,https://bwf.tournamentsoftware.com/player-profile/72FD89A2-A3F4-4FE7-87B7-E925B1F9E788
+535,34,569,NED,Nick FRANSMAN,48202,860,5,https://bwf.tournamentsoftware.com/player-profile/81C9CBAE-2F13-4FBC-80D6-995A2F4289FA
+536,-25,511,SWE,Jesper wigardt,67150,840,7,https://bwf.tournamentsoftware.com/player-profile/CCCFCEF6-DE5D-440A-B8A3-24A62F09FD92
+537,3,540,HUN,Balazs BOROS,9820,830,5,https://bwf.tournamentsoftware.com/player-profile/1793961D-B8A3-477D-AC49-952C9FF76925
+538,3,541,CRO,Neven RIHTAR,13754,830,4,https://bwf.tournamentsoftware.com/player-profile/DA666FC3-847B-451C-B63F-B1826FDA4ED3
+539,4,543,GUA,Edy GARCIA,54893,830,3,https://bwf.tournamentsoftware.com/player-profile/1A5B7827-307D-4942-99CC-92C9695D398D
+540,4,544,VIE,Thanh Luan NGUYEN,46822,820,2,https://bwf.tournamentsoftware.com/player-profile/A22E95BF-7656-46EA-AF89-473E58DFCF78
+540,4,544,AUS,Hoe Keat OON,34021,820,2,https://bwf.tournamentsoftware.com/player-profile/DA1DB972-0D65-45CE-92E9-E3F47E49F955
+542,5,547,SUI,Michael SPUEHLER,52120,810,5,https://bwf.tournamentsoftware.com/player-profile/E1CC42AB-F784-4A0E-A476-1C954678458B
+543,5,548,AUS,Vincent CHOO,18763,810,2,https://bwf.tournamentsoftware.com/player-profile/D97B40B8-00F7-4C8B-BC65-A5BEF779192D
+543,5,548,AUS,Joel FINDLAY,55067,810,2,https://bwf.tournamentsoftware.com/player-profile/71432BFF-167A-4DFC-B428-229C5238390C
+543,5,548,AUS,Milin PARIKH,40771,810,2,https://bwf.tournamentsoftware.com/player-profile/3ADB2D58-31DA-423F-88A4-3E36C52DB9DC
+543,5,548,AUS,andrew harvey,28744,810,2,https://bwf.tournamentsoftware.com/player-profile/022789A7-DAA6-446A-B4AA-D66781207ABA
+543,5,548,AUS,Nathan DAVID,67211,810,2,https://bwf.tournamentsoftware.com/player-profile/E1DB5B01-2B79-4CB1-B782-8179D83918DE
+543,5,548,AUS,Matthew CHAU,78695,810,2,https://bwf.tournamentsoftware.com/player-profile/1B203515-DD2B-42BA-BA7A-EEB17B939372
+549,5,554,GRE,George GALVAS,13394,800,4,https://bwf.tournamentsoftware.com/player-profile/BCAAA384-0721-4D0E-B062-358FEF9360D9
+550,5,555,BEL,Maxime MOREELS,25625,780,5,https://bwf.tournamentsoftware.com/player-profile/DE33C888-230D-4E42-A67E-A44ED511969C
+550,5,555,BEL,Jente PAESEN,33171,780,5,https://bwf.tournamentsoftware.com/player-profile/7C6557AD-409E-4063-9F7E-258F16413454
+552,5,557,PER,Ignacio DE VINATEA,42743,770,3,https://bwf.tournamentsoftware.com/player-profile/8348168B-97C7-4115-8963-693EF717491E
+553,5,558,SEY,Joel DUBEL,21111,762,3,https://bwf.tournamentsoftware.com/player-profile/D1B058C8-FDA0-4D76-84A3-253944963B59
+554,5,559,BOT,Gaone TAWANA,77223,760,3,https://bwf.tournamentsoftware.com/player-profile/F6D1B37A-521C-44F3-B932-FC4B66D9806A
+554,5,559,KEN,Patrick RUTO,51688,760,3,https://bwf.tournamentsoftware.com/player-profile/3F4F78D2-E07B-4EA1-A59E-F086EF520DC1
+556,5,561,MAR,Lotfi LAHLOU,54573,760,2,https://bwf.tournamentsoftware.com/player-profile/097030CB-6EEA-4702-8399-F49A822E8FF9
+556,5,561,NGR,Abraham OTAGADA,53955,760,2,https://bwf.tournamentsoftware.com/player-profile/2DA95EFF-C56E-4CA2-83F6-BFC67E348FAB
+558,5,563,SVK,Matej JANOSIK,49092,740,7,https://bwf.tournamentsoftware.com/player-profile/7EEED4F3-2356-40B3-96F2-145E89055AB9
+559,5,564,AUT,Matthias BERTSCH,87074,720,6,https://bwf.tournamentsoftware.com/player-profile/BE48C829-7F56-48B2-A332-88D20E49EC31
+560,21,581,RUS,Vladimir RUSIN,40815,720,5,https://bwf.tournamentsoftware.com/player-profile/1BB8B662-4EC8-4A5C-89AE-4D92081809CD
+561,4,565,CZE,Zdenek SVATA,53966,720,2,https://bwf.tournamentsoftware.com/player-profile/A6D19C57-C6B5-4DAC-A89B-372F0709A4DD
+561,4,565,SWE,Mattias BORG,67656,720,2,https://bwf.tournamentsoftware.com/player-profile/9FB56A19-67DC-4485-9AC5-66F90F738506
+561,4,565,TPE,HSIEH Yu Cheng,27651,720,2,https://bwf.tournamentsoftware.com/player-profile/7377FB16-1D23-4A9E-AE5E-92859F666A45
+564,33,597,RUS,Ilya ZHDANOV,91608,710,5,https://bwf.tournamentsoftware.com/player-profile/90327C6B-86F6-4457-A166-362C89642565
+565,3,568,PUR,hector RIOS,57830,700,3,https://bwf.tournamentsoftware.com/player-profile/DDE0BDDF-4CCF-4DAF-99E1-3D3933963422
+566,3,569,GER,Manfred HELMS,52852,690,4,https://bwf.tournamentsoftware.com/player-profile/791AA85A-E261-43F5-83EF-7852C2DEABED
+567,5,572,GER,Endra KURNIAWAN,14539,680,2,https://bwf.tournamentsoftware.com/player-profile/6C80ADF6-D8C5-443D-A987-811B012FE2A9
+567,5,572,GER,Denis NYENHUIS,53761,680,2,https://bwf.tournamentsoftware.com/player-profile/B650DF31-1390-45BC-9E91-0EFE96ED0139
+567,5,572,MAS,Aik Quan TAN,54153,680,2,https://bwf.tournamentsoftware.com/player-profile/E0860A21-155E-44BF-A0F1-F8C539FAAF37
+570,5,575,CHI,Cristian ARAYA,38221,670,3,https://bwf.tournamentsoftware.com/player-profile/797C6C03-C682-4E79-85F9-ED73ED92F2C2
+570,5,575,CHI,Luis Esteban BARRIGA,25728,670,3,https://bwf.tournamentsoftware.com/player-profile/ABD991D3-2C02-4849-8F59-4C309D642B70
+572,5,577,POL,Wojciech POSZELEZNY,15361,670,2,https://bwf.tournamentsoftware.com/player-profile/6DC70127-8E9C-410B-960F-7D261257ACF9
+572,5,577,SGP,Ying Chong Kelvin HO,23380,670,2,https://bwf.tournamentsoftware.com/player-profile/77817507-FE22-4832-AD9B-43406F4CDABE
+572,5,577,CHI,Bernardo VILLEGAS,73247,670,2,https://bwf.tournamentsoftware.com/player-profile/9C9A897A-7380-4497-AEB6-8B27A34C352E
+575,5,580,NED,Erik MEIJS,88679,660,5,https://bwf.tournamentsoftware.com/player-profile/C69C1107-6E27-4B46-B76F-E2F64479E37C
+576,6,582,FIN,Santtu HYVARINEN,24511,630,5,https://bwf.tournamentsoftware.com/player-profile/0FB99E2D-09A8-4D20-8725-D986101DDD8A
+576,6,582,ITA,Pierluigi MUSIARI,31463,630,5,https://bwf.tournamentsoftware.com/player-profile/D1AB1C05-FEEA-42A0-95CA-ECC0132517F7
+578,6,584,CAN,Manuel THOMAS,55411,630,2,https://bwf.tournamentsoftware.com/player-profile/F21165AB-89AE-4D48-A7E0-9080FF97281D
+579,6,585,AZE,Kanan RZAYEV,54387,620,2,https://bwf.tournamentsoftware.com/player-profile/23C56AB9-A964-47B5-8949-E03EC11F7824
+579,6,585,AZE,Orkhan GALANDAROV,57000,620,2,https://bwf.tournamentsoftware.com/player-profile/39D614A8-53F9-47DF-9058-CE2F19FA5041
+581,-160,421,SCO,Kenneth YOUNG,54203,610,4,https://bwf.tournamentsoftware.com/player-profile/6F77F323-910B-4746-B847-3D1A0E5EA134
+582,-11,571,WAL,Jamie van HOOIJDONK,70913,610,3,https://bwf.tournamentsoftware.com/player-profile/6C0CD7F1-7590-4594-B195-1621433BEE3D
+583,4,587,GER,Max SCHWENGER,50324,600,3,https://bwf.tournamentsoftware.com/player-profile/85CCCF24-5D3D-422C-8EB2-D4CEE85035C0
+584,4,588,GER,Patrick KAEMNITZ,58996,590,4,https://bwf.tournamentsoftware.com/player-profile/906941F5-6731-46C7-B609-2E5332E8C7FB
+585,5,590,EST,Gabriel KUNKA,54751,570,3,https://bwf.tournamentsoftware.com/player-profile/BBB2DCD8-F9C5-45C4-9D89-0CCEECF27BF2
+586,5,591,RUS,Aleksandr ANTIPOV,55041,570,2,https://bwf.tournamentsoftware.com/player-profile/72BF67F7-DC82-4678-B41F-BAF83BBC9AC5
+586,5,591,RUS,Dmitry KAZAKOV,11642,570,2,https://bwf.tournamentsoftware.com/player-profile/D1D38D2F-AE6D-4083-A6D4-66F12A800FF3
+586,5,591,USA,Dean SCHOPPE,1085,570,2,https://bwf.tournamentsoftware.com/player-profile/F77B8870-592B-427A-A505-DF9933AE6B9D
+586,5,591,ENG,Christopher COLES,30494,570,2,https://bwf.tournamentsoftware.com/player-profile/59993E24-3B79-4859-9E3C-65DCA8E52FA4
+586,5,591,INA,DHARMA Alrie Guna,98949,570,2,https://bwf.tournamentsoftware.com/player-profile/33CEF18F-6C7C-4388-BBFB-7A0C9E0DD49F
+591,7,598,BUL,Peyo BOICHINOV,55206,530,3,https://bwf.tournamentsoftware.com/player-profile/7E4DD09D-1948-4E16-A92F-044439065270
+592,7,599,BEL,Birger ABTS,86715,530,2,https://bwf.tournamentsoftware.com/player-profile/D4740FED-0535-46E1-9287-041D4E538C9A
+592,7,599,NED,Jerry NATENSTEDT,70008,530,2,https://bwf.tournamentsoftware.com/player-profile/6937C3C5-CF14-42FE-B8E2-F3D6700B6381
+592,7,599,MAS,Nurdini MOHD SAID,54793,530,2,https://bwf.tournamentsoftware.com/player-profile/A0493462-9531-4CC9-8EA3-5EDA7E40C87F
+592,7,599,CAN,Ajit SIDHU,92282,530,2,https://bwf.tournamentsoftware.com/player-profile/321C6182-5C38-44F7-805A-5F2508868664
+596,-7,589,SWE,Fredrik HOGMAN,17074,500,3,https://bwf.tournamentsoftware.com/player-profile/1F67D555-A680-4676-8254-80450A6D66AF
+596,9,605,BEL,Loic DEVRYE,24869,500,3,https://bwf.tournamentsoftware.com/player-profile/1330AFCD-DDB7-401A-B522-CEACE19CAFFF
+598,8,606,ISR,Shai GEFFEN,12998,496,2,https://bwf.tournamentsoftware.com/player-profile/2B441546-0803-44CD-9503-09AEAB5076E3
+599,56,655,IND,Nishant SINHA,33421,490,3,https://bwf.tournamentsoftware.com/player-profile/0D1510FC-65F1-4477-9428-C2AFD8891C49
+600,7,607,PUR,Julio DIAZ,14261,490,2,https://bwf.tournamentsoftware.com/player-profile/76ED1552-5AD8-415C-9807-FD48985C1842
+600,7,607,MAS,Nur Akmal MOHAMED RUMSANI,85672,490,2,https://bwf.tournamentsoftware.com/player-profile/358F2DB5-9885-4588-A190-666E05533969
+600,7,607,MAS,Sun Ly NG,75037,490,2,https://bwf.tournamentsoftware.com/player-profile/1D23C6A9-52C6-47C5-ABED-290566C15A0E
+603,-146,457,IRL,Alexander SIM,51986,480,4,https://bwf.tournamentsoftware.com/player-profile/8CDDE36C-001B-49A2-B7CB-041D03BB42DA
+604,6,610,GER,Benjamin WAHNHOFF,55502,480,3,https://bwf.tournamentsoftware.com/player-profile/CF0BD6F8-FD7C-495F-B214-8E3F47F3CC13
+605,6,611,FIN,Petri LEHTONEN,47588,470,3,https://bwf.tournamentsoftware.com/player-profile/45335FD6-3B96-4A7C-BCA3-61CD024F31D4
+605,-64,541,SWE,Johan Larsson,67151,470,3,https://bwf.tournamentsoftware.com/player-profile/84D9967C-5181-4A96-9CA1-BD4A85D15D14
+605,6,611,LUX,Ben SPELZ,55659,470,3,https://bwf.tournamentsoftware.com/player-profile/F0A2B46C-9FE8-4713-8D3C-20538E6C89BB
+608,5,613,GRE,Panagiotis SKARLATOS,13395,460,4,https://bwf.tournamentsoftware.com/player-profile/D8A8B241-EB9D-4BA9-B771-F7E5022F48D6
+609,5,614,BAR,Andre PADMORE,14852,460,2,https://bwf.tournamentsoftware.com/player-profile/492A9154-BDB0-4F7B-A254-ADA96F829F5E
+609,5,614,POL,Patryk SZYMONIAK,22474,460,2,https://bwf.tournamentsoftware.com/player-profile/CC4228B1-FB4E-47D3-8D11-30B1AB5E5C0C
+609,5,614,MEX,GARRIDO Marcos,55129,460,2,https://bwf.tournamentsoftware.com/player-profile/D7382E60-CBE2-433F-AB39-8266AE18847E
+609,5,614,ENG,Rohan MIDHA,90111,460,2,https://bwf.tournamentsoftware.com/player-profile/F580F38E-C6FF-4F87-B254-DD4A20A12F24
+614,-10,604,NOR,Marius MYHRE,20711,449,5,https://bwf.tournamentsoftware.com/player-profile/6C403B82-6A00-43B2-A3A4-64E9B06ABE30
+615,4,619,SWE,Jonas ANDERSSON,5857,430,2,https://bwf.tournamentsoftware.com/player-profile/3AE1B11D-EAE9-4E59-B46A-620A6796B00B
+616,5,621,KEN,Patrick Kinyua MBOGO,54586,422,3,https://bwf.tournamentsoftware.com/player-profile/FF2A20C5-4C35-4135-90F8-3B0C75D72A8A
+617,-152,465,SWE,sebastian GRANSBO,82703,420,5,https://bwf.tournamentsoftware.com/player-profile/212B12F2-4982-4413-A9DB-6B89290E6328
+617,5,622,AUT,Philip KATSAROS,15583,420,5,https://bwf.tournamentsoftware.com/player-profile/2BE1ABBF-8B8B-4395-A502-28919E95A3AC
+619,5,624,TUR,Y.Yasin OZKAN,49209,420,3,https://bwf.tournamentsoftware.com/player-profile/7EC48ECF-5C57-4E23-B4D2-239E49A31386
+619,5,624,CMR,Owono JACQUESI,78361,420,3,https://bwf.tournamentsoftware.com/player-profile/79EFAEF6-9D1E-443A-B817-5D696BA75239
+619,5,624,KEN,Alfred MUTHOMI,14500,420,3,https://bwf.tournamentsoftware.com/player-profile/544E0075-9C88-43C5-BBB7-7B0F3326413E
+619,5,624,BOT,Onthathile SEKWIDI,60256,420,3,https://bwf.tournamentsoftware.com/player-profile/692DA0FD-0BE9-4EEB-AD96-F10169A73D5B
+623,5,628,UGA,Jean Landry MENGUELE,90895,420,2,https://bwf.tournamentsoftware.com/player-profile/0DA32128-4A02-4AAB-85E0-54BD13F3D5C9
+623,5,628,ZAM,Juma MUWOWO,12665,420,2,https://bwf.tournamentsoftware.com/player-profile/53473F92-9682-4A87-AE50-83F9009B6A3A
+623,5,628,IND,Sonic PRABHUDESAI,92383,420,2,https://bwf.tournamentsoftware.com/player-profile/EF7CC296-FE21-4F3F-933C-45FB23BA23FD
+626,6,632,HUN,Kristof HORVATH,10790,410,3,https://bwf.tournamentsoftware.com/player-profile/9E2B157E-D979-4D05-8733-19C2299B872E
+627,6,633,FIN,Jani HAKKINEN,42734,400,2,https://bwf.tournamentsoftware.com/player-profile/7C3E4B3B-3800-4423-BED1-3C9D6BA4DEF9
+627,6,633,LTU,Klaudijus KASINSKIS,13462,400,2,https://bwf.tournamentsoftware.com/player-profile/B2032174-4F2B-4BC8-BCC7-2F0DC8EA123A
+627,6,633,POL,Lukasz BARSZCZEWSKI,58669,400,2,https://bwf.tournamentsoftware.com/player-profile/483ACE67-25FF-4186-909E-84E144798225
+627,6,633,UKR,Dmytro KATSARUBA,63893,400,2,https://bwf.tournamentsoftware.com/player-profile/9232D75D-2D41-4A16-A767-BF5046910855
+627,6,633,POL,Przernystaw URBAN,78444,400,2,https://bwf.tournamentsoftware.com/player-profile/C6D5B37C-A359-459F-9131-C9EF960C42BB
+632,6,638,NED,Rein RIDDER,22700,390,4,https://bwf.tournamentsoftware.com/player-profile/6B0BFEAC-8F4C-4584-A97D-60AE3760AA4E
+632,6,638,BRA,Filipe TOLEDO,53981,390,4,https://bwf.tournamentsoftware.com/player-profile/5A4098B2-5514-43B1-900D-30726EBF4B17
+634,17,651,GER,Christian BOHMER,13472,380,3,https://bwf.tournamentsoftware.com/player-profile/A8523366-A7AF-4145-8F92-95260036EAD8
+635,5,640,WAL,Daniel Van HOOIJDONK,37989,380,2,https://bwf.tournamentsoftware.com/player-profile/237D9BB2-F6FB-4084-842A-86A3D1BE1D1C
+636,-160,476,ENG,CHEUNG Arthur,34515,340,4,https://bwf.tournamentsoftware.com/player-profile/1838FEE6-FA2F-4061-BBFA-6DB712184796
+637,7,644,SGP,Kirt Soon TANG,60529,340,2,https://bwf.tournamentsoftware.com/player-profile/39B7552C-9DFB-47D4-B2D1-9C219D2FCC34
+637,7,644,SGP,Kia Hwee TAN,17586,340,2,https://bwf.tournamentsoftware.com/player-profile/197109E4-EE83-4B9D-B5F2-A98DB2388DDF
+637,7,644,MAS,Gee Chong TEW,19813,340,2,https://bwf.tournamentsoftware.com/player-profile/C1FB5DB0-BAED-41D1-A7B0-CA25AB45324A
+640,-18,622,IRL,William O`NEILL,15210,320,5,https://bwf.tournamentsoftware.com/player-profile/1A96D41E-0481-47C1-BFF5-7D77EE50A114
+641,6,647,POR,Jose P SOUSA,15296,320,3,https://bwf.tournamentsoftware.com/player-profile/8A7729C0-7D32-442C-AEAF-D91C12521B74
+641,6,647,GRE,Dimitris ORLIS,55091,320,3,https://bwf.tournamentsoftware.com/player-profile/11861A77-7DB5-4602-BA77-C5750A31DB30
+643,6,649,LUX,Robert MANN,92689,316,3,https://bwf.tournamentsoftware.com/player-profile/2D08BCB9-2047-4EBA-982B-B6EC86BD8C06
+644,6,650,UKR,Maksim MARTYNENKO,48509,310,3,https://bwf.tournamentsoftware.com/player-profile/A234398C-42FD-4FC7-B814-D59572BF4733
+644,24,668,FRA,Maxime MICHEL,62901,310,3,https://bwf.tournamentsoftware.com/player-profile/A94AE5E6-AC52-4E59-B433-05CD4D7912CD
+646,28,674,NED,Ben MAES,72554,300,4,https://bwf.tournamentsoftware.com/player-profile/19491CB8-56F7-428C-9A95-317DAEDCFFEF
+647,5,652,GER,Philip WELKER,71000,300,2,https://bwf.tournamentsoftware.com/player-profile/0176484E-B338-4C75-A2B4-4F8317D679BB
+648,5,653,GER,Peter LANG,48177,290,2,https://bwf.tournamentsoftware.com/player-profile/D7ABACCF-1F66-4366-972C-689E01696B0E
+649,5,654,FIN,Eemi SEPPALA,88203,280,3,https://bwf.tournamentsoftware.com/player-profile/44B92C13-25DD-4F74-A7ED-F650FA641826
+650,5,655,BUL,Marin MARINOV,11803,280,2,https://bwf.tournamentsoftware.com/player-profile/E8E6E6AC-AD56-4077-9EF0-98F9FE6FBE37
+650,5,655,ITA,Enrico GALEANI,8961,280,2,https://bwf.tournamentsoftware.com/player-profile/6A4F4992-E740-4D5C-B5D9-DF8E23D4D9C8
+650,5,655,THA,Tossaphol SINGHAVILAWAT,86638,280,2,https://bwf.tournamentsoftware.com/player-profile/042144AE-0495-4902-8626-D1A59B23EBF6
+653,-11,642,NED,Dennis VAN BEKKUM,58289,270,4,https://bwf.tournamentsoftware.com/player-profile/892AF5F4-0F1F-48F4-8263-EAAD347EB6A4
+653,-11,642,NED,Nick SMALING,86773,270,4,https://bwf.tournamentsoftware.com/player-profile/48FB1A91-E5A7-4879-9FFA-6CF73AF703D8
+655,4,659,NED,Jelle KELDERHUIS,90460,270,3,https://bwf.tournamentsoftware.com/player-profile/D370D89F-A73F-4924-AA4C-A4C44020BC12
+656,4,660,LTU,Ramunas STAPUSAITIS,55040,270,2,https://bwf.tournamentsoftware.com/player-profile/B15C06C7-EA9E-45B2-AE6B-DAB5A9B798C0
+656,4,660,ENG,Matthew NOTTINGHAM,92632,270,2,https://bwf.tournamentsoftware.com/player-profile/E2E53638-C980-461D-804A-23AD010FECC5
+656,4,660,PRK,Su Choi JON,89230,270,2,https://bwf.tournamentsoftware.com/player-profile/8284E2B7-B0DF-4DC1-841D-E099C5CC0F45
+659,4,663,NED,Ewoud TAN,50842,260,2,https://bwf.tournamentsoftware.com/player-profile/E94562FF-A19A-46E2-BE2A-253183E8D229
+660,4,664,HUN,Mark SZENT-ANDRASSY,55374,250,4,https://bwf.tournamentsoftware.com/player-profile/763384D6-BB02-40A5-B1E9-B3EC5F96E81E
+661,4,665,SRB,Vladimir SAVIC,31756,250,3,https://bwf.tournamentsoftware.com/player-profile/432A3B38-9574-4AE4-996C-4F59FD59BFC5
+662,4,666,AZE,salimov RAHIM,30299,250,2,https://bwf.tournamentsoftware.com/player-profile/8FCA0210-E4CC-490B-BB1D-382D6A0CF795
+662,4,666,ENG,SIMS Richard,45950,250,2,https://bwf.tournamentsoftware.com/player-profile/E17348CF-DEF9-4D0D-AAB1-50F46A94377C
+664,4,668,GER,Jonas GEIGENBERGER,97507,240,2,https://bwf.tournamentsoftware.com/player-profile/73CBB7BB-E1E5-4B6C-9C7B-81E17DAB013A
+664,4,668,GER,Julien POHL,54406,240,2,https://bwf.tournamentsoftware.com/player-profile/4BD420D3-427C-4DAA-AAB0-4DDB869E480C
+664,4,668,FRA,Florent RIANCHO,24454,240,2,https://bwf.tournamentsoftware.com/player-profile/1E463062-7A31-43E8-B45B-B4FCC2FBEEEF
+664,664,0,FRA,Thomas ROUXEL,38500,240,2,https://bwf.tournamentsoftware.com/player-profile/80D0A7F9-5DE6-4ADA-A68F-CCFD3BFC2634
+668,5,673,CZE,Pavel DRANCAK,36010,230,4,https://bwf.tournamentsoftware.com/player-profile/B51A966D-D451-4CF2-AB8F-712C579AE7B7
+669,6,675,SVK,Juraj VACHALEK,30856,230,2,https://bwf.tournamentsoftware.com/player-profile/C98DF9E6-92FB-48B7-9114-C804A1921570
+670,6,676,SUI,Christoph HEINIGER,54372,220,4,https://bwf.tournamentsoftware.com/player-profile/0AA3138A-B3AD-4A0E-A28B-8DED82EBC1BA
+671,6,677,HUN,Akos VARGA,16227,210,5,https://bwf.tournamentsoftware.com/player-profile/FE8D0BA5-94A6-4BCB-BD80-3F22BD52466E
+672,6,678,HUN,Zoltan KERESZTI,85928,210,3,https://bwf.tournamentsoftware.com/player-profile/DCC972ED-212B-43C2-A756-DF455739DF12
+672,6,678,HUN,Balazs PUSZTAI,51852,210,3,https://bwf.tournamentsoftware.com/player-profile/E552C361-9E16-41CE-83F3-B342B3FD233F
+674,6,680,ENG,Tom MONK,72793,210,2,https://bwf.tournamentsoftware.com/player-profile/3FA034EF-A1BE-4D5B-AE9C-2EBE12E80F0C
+674,6,680,GRE,Stavros Tsigirdakis,57781,210,2,https://bwf.tournamentsoftware.com/player-profile/F4182DAB-E6F7-4503-96C1-A5E3FD7A3D8C
+674,674,0,IRL,Niall TIERNEY,8324,210,2,https://bwf.tournamentsoftware.com/player-profile/0E3535F4-568B-491D-AD02-3F97C6CEF897
+677,5,682,RUS,Dmitiy BALANDIN,56404,200,2,https://bwf.tournamentsoftware.com/player-profile/B3664494-FE5A-4B0A-AA34-008A61B65EAB
+678,5,683,FIN,Petri EINAMO,42733,170,2,https://bwf.tournamentsoftware.com/player-profile/DBF895B4-4A2E-47D7-83BF-1993FF8D1DFB
+678,5,683,SLO,Miha (jnr) SEPEC,12823,170,2,https://bwf.tournamentsoftware.com/player-profile/8E14FF43-97A9-456E-A920-AB4E385425DE
+678,5,683,IRL,Scott BURNSIDE,54306,170,2,https://bwf.tournamentsoftware.com/player-profile/48E06E2F-DF62-400A-B612-43F3DF42AF60
+678,5,683,BUL,Gergin NEDYALKOV,43409,170,2,https://bwf.tournamentsoftware.com/player-profile/C3FB4A88-66D2-490E-97F7-8F983AB4AF57
+682,5,687,GER,Thomas LEGLEITNER,80217,160,2,https://bwf.tournamentsoftware.com/player-profile/FBF99E4E-E7E1-4E0F-B607-082E5FD0412A
+682,5,687,NED,Dave VEERMAN,47575,160,2,https://bwf.tournamentsoftware.com/player-profile/1E9134D8-7379-4533-AAC6-64F52ED994C8
+682,5,687,LUX,Philippe HENGEN,52152,160,2,https://bwf.tournamentsoftware.com/player-profile/5C67E427-889E-47E7-97A3-0CC56AA05A46
+682,5,687,NED,Bart GERRITS,68734,160,2,https://bwf.tournamentsoftware.com/player-profile/C62CEC84-3200-4F18-95E1-831CE5B1A609
+682,5,687,GER,Fabian SCHERPEN,60986,160,2,https://bwf.tournamentsoftware.com/player-profile/909D483B-458F-4FE6-B375-EBC29193E9EB
+687,5,692,NOR,Matz Coucheron-Aamot,41653,150,3,https://bwf.tournamentsoftware.com/player-profile/22B510C7-209C-4273-A833-499EF582ABF9
+687,21,708,ENG,Ian MERCER,44762,150,3,https://bwf.tournamentsoftware.com/player-profile/CBDAB9F6-47C0-447E-9319-5C3DC4E7CFCB
+687,5,692,TUR,Umut CETIN,57355,150,3,https://bwf.tournamentsoftware.com/player-profile/51D67C8B-C719-4ADE-A9E5-C2627EC5EFD1
+687,5,692,SRB,Igor BJELAN,39443,150,3,https://bwf.tournamentsoftware.com/player-profile/90BB2FFC-D9A2-4C8A-BB2B-DC2044AC9C04
+687,5,692,SRB,Nikola ARSIC,74661,150,3,https://bwf.tournamentsoftware.com/player-profile/E708A4E6-6EE4-45B6-B86A-8C842A4ED2AE
+692,4,696,EST,Tauno TOOMING,14680,140,2,https://bwf.tournamentsoftware.com/player-profile/B9ECC246-69AF-4208-B7E5-4EBB59CB0593
+692,4,696,ESP,CEBEY Jesus,66109,140,2,https://bwf.tournamentsoftware.com/player-profile/4A4B2B58-5595-4B22-8899-76B9F8F2B7A7
+692,4,696,HUN,Marton SZATZKER,30566,140,2,https://bwf.tournamentsoftware.com/player-profile/1A2F6C03-1947-411C-8B5E-9791BBA0ED50
+692,4,696,FRA,Joel MEVEL,54040,140,2,https://bwf.tournamentsoftware.com/player-profile/24AD2A33-0B32-4181-B1E3-73612A5F334F
+696,4,700,NOR,Jonas CHRISTENSEN,96229,135,3,https://bwf.tournamentsoftware.com/player-profile/5CD74C71-9036-48C6-A44A-DD585B9EB387
+697,4,701,ENG,Stuart ROWLANDS,91482,130,2,https://bwf.tournamentsoftware.com/player-profile/097F7EC5-9D7F-4F57-966B-CFA22E38BDF8
+698,4,702,FIN,Mikko VIKMAN,54435,110,2,https://bwf.tournamentsoftware.com/player-profile/A3C9AAAE-AEF3-4D11-81E9-32BDCA585C89
+698,4,702,SVK,Tomas FASUNG,97508,110,2,https://bwf.tournamentsoftware.com/player-profile/2D8F804D-6D15-4E47-8592-165911D1866D
+698,4,702,CAN,Kyle HOLOBOFF,53934,110,2,https://bwf.tournamentsoftware.com/player-profile/C0C6552E-5FA9-42FC-BF51-39C84ABB336F
+698,4,702,THA,Pevara BURAPASIRIWAT,74379,110,2,https://bwf.tournamentsoftware.com/player-profile/026F68C8-6257-469B-9F34-A6E6FF87DE0E
+698,4,702,ENG,Philip ASPINALL,64807,110,2,https://bwf.tournamentsoftware.com/player-profile/BD25B3E9-F2C4-4010-83A2-D58205EC0E56
+703,4,707,HUN,Janos MEGYESI,55376,100,3,https://bwf.tournamentsoftware.com/player-profile/46DE88E1-7321-4A14-BBB1-C1C117163846
+704,4,708,HUN,Hajdinak ZOLTAN,38351,80,2,https://bwf.tournamentsoftware.com/player-profile/71DA211A-782E-42F5-9A57-7DAA21938306
+704,4,708,SRB,Ilija PAVLOVIC,35779,80,2,https://bwf.tournamentsoftware.com/player-profile/07CF21DB-C8B0-41C4-9D0E-4FA8289495AE
+704,4,708,SRB,Borko PETROVIC,16451,80,2,https://bwf.tournamentsoftware.com/player-profile/DBC3CCBA-AF77-4A64-ACFD-AF3714076455
+704,4,708,CYP,Nikolas PANAYIOTOU,13399,80,2,https://bwf.tournamentsoftware.com/player-profile/012C8CA6-3192-47FC-9F34-411491A850D2
+708,5,713,UKR,Mykola MARTYNENKO,34022,60,2,https://bwf.tournamentsoftware.com/player-profile/40AAE928-8BE8-4778-B316-339404D50AAD
+708,5,713,HUN,Levente NAGY-SZABO,70915,60,2,https://bwf.tournamentsoftware.com/player-profile/465F7B0F-BAC6-43CE-905F-999B5691B525
+708,5,713,HUN,Peter LETSCH,91859,60,2,https://bwf.tournamentsoftware.com/player-profile/E0BE7099-BA02-462F-A67A-06D327B98891

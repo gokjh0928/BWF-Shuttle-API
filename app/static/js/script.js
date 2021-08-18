@@ -29,3 +29,18 @@ function loading() {
         });
     }, false);
 })();
+
+$('#psw, #psw-repeat').on('keyup', function () {
+    if ($('#psw').val() && $('#psw-repeat').val()) {
+        if ($('#psw').val() != $('#psw-repeat').val()) {
+            $('#message').css('display', 'block');
+            $('#message').html('Passwords Not Matching').css('color', 'red');
+        }
+        else {
+            $('#message').html('Passwords Matching').css('color', 'green');
+        }
+    }
+    else {
+        $('#message').css('display', 'None');
+    }
+});

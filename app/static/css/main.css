@@ -126,12 +126,36 @@ button:focus {
     padding-bottom: 30px;
 }
 
-.b-p-20 {
-    padding-top: 15%;
+.b-p-5 {
+    padding-bottom: 5%;
+}
+
+.b-p-10 {
+    padding-bottom: 10%;
+}
+
+.b-p-15 {
+    padding-bottom: 15%;
 }
 
 .b-p-20 {
-    padding-bottom: 15%;
+    padding-bottom: 20%;
+}
+
+.t-p-5 {
+    padding-top: 5%;
+}
+
+.t-p-10 {
+    padding-top: 10%;
+}
+
+.t-p-15 {
+    padding-top: 15%;
+}
+
+.t-p-20 {
+    padding-top: 15%;
 }
 
 /* For the Rankings page specification inputs */
@@ -153,7 +177,7 @@ div#loading {
     margin: 10% auto; /* Gives that scrolling effect as the typing happens */
     letter-spacing: .15em; /* Adjust as needed */
     animation: 
-        typing 2.5s steps(40, end),
+        typing 2s steps(30, end),
         blink-caret .75s step-end infinite;
 }
 

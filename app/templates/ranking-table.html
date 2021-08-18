@@ -12,14 +12,28 @@
     <table class="table table-bordered">
         <thead class="thead-light">
             <tr>
-                <th scope="col">Rank</th>
-                <th scope="col">Country/Territory</th>
-                <th scope="col">Player</th>
-                <th scope="col">Ranking Change</th>
-                <th scope="col">Win/Loss</th>
-                <th scope="col">Prize Money</th>
-                <th scope="col">Points/Tournaments</th>
-                <th scope="col">BWF Member ID</th>
+                {% if category_abbr in ['MD', 'WD', 'XD'] %}
+                    <th scope="col">Rank</th>
+                    <th scope="col">Prev. Rank</th>
+                    <th scope="col">Rank Change</th>
+                    <th scope="col">Country</th>
+                    <th scope="col">Player 1</th>
+                    <th scope="col">Player 2</th>
+                    <th scope="col">Member ID 1</th>
+                    <th scope="col">Member ID 2</th>
+                    <th scope="col">Points</th>
+                    <th scope="col">Tournaments</th>
+                {% else %}
+                    <th scope="col">Rank</th>
+                    <th scope="col">Prev. Rank</th>
+                    <th scope="col">Rank Change</th>
+                    <th scope="col">Country</th>
+                    <th scope="col">Player</th>
+                    <th scope="col">Member_ID</th>
+                    <th scope="col">Points</th>
+                    <th scope="col">Tournaments</th>
+                {% endif %}
+                
             </tr>
         </thead>
         <tbody>
@@ -27,40 +41,28 @@
                 {% for row in table %}
                 <tr>
                     <td class="align-middle">{{ row[0] }}</td>
+                    <td class="align-middle">{{ row[2] }}</td>
                     <td class="align-middle">{{ row[1] }}</td>
-                    <td class="align-middle">
-                        <a href="{{row[7].split(',')[0]}}">{{ row[2].split(',')[0] }}</a>
-                        , 
-                        <br />
-                        <a href="{{row[7].split(',')[1]}}">{{ row[2].split(',')[1] }}</a> </td>
                     <td class="align-middle">{{ row[3] }}</td>
-                    <td class="align-middle">{{ row[4] }}</td>
-                    <td class="align-middle">{{ row[5] }}</td>
+                    <td class="align-middle"><a href="{{row[10]}}">{{ row[4] }}</a></td>
+                    <td class="align-middle"><a href="{{row[11]}}">{{ row[5] }}</a></td>
                     <td class="align-middle">{{ row[6] }}</td>
-                    <td class="align-middle">{{ row[8].split(',')[0] }},<br>{{ row[8].split(',')[1] }}</td>
+                    <td class="align-middle">{{ row[7] }}</td>
+                    <td class="align-middle">{{ row[8] }}</td>
+                    <td class="align-middle">{{ row[9] }}</td>
                 </tr>
                 {% endfor %}
             {% else %}
                 {% for row in table %}
                 <tr>
-                    
                     <td class="align-middle">{{ row[0] }}</td>
+                    <td class="align-middle">{{ row[2] }}</td>
                     <td class="align-middle">{{ row[1] }}</td>
-
-                    <td class="align-middle">
-                        {% if row[7] != '(Missing)' %}
-                        <a href="{{ row[7] }}">
-                            {{ row[2] }}
-                        </a>
-                        {% else %}
-                            {{ row[2] }}
-                        {% endif %}
-                    </td>
                     <td class="align-middle">{{ row[3] }}</td>
-                    <td class="align-middle">{{ row[4] }}</td>
+                    <td class="align-middle"><a href="{{row[8]}}">{{ row[4] }}</a></td>
                     <td class="align-middle">{{ row[5] }}</td>
                     <td class="align-middle">{{ row[6] }}</td>
-                    <td class="align-middle">{{ row[8] }}</td>
+                    <td class="align-middle">{{ row[7] }}</td>
                 </tr>
                 {% endfor %}
             {% endif %}
@@ -71,7 +73,7 @@
 
 <div class="downloads text-center">
     <span>Download:</span>
-    <a href="{{ url_for('rankings.download', category=category_abbr, year=year, week=week, type='CSV', rows=rows) }}" class="btn btn-primary" role="button" aria-pressed="true">CSV</a>
+    <a href="{{ url_for('rankings.download', category=category_abbr, year=year, week=week, type='csv', rows=rows) }}" class="btn btn-primary" role="button" aria-pressed="true">CSV</a>
     
 </div>
 

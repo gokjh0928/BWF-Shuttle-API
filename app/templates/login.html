@@ -1,0 +1,45 @@
+{% extends 'layout.html' %}
+{% block content %}
+{% if 'user' in session %}
+    <div class="container t-p-10 bottom-spacing">
+        <div class="col-6 offset-3 text-center b-t-20 b-p-20">
+            <h2 class="mb-3 d-flex justify-content-center pb-3">You're already logged in!</h2>
+            <a href="{{ url_for('main.home') }}" class="btn btn-primary btn-block btn-lg">Back to Home</a>
+        </div>
+    </div>
+{% else %}
+<div class="container">
+    <h2 class="mb-3 d-flex justify-content-center text-center">Login</h2>
+    <hr />
+
+    <form action="{{ url_for('authentication.login') }}" method="POST"
+        class="needs-validation col-10 offset-1 text-center" enctype="multipart/form-data" novalidate>
+        <div class="col">
+            <div class="form-group">
+                <label for="email"><b>Email</b></label>
+                <input type="text" class="form-control" placeholder="Enter Email" name="email" id="email" required>
+                <div class="invalid-feedback">
+                    Please put in an email.
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="form-group">
+                <label for="psw"><b>Password</b></label>
+                <input type="password" class="form-control" placeholder="Enter Password" name="psw" id="psw" required>
+                <div class="invalid-feedback">
+                    Please put in a password.
+                </div>
+            </div>
+        </div>
+        <span id='message'></span>
+        <br />
+        <button class="btn btn-primary btn-lg btn-block" type="submit">Login</button>
+    </form>
+    <div class="container top-spacing b-p-5">
+        <p>Don't have an account? <a href="{{ url_for('authentication.register') }}">Register here</a>.</p>
+    </div>
+</div>
+{% endif %}
+
+{% endblock content %}

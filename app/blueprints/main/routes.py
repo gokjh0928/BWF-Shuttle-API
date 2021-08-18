@@ -28,11 +28,11 @@ def contact():
                     f'\nFROM: {name}({email})\n\n' + message)
             mailserver.quit()
             # print('Finish')  
-            return render_template('success.html')
+            flash('Successfully sent email!', 'success')
+            return redirect(url_for('main.contact'))
         except:
-            # print('Something went wrong...')
-            return render_template('fail.html')
-        
+            flash('Something went wrong...', 'danger')
+            return redirect(url_for('main.contact'))
     return render_template('contact.html')
 
 @app.route('/contact/success')
