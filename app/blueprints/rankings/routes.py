@@ -1,4 +1,5 @@
-from flask import render_template, request, redirect, url_for, flash, send_file
+from flask import render_template, request, redirect, url_for, flash, send_file, json
+from app.context_processor import db
 import pandas as pd
 import os
 from .import bp as app
@@ -12,6 +13,14 @@ path = os.getcwd()
 valid_dates = sorted(list(scores.getValidDates().keys()), reverse=True)
 
 categories = {
+        'MS': '472',
+        'WS': '473', 
+        'MD': '474', 
+        'WD': '475', 
+        'XD': '476'
+        }
+
+category_full_name = {
         'MS': 'Mens Singles',
         'WS': 'Womens Singles', 
         'MD': 'Mens Doubles', 
@@ -53,7 +62,7 @@ def table():
             df['change_+/-'] = df['change_+/-'].map(lambda x: '+' + str(x) if (str(x) != '0' and '-' not in str(x)) else str(x))
         context = {
             'table': df.values,
-            'category': categories[request.form.get('category-select')],
+            'category': category_full_name[request.form.get('category-select')],
             'category_abbr': request.form.get('category-select'),
             'date': date,
             'year': date[0],
@@ -89,6 +98,7 @@ def seed():
             date_file_name = '_'.join(date.split('/'))
             if not os.path.isfile(path + f'/rankings/{category}/{category}_{date_file_name}.csv'):
                 print(f'Starting {category} {date}')
+                print(date_dict[date])
                 df = scores.getTable(category, date_dict[date], categories[category], 10000000)
                 df.to_csv(path + f'/rankings/{category}/{category}_{date_file_name}.csv', index=False)
                 print(f'Done for {category} {date}')
@@ -96,3 +106,23 @@ def seed():
 
 # <!-- <a href="{{ url_for('rankings.download', type='JSON') }}" class="btn btn-primary" role="button" aria-pressed="true">JSON</a> -->
 #     <!-- <a href="{{ url_for('rankings.download', type='EXCEL') }}" class="btn btn-primary" role="button" aria-pressed="true">EXCEL</a> -->
+
+@app.route('/upload')
+def upload():
+    # The next two lines delete everything in the database
+    # for date in valid_dates:
+    #     db.child('dates').child(date).remove()
+
+    # Uploading every csv file onto firebase database
+    # for date in valid_dates:
+    #     date_file_name = '_'.join(date.split('/'))
+    #     for category in ['MS','WS','MD','WD','XD']:
+    #         df = pd.read_csv(path + f'/rankings/{category}/{category}_{date_file_name}.csv')
+    #         result = df.to_json(orient='records')
+    #         data = json.loads(result)
+    #         db.child('dates').child(date).child(category).set(data)
+
+    # for thing in db.child('dates').child('2021/08/17').child('MD').child('0').get().each():
+    #     print(thing.key())
+    #     print(thing.val())
+    return render_template('home.html')

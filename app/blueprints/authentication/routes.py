@@ -2,7 +2,6 @@ from flask import render_template, request, redirect, url_for, flash, session, j
 from .import bp as app
 from flask import current_app as curr_app
 from app.context_processor import auth
-from werkzeug.exceptions import HTTPException
 from requests.exceptions import HTTPError
 
 @app.route('/register', methods = ['GET', 'POST'])

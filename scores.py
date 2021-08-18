@@ -2,6 +2,7 @@ import requests
 from IPython.display import display, clear_output as co
 import os
 from os import system, name
+import re
 import datetime
 import numpy as np
 import pandas as pd
@@ -65,7 +66,7 @@ def getTable(category, date_value, category_value, rows=25):
     if category in ['MS', 'WS']:
         # Initialize empty dataframe
         df = pd.DataFrame(columns=['rank', 'rank_change', 'prev_rank', 'country', 'player', 'member_id', 'points', 'tournaments'])
-
+        
         # Iterate through each page by 100
         for page_number in range(1, num_pages+1):
             page = requests.get(f"https://bwf.tournamentsoftware.com/ranking/category.aspx?id={ date_value }&category={ category_value }&C472FOC=&p={page_number}&ps=100")
@@ -168,8 +169,7 @@ def getTable(category, date_value, category_value, rows=25):
             # clean data to only include the 100 rows and rename columns
             df2 = df2[:-1]
             df2.columns = df2.columns.map(lambda x: x.replace(' ', '').lower())
-            df2.drop(['rank.1','unnamed:2','unnamed:5'], axis=1, inplace=True)
-            df2.rename(columns={'memberid':'member_id'}, inplace=True)
+            df2.drop(['rank.1','unnamed:2','unnamed:5', 'memberid'], axis=1, inplace=True)
             
             
             # Get names of each player in pair, member IDs, profile links, previous rank, then the ranking change(negative value indicates drop in rank)
