@@ -42,34 +42,36 @@ def table():
         category = request.form.get('category-select')
         num_rows = request.form.get('num-rows')
         num_rows = int(num_rows) if num_rows else 25
-        
-        date = '_'.join(request.form.get('date').split('/'))
-        # If the csv file already exists for the given date
-        if os.path.isfile(path + f'/rankings/{category}/{category}_{date}.csv'):
-            time.sleep(4)
-            print('File exists!!!!')
-            df = pd.read_csv(path + f'/rankings/{category}/{category}_{date}.csv')[:num_rows]
-        # Else, we should create a csv file for this date(storing it in rankings folder for later use)
-        else:    
-            # If number of rows was specified
-            if num_rows:
-                csv_string = scores.getTable(category, date[0], date[1], int(math.ceil(num_rows / 100.0)) * 100)
-                df = pd.read_csv(StringIO(csv_string), header=0)[:num_rows]
-            # else, default is 25 rows
+        date = request.form.get('date')
+
+        # Check if entry for the date exists
+        if not db.child('dates').child(date).shallow().get().val():
+            flash('Date does not exist', 'info')
+            return redirect(url_for('rankings.home'))
+        else:
+            players = db.child('dates').child('2021/08/17').child(category).get()
+            if category in ['MS', 'WS']:
+                cols = ['rank', 'rank_change', 'prev_rank', 'country', 'player', 'member_id', 'points', 'tournaments', 'profile_link']
             else:
-                csv_string = scores.getTable(category, date[0], date[1])
-                df = pd.read_csv(StringIO(csv_string), header=0)[:25]
-            df['change_+/-'] = df['change_+/-'].map(lambda x: '+' + str(x) if (str(x) != '0' and '-' not in str(x)) else str(x))
-        context = {
-            'table': df.values,
-            'category': category_full_name[request.form.get('category-select')],
-            'category_abbr': request.form.get('category-select'),
-            'date': date,
-            'year': date[0],
-            'week': date[1],
-            'rows': num_rows
-        }
-        return render_template('ranking-table.html', **context)
+                cols = ['rank', 'rank_change', 'prev_rank', 'country', 'player1', 'player2', 'member_id1', 'member_id2', 'points', 'tournaments', 'profile_link1', 'profile_link2']
+            df = pd.DataFrame(columns=cols)
+            for idx, player in enumerate(players.each()):
+                if idx >= num_rows:
+                    break
+                player_dict = player.val()
+                row = [ player_dict[col] for col in cols ]
+                df.loc[idx] = row
+            display(df)
+            context = {
+                'table': df.values,
+                'category': category_full_name[request.form.get('category-select')],
+                'category_abbr': request.form.get('category-select'),
+                'date': date,
+                'year': date[0],
+                'week': date[1],
+                'rows': num_rows
+            }
+            return render_template('ranking-table.html', **context)
     return render_template('ranking-table.html')
 
 
@@ -125,4 +127,12 @@ def upload():
     # for thing in db.child('dates').child('2021/08/17').child('MD').child('0').get().each():
     #     print(thing.key())
     #     print(thing.val())
+
+    # how to check if a child exists
+    print('test')
+    if not db.child('dates').child('2021/08/17').shallow().get().val():
+        print('date does not exist')
+    else:
+        print('date exists!')
+    print('done')
     return render_template('home.html')
