@@ -1,4 +1,4 @@
-from flask import render_template, request, redirect, url_for, flash, send_file, json
+from flask import render_template, request, redirect, url_for, flash, send_file, json, jsonify
 from app.context_processor import db
 import pandas as pd
 import os
@@ -8,6 +8,8 @@ from IPython.display import display
 from io import StringIO
 import time
 import scores
+from app import cache
+
 # The path to the project's directory
 path = os.getcwd()
 valid_dates = sorted(list(scores.getValidDates().keys()), reverse=True)
@@ -44,24 +46,14 @@ def table():
         num_rows = int(num_rows) if num_rows else 25
         date = request.form.get('date')
 
-        # Check if entry for the date exists
+        # Check if entry for the date exists(not processed the latest ranking tables yet in database)
         if not db.child('dates').child(date).shallow().get().val():
             flash('Date does not exist', 'info')
             return redirect(url_for('rankings.home'))
         else:
-            players = db.child('dates').child('2021/08/17').child(category).get()
-            if category in ['MS', 'WS']:
-                cols = ['rank', 'rank_change', 'prev_rank', 'country', 'player', 'member_id', 'points', 'tournaments', 'profile_link']
-            else:
-                cols = ['rank', 'rank_change', 'prev_rank', 'country', 'player1', 'player2', 'member_id1', 'member_id2', 'points', 'tournaments', 'profile_link1', 'profile_link2']
-            df = pd.DataFrame(columns=cols)
-            for idx, player in enumerate(players.each()):
-                if idx >= num_rows:
-                    break
-                player_dict = player.val()
-                row = [ player_dict[col] for col in cols ]
-                df.loc[idx] = row
-            display(df)
+            # if existing in database, generate ranking table
+            df = generate_table(category, date, num_rows)
+
             context = {
                 'table': df.values,
                 'category': category_full_name[request.form.get('category-select')],
@@ -89,6 +81,18 @@ def download(type, category, year, week, rows):
                     mimetype='text/csv',
                     attachment_filename=f'{category}_{year}_{week}.csv',
                     as_attachment=True)
+
+@app.route('/api/<category>/<year>/<month>/<day>/<rows>', methods=['GET'])
+@cache.cached(timeout=120)
+def rank(category, year, month, day, rows):
+    date = f'{year}/{month}/{day}'
+    if not db.child('dates').child(date).shallow().get().val():
+        return {"Invalid Input"}
+    df = generate_table(category, date, int(rows))
+    result = df.to_json(orient='records')
+    return jsonify(json.loads(result))
+
+
 
 @app.route('/seed')
 def seed():
@@ -136,3 +140,22 @@ def upload():
         print('date exists!')
     print('done')
     return render_template('home.html')
+
+
+# Helper function for generating the ranking table, memoized for efficiency
+@cache.memoize(300)
+def generate_table(category, date, num_rows):
+    players = db.child('dates').child(date).child(category).get()
+    if category in ['MS', 'WS']:
+        cols = ['rank', 'rank_change', 'prev_rank', 'country', 'player', 'member_id', 'points', 'tournaments', 'profile_link']
+    else:
+        cols = ['rank', 'rank_change', 'prev_rank', 'country', 'player1', 'player2', 'member_id1', 'member_id2', 'points', 'tournaments', 'profile_link1', 'profile_link2']
+    df = pd.DataFrame(columns=cols)
+    for idx, player in enumerate(players.each()):
+        if idx >= num_rows:
+            break
+        player_dict = player.val()
+        row = [ player_dict[col] for col in cols ]
+        df.loc[idx] = row
+    display(df)
+    return df
