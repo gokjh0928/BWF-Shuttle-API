@@ -13,6 +13,7 @@ from app import cache
 # The path to the project's directory
 path = os.getcwd()
 valid_dates = sorted(list(scores.getValidDates().keys()), reverse=True)
+valid_weeks = scores.getWeeks()
 
 categories = {
         'MS': '472',
@@ -82,12 +83,67 @@ def download(type, category, year, week, rows):
                     attachment_filename=f'{category}_{year}_{week}.csv',
                     as_attachment=True)
 
+
+@app.route('/api/<category>', methods=['GET'])
+@cache.cached(timeout=120)
+def rank_category(category):
+    """
+    category - badminton category to view
+    Return: json containing 25 top players for the input category
+    """
+    date = valid_dates[0]
+    if not db.child('dates').child(date).shallow().get().val():
+        return jsonify(["Invalid Input"])
+    df = generate_table(category, date, 25)
+    result = df.to_json(orient='records')
+    return jsonify(json.loads(result))
+
+
+@app.route('/api/<category>/<rows>', methods=['GET'])
+@cache.cached(timeout=120)
+def rank_category_rows(category, rows):
+    """
+    category - badminton category to view
+    rows - number of players to get
+    Return: json containing top {rows} players for the input category
+    """
+    date = valid_dates[0]
+    if not db.child('dates').child(date).shallow().get().val():
+        return jsonify(["Invalid Input"])
+    df = generate_table(category, date, int(rows))
+    result = df.to_json(orient='records')
+    return jsonify(json.loads(result))
+
+
+@app.route('/api/<category>/<year>/<week>/<rows>', methods=['GET'])
+@cache.cached(timeout=120)
+def rank_year_week(category, year, week, rows):
+    """
+    category - badminton category to view
+    year - the year of the rankings to get
+    rows - number of players to get
+    Return: json containing top {rows} players for the input category
+    """
+    if f'{year}-{week}' not in valid_weeks.keys():
+        return jsonify(["Invalid Input"])
+    date = valid_weeks[f'{year}-{week}']
+    if not db.child('dates').child(date).shallow().get().val():
+        return jsonify(["Invalid Input"])
+    df = generate_table(category, date, int(rows))
+    result = df.to_json(orient='records')
+    return jsonify(json.loads(result))
+
 @app.route('/api/<category>/<year>/<month>/<day>/<rows>', methods=['GET'])
 @cache.cached(timeout=120)
-def rank(category, year, month, day, rows):
+def rank_ymd(category, year, month, day, rows):
+    """
+    category - badminton category to view
+    rows - number of players to get
+    Return: json containing top {rows} players for the input category
+    """
     date = f'{year}/{month}/{day}'
     if not db.child('dates').child(date).shallow().get().val():
-        return {"Invalid Input"}
+        return jsonify(["Invalid Input"])
     df = generate_table(category, date, int(rows))
     result = df.to_json(orient='records')
     return jsonify(json.loads(result))
