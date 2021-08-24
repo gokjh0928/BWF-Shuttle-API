@@ -48,7 +48,7 @@ def table():
     if request.method == 'POST':
         category = request.form.get('category-select')
         num_rows = request.form.get('num-rows')
-        num_rows = int(num_rows) if num_rows else 25
+        num_rows = num_rows if num_rows else '25'
         date = request.form.get('date')
 
         # Check if entry for the date exists(not processed the latest ranking tables yet in database)
