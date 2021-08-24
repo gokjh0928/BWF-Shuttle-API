@@ -1,4 +1,5 @@
 from flask import render_template, request, redirect, url_for, flash, send_file, json, jsonify, Response
+from numpy import e
 from app.context_processor import db
 import pandas as pd
 import os
@@ -109,12 +110,14 @@ def download(type, category, year, week, rows):
 def rank_category(category):
     """
     category - badminton category to view
-    Return: json data containing 25 top players for the input category
+    Return: json data containing current 25 top players for the input category
     """
     date = valid_dates[0]
-    if not db.child('dates').child(date).shallow().get().val():
-        return jsonify(["Invalid Input"])
-    data= generate_table(category, date, 25).to_json(orient='records')
+    df = generate_table(category, date, 25)
+    if isinstance(df, pd.DataFrame): 
+        data = df.to_json(orient='records')
+    else:
+        return jsonify(["Invalid Input!"])
     return jsonify(json.loads(data))
 
 
@@ -124,12 +127,14 @@ def rank_category_rows(category, rows):
     """
     category - badminton category to view
     rows - number of players to get
-    Return: json containing top {rows} players for the input category
+    Return: json containing current top {rows} players for the input category
     """
     date = valid_dates[0]
-    if not db.child('dates').child(date).shallow().get().val():
-        return jsonify(["Invalid Input"])
-    data = generate_table(category, date, int(rows)).to_json(orient='records')
+    df = generate_table(category, date, rows)
+    if isinstance(df, pd.DataFrame): 
+        data = df.to_json(orient='records')
+    else:
+        return jsonify(["Invalid Input!"])
     return jsonify(json.loads(data))
 
 
@@ -140,14 +145,16 @@ def rank_year_week(category, year, week, rows):
     category - badminton category to view
     year - the year of the rankings to get
     rows - number of players to get
-    Return: json containing top {rows} players for the input category
+    Return: json containing top {rows} players for the input category for chosen year
     """
     if f'{year}-{week}' not in valid_weeks.keys():
         return jsonify(["Invalid Input"])
     date = valid_weeks[f'{year}-{week}']
-    if not db.child('dates').child(date).shallow().get().val():
-        return jsonify(["Invalid Input"])
-    data = generate_table(category, date, int(rows)).to_json(orient='records')
+    df = generate_table(category, date, rows)
+    if isinstance(df, pd.DataFrame): 
+        data = df.to_json(orient='records')
+    else:
+        return jsonify(["Invalid Input!"])
     return jsonify(json.loads(data))
 
 @app.route('/api/<category>/<year>/<month>/<day>/<rows>', methods=['GET'])
@@ -156,12 +163,14 @@ def rank_ymd(category, year, month, day, rows):
     """
     category - badminton category to view
     rows - number of players to get
-    Return: json containing top {rows} players for the input category
+    Return: json containing top {rows} players for the input category for chosen year
     """
     date = f'{year}/{month}/{day}'
-    if not db.child('dates').child(date).shallow().get().val():
-        return jsonify(["Invalid Input"])
-    data = generate_table(category, date, int(rows)).to_json(orient='records')
+    df = generate_table(category, date, rows)
+    if isinstance(df, pd.DataFrame):
+        data = df.to_json(orient='records')
+    else:
+        return jsonify(["Invalid Input!"])
     return jsonify(json.loads(data))
 
 
@@ -183,11 +192,9 @@ def rank_ymd(category, year, month, day, rows):
 #             break
 #     return render_template('home.html')
 
-# <!-- <a href="{{ url_for('rankings.download', type='JSON') }}" class="btn btn-primary" role="button" aria-pressed="true">JSON</a> -->
-#     <!-- <a href="{{ url_for('rankings.download', type='EXCEL') }}" class="btn btn-primary" role="button" aria-pressed="true">EXCEL</a> -->
 
-@app.route('/upload')
-def upload():
+# @app.route('/upload')
+# def upload():
     # The next two lines delete everything in the database
     # for date in valid_dates:
     #     db.child('dates').child(date).remove()
@@ -206,18 +213,21 @@ def upload():
     #     print(thing.val())
 
     # how to check if a child exists
-    print('test')
-    if not db.child('dates').child('2021/08/17').shallow().get().val():
-        print('date does not exist')
-    else:
-        print('date exists!')
-    print('done')
-    return render_template('home.html')
+    # print('test')
+    # if not db.child('dates').child('2021/08/17').shallow().get().val():
+    #     print('date does not exist')
+    # else:
+    #     print('date exists!')
+    # print('done')
+    # return render_template('home.html')
 
 
 # Helper function for generating the ranking table, memoized for efficiency
 @cache.memoize(300)
 def generate_table(category, date, num_rows):
+    # Check if data for date exists, if category is valid, and if number of rows is a number
+    if (not db.child('dates').child(date).shallow().get().val()) or (not num_rows.isnumeric()) or (category not in categories.keys()):
+        return None
     players = db.child('dates').child(date).child(category).get()
     if category in ['MS', 'WS']:
         cols = ['rank', 'rank_change', 'prev_rank', 'country', 'player', 'member_id', 'points', 'tournaments', 'profile_link']
