@@ -1,15 +1,10 @@
 import requests
-from IPython.display import display, clear_output as co
-import os
-from os import system, name
+from IPython.display import display
 import re
 import datetime
-import numpy as np
 import pandas as pd
 from bs4 import BeautifulSoup
 import requests
-import json, math
-from pprint import pprint
 
 # Get all valid dates to get rankings from
 def getValidDates():

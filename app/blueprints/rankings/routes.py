@@ -1,13 +1,10 @@
-from flask import render_template, request, redirect, url_for, flash, send_file, json, jsonify, Response
-from numpy import e
+from flask import render_template, request, redirect, url_for, flash, json, jsonify, Response
 from app.context_processor import db
 import pandas as pd
 import os
 from .import bp as app
-import math
 from IPython.display import display
 from io import StringIO
-import time
 import scores
 from app import cache
 

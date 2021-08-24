@@ -1,5 +1,4 @@
-from flask import Flask, request, jsonify
-from flask import current_app as curr_app
+from flask import Flask
 from config import Config
 from flask_caching import Cache
 
