@@ -74,7 +74,8 @@
 <div class="downloads text-center">
     <span>Download:</span>
     <a href="{{ url_for('rankings.download', category=category_abbr, year=year, week=week, type='csv', rows=rows) }}" class="btn btn-primary" role="button" aria-pressed="true">CSV</a>
-    
+    <a href="{{ url_for('rankings.download', category=category_abbr, year=year, week=week, type='json', rows=rows) }}"
+        class="btn btn-primary" role="button" aria-pressed="true">JSON</a>    
 </div>
 
 {% endblock content %}

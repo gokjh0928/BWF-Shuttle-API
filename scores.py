@@ -67,19 +67,14 @@ alt_names = {
 # function to get the table at the url
 # Link is: https://bwf.tournamentsoftware.com/ranking/category.aspx?id={ date_value }&category={ category_value }&C472FOC=&p=1&ps=100
 
-def getTable(category, date_value, category_value, rows=25):
-    # get number of pages to look at to get all the rows needed
-    q,r = divmod(rows, 100)
-    # look at an extra page if there is a remainder to consider the remaining rows
-    num_pages = q if r == 0 else q+1
-    
+def getTable(category, date_value, category_value):
+    page_number = 1
     # Singles categories
     if category in ['MS', 'WS']:
         # Initialize empty dataframe
         df = pd.DataFrame(columns=['rank', 'rank_change', 'prev_rank', 'country', 'player', 'member_id', 'points', 'tournaments'])
-        
         # Iterate through each page by 100
-        for page_number in range(1, num_pages+1):
+        while True:
             page = requests.get(f"https://bwf.tournamentsoftware.com/ranking/category.aspx?id={ date_value }&category={ category_value }&C472FOC=&p={page_number}&ps=100")
             soup = BeautifulSoup(page.content, 'html.parser')
             
@@ -94,7 +89,6 @@ def getTable(category, date_value, category_value, rows=25):
             df2.drop(['rank.1','unnamed:2','unnamed:5'], axis=1, inplace=True)
             df2.rename(columns={'memberid':'member_id'}, inplace=True)
             
-            
             # Get names of each player in pair, then the previous rank, then the ranking change with '-' indicating drop in rank
             player = []
             member_id = []
@@ -104,27 +98,25 @@ def getTable(category, date_value, category_value, rows=25):
             skip = False
             profile_url_prefix = "https://bwf.tournamentsoftware.com"
             for idx, row in enumerate(soup.find_all('tr')[2:-1]):
-#                 # Check if the row has 2 flags and 2 names to ensure there are two valid players
-#                     print(row.find_all('td')[0].string)
-                    rank = int(row.find_all('td')[0].string)
-
-#                     print(row.find('a').string)
-                    player.append(row.find('a').string)
-                    
-#                     print(row.find_all('td')[6].string)
-                    member_id.append(row.find_all('td')[6].string)
-                    
-#                     print(profile_url_prefix + row.find_all('td')[5].find('a')['href'])
-                    profile_link.append(profile_url_prefix + row.find_all('td')[5].find('a')['href'])
-                    
-                    if 'title' in row.find_all('td')[1].attrs:
-                        prev_rank = int(row.find_all('td')[1]['title'].split(' ')[2])
-                        ranking_change = prev_rank - rank
-                    else:
-                        prev_rank = 0
-                        ranking_change = rank - prev_rank
-                    previous_ranks.append(prev_rank)
-                    rank_changes.append(ranking_change)
+#               Check if the row has 2 flags and 2 names to ensure there are two valid players
+#               print(row.find_all('td')[0].string)
+                rank = int(row.find_all('td')[0].string)
+#               print(row.find('a').string)
+                player.append(row.find('a').string)
+#               print(row.find_all('td')[6].string)
+                member_id.append(row.find_all('td')[6].string)
+#               print(profile_url_prefix + row.find_all('td')[5].find('a')['href'])
+                profile_link.append(profile_url_prefix + row.find_all('td')[5].find('a')['href'])
+                
+                if 'title' in row.find_all('td')[1].attrs:
+                    prev_rank = int(row.find_all('td')[1]['title'].split(' ')[2])
+                    ranking_change = prev_rank - rank
+                else:
+                    prev_rank = 0
+                    ranking_change = rank - prev_rank
+                previous_ranks.append(prev_rank)
+                rank_changes.append(ranking_change)
+            page_number += 1
 
 
             # Get additional data 
@@ -155,20 +147,13 @@ def getTable(category, date_value, category_value, rows=25):
 #         display(df)
         return df
 
-
-
-
-
-
-
-
     # Doubles Categories
     if category in ['MD', 'WD', 'XD']:
         # Initialize empty dataframe
         df = pd.DataFrame(columns=['rank', 'rank_change', 'prev_rank', 'country', 'player1', 'player2', 'member_id1', 'member_id2', 'points', 'tournaments'])
         
         # Iterate through each page by 100
-        for page_number in range(1, num_pages+1):
+        while True:
             page = requests.get(f"https://bwf.tournamentsoftware.com/ranking/category.aspx?id={ date_value }&category={ category_value }&C472FOC=&p={page_number}&ps=100")
             soup = BeautifulSoup(page.content, 'html.parser')
             
@@ -232,6 +217,7 @@ def getTable(category, date_value, category_value, rows=25):
                         ranking_change = rank - prev_rank
                     previous_ranks.append(prev_rank)
                     rank_changes.append(ranking_change)
+            page_number += 1
 
 
             # Get additional data 

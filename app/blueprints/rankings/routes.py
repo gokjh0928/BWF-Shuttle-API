@@ -1,4 +1,4 @@
-from flask import render_template, request, redirect, url_for, flash, send_file, json, jsonify
+from flask import render_template, request, redirect, url_for, flash, send_file, json, jsonify, Response
 from app.context_processor import db
 import pandas as pd
 import os
@@ -12,9 +12,12 @@ from app import cache
 
 # The path to the project's directory
 path = os.getcwd()
+# Dictionary with valid dates as keys and values being the ones used for getting the url
 valid_dates = sorted(list(scores.getValidDates().keys()), reverse=True)
+# Dict with keys formated like '{year}-{week}' and value being corresponding year/month/day
 valid_weeks = scores.getWeeks()
 
+# Values used to get URL of chosen category
 categories = {
         'MS': '472',
         'WS': '473', 
@@ -49,7 +52,7 @@ def table():
 
         # Check if entry for the date exists(not processed the latest ranking tables yet in database)
         if not db.child('dates').child(date).shallow().get().val():
-            flash('Date does not exist', 'info')
+            flash(f'Table for {date} does not exist', 'info')
             return redirect(url_for('rankings.home'))
         else:
             # if existing in database, generate ranking table
@@ -60,8 +63,8 @@ def table():
                 'category': category_full_name[request.form.get('category-select')],
                 'category_abbr': request.form.get('category-select'),
                 'date': date,
-                'year': date[0],
-                'week': date[1],
+                'year': date[:4],
+                'week': (list(valid_weeks.keys())[list(valid_weeks.values()).index(date)]).split('-')[1],
                 'rows': num_rows
             }
             return render_template('ranking-table.html', **context)
@@ -74,14 +77,31 @@ def players():
 
 @app.route('/download/<type>/<category>/<year>/<week>/<rows>')
 def download(type, category, year, week, rows):
-    print(type, category, year, week, rows)
-    # print(os.path.abspath(os.path.join(path, os.pardir)))
-    path_to_file = path + f'/rankings/{category}/{category}_{date_file_name}.csv'
+    """
+    type - type of file to download(csv, json, etc)
+    category - chosen badminton category
+    year, week - chosen date to download from
+    rows - number of rows
+    Return: downloaded csv file that use wants
+    """
+    df = generate_table(category, valid_weeks[f'{year}-{week}'], rows)
+    if type == 'csv':
+        file = df.to_csv(index=False)
+        return Response(
+            file,
+            mimetype="text/csv",
+            headers={"Content-disposition":
+                    f"attachment; filename={category}_{year}_{week}.csv"})        
+    elif type == 'json':
+        data = df.to_json(orient='records')
+        file = jsonify(json.loads(data))
+        file.headers['Content-Disposition'] = f'attachment;filename={category}_{year}_{week}.json'
+        return file
+    else:
+        return jsonify(["Invalid Input"])
+
     
-    return send_file(path + f'/rankings/{category}/{category}_{date_file_name}.csv',
-                    mimetype='text/csv',
-                    attachment_filename=f'{category}_{year}_{week}.csv',
-                    as_attachment=True)
+    
 
 
 @app.route('/api/<category>', methods=['GET'])
@@ -89,14 +109,13 @@ def download(type, category, year, week, rows):
 def rank_category(category):
     """
     category - badminton category to view
-    Return: json containing 25 top players for the input category
+    Return: json data containing 25 top players for the input category
     """
     date = valid_dates[0]
     if not db.child('dates').child(date).shallow().get().val():
         return jsonify(["Invalid Input"])
-    df = generate_table(category, date, 25)
-    result = df.to_json(orient='records')
-    return jsonify(json.loads(result))
+    data= generate_table(category, date, 25).to_json(orient='records')
+    return jsonify(json.loads(data))
 
 
 @app.route('/api/<category>/<rows>', methods=['GET'])
@@ -110,9 +129,8 @@ def rank_category_rows(category, rows):
     date = valid_dates[0]
     if not db.child('dates').child(date).shallow().get().val():
         return jsonify(["Invalid Input"])
-    df = generate_table(category, date, int(rows))
-    result = df.to_json(orient='records')
-    return jsonify(json.loads(result))
+    data = generate_table(category, date, int(rows)).to_json(orient='records')
+    return jsonify(json.loads(data))
 
 
 @app.route('/api/<category>/<year>/<week>/<rows>', methods=['GET'])
@@ -129,9 +147,8 @@ def rank_year_week(category, year, week, rows):
     date = valid_weeks[f'{year}-{week}']
     if not db.child('dates').child(date).shallow().get().val():
         return jsonify(["Invalid Input"])
-    df = generate_table(category, date, int(rows))
-    result = df.to_json(orient='records')
-    return jsonify(json.loads(result))
+    data = generate_table(category, date, int(rows)).to_json(orient='records')
+    return jsonify(json.loads(data))
 
 @app.route('/api/<category>/<year>/<month>/<day>/<rows>', methods=['GET'])
 @cache.cached(timeout=120)
@@ -144,27 +161,27 @@ def rank_ymd(category, year, month, day, rows):
     date = f'{year}/{month}/{day}'
     if not db.child('dates').child(date).shallow().get().val():
         return jsonify(["Invalid Input"])
-    df = generate_table(category, date, int(rows))
-    result = df.to_json(orient='records')
-    return jsonify(json.loads(result))
+    data = generate_table(category, date, int(rows)).to_json(orient='records')
+    return jsonify(json.loads(data))
 
 
 
-@app.route('/seed')
-def seed():
-    # Getting the CSV files
-    date_dict = scores.getValidDates()
-    dates = list(date_dict.keys())
-    for date in dates:
-        for category in ['MS', 'WS', 'MD', 'WD', 'XD']:
-            date_file_name = '_'.join(date.split('/'))
-            if not os.path.isfile(path + f'/rankings/{category}/{category}_{date_file_name}.csv'):
-                print(f'Starting {category} {date}')
-                print(date_dict[date])
-                df = scores.getTable(category, date_dict[date], categories[category], 10000000)
-                df.to_csv(path + f'/rankings/{category}/{category}_{date_file_name}.csv', index=False)
-                print(f'Done for {category} {date}')
-    return render_template('home.html')
+# @app.route('/seed')
+# def seed():
+#     date_dict = scores.getValidDates()
+#     for date in valid_dates:
+#         # Check if the database contains the data for this date
+#         if not db.child('dates').child(date).shallow().get().val():
+#             for category in ['MS', 'WS', 'MD', 'WD', 'XD']:
+#                 print(f'Starting {category} {date}')
+#                 result = scores.getTable(category, date_dict[date], categories[category]).to_json(orient='records')
+#                 data = json.loads(result)
+#                 db.child('dates').child(date).child(category).set(data)
+#                 print(f'Done for {category} {date}')
+#         # Since the dates are ordered, break once finding a date that is contained in database
+#         else:
+#             break
+#     return render_template('home.html')
 
 # <!-- <a href="{{ url_for('rankings.download', type='JSON') }}" class="btn btn-primary" role="button" aria-pressed="true">JSON</a> -->
 #     <!-- <a href="{{ url_for('rankings.download', type='EXCEL') }}" class="btn btn-primary" role="button" aria-pressed="true">EXCEL</a> -->
@@ -208,10 +225,10 @@ def generate_table(category, date, num_rows):
         cols = ['rank', 'rank_change', 'prev_rank', 'country', 'player1', 'player2', 'member_id1', 'member_id2', 'points', 'tournaments', 'profile_link1', 'profile_link2']
     df = pd.DataFrame(columns=cols)
     for idx, player in enumerate(players.each()):
-        if idx >= num_rows:
+        if idx >= int(num_rows):
             break
         player_dict = player.val()
         row = [ player_dict[col] for col in cols ]
         df.loc[idx] = row
-    display(df)
+    # display(df)
     return df
