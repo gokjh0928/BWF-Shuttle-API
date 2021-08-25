@@ -158,7 +158,7 @@ def rank_category(category):
     Return: json data containing current 25 top players for the input category
     """
     date = valid_dates[0]
-    df = generate_table(category, date, 25)
+    df = generate_table(category, date, '25')
     if isinstance(df, pd.DataFrame): 
         data = df.to_json(orient='records')
     else:
