@@ -45,7 +45,7 @@ def login():
 def logout():
     if 'user' in session:
         session.pop('user', None)
-        flash('Logged out successully', 'success')
+        # flash('Logged out successully', 'success')
     return render_template('login.html')
 
 @app.route('/reset_password', methods = ['GET', 'POST'])
