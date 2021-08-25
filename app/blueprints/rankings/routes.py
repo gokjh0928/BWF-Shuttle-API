@@ -4,7 +4,6 @@ import pandas as pd
 import os
 from .import bp as app
 from IPython.display import display
-from io import StringIO
 import scores
 from app import cache
 
@@ -97,9 +96,55 @@ def download(type, category, year, week, rows):
         return file
     else:
         return jsonify(["Invalid Input"])
-
     
     
+@app.route('/table/<category>/<year>/<month>/<day>/<rows>', methods=['GET'])
+def flask_table(category, year, month, day, rows):
+    date = f'{year}/{month}/{day}'
+    df = generate_table(category, date, rows)
+    if isinstance(df, pd.DataFrame): 
+        search = request.args.get('search[value]')
+        total_records = len(df)
+        if search:
+            df = df[df.apply(lambda row: row.astype(str).str.contains(search, case=False).any(), axis=1)]
+        total_filtered = len(df)
+        order = []
+        i = 0
+        while True:
+            col_index = request.args.get(f'order[{i}][column]')
+            if col_index is None:
+                break
+            col_name = request.args.get(f'columns[{col_index}][data]')
+            if col_name not in ['player', 'player1', 'player2', 'rank', 'rank_change', 'prev_rank', 'points', 'tournaments']:
+                col_name = 'rank'
+            descending = request.args.get(f'order[{i}][dir]') == 'desc'
+            if descending:
+                print(col_name)
+                if col_name in ['player', 'player1', 'player2']:
+                    df.sort_values(by=col_name, ascending=False, inplace=True, key=lambda col: col.str.lower())
+                elif col_name != 'rank':
+                    df.sort_values(by=[col_name, 'rank'], ascending=[False, True], inplace=True)
+                else:
+                    df.sort_values(by='rank', ascending=False, inplace=True)
+            else:
+                if col_name in ['player', 'player1', 'player2']:
+                    df.sort_values(by=col_name, ascending=True, inplace=True, key=lambda col: col.str.lower())
+                elif col_name != 'rank':
+                    df.sort_values(by=[col_name, 'rank'], ascending=[True, True], inplace=True)
+                else:
+                    df.sort_values(by='rank', ascending=True, inplace=True)
+            i += 1
+        
+        start = request.args.get('start', type=int)
+        length = request.args.get('length', type=int)
+        df = df[start:start+length]
+        # response
+        return {
+            'data': df.to_dict('records'),
+            'recordsFiltered': total_filtered,
+            'recordsTotal': total_records,
+            'draw': request.args.get('draw', type=int)
+        } 
 
 
 @app.route('/api/<category>', methods=['GET'])
@@ -238,4 +283,9 @@ def generate_table(category, date, num_rows):
         row = [ player_dict[col] for col in cols ]
         df.loc[idx] = row
     # display(df)
+    df = df.astype({'rank': 'int32', 
+                    'rank_change': 'int32', 
+                    'prev_rank': 'int32',
+                    'points': 'int32',
+                    'tournaments': 'int32'})
     return df

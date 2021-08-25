@@ -28,7 +28,9 @@ td, tr {
     text-align: center;
 }
 
-.table-scroll {
+/* Code that allows ranking table to scroll(disabled since using Flask Table) */
+
+/* .table-scroll {
     position: relative;
     height: 500px;
     overflow: auto;
@@ -36,7 +38,7 @@ td, tr {
 
 .table-scroll-y {
     display: block;
-}
+} */
 
 
 /* Copying the color scheme of the BWF website */
@@ -74,11 +76,10 @@ span.navbar-toggler-icon:active {
     color: #EFEFEF;
 }
 
-
-
 button.navbar-toggler {
   border-color: white;
 }
+
 
 /* button styles */
 
@@ -191,7 +192,6 @@ div#loading {
   from, to { border-color: transparent }
   50% { border-color: #DF2028; }
 }
-
 
 
 .social-icon .fa {

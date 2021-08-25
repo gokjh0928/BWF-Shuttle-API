@@ -9,68 +9,36 @@
 <h4 class="mb-3 d-flex justify-content-center text-center">({{ date }})</h4>
 <a href="{{ url_for('rankings.home') }}" class="btn btn-primary return-button" role="button"
     aria-pressed="true">Return</a>
-<div class="table-scroll-y table-scroll table-bordered">
-    <table class="table table-bordered">
-        <thead class="thead-light">
-            <tr>
-                {% if category_abbr in ['MD', 'WD', 'XD'] %}
-                    <th class="align-middle" scope="col">Rank</th>
-                    <th class="align-middle" scope="col">Prev. Rank</th>
-                    <th class="align-middle" scope="col">Rank Change</th>
-                    <th class="align-middle" scope="col">Country</th>
-                    <th class="align-middle" scope="col">Player 1</th>
-                    <th class="align-middle" scope="col">Player 2</th>
-                    <th class="align-middle" scope="col">Member ID 1</th>
-                    <th class="align-middle" scope="col">Member ID 2</th>
-                    <th class="align-middle" scope="col">Points</th>
-                    <th class="align-middle" scope="col">Tournaments</th>
-                {% else %}
-                    <th class="align-middle" scope="col">Rank</th>
-                    <th class="align-middle" scope="col">Prev. Rank</th>
-                    <th class="align-middle" scope="col">Rank Change</th>
-                    <th class="align-middle" scope="col">Country</th>
-                    <th class="align-middle" scope="col">Player</th>
-                    <th class="align-middle" scope="col">Member_ID</th>
-                    <th class="align-middle" scope="col">Points</th>
-                    <th class="align-middle" scope="col">Tournaments</th>
-                {% endif %}
-
-            </tr>
-        </thead>
-        <tbody>
+<table id="data" class="table table-bordered">
+    <thead class="thead-light">
+        <tr>
             {% if category_abbr in ['MD', 'WD', 'XD'] %}
-                {% for row in table %}
-                    <tr>
-                        <td class="align-middle">{{ row[0] }}</td>
-                        <td class="align-middle">{{ row[2] }}</td>
-                        <td class="align-middle">{{ row[1] }}</td>
-                        <td class="align-middle">{{ row[3] }}</td>
-                        <td class="align-middle"><a href="{{row[10]}}">{{ row[4] }}</a></td>
-                        <td class="align-middle"><a href="{{row[11]}}">{{ row[5] }}</a></td>
-                        <td class="align-middle">{{ row[6] }}</td>
-                        <td class="align-middle">{{ row[7] }}</td>
-                        <td class="align-middle">{{ row[8] }}</td>
-                        <td class="align-middle">{{ row[9] }}</td>
-                    </tr>
-                {% endfor %}
+                <th class="align-middle" scope="col">Rank</th>
+                <th class="align-middle" scope="col">Prev. Rank</th>
+                <th class="align-middle" scope="col">Rank Change</th>
+                <th class="align-middle" scope="col">Country</th>
+                <th class="align-middle" scope="col">Player 1</th>
+                <th class="align-middle" scope="col">Player 2</th>
+                <th class="align-middle" scope="col">Member ID 1</th>
+                <th class="align-middle" scope="col">Member ID 2</th>
+                <th class="align-middle" scope="col">Points</th>
+                <th class="align-middle" scope="col">Tournaments</th>
             {% else %}
-                {% for row in table %}
-                    <tr>
-                        <td class="align-middle">{{ row[0] }}</td>
-                        <td class="align-middle">{{ row[2] }}</td>
-                        <td class="align-middle">{{ row[1] }}</td>
-                        <td class="align-middle">{{ row[3] }}</td>
-                        <td class="align-middle"><a href="{{row[8]}}">{{ row[4] }}</a></td>
-                        <td class="align-middle">{{ row[5] }}</td>
-                        <td class="align-middle">{{ row[6] }}</td>
-                        <td class="align-middle">{{ row[7] }}</td>
-                    </tr>
-                {% endfor %}
+                <th class="align-middle" scope="col">Rank</th>
+                <th class="align-middle" scope="col">Prev. Rank</th>
+                <th class="align-middle" scope="col">Rank Change</th>
+                <th class="align-middle" scope="col">Country</th>
+                <th class="align-middle" scope="col">Player</th>
+                <th class="align-middle" scope="col">Member_ID</th>
+                <th class="align-middle" scope="col">Points</th>
+                <th class="align-middle" scope="col">Tournaments</th>
             {% endif %}
 
-        </tbody>
-    </table>
-</div>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
 
 <div class="downloads text-center">
     <span>Download:</span>
@@ -81,3 +49,47 @@
 </div>
 
 {% endblock content %}
+
+{% block scripts %}
+    {% if category_abbr in ['MD', 'WD', 'XD'] %}
+        <script>
+            $(document).ready(function () {
+                $('#data').DataTable({
+                    ajax: `/rankings/table/{{category_abbr}}/{{date}}/{{rows}}`,
+                    serverSide: true,
+                    columns: [
+                        { data: 'rank' },
+                        { data: 'rank_change' },
+                        { data: 'prev_rank'},
+                        { data: 'country', orderable: false },
+                        { data: 'player1' },
+                        { data: 'player2' },
+                        { data: 'member_id1', orderable: false },
+                        { data: 'member_id2', orderable: false },
+                        { data: 'points' },
+                        { data: 'tournaments' }
+                    ],
+                });
+            });
+        </script>
+    {% else %}
+        <script>
+        $(document).ready(function () {
+            $('#data').DataTable({
+                ajax: `/rankings/table/{{category_abbr}}/{{date}}/{{rows}}`,
+                serverSide: true,
+                columns: [
+                    { data: 'rank' },
+                    { data: 'prev_rank'},
+                    { data: 'rank_change' },
+                    { data: 'country', orderable: false },
+                    { data: 'player' },
+                    { data: 'member_id', orderable: false },
+                    { data: 'points' },
+                    { data: 'tournaments' }
+                ],
+            });
+        });
+        </script>
+    {% endif %}
+{% endblock %}

@@ -35,7 +35,8 @@ def login():
                 # userId and idToken
                 session['user'] = user['idToken']
             except:
-                flash('Incorrect email or password')
+                flash('Incorrect email or password', 'info')
+                return redirect(url_for('authentication.login'))
             flash('Logged in successsfully', 'success')
             return redirect(url_for('main.home'))
     return render_template('login.html')
