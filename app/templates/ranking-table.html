@@ -9,6 +9,7 @@
 <h4 class="mb-3 d-flex justify-content-center text-center">({{ date }})</h4>
 <a href="{{ url_for('rankings.home') }}" class="btn btn-primary return-button" role="button"
     aria-pressed="true">Return</a>
+<div class="table-responsive datatable-wide">
 <table id="data" class="table table-bordered">
     <thead class="thead-light">
         <tr>
@@ -39,7 +40,7 @@
     <tbody>
     </tbody>
 </table>
-
+</div>
 <div class="downloads text-center">
     <span>Download:</span>
     <a href="{{ url_for('rankings.download', category=category_abbr, year=year, week=week, type='csv', rows=rows) }}"
@@ -68,7 +69,7 @@
                         { data: 'member_id2', orderable: false },
                         { data: 'points' },
                         { data: 'tournaments' }
-                    ],
+                    ]
                 });
             });
         </script>
@@ -88,6 +89,7 @@
                     { data: 'points' },
                     { data: 'tournaments' }
                 ],
+                "scrollX": true,
             });
         });
         </script>

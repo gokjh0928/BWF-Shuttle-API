@@ -20,6 +20,12 @@ p {
 
 /* table styles */
 
+.datatable-wide {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+
 table {
     margin-bottom: 0 !important;
 }
@@ -39,7 +45,32 @@ td, tr {
 .table-scroll-y {
     display: block;
 } */
+/* th, td {
+    white-space: nowrap; 
+} */
 
+tr:hover {
+    background-color: #f6f6f6;
+}
+
+.dataTables_scroll {
+    text-align: center;
+}
+
+
+.page-item.active .page-link{
+    background-color: #DF2028;
+    border-color: #960E15;
+}
+
+
+.page-link {
+    color: #DF2028;
+}
+
+.page-link:hover {
+    color: #960E15;
+}
 
 /* Copying the color scheme of the BWF website */
 .navbar-custom {
