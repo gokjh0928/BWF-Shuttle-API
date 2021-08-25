@@ -106,7 +106,10 @@ def flask_table(category, year, month, day, rows):
         search = request.args.get('search[value]')
         total_records = len(df)
         if search:
-            df = df[df.apply(lambda row: row.astype(str).str.contains(search, case=False).any(), axis=1)]
+            if category in ['MS', 'WS']:
+                df = df[df.drop('profile_link', axis=1).apply(lambda row: row.astype(str).str.contains(search, case=False, regex=True).any(), axis=1)]
+            elif category in ['MD', 'WD', 'XD']:
+                df = df[df.drop(['profile_link1', 'profile_link2'], axis=1).apply(lambda row: row.astype(str).str.contains(search, case=False, regex=True).any(), axis=1)]
         total_filtered = len(df)
         order = []
         i = 0
@@ -265,7 +268,7 @@ def rank_ymd(category, year, month, day, rows):
 
 
 # Helper function for generating the ranking table, memoized for efficiency
-@cache.memoize(300)
+@cache.memoize(timeout=600)
 def generate_table(category, date, num_rows):
     # Check if data for date exists, if category is valid, and if number of rows is a number
     if (not db.child('dates').child(date).shallow().get().val()) or (not num_rows.isnumeric()) or (category not in categories.keys()):

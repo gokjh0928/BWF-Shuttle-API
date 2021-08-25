@@ -19,13 +19,6 @@ p {
 }
 
 /* table styles */
-
-.datatable-wide {
-    padding-left: 0;
-    padding-right: 0;
-}
-
-
 table {
     margin-bottom: 0 !important;
 }
