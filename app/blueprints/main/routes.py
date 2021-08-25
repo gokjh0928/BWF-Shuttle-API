@@ -25,7 +25,7 @@ def contact():
             mailserver.login(curr_app.config.get('MAIL_USERNAME'), curr_app.config.get('MAIL_PASSWORD'))
             #Adding a newline before the body text fixes the missing message body
             mailserver.sendmail(curr_app.config.get('MAIL_USERNAME'),curr_app.config.get('MAIL_USERNAME'), 
-                    f'\nFROM: {name}({email})\n\n' + message)
+                    f'\nFROM: {name}({email})\nSUBJECT: {subject}\n\n' + message)
             mailserver.quit()
             # print('Finish')  
             flash('Successfully sent email!', 'success')
