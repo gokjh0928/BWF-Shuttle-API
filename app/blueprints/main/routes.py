@@ -1,12 +1,23 @@
 from flask import render_template, request, redirect, url_for, flash
 from .import bp as app
 from flask import current_app as curr_app
+import scores
 # Import smtplib for sending emails
 import smtplib
 
+# Dictionary with valid dates as keys and values being the ones used for getting the url
+valid_dates = sorted(list(scores.getValidDates().keys()), reverse=True)
+valid_weeks = scores.getWeeks()
+
 @app.route('/')
 def home():
-    return render_template('home.html')
+    context = {
+            # all possible dates from which to get information from BWF Website
+            'categories': ['MS', 'WS', 'MD', 'WD', 'XD'],
+            'dates': valid_dates,
+            'weeks': valid_weeks.keys()
+        }
+    return render_template('home.html', **context)
 
 @app.route('/contact', methods = ['GET', 'POST'])
 def contact():
