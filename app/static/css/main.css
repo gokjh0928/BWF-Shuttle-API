@@ -259,18 +259,21 @@ div#loading {
     white-space: nowrap; /* Keeps the content on a single line */
     margin: 10% auto; /* Gives that scrolling effect as the typing happens */
     letter-spacing: .15em; /* Adjust as needed */
+    -webkit-animation:
+        typing 2s steps(30, end),
+        blink-caret .75s step-end infinite;
     animation: 
         typing 2s steps(30, end),
         blink-caret .75s step-end infinite;
 }
 
-@keyframes typing {
+@-webkit-keyframes typing {
   from { width: 0 }
   to { width: 100% }
 }
 
 /* The typewriter cursor effect */
-@keyframes blink-caret {
+@-webkit-keyframes blink-caret {
   from, to { border-color: transparent }
   50% { border-color: #DF2028; }
 }
