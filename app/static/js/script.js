@@ -1,15 +1,7 @@
 // Function that adds a spinner to display while loading
 function loading() {
-    var x = document.getElementById("content");
-    if (x.style.display === "none") {
-        x.style.display = "block";
-    } else {
-        x.style.display = "none";
-    }
-    var y = document.getElementById("loading");
-    if (y.style.display === "none") {
-        y.style.display = "block";
-    }
+    document.getElementById("content").classList.add("loading");
+    document.getElementById("loading").classList.remove("loading");
 }
 
 (function () {
