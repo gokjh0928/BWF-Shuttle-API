@@ -6,6 +6,10 @@ body {
     background-color: #F8F9FA;
 }
 
+main {
+    flex: 1;
+}
+
 main.container {
     background-color: white;
 }
@@ -29,14 +33,21 @@ td, tr {
 
 body {
     min-height: 100vh;
+    min-height: -webkit-fill-available;
     display: flex;
     flex-direction: column;
 }
 
+html {
+    height: -webkit-fill-available;
+}
+
+/* 
 
 #footer {
     margin-top: auto;
-}
+    margin-bottom: 0;
+} */
 
 /* Code that allows ranking table to scroll(disabled since using Flask Table) */
 
