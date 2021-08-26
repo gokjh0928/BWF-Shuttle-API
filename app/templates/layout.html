@@ -12,48 +12,45 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.css"
+        crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.25/css/dataTables.bootstrap5.css">
     <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
 </head>
 
 <body>
-    <div class="sticky">
-        <header>
-            {% include './includes/navbar.html' %}
-        </header>
+    <header>
+        {% include './includes/navbar.html' %}
+    </header>
 
-        <main id="content" class="container pt-3 pb-5">
-            {% with messages=get_flashed_messages(with_categories=true) %}
-            {% if messages %}
-            {% for c, m in messages %}
-            <div class="alert alert-{{ c }} alert-dismissible fade show" role="alert">
-                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
-                <strong>{{ m }}</strong>
-            </div>
-            {% endfor %}
-            {% endif %}
-            {% endwith %}
-            {% block content %}{% endblock content %}
-        </main>
-
-        <!-- The loading animation that will display once a button is clicked -->
-        <div id="loading" class="container bottom-p-spacing pt-3 pb-5" style="display:none;">
-            <img class="mx-auto rotating" src="../static/images/bwf-spinner.gif" alt="loading-gif"/>
-            <br />
-            <div class="typewriter" style="display:inline-block">
-                <h2>Generating...</h2>
-            </div>
+    <main id="content" class="container pt-3 pb-5">
+        {% with messages=get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+        {% for c, m in messages %}
+        <div class="alert alert-{{ c }} alert-dismissible fade show" role="alert">
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+            <strong>{{ m }}</strong>
         </div>
+        {% endfor %}
+        {% endif %}
+        {% endwith %}
+        {% block content %}{% endblock content %}
+    </main>
 
-        <footer class="footer" style="margin-top: 20px;">
-            {% include './includes/footer.html' %}
-        </footer>
-
-
+    <!-- The loading animation that will display once a button is clicked -->
+    <div id="loading" class="container bottom-p-spacing pt-3 pb-5" style="display:none;">
+        <img class="mx-auto rotating" src="../static/images/bwf-spinner.gif" alt="loading-gif" />
+        <br />
+        <div class="typewriter" style="display:inline-block">
+            <h2>Generating...</h2>
+        </div>
     </div>
+
+    <footer id="footer" style="margin-top: 20px;">
+        {% include './includes/footer.html' %}
+    </footer>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
@@ -64,7 +61,8 @@
         integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
         crossorigin="anonymous"></script>
     <!-- <script type="text/javascript" charset="utf8" src="https://code.jquery.com/jquery-3.6.0.min.js"></script> -->
-    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.js"></script>
+    <script type="text/javascript" charset="utf8"
+        src="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.js"></script>
     <script type="text/javascript" charset="utf8"
         src="https://cdn.datatables.net/1.10.25/js/dataTables.bootstrap5.js"></script>
     {% block scripts %}{% endblock %}

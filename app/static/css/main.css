@@ -27,6 +27,17 @@ td, tr {
     text-align: center;
 }
 
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+
+#footer {
+    margin-top: auto;
+}
+
 /* Code that allows ranking table to scroll(disabled since using Flask Table) */
 
 /* .table-scroll {
