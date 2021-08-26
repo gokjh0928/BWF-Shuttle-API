@@ -255,28 +255,47 @@ div#loading {
 
 .typewriter h2 {
     overflow: hidden; /* Ensures the content is not revealed until the animation */
-    border-right: .15em solid #DF2028; /* The typwriter cursor */
+    border-right: .15em solid #DF2028;
     white-space: nowrap; /* Keeps the content on a single line */
     margin: 10% auto; /* Gives that scrolling effect as the typing happens */
     letter-spacing: .15em; /* Adjust as needed */
-    -webkit-animation:
-        typing 2s steps(30, end),
-        blink-caret .75s step-end infinite;
     animation: 
-        typing 2s steps(30, end),
-        blink-caret .75s step-end infinite;
+        typing 1.5s steps(30, end),
+        blinking .75s step-end infinite;
+    -webkit-animation:
+        typing 1.5s steps(30, end),
+        blinking .75s step-end infinite;
 }
 
-@-webkit-keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
 }
 
 /* The typewriter cursor effect */
-@-webkit-keyframes blink-caret {
-  from, to { border-color: transparent }
+@keyframes blinking {
+  from, to { border-color: transparent; }
   50% { border-color: #DF2028; }
 }
+
+@-webkit-keyframes typing {
+    0% {
+        width: 0;
+    }
+    100% {
+        width: 100%; /* The typwriter cursor */
+    }
+}
+
+@-webkit-keyframes blinking {
+    0% {
+        border-color: transparent;
+    }
+    50% {
+        border-color: #DF2028;
+    }
+}
+
 
 
 .social-icon .fa {
