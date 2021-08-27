@@ -49,10 +49,17 @@ document.getElementById('weeks').addEventListener('change', function () {
 });
 
 document.getElementById('dates').addEventListener('change', function () {
+    let emptyDates = ['{year}', '{month}', '{day}']
     if (this.value != "Choose...") {
         for (let i = 0; i <= 2; i++){
             document.getElementsByClassName('ymd-text')[i].innerHTML = this.value.split('/')[i];
             document.getElementsByClassName('ymd-text')[i+3].innerHTML = this.value.split('/')[i];
+        }
+    }
+    else {
+        for (let i = 0; i <= 2; i++) {
+            document.getElementsByClassName('ymd-text')[i].innerHTML = emptyDates[i];
+            document.getElementsByClassName('ymd-text')[i + 3].innerHTML = emptyDates[i];
         }
     }
 });
