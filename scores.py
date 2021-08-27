@@ -59,7 +59,9 @@ alt_names = {
     "WOMEN'S DOUBLES": 'WD',
     "MIXED DOUBLES": 'XD'
 }
-# function to get the table at the url
+
+
+# function to get the table at the url(only used for seeding at this point since we're using Firebase)
 # Link is: https://bwf.tournamentsoftware.com/ranking/category.aspx?id={ date_value }&category={ category_value }&C472FOC=&p=1&ps=100
 
 def getTable(category, date_value, category_value):
@@ -257,32 +259,3 @@ def getTable(category, date_value, category_value):
 #         display(df)
         return df
 
-
-# def csv_to_json():
-#     test = os.getcwd()
-#     print(test)
-#     df = pd.read_csv(test + f'/rankings/MD/MD_2019_18.csv')
-#     display(df)
-#     result = df.to_json(orient='records')
-#     parsed = json.loads(result)
-#     with open(test + f'{category}_playertable_{year}_{week}.json', 'w') as f:
-#         json.dump(parsed, f) 
-#         f.close()
-#     return
-
-# class Player:
-#     def __init__(self, name, country, rankings, categories, ranking_changes, earnings, age, record):
-#         self.name = name
-#         self.country = country
-#         self.rankings = rankings
-#         self.categories = categories
-#         self.ranking_changes = ranking_changes
-#         self.earnings = earnings
-#         self.age = age
-#         self.record = record
-        
-# today = datetime.date.today().isocalendar()
-# getTable('XD', today[0], today[1], 1000000)
-#getTable('MS', validDates[0][0], validDates[0][1], 10)
-
-# csv_to_json()
