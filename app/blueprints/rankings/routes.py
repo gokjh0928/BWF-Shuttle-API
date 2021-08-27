@@ -121,7 +121,7 @@ def flask_table(category, year, month, day, rows):
             if col_index is None:
                 break
             col_name = request.args.get(f'columns[{col_index}][data]')
-            if col_name not in ['player', 'player1', 'player2', 'rank', 'rank_change', 'prev_rank', 'points', 'tournaments']:
+            if col_name not in ['player', 'player1', 'player2', 'country', 'rank', 'rank_change', 'prev_rank', 'points', 'tournaments']:
                 col_name = 'rank'
             descending = request.args.get(f'order[{i}][dir]') == 'desc'
             if descending:
