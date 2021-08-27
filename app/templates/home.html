@@ -51,18 +51,29 @@
                     {% endfor %}
                 </select>
             </div>
-            <p class="text-center"><span
-                    class="bg-secondary text-white p-2 rounded">https://bwfshuttleapi.herokuapp.com/rankings/api/{category}</span>
-            </p>
-            <p class="text-center"><span
-                    class="bg-secondary text-white p-2 rounded">https://bwfshuttleapi.herokuapp.com/rankings/api/{category}/{rows}</span>
-            </p>
-            <p class="text-center"><span
-                    class="bg-secondary text-white p-2 rounded">https://bwfshuttleapi.herokuapp.com/rankings/api/{category}/{year}/{week}/{rows}</span>
-            </p>
-            <p class="text-center"><span
-                    class="bg-secondary text-white p-2 rounded">https://bwfshuttleapi.herokuapp.com/rankings/api/{category}/{year}/{month}/{day}/{rows}</span>
-            </p>
+            <div class="text-center">
+                <p>Top 25 Players for {category} from Latest Rankings</p>
+                <p><span class="bg-secondary text-white p-2 rounded">https://bwfshuttleapi.herokuapp.com/rankings/api/{category}</span></p>
+            </div>
+            
+            <div class="text-center">
+                <p>Top {rows} Players for {category} from Latest Rankings</p>
+                <p class="text-center"><span
+                        class="bg-secondary text-white p-2 rounded">https://bwfshuttleapi.herokuapp.com/rankings/api/{category}/{rows}</span>
+                </p>
+            </div>
+            <div class="text-center">
+                <p>Top {rows} Players for {category} from {year} and {week}</p>
+                <p class="text-center"><span
+                        class="bg-secondary text-white p-2 rounded">https://bwfshuttleapi.herokuapp.com/rankings/api/{category}/{year}/{week}/{rows}</span>
+                </p>
+            </div>
+            <div class="text-center">
+                <p>Top {rows} Players for {category} from {year}/{month}/{day}</p>
+                <p class="text-center"><span
+                        class="bg-secondary text-white p-2 rounded">https://bwfshuttleapi.herokuapp.com/rankings/api/{category}/{year}/{month}/{day}/{rows}</span>
+                </p>
+            </div>
         </div>
         <hr />
         <h3 class="mb-3 d-flex justify-content-center">Purpose</h3>
