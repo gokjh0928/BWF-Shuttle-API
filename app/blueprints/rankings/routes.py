@@ -226,6 +226,7 @@ def rank_ymd(category, year, month, day, rows):
 # @app.route('/seed')
 # def seed():
 #     date_dict = scores.getValidDates()
+#     seed_flag = False
 #     for date in valid_dates:
 #         # Check if the database contains the data for this date
 #         if not db.child('dates').child(date).shallow().get().val():
@@ -235,9 +236,14 @@ def rank_ymd(category, year, month, day, rows):
 #                 data = json.loads(result)
 #                 db.child('dates').child(date).child(category).set(data)
 #                 print(f'Done for {category} {date}')
+#             seed_flag = True
 #         # Since the dates are ordered, break once finding a date that is contained in database
 #         else:
 #             break
+#     if seed_flag:
+#         print("Successfully seeded new data!")
+#     else:
+#         print("Nothing to seed. Everything is up to date!")
 #     return render_template('home.html')
 
 
