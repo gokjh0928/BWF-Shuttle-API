@@ -3,17 +3,22 @@
 <div class="container bottom-spacing">
     <div class="col-10 offset-1">
         <h2 class="mb-3 d-flex justify-content-center">BWF Shuttle API</h2>
-        <p class="text-muted lead mb-4 d-flex justify-content-center">The most comprehensive and detailed source to view and download
+        <p class="text-muted lead mb-4 d-flex justify-content-center">The most comprehensive and detailed source to view
+            and download
             top badminton player ranking data given by the BWF(Badminton World Federation).</p>
-        
+
         <hr />
         <h3 class="mb-3 d-flex justify-content-center">About</h3>
-        <p class="text-muted lead mb-4 d-flex justify-content-center">BWF Shuttle API is a Flask Web Application utilizing
-            Python libraries BeautifulSoup and Pandas to scrape badminton ranking data. <br />CSV and JSON files can be downloaded directly, and JSON metadata can be acquired through API calls.
+        <p class="text-muted lead mb-4 d-flex justify-content-center">BWF Shuttle API is a Flask Web Application
+            utilizing
+            Python libraries BeautifulSoup and Pandas to scrape badminton ranking data. <br />CSV and JSON files can be
+            downloaded directly, and JSON metadata can be acquired through API calls.
         </p>
         <hr />
         <h3 class="mb-3 d-flex justify-content-center">API Call Formats</h3>
-        <p class="text-muted lead mb-4 d-flex justify-content-center">Fill in the { } from the options below for the data you wish to get. <br />For months and days, include the 0 at the start if it's a single digit.<br />(i.e. January 1st, 2014 = 2014/01/01)
+        <p class="text-muted lead mb-4 d-flex justify-content-center">Fill in the { } from the options below for the
+            data you wish to get. <br />For months and days, include the 0 at the start if it's a single
+            digit.<br />(i.e. March 9th, 2017 = 2017/03/09)
         </p>
         <div class="bg-light text-dark rounded justify-content-center p-3" style="overflow-x: scroll;">
             <div class="input-group mb-3">
@@ -32,7 +37,7 @@
                 </div>
                 <select class="custom-select" id="dates">
                     {% for date in dates %}
-                        <option>{{ date }}</option>
+                    <option>{{ date }}</option>
                     {% endfor %}
                 </select>
             </div>
@@ -46,14 +51,23 @@
                     {% endfor %}
                 </select>
             </div>
-            <p class="text-center"><span class="bg-secondary text-white p-2 rounded">https://bwfshuttleapi.herokuapp.com/rankings/api/{category}</span></p>
-            <p class="text-center"><span class="bg-secondary text-white p-2 rounded">https://bwfshuttleapi.herokuapp.com/rankings/api/{category}/{rows}</span></p>
-            <p class="text-center"><span class="bg-secondary text-white p-2 rounded">https://bwfshuttleapi.herokuapp.com/rankings/api/{category}/{year}/{week}/{rows}</span></p>
-            <p class="text-center"><span class="bg-secondary text-white p-2 rounded">https://bwfshuttleapi.herokuapp.com/rankings/api/{category}/{year}/{month}/{day}/{rows}</span></p>
+            <p class="text-center"><span
+                    class="bg-secondary text-white p-2 rounded">https://bwfshuttleapi.herokuapp.com/rankings/api/{category}</span>
+            </p>
+            <p class="text-center"><span
+                    class="bg-secondary text-white p-2 rounded">https://bwfshuttleapi.herokuapp.com/rankings/api/{category}/{rows}</span>
+            </p>
+            <p class="text-center"><span
+                    class="bg-secondary text-white p-2 rounded">https://bwfshuttleapi.herokuapp.com/rankings/api/{category}/{year}/{week}/{rows}</span>
+            </p>
+            <p class="text-center"><span
+                    class="bg-secondary text-white p-2 rounded">https://bwfshuttleapi.herokuapp.com/rankings/api/{category}/{year}/{month}/{day}/{rows}</span>
+            </p>
         </div>
         <hr />
         <h3 class="mb-3 d-flex justify-content-center">Purpose</h3>
-        <p class="text-muted lead mb-4 d-flex justify-content-center">As of this moment, no up-to-date official database for badminton players
+        <p class="text-muted lead mb-4 d-flex justify-content-center">As of this moment, no up-to-date official database
+            for badminton players
             is publicly available for download. BWF Shuttle API acts as an alternative source for anyone
             wishing to view or download BWF ranking data.
         </p>

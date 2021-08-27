@@ -1,4 +1,4 @@
-from flask import render_template, request, redirect, url_for, flash, json, jsonify, Response
+from flask import render_template, request, redirect, url_for, flash, session, json, jsonify, Response
 from app.context_processor import db
 import pandas as pd
 import os
@@ -42,6 +42,9 @@ def home():
 @app.route('/tables', methods=['GET', 'POST'])
 def table():
     if request.method == 'POST':
+        if 'user' not in session:
+            flash('Please log in to view tables and download data', 'info')
+            return redirect(url_for('rankings.home'))
         category = request.form.get('category-select')
         num_rows = request.form.get('num-rows')
         num_rows = num_rows if num_rows else '25'
