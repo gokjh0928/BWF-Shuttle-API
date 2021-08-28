@@ -22,7 +22,6 @@ def home():
 @app.route('/contact', methods = ['GET', 'POST'])
 def contact():
     if request.method == "POST":
-        print("POSTING")
         name = request.form.get('input-name')
         email = request.form.get('input-email')
         subject = request.form.get('input-subject')
