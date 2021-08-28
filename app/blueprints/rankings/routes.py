@@ -1,5 +1,6 @@
 from flask import render_template, request, redirect, url_for, flash, session, json, jsonify, Response
 from app.context_processor import db
+from app.context_processor import auth
 import pandas as pd
 import os
 from .import bp as app
@@ -44,6 +45,10 @@ def table():
     if request.method == 'POST':
         if 'user' not in session:
             flash('Please log in to view tables and download data', 'info')
+            return redirect(url_for('rankings.home'))
+        print(auth.get_account_info(session['user']))
+        if not auth.get_account_info(session['user'])['users'][0]['emailVerified']:
+            flash('Please verify your account to view tables and download data.', 'info')
             return redirect(url_for('rankings.home'))
         category = request.form.get('category-select')
         num_rows = request.form.get('num-rows')

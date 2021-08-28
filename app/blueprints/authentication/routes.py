@@ -17,8 +17,9 @@ def register():
         auth.create_user_with_email_and_password(email, password)
         user = auth.sign_in_with_email_and_password(email, password)
         user = auth.refresh(user['refreshToken'])
+        auth.send_email_verification(user['idToken'])
         session['user'] = user['idToken']
-        flash('Successfully created account', 'success')
+        flash('Successfully created account and sent email with verification link.', 'success')
         return redirect(url_for('main.home'))
     return render_template('register.html')
 
@@ -34,8 +35,9 @@ def login():
                 user = auth.refresh(user['refreshToken'])
                 # userId and idToken
                 session['user'] = user['idToken']
+                print(auth.get_account_info(user['idToken']))
             except:
-                flash('Incorrect email or password', 'info')
+                flash(Markup('Incorrect email or password! <a href="/authentication/reset_password" class="alert-link">Forgot Password</a>?'), 'info')
                 return redirect(url_for('authentication.login'))
             flash('Logged in successsfully', 'success')
             return redirect(url_for('main.home'))
@@ -57,7 +59,7 @@ def reset_password():
             flash('Successfully sent password reset email to provided email', 'success')
             return render_template('home.html')
         except:
-            flash('Account does not exist for this email!', 'info')
+            flash(Markup('Account does not exist for this email. <a href="/authentication/register" class="alert-link">Create New Account</a>?'), 'info')
             return redirect(url_for('main.home'))
     return render_template('reset-password.html')
 
@@ -66,7 +68,7 @@ def handle_exception(e):
     """Return JSON instead of HTML for HTTP errors."""
     # start with the correct headers and status code from the error
     if isinstance(e, HTTPError):
-        print('This is HTTP Error!')
+        # print('This is HTTP Error!')
         if json.loads(e.args[1])['error']['message'] == "EMAIL_EXISTS":
-            flash(Markup('An account already exists for this email! <a href="/authentication/forgot_password" class="alert-link">Forgot Password</a>?'))
+            flash(Markup('An account already exists for this email! <a href="/authentication/reset_password" class="alert-link">Forgot Password</a>?'), 'info')
             return redirect(url_for("authentication.login"))
