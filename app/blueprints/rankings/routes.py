@@ -154,7 +154,6 @@ def flask_table(category, year, month, day, rows):
                 col_name = 'rank'
             descending = request.args.get(f'order[{i}][dir]') == 'desc'
             if descending:
-                print(col_name)
                 if col_name in ['player', 'player1', 'player2']:
                     df.sort_values(by=col_name, ascending=False, inplace=True, key=lambda col: col.str.lower())
                 elif col_name != 'rank':
