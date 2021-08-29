@@ -14,6 +14,8 @@ path = os.getcwd()
 valid_dates = sorted(list(scores.getValidDates().keys()), reverse=True)
 # Dict with keys formated like '{year}-{week}' and value being corresponding year/month/day
 valid_weeks = scores.getWeeks()
+# this is the altered dataframe from the dynamic table that will be available for download
+altered_df = None
 
 # Values used to get URL of chosen category
 categories = {
@@ -111,29 +113,31 @@ def download(type, category, year, week, rows):
     else:
         return jsonify(["Invalid Input"])
 
-# @app.route('/download_altered/<type>/<category>/<year>/<week>/')
-# def download_altered(type, category, year, week):
-#     if 'df_table' in session:
-#         df = pd.DataFrame(session['df_table'])
-#         if type == 'csv':
-#             file = df.to_csv(index=False)
-#             return Response(
-#                 file,
-#                 mimetype="text/csv",
-#                 headers={"Content-disposition":
-#                         f"attachment; filename={category}_{year}_{week}.csv"})        
-#         elif type == 'json':
-#             data = df.to_json(orient='records')
-#             file = jsonify(json.loads(data))
-#             file.headers['Content-Disposition'] = f'attachment;filename={category}_{year}_{week}.json'
-#             return file
-#     return jsonify(["Invalid Request"])
+@app.route('/download_altered/<type>/<category>/<year>/<week>')
+def download_altered(type, category, year, week):
+    global altered_df
+    if isinstance(altered_df, pd.DataFrame):
+        if type == 'csv':
+            file = altered_df.to_csv(index=False)
+            return Response(
+                file,
+                mimetype="text/csv",
+                headers={"Content-disposition":
+                        f"attachment; filename={category}_{year}_{week}.csv"})        
+        elif type == 'json':
+            data = altered_df.to_json(orient='records')
+            file = jsonify(json.loads(data))
+            file.headers['Content-Disposition'] = f'attachment;filename={category}_{year}_{week}.json'
+            return file
+    return jsonify(["Invalid Request"])
 
     
 @app.route('/table/<category>/<year>/<month>/<day>/<rows>', methods=['GET'])
 def flask_table(category, year, month, day, rows):
+    global altered_df
     date = f'{year}/{month}/{day}'
     df = generate_table(category, date, rows)
+    altered_df = df
     if isinstance(df, pd.DataFrame): 
         search = request.args.get('search[value]')
         total_records = len(df)
@@ -168,7 +172,7 @@ def flask_table(category, year, month, day, rows):
                 else:
                     df.sort_values(by='rank', ascending=True, inplace=True)
             i += 1
-        # session['df_table'] = df.to_dict('list')
+        altered_df = df.copy()
         start = request.args.get('start', type=int)
         length = request.args.get('length', type=int)
         df = df[start:start+length]

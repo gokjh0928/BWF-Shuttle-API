@@ -48,13 +48,13 @@
     <a href="{{ url_for('rankings.download', category=category_abbr, year=year, week=week, type='json', rows=rows) }}"
         class="btn btn-primary" role="button" aria-pressed="true">JSON</a>
 </div>
-<!-- <div class="downloads text-center">
+<div class="downloads text-center">
     <span>Download Altered Table:</span>
     <a href="{{ url_for('rankings.download_altered', category=category_abbr, year=year, week=week, type='csv') }}"
         class="btn btn-primary" role="button" aria-pressed="true">CSV</a>
     <a href="{{ url_for('rankings.download_altered', category=category_abbr, year=year, week=week, type='json') }}"
         class="btn btn-primary" role="button" aria-pressed="true">JSON</a>
-</div> -->
+</div>
 
 {% endblock content %}
 
