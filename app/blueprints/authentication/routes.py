@@ -74,3 +74,7 @@ def reset_password():
             flash(Markup('Account does not exist for this email. <a href="/authentication/register" class="alert-link">Create New Account</a>?'), 'info')
             return redirect(url_for('main.home'))
     return render_template('reset-password.html')
+
+@app.before_request
+def make_session_permanent():
+    session.permanent = True
