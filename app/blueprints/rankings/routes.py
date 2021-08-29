@@ -111,23 +111,23 @@ def download(type, category, year, week, rows):
     else:
         return jsonify(["Invalid Input"])
 
-@app.route('/download_altered/<type>/<category>/<year>/<week>/')
-def download_altered(type, category, year, week):
-    if 'df_table' in session:
-        df = pd.DataFrame(session['df_table'])
-        if type == 'csv':
-            file = df.to_csv(index=False)
-            return Response(
-                file,
-                mimetype="text/csv",
-                headers={"Content-disposition":
-                        f"attachment; filename={category}_{year}_{week}.csv"})        
-        elif type == 'json':
-            data = df.to_json(orient='records')
-            file = jsonify(json.loads(data))
-            file.headers['Content-Disposition'] = f'attachment;filename={category}_{year}_{week}.json'
-            return file
-    return jsonify(["Invalid Request"])
+# @app.route('/download_altered/<type>/<category>/<year>/<week>/')
+# def download_altered(type, category, year, week):
+#     if 'df_table' in session:
+#         df = pd.DataFrame(session['df_table'])
+#         if type == 'csv':
+#             file = df.to_csv(index=False)
+#             return Response(
+#                 file,
+#                 mimetype="text/csv",
+#                 headers={"Content-disposition":
+#                         f"attachment; filename={category}_{year}_{week}.csv"})        
+#         elif type == 'json':
+#             data = df.to_json(orient='records')
+#             file = jsonify(json.loads(data))
+#             file.headers['Content-Disposition'] = f'attachment;filename={category}_{year}_{week}.json'
+#             return file
+#     return jsonify(["Invalid Request"])
 
     
 @app.route('/table/<category>/<year>/<month>/<day>/<rows>', methods=['GET'])
@@ -168,7 +168,7 @@ def flask_table(category, year, month, day, rows):
                 else:
                     df.sort_values(by='rank', ascending=True, inplace=True)
             i += 1
-        session['df_table'] = df.to_dict('list')
+        # session['df_table'] = df.to_dict('list')
         start = request.args.get('start', type=int)
         length = request.args.get('length', type=int)
         df = df[start:start+length]

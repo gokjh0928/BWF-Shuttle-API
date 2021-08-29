@@ -63,7 +63,7 @@
         <script>
             $(document).ready(function () {
                 $('#data').DataTable({
-                    ajax: `/rankings/table/{{category_abbr}}/{{date}}/{{rows}}`,
+                    ajax: '/rankings/table/{{category_abbr}}/{{date}}/{{rows}}',
                     serverSide: true,
                     columns: [
                         { data: 'rank' },
@@ -84,7 +84,7 @@
         <script>
         $(document).ready(function () {
             $('#data').DataTable({
-                ajax: `/rankings/table/{{category_abbr}}/{{date}}/{{rows}}`,
+                ajax: '/rankings/table/{{category_abbr}}/{{date}}/{{rows}}',
                 serverSide: true,
                 columns: [
                     { data: 'rank' },
