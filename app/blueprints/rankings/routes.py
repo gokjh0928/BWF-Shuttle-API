@@ -4,7 +4,7 @@ from app.context_processor import auth
 import pandas as pd
 import os
 from .import bp as app
-from IPython.display import display
+# from IPython.display import display
 import scores
 from app import cache
 
@@ -43,10 +43,16 @@ def home():
 @app.route('/tables', methods=['GET', 'POST'])
 def table():
     if request.method == 'POST':
+        # Require user to be logged in to use the table functionality
         if 'user' not in session:
             flash('Please log in to view tables and download data', 'info')
             return redirect(url_for('rankings.home'))
-        print(auth.get_account_info(session['user']))
+        # See if the user's token has expired, and if so, refresh to get a new one
+        try:
+            auth.get_account_info(session['user'])
+        except:
+            session['user'] = auth.refresh(session['refreshToken'])['idToken']
+        # Check if user's account has been verified with the email link
         if not auth.get_account_info(session['user'])['users'][0]['emailVerified']:
             flash('Please verify your account to view tables and download data.', 'info')
             return redirect(url_for('rankings.home'))
@@ -104,7 +110,25 @@ def download(type, category, year, week, rows):
         return file
     else:
         return jsonify(["Invalid Input"])
-    
+
+@app.route('/download_altered/<type>/<category>/<year>/<week>/')
+def download_altered(type, category, year, week):
+    if 'df_table' in session:
+        df = pd.DataFrame(session['df_table'])
+        if type == 'csv':
+            file = df.to_csv(index=False)
+            return Response(
+                file,
+                mimetype="text/csv",
+                headers={"Content-disposition":
+                        f"attachment; filename={category}_{year}_{week}.csv"})        
+        elif type == 'json':
+            data = df.to_json(orient='records')
+            file = jsonify(json.loads(data))
+            file.headers['Content-Disposition'] = f'attachment;filename={category}_{year}_{week}.json'
+            return file
+    return jsonify(["Invalid Request"])
+
     
 @app.route('/table/<category>/<year>/<month>/<day>/<rows>', methods=['GET'])
 def flask_table(category, year, month, day, rows):
@@ -145,7 +169,7 @@ def flask_table(category, year, month, day, rows):
                 else:
                     df.sort_values(by='rank', ascending=True, inplace=True)
             i += 1
-        
+        session['df_table'] = df.to_dict('list')
         start = request.args.get('start', type=int)
         length = request.args.get('length', type=int)
         df = df[start:start+length]

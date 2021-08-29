@@ -3,6 +3,8 @@ from .import bp as app
 from flask import current_app as curr_app
 from app.context_processor import auth
 from requests.exceptions import HTTPError
+# from werkzeug.exceptions import HTTPException
+
 
 @app.route('/register', methods = ['GET', 'POST'])
 def register():
@@ -14,11 +16,20 @@ def register():
         if password != password_repeat:
             flash('Password and repeated password are not the same.', 'danger')
             return redirect(url_for('authentication.register'))
-        auth.create_user_with_email_and_password(email, password)
+        try:
+            auth.create_user_with_email_and_password(email, password)
+        except HTTPError as e:
+            if json.loads(e.args[1])['error']['message'] == "EMAIL_EXISTS":
+                flash(Markup('An account already exists for this email! <a href="/authentication/reset_password" class="alert-link">Forgot Password</a>?'), 'info')
+                return redirect(url_for("authentication.login"))
+            else:
+                flash('Invalid Info!', 'danger')
+                return redirect(url_for("authentication.register"))
         user = auth.sign_in_with_email_and_password(email, password)
         user = auth.refresh(user['refreshToken'])
         auth.send_email_verification(user['idToken'])
         session['user'] = user['idToken']
+        session['refreshToken'] = user['refreshToken']
         flash('Successfully created account and sent email with verification link.', 'success')
         return redirect(url_for('main.home'))
     return render_template('register.html')
@@ -35,6 +46,7 @@ def login():
                 user = auth.refresh(user['refreshToken'])
                 # userId and idToken
                 session['user'] = user['idToken']
+                session['refreshToken'] = user['refreshToken']
                 print(auth.get_account_info(user['idToken']))
             except:
                 flash(Markup('Incorrect email or password! <a href="/authentication/reset_password" class="alert-link">Forgot Password</a>?'), 'info')
@@ -62,13 +74,3 @@ def reset_password():
             flash(Markup('Account does not exist for this email. <a href="/authentication/register" class="alert-link">Create New Account</a>?'), 'info')
             return redirect(url_for('main.home'))
     return render_template('reset-password.html')
-
-@app.errorhandler(Exception)
-def handle_exception(e):
-    """Return JSON instead of HTML for HTTP errors."""
-    # start with the correct headers and status code from the error
-    if isinstance(e, HTTPError):
-        # print('This is HTTP Error!')
-        if json.loads(e.args[1])['error']['message'] == "EMAIL_EXISTS":
-            flash(Markup('An account already exists for this email! <a href="/authentication/reset_password" class="alert-link">Forgot Password</a>?'), 'info')
-            return redirect(url_for("authentication.login"))
