@@ -27,7 +27,7 @@ def register():
                 return redirect(url_for("authentication.register"))
         user = auth.sign_in_with_email_and_password(email, password)
         user = auth.refresh(user['refreshToken'])
-        auth.send_email_verification(user['idToken'])
+        # auth.send_email_verification(user['idToken'])
         session['user'] = user['idToken']
         session['refreshToken'] = user['refreshToken']
         flash('Successfully created account and sent email with verification link.', 'success')
@@ -74,6 +74,14 @@ def reset_password():
             flash(Markup('Account does not exist for this email. <a href="/authentication/register" class="alert-link">Create New Account</a>?'), 'info')
             return redirect(url_for('main.home'))
     return render_template('reset-password.html')
+
+# @app.route('/resend_verification')
+# def resend_verification():
+#     if 'user' in session:
+#         auth.send_email_verification(session['user'])
+#         flash('Sent verification email', 'success')
+#         return redirect(url_for('main.home'))
+
 
 @app.before_request
 def make_session_permanent():

@@ -1,4 +1,4 @@
-from flask import render_template, request, redirect, url_for, flash, session, json, jsonify, Response
+from flask import render_template, request, redirect, url_for, flash, Markup, session, json, jsonify, Response
 from app.context_processor import db
 from app.context_processor import auth
 import pandas as pd
@@ -46,18 +46,18 @@ def home():
 def table():
     if request.method == 'POST':
         # Require user to be logged in to use the table functionality
-        if 'user' not in session:
-            flash('Please log in to view tables and download data', 'info')
-            return redirect(url_for('rankings.home'))
-        # See if the user's token has expired, and if so, refresh to get a new one
-        try:
-            auth.get_account_info(session['user'])
-        except:
-            session['user'] = auth.refresh(session['refreshToken'])['idToken']
-        # Check if user's account has been verified with the email link
-        if not auth.get_account_info(session['user'])['users'][0]['emailVerified']:
-            flash('Please verify your account to view tables and download data.', 'info')
-            return redirect(url_for('rankings.home'))
+        # if 'user' not in session:
+        #     flash('Please log in to view tables and download data', 'info')
+        #     return redirect(url_for('rankings.home'))
+        # # See if the user's token has expired, and if so, refresh to get a new one
+        # try:
+        #     auth.get_account_info(session['user'])
+        # except:
+        #     session['user'] = auth.refresh(session['refreshToken'])['idToken']
+        # # Check if user's account has been verified with the email link
+        # if not auth.get_account_info(session['user'])['users'][0]['emailVerified']:
+        #     flash(Markup('Please verify your account to view tables and download data. <a href="/authentication/resend_verification" class="alert-link">Resend Verification Email</a>?'), 'info')
+        #     return redirect(url_for('rankings.home'))
         category = request.form.get('category-select')
         num_rows = request.form.get('num-rows')
         num_rows = num_rows if num_rows else '25'
