@@ -75,12 +75,14 @@ def reset_password():
             return redirect(url_for('main.home'))
     return render_template('reset-password.html')
 
-# @app.route('/resend_verification')
-# def resend_verification():
-#     if 'user' in session:
-#         auth.send_email_verification(session['user'])
-#         flash('Sent verification email', 'success')
-#         return redirect(url_for('main.home'))
+@app.route('/resend_verification')
+def resend_verification():
+    if 'user' in session:
+        auth.send_email_verification(session['user'])
+        flash('Sent verification email', 'success')
+    else:
+        flash(Markup('Please log in to be sent a verification email. <a href="/authentication/reset_password" class="alert-link">Have an account but forgot password</a>?'), 'info')
+    return redirect(url_for('main.home'))
 
 
 @app.before_request

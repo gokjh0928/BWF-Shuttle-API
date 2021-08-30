@@ -46,18 +46,17 @@ def home():
 def table():
     if request.method == 'POST':
         # Require user to be logged in to use the table functionality
-        # if 'user' not in session:
-        #     flash('Please log in to view tables and download data', 'info')
-        #     return redirect(url_for('rankings.home'))
-        # # See if the user's token has expired, and if so, refresh to get a new one
-        # try:
-        #     auth.get_account_info(session['user'])
-        # except:
-        #     session['user'] = auth.refresh(session['refreshToken'])['idToken']
-        # # Check if user's account has been verified with the email link
-        # if not auth.get_account_info(session['user'])['users'][0]['emailVerified']:
-        #     flash(Markup('Please verify your account to view tables and download data. <a href="/authentication/resend_verification" class="alert-link">Resend Verification Email</a>?'), 'info')
-        #     return redirect(url_for('rankings.home'))
+        if 'user' not in session:
+            flash("Please log in on the website before accessing data.", 'info')
+            return redirect(url_for('rankings.home'))
+        # See if the user's token has expired, and if so, refresh to get a new one
+        try:
+            auth.get_account_info(session['user'])
+        except:
+            session['user'] = auth.refresh(session['refreshToken'])['idToken']
+        if not auth.get_account_info(session['user'])['users'][0]['emailVerified']:
+            flash(Markup('Please verify your account before viewing table. <a href="/authentication/resend_verification" class="alert-link">Resend Verification</a>?'), 'info')
+            return redirect(url_for('rankings.home'))
         category = request.form.get('category-select')
         num_rows = request.form.get('num-rows')
         num_rows = num_rows if num_rows else '25'
@@ -81,7 +80,7 @@ def table():
                 'rows': num_rows
             }
             return render_template('ranking-table.html', **context)
-    return render_template('ranking-table.html')
+    return render_template('empty-ranking-table.html')
 
 
 @app.route('/players')
@@ -97,6 +96,17 @@ def download(type, category, year, week, rows):
     rows - number of rows
     Return: downloaded csv file that use wants
     """
+    if 'user' not in session:
+            flash("Please log in on the website before downloading data.", 'info')
+            return redirect(url_for('rankings.home'))
+    # See if the user's token has expired, and if so, refresh to get a new one
+    try:
+        auth.get_account_info(session['user'])
+    except:
+        session['user'] = auth.refresh(session['refreshToken'])['idToken']
+    if not auth.get_account_info(session['user'])['users'][0]['emailVerified']:
+        flash(Markup('Please verify your account before downloading data. <a href="/authentication/resend_verification" class="alert-link">Resend Verification</a>?'), 'info')
+        return redirect(url_for('rankings.home'))
     df = generate_table(category, valid_weeks[f'{year}-{week}'], rows)
     if type == 'csv':
         file = df.to_csv(index=False)
@@ -115,6 +125,17 @@ def download(type, category, year, week, rows):
 
 @app.route('/download_altered/<type>/<category>/<year>/<week>')
 def download_altered(type, category, year, week):
+    if 'user' not in session:
+            flash("Please log in on the website before downloading data.", 'info')
+            return redirect(url_for('rankings.home'))
+    # See if the user's token has expired, and if so, refresh to get a new one
+    try:
+        auth.get_account_info(session['user'])
+    except:
+        session['user'] = auth.refresh(session['refreshToken'])['idToken']
+    if not auth.get_account_info(session['user'])['users'][0]['emailVerified']:
+        flash(Markup('Please verify your account before downloading data. <a href="/authentication/resend_verification" class="alert-link">Resend Verification</a>?'), 'info')
+        return redirect(url_for('rankings.home'))
     global altered_df
     if isinstance(altered_df, pd.DataFrame):
         if type == 'csv':
@@ -192,6 +213,9 @@ def rank_category(category):
     category - badminton category to view
     Return: json data containing current 25 top players for the input category
     """
+    error_message = not_verified()
+    if error_message:
+        return jsonify(error_message)
     date = valid_dates[0]
     df = generate_table(category, date, '25')
     if isinstance(df, pd.DataFrame): 
@@ -209,6 +233,9 @@ def rank_category_rows(category, rows):
     rows - number of players to get
     Return: json containing current top {rows} players for the input category
     """
+    error_message = not_verified()
+    if error_message:
+        return jsonify(error_message)
     date = valid_dates[0]
     df = generate_table(category, date, rows)
     if isinstance(df, pd.DataFrame): 
@@ -227,6 +254,9 @@ def rank_year_week(category, year, week, rows):
     rows - number of players to get
     Return: json containing top {rows} players for the input category for chosen year
     """
+    error_message = not_verified()
+    if error_message:
+        return jsonify(error_message)
     if f'{year}-{week}' not in valid_weeks.keys():
         return jsonify(["Invalid Input"])
     date = valid_weeks[f'{year}-{week}']
@@ -245,6 +275,9 @@ def rank_ymd(category, year, month, day, rows):
     rows - number of players to get
     Return: json containing top {rows} players for the input category for chosen year
     """
+    error_message = not_verified()
+    if error_message:
+        return jsonify(error_message)
     date = f'{year}/{month}/{day}'
     df = generate_table(category, date, rows)
     if isinstance(df, pd.DataFrame):
@@ -333,3 +366,15 @@ def generate_table(category, date, num_rows):
                     'points': 'int32',
                     'tournaments': 'int32'})
     return df
+
+def not_verified():
+    if 'user' not in session:
+        return ["Please log in on the website before accessing data!"]
+    # See if the user's token has expired, and if so, refresh to get a new one
+    try:
+        auth.get_account_info(session['user'])
+    except:
+        session['user'] = auth.refresh(session['refreshToken'])['idToken']
+    if not auth.get_account_info(session['user'])['users'][0]['emailVerified']:
+        return ["Please verify your account before accessing data!", {"Resend Verification": "http://127.0.0.1:5000/authentication/resend_verification"}]
+    return []

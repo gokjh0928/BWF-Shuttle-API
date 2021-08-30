@@ -1,0 +1,30 @@
+{% extends 'layout.html' %}
+{% block content %}
+
+<div class="col-8 offset-2 bottom-spacing">
+    <h2 class="mb-3 d-flex justify-content-center text-center ">BWF World Rankings Table</h2>
+</div>
+<hr />
+<h3 class="mb-3 d-flex justify-content-center text-center">Invalid Table</h3>
+<h4 class="mb-3 d-flex justify-content-center text-center">(N/A)</h4>
+<a href="{{ url_for('rankings.home') }}" class="btn btn-primary return-button" role="button"
+    aria-pressed="true">Return</a>
+<div class="table-responsive">
+    <table id="data" class="table table-bordered" style="width:100%">
+        <thead class="thead-light">
+            <tr>
+                <th class="align-middle" scope="col">Rank</th>
+                <th class="align-middle" scope="col">Prev. Rank</th>
+                <th class="align-middle" scope="col">Rank Change</th>
+                <th class="align-middle" scope="col">Country</th>
+                <th class="align-middle" scope="col">Player</th>
+                <th class="align-middle" scope="col">Member_ID</th>
+                <th class="align-middle" scope="col">Points</th>
+                <th class="align-middle" scope="col">Tournaments</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+</div>
+{% endblock %}
