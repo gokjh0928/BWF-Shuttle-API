@@ -212,9 +212,9 @@ def rank_category(category):
     category - badminton category to view
     Return: json data containing current 25 top players for the input category
     """
-    error_message = not_verified()
-    if error_message:
-        return jsonify(error_message)
+    # error_message = not_verified()
+    # if error_message:
+    #     return jsonify(error_message)
     date = valid_dates[0]
     df = generate_table(category, date, '25')
     if isinstance(df, pd.DataFrame): 
@@ -231,9 +231,9 @@ def rank_category_rows(category, rows):
     rows - number of players to get
     Return: json containing current top {rows} players for the input category
     """
-    error_message = not_verified()
-    if error_message:
-        return jsonify(error_message)
+    # error_message = not_verified()
+    # if error_message:
+    #     return jsonify(error_message)
     date = valid_dates[0]
     df = generate_table(category, date, rows)
     if isinstance(df, pd.DataFrame): 
@@ -251,9 +251,9 @@ def rank_year_week(category, year, week, rows):
     rows - number of players to get
     Return: json containing top {rows} players for the input category for chosen year
     """
-    error_message = not_verified()
-    if error_message:
-        return jsonify(error_message)
+    # error_message = not_verified()
+    # if error_message:
+    #     return jsonify(error_message)
     if f'{year}-{week}' not in valid_weeks.keys():
         return jsonify(["Invalid Input"])
     date = valid_weeks[f'{year}-{week}']
@@ -271,9 +271,9 @@ def rank_ymd(category, year, month, day, rows):
     rows - number of players to get
     Return: json containing top {rows} players for the input category for chosen year
     """
-    error_message = not_verified()
-    if error_message:
-        return jsonify(error_message)
+    # error_message = not_verified()
+    # if error_message:
+    #     return jsonify(error_message)
     date = f'{year}/{month}/{day}'
     df = generate_table(category, date, rows)
     if isinstance(df, pd.DataFrame):
