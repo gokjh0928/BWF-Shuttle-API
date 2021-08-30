@@ -7,6 +7,7 @@ from .import bp as app
 # from IPython.display import display
 import scores
 from app import cache
+from app import limiter
 
 # The path to the project's directory
 path = os.getcwd()
@@ -16,6 +17,10 @@ valid_dates = sorted(list(scores.getValidDates().keys()), reverse=True)
 valid_weeks = scores.getWeeks()
 # this is the altered dataframe from the dynamic table that will be available for download
 altered_df = None
+
+# limits number of api_calls allowed to prevent DDOS style attacks
+per_day = len(valid_dates) * 5 * 2 # (number of valid dates) * (number of categories) * 2
+per_minute = 80
 
 # Values used to get URL of chosen category
 categories = {
@@ -43,6 +48,7 @@ def home():
     return render_template('ranking.html', **context)
 
 @app.route('/tables', methods=['GET', 'POST'])
+@limiter.limit(f"{per_day}/day;{per_minute}/minute", error_message=f'Please limit API calls to {per_day}/day, {per_minute}/minute')
 def table():
     if request.method == 'POST':
         # Require user to be logged in to use the table functionality
@@ -69,7 +75,6 @@ def table():
         else:
             # if existing in database, generate ranking table
             df = generate_table(category, date, num_rows)
-
             context = {
                 'table': df.values,
                 'category': category_full_name[request.form.get('category-select')],
@@ -88,6 +93,7 @@ def players():
     return render_template('players.html')
 
 @app.route('/download/<type>/<category>/<year>/<week>/<rows>')
+@limiter.limit(f"{per_day}/day;{per_minute}/minute", error_message=f'Please limit API calls to {per_day}/day, {per_minute}/minute')
 def download(type, category, year, week, rows):
     """
     type - type of file to download(csv, json, etc)
@@ -124,6 +130,7 @@ def download(type, category, year, week, rows):
         return jsonify(["Invalid Input"])
 
 @app.route('/download_altered/<type>/<category>/<year>/<week>')
+@limiter.limit(f"{per_day}/day;{per_minute}/minute", error_message=f'Please limit API calls to {per_day}/day, {per_minute}/minute')
 def download_altered(type, category, year, week):
     if 'user' not in session:
         flash("Please log in on the website before downloading data.", 'info')
@@ -150,14 +157,17 @@ def download_altered(type, category, year, week):
             file = jsonify(json.loads(data))
             file.headers['Content-Disposition'] = f'attachment;filename={category}_{year}_{week}.json'
             return file
-    return jsonify(["Invalid Request"])
+    # Catching any other error by doing nothing
+    return ('', 204)
 
     
 @app.route('/table/<category>/<year>/<month>/<day>/<rows>', methods=['GET'])
+@limiter.limit(f"{per_day}/day;{per_minute}/minute", error_message=f'Please limit API calls to {per_day}/day, {per_minute}/minute')
 def flask_table(category, year, month, day, rows):
     global altered_df
     date = f'{year}/{month}/{day}'
     df = generate_table(category, date, rows)
+    # This allows for the altered dataframe to be initialized as the original dataframe
     altered_df = df
     if isinstance(df, pd.DataFrame): 
         search = request.args.get('search[value]')
@@ -207,6 +217,7 @@ def flask_table(category, year, month, day, rows):
 
 
 @app.route('/api/<category>', methods=['GET'])
+@limiter.limit(f"{per_day}/day;{per_minute}/minute", error_message=f'Please limit API calls to {per_day}/day, {per_minute}/minute')
 def rank_category(category):
     """
     category - badminton category to view
@@ -225,6 +236,7 @@ def rank_category(category):
 
 
 @app.route('/api/<category>/<rows>', methods=['GET'])
+@limiter.limit(f"{per_day}/day;{per_minute}/minute", error_message=f'Please limit API calls to {per_day}/day, {per_minute}/minute')
 def rank_category_rows(category, rows):
     """
     category - badminton category to view
@@ -244,6 +256,7 @@ def rank_category_rows(category, rows):
 
 
 @app.route('/api/<category>/<year>/<week>/<rows>', methods=['GET'])
+@limiter.limit(f"{per_day}/day;{per_minute}/minute", error_message=f'Please limit API calls to {per_day}/day, {per_minute}/minute')
 def rank_year_week(category, year, week, rows):
     """
     category - badminton category to view
@@ -265,6 +278,7 @@ def rank_year_week(category, year, week, rows):
     return jsonify(json.loads(data))
 
 @app.route('/api/<category>/<year>/<month>/<day>/<rows>', methods=['GET'])
+@limiter.limit(f"{per_day}/day;{per_minute}/minute", error_message=f'Please limit API calls to {per_day}/day, {per_minute}/minute')
 def rank_ymd(category, year, month, day, rows):
     """
     category - badminton category to view

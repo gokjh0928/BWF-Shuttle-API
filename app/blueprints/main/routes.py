@@ -4,6 +4,7 @@ from flask import current_app as curr_app
 import scores
 # Import smtplib for sending emails
 import smtplib
+from app import limiter
 
 # Dictionary with valid dates as keys and values being the ones used for getting the url
 valid_dates = sorted(list(scores.getValidDates().keys()), reverse=True)
@@ -20,6 +21,7 @@ def home():
     return render_template('home.html', **context)
 
 @app.route('/contact', methods = ['GET', 'POST'])
+@limiter.limit(f"5/day;1/minute", error_message=f'Please limit messages to 5/day, 1/minute')
 def contact():
     if request.method == "POST":
         name = request.form.get('input-name')
