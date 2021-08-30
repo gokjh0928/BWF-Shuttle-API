@@ -97,8 +97,8 @@ def download(type, category, year, week, rows):
     Return: downloaded csv file that use wants
     """
     if 'user' not in session:
-            flash("Please log in on the website before downloading data.", 'info')
-            return redirect(url_for('rankings.home'))
+        flash("Please log in on the website before downloading data.", 'info')
+        return redirect(url_for('rankings.home'))
     # See if the user's token has expired, and if so, refresh to get a new one
     try:
         auth.get_account_info(session['user'])
@@ -126,8 +126,8 @@ def download(type, category, year, week, rows):
 @app.route('/download_altered/<type>/<category>/<year>/<week>')
 def download_altered(type, category, year, week):
     if 'user' not in session:
-            flash("Please log in on the website before downloading data.", 'info')
-            return redirect(url_for('rankings.home'))
+        flash("Please log in on the website before downloading data.", 'info')
+        return redirect(url_for('rankings.home'))
     # See if the user's token has expired, and if so, refresh to get a new one
     try:
         auth.get_account_info(session['user'])
@@ -207,7 +207,6 @@ def flask_table(category, year, month, day, rows):
 
 
 @app.route('/api/<category>', methods=['GET'])
-@cache.cached(timeout=120)
 def rank_category(category):
     """
     category - badminton category to view
@@ -226,7 +225,6 @@ def rank_category(category):
 
 
 @app.route('/api/<category>/<rows>', methods=['GET'])
-@cache.cached(timeout=120)
 def rank_category_rows(category, rows):
     """
     category - badminton category to view
@@ -246,7 +244,6 @@ def rank_category_rows(category, rows):
 
 
 @app.route('/api/<category>/<year>/<week>/<rows>', methods=['GET'])
-@cache.cached(timeout=120)
 def rank_year_week(category, year, week, rows):
     """
     category - badminton category to view
@@ -268,7 +265,6 @@ def rank_year_week(category, year, week, rows):
     return jsonify(json.loads(data))
 
 @app.route('/api/<category>/<year>/<month>/<day>/<rows>', methods=['GET'])
-@cache.cached(timeout=120)
 def rank_ymd(category, year, month, day, rows):
     """
     category - badminton category to view
