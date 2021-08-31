@@ -43,6 +43,8 @@ def send_message(name, email, subject, message):
         mailserver.ehlo()
         mailserver.starttls()
         mailserver.login(curr_app.config.get('MAIL_USERNAME'), curr_app.config.get('MAIL_PASSWORD'))
+        # Replace the '/' with '_' to prevent errors in sending message
+        message = message.replace('/', '_')
         #Adding a newline before the body text fixes the missing message body
         mailserver.sendmail(curr_app.config.get('MAIL_USERNAME'),curr_app.config.get('MAIL_USERNAME'), 
                 f'\nFROM: {name}({email})\nSUBJECT: {subject}\n\n' + message)
