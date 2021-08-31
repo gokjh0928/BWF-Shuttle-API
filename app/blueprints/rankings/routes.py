@@ -4,23 +4,21 @@ from app.context_processor import auth
 import pandas as pd
 import os
 from .import bp as app
-# from IPython.display import display
+from IPython.display import display
 import scores
 from app import cache
 from app import limiter
 
+
 # The path to the project's directory
 path = os.getcwd()
-# Dictionary with valid dates as keys and values being the ones used for getting the url
-valid_dates = sorted(list(scores.getValidDates().keys()), reverse=True)
-# Dict with keys formated like '{year}-{week}' and value being corresponding year/month/day
-valid_weeks = scores.getWeeks()
+
 # this is the altered dataframe from the dynamic table that will be available for download
-altered_df = None
 
 # limits number of api_calls allowed to prevent DDOS style attacks
-per_day = len(valid_dates) * 5 * 2 # (number of valid dates) * (number of categories) * 2
+per_day = 3000
 per_minute = 80
+
 
 # Values used to get URL of chosen category
 categories = {
@@ -40,7 +38,9 @@ category_full_name = {
         }
 
 @app.route('/')
+@cache.cached(timeout=180)
 def home():
+    valid_dates = getDates()
     context = {
             # all possible dates from which to get information from BWF Website
             'dates': valid_dates
@@ -75,6 +75,11 @@ def table():
         else:
             # if existing in database, generate ranking table
             df = generate_table(category, date, num_rows)
+            valid_weeks = getWeeks()
+            # Make sure to clear previous info that altered tables, since we're getting a new table
+            for altering_term in ['search', 'ascending', 'descending']:
+                if altering_term in session:
+                    session.pop(altering_term)
             context = {
                 'table': df.values,
                 'category': category_full_name[request.form.get('category-select')],
@@ -92,9 +97,9 @@ def table():
 def players():
     return render_template('players.html')
 
-@app.route('/download/<type>/<category>/<year>/<week>/<rows>')
+@app.route('/download/<type>/<altered>/<category>/<year>/<week>/<rows>')
 @limiter.limit(f"{per_day}/day;{per_minute}/minute", error_message=f'Please limit API calls to {per_day}/day, {per_minute}/minute')
-def download(type, category, year, week, rows):
+def download(type, altered, category, year, week, rows):
     """
     type - type of file to download(csv, json, etc)
     category - chosen badminton category
@@ -113,7 +118,33 @@ def download(type, category, year, week, rows):
     if not auth.get_account_info(session['user'])['users'][0]['emailVerified']:
         flash(Markup('Please verify your account before downloading data. <a href="/authentication/resend_verification" class="alert-link">Resend Verification</a>?'), 'info')
         return redirect(url_for('rankings.home'))
+    valid_weeks = getWeeks()
     df = generate_table(category, valid_weeks[f'{year}-{week}'], rows)
+    # If we want to download the altered table
+    if altered == "True":
+        # Check if the user made any changes to the table and reflect those changes
+        if ('search' in session) or ('ascending' in session) or ('descending' in session):
+            if session['search']:
+                if category in ['MS', 'WS']:
+                    df = df[df.drop('profile_link', axis=1).apply(lambda row: row.astype(str).str.contains(search, case=False, regex=True).any(), axis=1)]
+                elif category in ['MD', 'WD', 'XD']:
+                    df = df[df.drop(['profile_link1', 'profile_link2'], axis=1).apply(lambda row: row.astype(str).str.contains(search, case=False, regex=True).any(), axis=1)]
+            if 'ascending' in session:
+                col_name = session['ascending']
+                if col_name in ['player', 'player1', 'player2']:
+                    df.sort_values(by=col_name, ascending=True, inplace=True, key=lambda col: col.str.lower())
+                elif col_name != 'rank':
+                    df.sort_values(by=[col_name, 'rank'], ascending=[True, True], inplace=True)
+                else:
+                    df.sort_values(by='rank', ascending=True, inplace=True)
+            if 'descending' in session:
+                col_name = session['descending']
+                if col_name in ['player', 'player1', 'player2']:
+                    df.sort_values(by=col_name, ascending=False, inplace=True, key=lambda col: col.str.lower())
+                elif col_name != 'rank':
+                    df.sort_values(by=[col_name, 'rank'], ascending=[False, True], inplace=True)
+                else:
+                    df.sort_values(by='rank', ascending=False, inplace=True)
     if type == 'csv':
         file = df.to_csv(index=False)
         return Response(
@@ -127,50 +158,21 @@ def download(type, category, year, week, rows):
         file.headers['Content-Disposition'] = f'attachment;filename={category}_{year}_{week}.json'
         return file
     else:
-        return jsonify(["Invalid Input"])
-
-@app.route('/download_altered/<type>/<category>/<year>/<week>')
-@limiter.limit(f"{per_day}/day;{per_minute}/minute", error_message=f'Please limit API calls to {per_day}/day, {per_minute}/minute')
-def download_altered(type, category, year, week):
-    if 'user' not in session:
-        flash("Please log in on the website before downloading data.", 'info')
-        return redirect(url_for('rankings.home'))
-    # See if the user's token has expired, and if so, refresh to get a new one
-    try:
-        auth.get_account_info(session['user'])
-    except:
-        session['user'] = auth.refresh(session['refreshToken'])['idToken']
-    if not auth.get_account_info(session['user'])['users'][0]['emailVerified']:
-        flash(Markup('Please verify your account before downloading data. <a href="/authentication/resend_verification" class="alert-link">Resend Verification</a>?'), 'info')
-        return redirect(url_for('rankings.home'))
-    global altered_df
-    if isinstance(altered_df, pd.DataFrame):
-        if type == 'csv':
-            file = altered_df.to_csv(index=False)
-            return Response(
-                file,
-                mimetype="text/csv",
-                headers={"Content-disposition":
-                        f"attachment; filename={category}_{year}_{week}.csv"})        
-        elif type == 'json':
-            data = altered_df.to_json(orient='records')
-            file = jsonify(json.loads(data))
-            file.headers['Content-Disposition'] = f'attachment;filename={category}_{year}_{week}.json'
-            return file
-    # Catching any other error by doing nothing
-    return ('', 204)
+        # Catching any other error by doing nothing
+        return ('', 204)
+    
 
     
 @app.route('/table/<category>/<year>/<month>/<day>/<rows>', methods=['GET'])
 @limiter.limit(f"{per_day}/day;{per_minute}/minute", error_message=f'Please limit API calls to {per_day}/day, {per_minute}/minute')
 def flask_table(category, year, month, day, rows):
-    global altered_df
     date = f'{year}/{month}/{day}'
     df = generate_table(category, date, rows)
     # This allows for the altered dataframe to be initialized as the original dataframe
-    altered_df = df
     if isinstance(df, pd.DataFrame): 
         search = request.args.get('search[value]')
+        # Save search in session to reflect changes when downloading altered table
+        session['search'] = search
         total_records = len(df)
         if search:
             if category in ['MS', 'WS']:
@@ -195,6 +197,10 @@ def flask_table(category, year, month, day, rows):
                     df.sort_values(by=[col_name, 'rank'], ascending=[False, True], inplace=True)
                 else:
                     df.sort_values(by='rank', ascending=False, inplace=True)
+                # Save changes to dataframe in session to reflect changes when downloading altered table
+                if 'ascending' in session:
+                    session.pop('ascending')
+                session['descending'] = col_name
             else:
                 if col_name in ['player', 'player1', 'player2']:
                     df.sort_values(by=col_name, ascending=True, inplace=True, key=lambda col: col.str.lower())
@@ -202,8 +208,11 @@ def flask_table(category, year, month, day, rows):
                     df.sort_values(by=[col_name, 'rank'], ascending=[True, True], inplace=True)
                 else:
                     df.sort_values(by='rank', ascending=True, inplace=True)
+                # Save changes to dataframe in session to reflect changes when downloading altered table
+                if 'descending' in session:
+                    session.pop('descending')
+                session['ascending'] = col_name
             i += 1
-        altered_df = df.copy()
         start = request.args.get('start', type=int)
         length = request.args.get('length', type=int)
         df = df[start:start+length]
@@ -226,7 +235,7 @@ def rank_category(category):
     # error_message = not_verified()
     # if error_message:
     #     return jsonify(error_message)
-    date = valid_dates[0]
+    date = getDates()[0]
     df = generate_table(category, date, '25')
     if isinstance(df, pd.DataFrame): 
         data = df.to_json(orient='records')
@@ -246,7 +255,7 @@ def rank_category_rows(category, rows):
     # error_message = not_verified()
     # if error_message:
     #     return jsonify(error_message)
-    date = valid_dates[0]
+    date = getDates()[0]
     df = generate_table(category, date, rows)
     if isinstance(df, pd.DataFrame): 
         data = df.to_json(orient='records')
@@ -269,6 +278,7 @@ def rank_year_week(category, year, week, rows):
     #     return jsonify(error_message)
     if f'{year}-{week}' not in valid_weeks.keys():
         return jsonify(["Invalid Input"])
+    valid_weeks = getWeeks()
     date = valid_weeks[f'{year}-{week}']
     df = generate_table(category, date, rows)
     if isinstance(df, pd.DataFrame): 
@@ -388,3 +398,18 @@ def not_verified():
     if not auth.get_account_info(session['user'])['users'][0]['emailVerified']:
         return ["Please verify your account before accessing data!", {"Resend Verification": "http://127.0.0.1:5000/authentication/resend_verification"}]
     return []
+
+
+# Memoize dates
+@cache.memoize(timeout=600)
+def getDates():
+    # Dictionary with valid dates as keys and values being the ones used for getting the url
+    valid_dates = sorted(list(scores.getValidDates().keys()), reverse=True)
+    return valid_dates
+
+# Memoize weeks
+@cache.memoize(timeout=600)
+def getWeeks():
+    # Dict with keys formated like '{year}-{week}' and value being corresponding year/month/day
+    valid_weeks = scores.getWeeks()
+    return valid_weeks

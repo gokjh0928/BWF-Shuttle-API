@@ -4,14 +4,15 @@ from flask import current_app as curr_app
 import scores
 # Import smtplib for sending emails
 import smtplib
+from app import cache
 from app import limiter
 
-# Dictionary with valid dates as keys and values being the ones used for getting the url
-valid_dates = sorted(list(scores.getValidDates().keys()), reverse=True)
-valid_weeks = scores.getWeeks()
 
 @app.route('/')
+@cache.cached(timeout=180)
 def home():
+    valid_dates = getDates()
+    valid_weeks = getWeeks()
     context = {
             # all possible dates from which to get information from BWF Website
             'categories': ['MS', 'WS', 'MD', 'WD', 'XD'],
@@ -51,4 +52,19 @@ def send_message(name, email, subject, message):
         return render_template('success.html')
     except:
         return jsonify(["Something went wrong with sending the message. Please try again later!"])
-    
+
+
+
+# Memoize dates
+@cache.memoize(timeout=600)
+def getDates():
+    # Dictionary with valid dates as keys and values being the ones used for getting the url
+    valid_dates = sorted(list(scores.getValidDates().keys()), reverse=True)
+    return valid_dates
+
+# Memoize weeks
+@cache.memoize(timeout=600)
+def getWeeks():
+    # Dict with keys formated like '{year}-{week}' and value being corresponding year/month/day
+    valid_weeks = scores.getWeeks()
+    return valid_weeks
