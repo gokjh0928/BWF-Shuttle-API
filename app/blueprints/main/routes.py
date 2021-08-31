@@ -9,7 +9,6 @@ from app import limiter
 
 
 @app.route('/')
-@cache.cached(timeout=180)
 def home():
     valid_dates = getDates()
     valid_weeks = getWeeks()
@@ -52,8 +51,6 @@ def send_message(name, email, subject, message):
         return render_template('success.html')
     except:
         return jsonify(["Something went wrong with sending the message. Please try again later!"])
-
-
 
 # Memoize dates
 @cache.memoize(timeout=600)
