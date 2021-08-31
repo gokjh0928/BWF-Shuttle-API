@@ -1,4 +1,4 @@
-from flask import render_template, request, redirect, url_for, flash
+from flask import render_template, request, redirect, url_for, flash, jsonify
 from .import bp as app
 from flask import current_app as curr_app
 import scores
@@ -21,32 +21,34 @@ def home():
     return render_template('home.html', **context)
 
 @app.route('/contact', methods = ['GET', 'POST'])
-@limiter.limit(f"5/day;1/minute", error_message=f'Please limit messages to 5/day, 1/minute')
 def contact():
     if request.method == "POST":
         name = request.form.get('input-name')
         email = request.form.get('input-email')
         subject = request.form.get('input-subject')
         message = request.form.get('input-message')
-        
-        try:
-            # print('Start')
-            mailserver = smtplib.SMTP(curr_app.config.get('MAIL_SERVER'), curr_app.config.get('MAIL_PORT'))
-            mailserver.ehlo()
-            mailserver.starttls()
-            mailserver.login(curr_app.config.get('MAIL_USERNAME'), curr_app.config.get('MAIL_PASSWORD'))
-            #Adding a newline before the body text fixes the missing message body
-            mailserver.sendmail(curr_app.config.get('MAIL_USERNAME'),curr_app.config.get('MAIL_USERNAME'), 
-                    f'\nFROM: {name}({email})\nSUBJECT: {subject}\n\n' + message)
-            mailserver.quit()
-            # print('Finish')  
-            flash('Successfully sent email!', 'success')
-            return redirect(url_for('main.contact'))
-        except:
-            flash('Something went wrong...', 'danger')
-            return redirect(url_for('main.contact'))
+        return redirect(url_for('main.send_message', name=name, email=email, subject=subject, message=message))
     return render_template('contact.html')
 
 @app.route('/contact/success')
 def success():
     return render_template('success.html')
+
+# Limit messages sent to BWF Shuttle API's email to 3 per day to prevent spam
+@app.route('/contact/send_message/<name>_<email>_<subject>_<message>')
+@limiter.limit(f"3/day", error_message=f'Please limit messages to 5/day')
+def send_message(name, email, subject, message):
+    try:
+        mailserver = smtplib.SMTP(curr_app.config.get('MAIL_SERVER'), curr_app.config.get('MAIL_PORT'))
+        mailserver.ehlo()
+        mailserver.starttls()
+        mailserver.login(curr_app.config.get('MAIL_USERNAME'), curr_app.config.get('MAIL_PASSWORD'))
+        #Adding a newline before the body text fixes the missing message body
+        mailserver.sendmail(curr_app.config.get('MAIL_USERNAME'),curr_app.config.get('MAIL_USERNAME'), 
+                f'\nFROM: {name}({email})\nSUBJECT: {subject}\n\n' + message)
+        mailserver.quit()
+        # print('Finish')  
+        return render_template('success.html')
+    except:
+        return jsonify(["Something went wrong with sending the message. Please try again later!"])
+    
