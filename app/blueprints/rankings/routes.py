@@ -124,9 +124,9 @@ def download(type, altered, category, year, week, rows):
         if ('search' in session) or ('ascending' in session) or ('descending' in session):
             if session['search']:
                 if category in ['MS', 'WS']:
-                    df = df[df.drop('profile_link', axis=1).apply(lambda row: row.astype(str).str.contains(search, case=False, regex=True).any(), axis=1)]
+                    df = df[df.drop('profile_link', axis=1).apply(lambda row: row.astype(str).str.contains(session['search'], case=False).any(), axis=1)]
                 elif category in ['MD', 'WD', 'XD']:
-                    df = df[df.drop(['profile_link1', 'profile_link2'], axis=1).apply(lambda row: row.astype(str).str.contains(search, case=False, regex=True).any(), axis=1)]
+                    df = df[df.drop(['profile_link1', 'profile_link2'], axis=1).apply(lambda row: row.astype(str).str.contains(session['search'], case=False).any(), axis=1)]
             if 'ascending' in session:
                 col_name = session['ascending']
                 if col_name in ['player', 'player1', 'player2']:
@@ -174,9 +174,9 @@ def flask_table(category, year, month, day, rows):
         total_records = len(df)
         if search:
             if category in ['MS', 'WS']:
-                df = df[df.drop('profile_link', axis=1).apply(lambda row: row.astype(str).str.contains(search, case=False, regex=True).any(), axis=1)]
+                df = df[df.drop('profile_link', axis=1).apply(lambda row: row.astype(str).str.contains(search, case=False).any(), axis=1)]
             elif category in ['MD', 'WD', 'XD']:
-                df = df[df.drop(['profile_link1', 'profile_link2'], axis=1).apply(lambda row: row.astype(str).str.contains(search, case=False, regex=True).any(), axis=1)]
+                df = df[df.drop(['profile_link1', 'profile_link2'], axis=1).apply(lambda row: row.astype(str).str.contains(search, case=False).any(), axis=1)]
         total_filtered = len(df)
         order = []
         i = 0
