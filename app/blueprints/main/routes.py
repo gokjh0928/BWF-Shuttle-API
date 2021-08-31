@@ -1,7 +1,7 @@
-from flask import render_template, request, redirect, url_for, flash, jsonify
+from flask import render_template, request, redirect, url_for, jsonify
 from .import bp as app
 from flask import current_app as curr_app
-import scores
+from app.context_processor import getDates, getWeeks
 # Import smtplib for sending emails
 import smtplib
 from app import cache
@@ -51,17 +51,3 @@ def send_message(name, email, subject, message):
         return render_template('success.html')
     except:
         return jsonify(["Something went wrong with sending the message. Please try again later!"])
-
-# Memoize dates
-@cache.memoize(timeout=600)
-def getDates():
-    # Dictionary with valid dates as keys and values being the ones used for getting the url
-    valid_dates = sorted(list(scores.getValidDates().keys()), reverse=True)
-    return valid_dates
-
-# Memoize weeks
-@cache.memoize(timeout=600)
-def getWeeks():
-    # Dict with keys formated like '{year}-{week}' and value being corresponding year/month/day
-    valid_weeks = scores.getWeeks()
-    return valid_weeks

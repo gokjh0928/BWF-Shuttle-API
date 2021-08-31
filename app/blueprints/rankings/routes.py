@@ -1,13 +1,12 @@
 from flask import render_template, request, redirect, url_for, flash, Markup, session, json, jsonify, Response
-from app.context_processor import db
-from app.context_processor import auth
+from app.context_processor import db, auth, getDates, getWeeks
 import pandas as pd
 import os
 from .import bp as app
-from IPython.display import display
-import scores
+# from IPython.display import display
 from app import cache
 from app import limiter
+
 
 
 # The path to the project's directory
@@ -38,7 +37,6 @@ category_full_name = {
         }
 
 @app.route('/')
-@cache.cached(timeout=180)
 def home():
     valid_dates = getDates()
     context = {
@@ -398,18 +396,3 @@ def not_verified():
     if not auth.get_account_info(session['user'])['users'][0]['emailVerified']:
         return ["Please verify your account before accessing data!", {"Resend Verification": "http://127.0.0.1:5000/authentication/resend_verification"}]
     return []
-
-
-# Memoize dates
-@cache.memoize(timeout=600)
-def getDates():
-    # Dictionary with valid dates as keys and values being the ones used for getting the url
-    valid_dates = sorted(list(scores.getValidDates().keys()), reverse=True)
-    return valid_dates
-
-# Memoize weeks
-@cache.memoize(timeout=600)
-def getWeeks():
-    # Dict with keys formated like '{year}-{week}' and value being corresponding year/month/day
-    valid_weeks = scores.getWeeks()
-    return valid_weeks
