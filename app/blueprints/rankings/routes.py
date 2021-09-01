@@ -274,6 +274,7 @@ def rank_year_week(category, year, week, rows):
     # error_message = not_verified()
     # if error_message:
     #     return jsonify(error_message)
+    valid_weeks = getWeeks()
     if f'{year}-{week}' not in valid_weeks.keys():
         return jsonify(["Invalid Input"])
     valid_weeks = getWeeks()

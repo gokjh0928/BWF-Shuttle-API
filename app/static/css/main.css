@@ -25,6 +25,10 @@ p {
     text-align: center;
 }
 
+.dropdown-item {
+    font-weight: 300;
+}
+
 /* table styles */
 table {
     margin-bottom: 0 !important;

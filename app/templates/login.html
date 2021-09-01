@@ -2,6 +2,12 @@
 {% block title %}
     <title>Login | Authentication | BWF Shuttle API</title>
 {% endblock title %}
+
+{% block description %}
+<meta name="description"
+    content="Log in to your BWF Shuttle API account. Verified users who are logged in are allowed to view/download ranking data tables.">
+{% endblock description %}
+
 {% block content %}
 {% if 'user' in session %}
     <div class="container t-p-10 bottom-spacing">

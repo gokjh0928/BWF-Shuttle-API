@@ -9,23 +9,17 @@
     <div class="collapse navbar-collapse" id="collapsibleNavId">
         <ul class="navbar-nav mr-auto mt-2 mt-lg-0" id="no-margin">
             <li class="nav-item">
-                <a class="nav-link" href="{{ url_for('rankings.home') }}">Rankings</a>
+                <a class="nav-link text-nowrap" href="{{ url_for('rankings.home') }}">Rankings</a>
             </li>
-            <!-- <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" id="dropdownId" data-toggle="dropdown" aria-haspopup="true"
-                    aria-expanded="false">Shop</a>
-                <div class="dropdown-menu" aria-labelledby="dropdownId">
-                    <a class="dropdown-item" href="#">Products</a>
-                    <a class="dropdown-item" href="#">
-                        Cart
-                    </a>
-                </div>
-            </li> -->
+            
             <!-- <li class="nav-item">
                 <a class="nav-link" href="{{ url_for('rankings.players') }}">Players</a>
             </li> -->
             <li class="nav-item">
-                <a class="nav-link" href="{{ url_for('main.contact') }}">Contact</a>
+                <a class="nav-link text-nowrap" href="{{ url_for('main.contact') }}">Contact</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-nowrap" href="{{ url_for('main.contact') }}">FAQ</a>
             </li>
         </ul>
         <ul class="navbar-nav ml-auto">
@@ -40,18 +34,18 @@
             </li> -->
             {% if 'user' in session %}
             <li class="nav-item">
-                <a href="{{ url_for('authentication.logout') }}" class="nav-link">Logout</a>
+                <a href="{{ url_for('authentication.logout') }}" class="nav-link text-nowrap">Logout</a>
             </li>
             {% else %}
             <li class="nav-item">
-                <a href="{{ url_for('authentication.login') }}" class="nav-link">Login</a>
+                <a href="{{ url_for('authentication.login') }}" class="nav-link text-nowrap">Login</a>
             </li>
             <li class="nav-item">
-                <a href="{{ url_for('authentication.register') }}" class="nav-link">Register</a>
+                <a href="{{ url_for('authentication.register') }}" class="nav-link text-nowrap">Register</a>
             </li>
             {% endif %}
             <li class="nav-item">
-                <a href="https://bwfbadminton.com" class="nav-link">BWF Fansite</a>
+                <a href="https://bwfbadminton.com" class="nav-link text-nowrap">BWF Fansite</a>
             </li>
         </ul>
     </div>
