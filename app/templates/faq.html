@@ -1,0 +1,55 @@
+{% extends 'layout.html' %}
+{% block title %}
+<title>FAQ | BWF Shuttle API | Top Badminton Ranking Data API</title>
+{% endblock title %}
+{% block description %}
+<meta name="description"
+    content="Most commonly asked questions about BWF Shuttle API. Feel free to send more and we might include it here!">
+{% endblock description %}
+
+{% block content %}
+<div class="text-center d-flex justify-content-center">
+    <div class="col-lg-10 col-xl-9">
+        <h2 class="mb-3">FAQ</h2>
+        <p class="text-muted lead mb-4">Here are the most frequently asked questions about BWF Shuttle API. <br />Feel free to send more through 
+            our social media or <strong>Contact</strong> page and we might include them here!
+        </p>
+        <hr />
+        <h5 class="mb-3">Are you associated with the BWF organization?</h5>
+        <p class="text-muted">No! BWF Shuttle API is not officially associated or affiliated with the BWF. We only scrape data
+            from BWF's Tournament
+            Software website, and are a completely independent project.
+        </p>
+        <hr />
+        <h5 class="mb-3">Where is the data from?</h5>
+        <p class="text-muted">Data is scraped daily from BWF's Tournament Software website. Originally, it was from
+        <a href="https://bwfbadminton.com/rankings/">https://bwfbadminton.com/rankings/</a>, but we found it to contain inaccurate/incomplete data for past rankings and for
+        much lower ranked players. From reading BWF's guidebooks, we realized that they used Tournament Software for creating player entries, so we decided it was a more reliable source of ranking and player data.
+        </p>
+        <hr />
+        
+        <h5 class="mb-3">How is the data formatted?</h5>
+        <p class="text-muted">The data can be acquired by choosing a date, category, and number of players in the <strong>Rankings</strong> page of the website, where
+        users can download CSV and JSON files of the original or queried data tables. Another way is to get JSON metadata with simple HTTP GET requests using our API, following the format specified on our home page.
+        </p>
+        <hr />
+        <h5 class="mb-3">Can I use this data for personal use?</h5>
+        <p class="text-muted">Yes! Please feel free to use our data as you please as long as you credit BWF Shuttle API. We
+            encourage badminton enthusiasts in growing the sport of badminton and hope we can contribute to the cause.
+        </p>
+        <hr />
+        <h5 class="mb-3">What is the purpose of this website?</h5>
+        <p class="text-muted">We realized that unlike bigger sports, badminton had no up-to-date database where users could
+            download badminton data. We were
+            originally planning on utilizing badminton ranking data for different purposes, but learned that there was no
+            official source to
+            acquire it. Therefore, we decided to get the data for ourselves and provide it to the public to use freely.
+        </p>
+        <hr />
+        <h5 class="mb-3">Any upcoming developments?</h5>
+        <p class="text-muted">We are currently in the process of creating a separate page for player data, which will contain personal information like handedness,
+        birthday, height, bio, head-to-head, titles, etc. Due to the nature of the data, we expect it to be available only in JSON format.
+        </p>
+    </div>
+</div>
+{% endblock content %}

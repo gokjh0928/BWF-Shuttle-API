@@ -53,3 +53,8 @@ def send_message(name, email, subject, message):
         return render_template('success.html')
     except:
         return jsonify(["Something went wrong with sending the message. Please try again later!"])
+
+
+@app.route('/faq', methods = ['GET', 'POST'])
+def faq():
+    return render_template('faq.html')
