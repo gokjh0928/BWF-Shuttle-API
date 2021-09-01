@@ -12,11 +12,11 @@
     </div>
 {% else %}
 <div class="container">
-    <h2 class="mb-3 d-flex justify-content-center text-center">Login</h2>
+    <h2 class="mb-3 d-flex justify-content-center">Login</h2>
     <hr />
 
     <form action="{{ url_for('authentication.login') }}" method="POST"
-        class="needs-validation col-10 offset-1 text-center" enctype="multipart/form-data" novalidate>
+        class="needs-validation col-md-10 offset-md-1 col-lg-8 offset-lg-2" enctype="multipart/form-data" novalidate>
         <div class="col">
             <div class="form-group">
                 <label for="email"><b>Email</b></label>
@@ -35,11 +35,9 @@
                 </div>
             </div>
         </div>
-        <span id='message'></span>
-        <br />
-        <button class="btn btn-primary btn-lg btn-block" type="submit">Login</button>
+        <button class="btn btn-primary btn-lg btn-block mt-4" type="submit">Login</button>
     </form>
-    <div class="container top-spacing b-p-5">
+    <div class="container py-4 mb-2">
         <p>Don't have an account? <a href="{{ url_for('authentication.register') }}">Register here</a>.</p>
         <p>Forgot password? <a href="/authentication/reset_password">Click here</a>.</p>
     </div>

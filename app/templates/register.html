@@ -3,12 +3,12 @@
     <title>Register | Authentication | BWF Shuttle API</title>
 {% endblock title %}
 {% block content %}
-<div class="container">
-    <h2 class="mb-3 d-flex justify-content-center text-center">Register</h2>
-    <p class="mb-3 d-flex justify-content-center text-center">Please fill in this form to create an account.</p>
+<div class="container text-center">
+    <h2 class="mb-3">Register</h2>
+    <p class="mb-3">Please fill in this form to create an account.</p>
     <hr />
 
-    <form action="{{ url_for('authentication.register') }}" method="POST" class="needs-validation col-10 offset-1 text-center"
+    <form action="{{ url_for('authentication.register') }}" method="POST" class="needs-validation col-md-10 offset-md-1 col-lg-8 offset-lg-2"
         enctype="multipart/form-data" novalidate>
         <div class="col">
             <div class="form-group">
@@ -42,7 +42,7 @@
         <br />
         <button class="btn btn-primary btn-lg btn-block" type="submit">Register</button>
     </form>
-    <div class="container top-spacing b-p-5">
+    <div class="container py-4 mb-4">
         <p>Already have an account? <a href="{{ url_for('authentication.login') }}">Sign in</a>.</p>
         <p>Forgot password? <a href="/authentication/reset_password">Click here</a>.</p>
     </div>

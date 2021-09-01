@@ -4,32 +4,32 @@
 {% endblock title %}
 
 {% block content %}
-    <div class="container-lg bottom-spacing">
-        <div class="col-md-10 offset-md-1">
-            <h2 class="mb-3 d-flex justify-content-center">BWF Shuttle API</h2>
-            <p class="text-muted lead mb-4 d-flex justify-content-center">The most comprehensive and detailed source to view
+    <div class="text-center d-flex justify-content-center">
+        <div class="col-lg-10 col-xl-9">
+            <h2 class="mb-3">BWF Shuttle API</h2>
+            <p class="text-muted lead mb-4">The most comprehensive and detailed source to view
                 and download
                 top badminton player ranking data given by the BWF(Badminton World Federation)*.<br />
             </p>
-            <p class="text-muted mb-4 d-flex justify-content-center">
-                *While BWF Shuttle API does provide BWF ranking data, we are in NO WAY affiliated/associated with the BWF
+            <p class="text-muted mb-4">
+                *While BWF Shuttle API does provide BWF ranking data, we are not affiliated/associated with the BWF
                 organization.
             </p>
 
             <hr />
-            <h3 class="mb-3 d-flex justify-content-center">About</h3>
-            <p class="text-muted lead mb-4 d-flex justify-content-center">BWF Shuttle API is a Flask Web Application
+            <h3 class="mb-3">About</h3>
+            <p class="text-muted lead">BWF Shuttle API is a Flask Web Application
                 utilizing
                 Python libraries BeautifulSoup and Pandas to scrape badminton ranking data from BWF's Tournament Software website. <br />CSV and JSON files can be
                 downloaded directly, and JSON metadata can be acquired through API calls.
             </p>
             <hr />
-            <h3 class="mb-3 d-flex justify-content-center">API Call Formats</h3>
-            <p class="text-muted lead mb-4 d-flex justify-content-center">Fill in the { } from the options below for the
+            <h3 class="mb-3">API Call Formats</h3>
+            <p class="text-muted lead mb-4">Fill in the { } from the options below for the
                 data you wish to get. <br />For months and days, include the 0 at the start if it's a single
                 digit.<br />(i.e. March 9th, 2017 = 2017/03/09)
             </p>
-            <div class="bg-light text-dark rounded justify-content-center p-3" style="overflow-x: scroll;">
+            <div class="bg-light text-dark rounded p-3" style="overflow-x: scroll;">
                 <div class="input-group mb-3">
                     <div class="input-group-prepend">
                         <label class="input-group-text" for="categories">Valid Category:</label>
@@ -71,37 +71,37 @@
                         oninput="validity.valid || (value='');" />
                 </div>
 
-                <div class="text-center">
+                <div>
                     <p>Top 25 Players for <span class="category-text text-danger">{category}</span> from Latest Rankings</p>
                     <p><span class="bg-secondary text-white p-2 rounded">https://www.bwfshuttleapi.com/rankings/api/<span
                                 class="category-text">{category}</span></span></p>
                 </div>
 
-                <div class="text-center">
+                <div>
                     <p>Top <span class="rows-text text-danger">{rows}</span> Player(s) for <span
                             class="category-text text-danger">{category}</span> from Latest Rankings</p>
-                    <p class="text-center"><span
+                    <p><span
                             class="bg-secondary text-white p-2 rounded">https://www.bwfshuttleapi.com/rankings/api/<span
                                 class="category-text">{category}</span>/<span class="rows-text">{rows}</span></span>
                     </p>
                 </div>
-                <div class="text-center">
+                <div>
                     <p>Top <span class="rows-text text-danger">{rows}</span> Player(s) for <span
                             class="category-text text-danger">{category}</span> from <span
                             class="yw-text text-danger">{year}</span>, Week <span class="yw-text text-danger">{week}</span>
                     </p>
-                    <p class="text-center"><span
+                    <p><span
                             class="bg-secondary text-white p-2 rounded">https://www.bwfshuttleapi.com/rankings/api/<span
                                 class="category-text">{category}</span>/<span class="yw-text">{year}</span>/<span
                                 class="yw-text">{week}</span>/<span class="rows-text">{rows}</span></span>
                     </p>
                 </div>
-                <div class="text-center">
+                <div>
                     <p>Top <span class="rows-text text-danger">{rows}</span> Player(s) for <span
                             class="category-text text-danger">{category}</span> from <span
                             class="ymd-text text-danger">{year}</span>/<span
                             class="ymd-text text-danger">{month}</span>/<span class="ymd-text text-danger">{day}</span></p>
-                    <p class="text-center"><span
+                    <p><span
                             class="bg-secondary text-white p-2 rounded">https://www.bwfshuttleapi.com/rankings/api/<span
                                 class="category-text">{category}</span>/<span class="ymd-text">{year}</span>/<span
                                 class="ymd-text">{month}</span>/<span class="ymd-text">{day}</span>/<span
@@ -110,8 +110,8 @@
                 </div>
             </div>
             <hr />
-            <h3 class="mb-3 d-flex justify-content-center">Purpose</h3>
-            <p class="text-muted lead mb-4 d-flex justify-content-center">As of this moment, no up-to-date official database
+            <h3 class="mb-3">Purpose</h3>
+            <p class="text-muted lead mb-5">As of this moment, no up-to-date official database
                 for badminton players
                 is publicly available for download. BWF Shuttle API acts as an alternative source for anyone
                 wishing to view or download BWF ranking data.

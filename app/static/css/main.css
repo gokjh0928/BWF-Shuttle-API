@@ -209,18 +209,6 @@ button:focus {
 
 
 /* bottom margin 10% */
-.b-m {
-    margin-bottom: 13px !important;
-}
-
-.top-spacing {
-    padding-top: 20px;
-}
-
-.bottom-p-spacing {
-    padding-bottom: 30px;
-}
-
 .b-p-5 {
     padding-bottom: 5%;
 }
@@ -251,12 +239,6 @@ button:focus {
 
 .t-p-20 {
     padding-top: 15%;
-}
-
-/* For the Rankings page specification inputs */
-.spec-input {
-    margin-top: -10px;
-    margin-bottom: 15px;
 }
 
 /* div that contains content that will be loaded on click of a button */
