@@ -1,4 +1,4 @@
-from flask import render_template, request, redirect, url_for, jsonify
+from flask import render_template, request, session, flash, redirect, url_for, jsonify
 from .import bp as app
 from flask import current_app as curr_app
 from app.context_processor import getDates, getWeeks
@@ -23,8 +23,11 @@ def home():
 @app.route('/contact', methods = ['GET', 'POST'])
 def contact():
     if request.method == "POST":
+        if 'user' not in session:
+            flash("Please log in to send messages.", 'info')
+            return redirect(url_for('main.contact'))
         name = request.form.get('input-name')
-        email = request.form.get('input-email')
+        email = session['user_email']
         subject = request.form.get('input-subject')
         message = request.form.get('input-message')
         return redirect(url_for('main.send_message', name=name, email=email, subject=subject, message=message))

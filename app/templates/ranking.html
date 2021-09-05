@@ -1,6 +1,6 @@
 {% extends 'layout.html' %}
 {% block title %}
-    <title>Badminton Ranking Data Table Search Page | BWF Shuttle API</title>
+<title>Badminton Ranking Data Table Search Page | BWF Shuttle API</title>
 {% endblock title %}
 
 {% block description %}
@@ -31,12 +31,13 @@
                         <option value="XD">Mixed Doubles</option>
                     </select>
                 </div>
-                <label for="num-rows" class="lead mb-3">Enter Number of
+                <label for="ranking-rows" class="lead mb-3">Enter Number of
                     Players/Pairs to
                     View</label>
                 <div class="input-group">
-                    <input type="number" class="form-control mb-4" min="0" name="num-rows" id="num-rows"
-                        placeholder='25' oninput="validity.valid || (value='');"/>
+                    <input type="number" class="form-control mb-4" min="0" name="ranking-rows" id="ranking-rows"
+                        placeholder='25' onkeydown="javascript: return event.keyCode === 8 ||
+event.keyCode === 46 ? true : !isNaN(Number(event.key))" oninput="limitLength();" />
                 </div>
 
                 <label for="date" class="lead mb-3">Select a Date</label>

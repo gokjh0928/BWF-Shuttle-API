@@ -62,7 +62,7 @@ def table():
             flash(Markup('Please verify your account before viewing table. <a href="/authentication/resend_verification" class="alert-link">Resend Verification</a>?'), 'info')
             return redirect(url_for('rankings.home'))
         category = request.form.get('category-select')
-        num_rows = request.form.get('num-rows')
+        num_rows = request.form.get('ranking-rows')
         num_rows = num_rows if num_rows else '25'
         date = request.form.get('date')
 
@@ -76,8 +76,7 @@ def table():
             valid_weeks = getWeeks()
             # Make sure to clear previous info that altered tables, since we're getting a new table
             for altering_term in ['search', 'ascending', 'descending']:
-                if altering_term in session:
-                    session.pop(altering_term)
+                session.pop(altering_term, None)
             context = {
                 'table': df.values,
                 'category': category_full_name[request.form.get('category-select')],
@@ -118,6 +117,11 @@ def download(type, altered, category, year, week, rows):
         return redirect(url_for('rankings.home'))
     valid_weeks = getWeeks()
     df = generate_table(category, valid_weeks[f'{year}-{week}'], rows)
+    if category in ['MS', 'WS']:
+        df.drop('profile_link', axis=1, inplace=True)
+    elif category in ['MD', 'WD', 'XD']:
+        df.drop(['profile_link1', 'profile_link2'], axis=1, inplace=True)
+    
     # If we want to download the altered table
     if altered == "True":
         # Check if the user made any changes to the table and reflect those changes
@@ -143,6 +147,7 @@ def download(type, altered, category, year, week, rows):
                     df.sort_values(by=[col_name, 'rank'], ascending=[False, True], inplace=True)
                 else:
                     df.sort_values(by='rank', ascending=False, inplace=True)
+    
     if type == 'csv':
         file = df.to_csv(index=False)
         return Response(
@@ -172,7 +177,7 @@ def flask_table(category, year, month, day, rows):
         # Save search in session to reflect changes when downloading altered table
         session['search'] = search
         total_records = len(df)
-        if search:
+        if search and len(df) > 0:
             if category in ['MS', 'WS']:
                 df = df[df.drop('profile_link', axis=1).apply(lambda row: row.astype(str).str.contains(search, case=False).any(), axis=1)]
             elif category in ['MD', 'WD', 'XD']:
@@ -196,8 +201,7 @@ def flask_table(category, year, month, day, rows):
                 else:
                     df.sort_values(by='rank', ascending=False, inplace=True)
                 # Save changes to dataframe in session to reflect changes when downloading altered table
-                if 'ascending' in session:
-                    session.pop('ascending')
+                session.pop('ascending', None)
                 session['descending'] = col_name
             else:
                 if col_name in ['player', 'player1', 'player2']:
@@ -207,8 +211,7 @@ def flask_table(category, year, month, day, rows):
                 else:
                     df.sort_values(by='rank', ascending=True, inplace=True)
                 # Save changes to dataframe in session to reflect changes when downloading altered table
-                if 'descending' in session:
-                    session.pop('descending')
+                session.pop('descending', None)
                 session['ascending'] = col_name
             i += 1
         start = request.args.get('start', type=int)

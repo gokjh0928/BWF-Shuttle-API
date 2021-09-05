@@ -12,7 +12,7 @@
     <div class="col-lg-10 col-xl-9">
         <h2 class="mb-3">FAQ</h2>
         <p class="text-muted lead mb-4">Here are the most frequently asked questions about BWF Shuttle API. <br />Feel free to send more through 
-            our social media or <strong>Contact</strong> page and we might include them here!
+            our social media or <a href="{{ url_for('main.contact') }}">Contact</a> page and we might include them here!
         </p>
         <hr />
         <h5 class="mb-3">Are you associated with the BWF organization?</h5>
@@ -29,8 +29,8 @@
         <hr />
         
         <h5 class="mb-3">How is the data formatted?</h5>
-        <p class="text-muted">The data can be acquired by choosing a date, category, and number of players in the <strong>Rankings</strong> page of the website, where
-        users can download CSV and JSON files of the original or queried data tables. Another way is to get JSON metadata with simple HTTP GET requests using our API, following the format specified on our home page.
+        <p class="text-muted">The data can be acquired by choosing a date, category, and number of players in the <a href="{{ url_for('rankings.home') }}">Rankings</a> page, where
+        users can download CSV and JSON files of the original or queried data tables. Another way is to get JSON metadata with simple HTTP GET requests using our API, following the format specified on our <a href="{{ url_for('main.home') }}">Home</a> page.
         </p>
         <hr />
         <h5 class="mb-3">Can I use this data for personal use?</h5>

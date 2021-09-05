@@ -16,22 +16,10 @@
         fill up the form below and let's talk!</p>
     <hr />
     <form action="{{ url_for('main.contact') }}" method="POST" class="needs-validation col-xl-10 offset-xl-1 text-center pb-5" enctype="multipart/form-data" novalidate>
-        <div class="form-row">
-            <div class="col-md-6">
-                <div class="form-group">
-                    <input type="text" class="form-control" name="input-name" id="input-name" placeholder="Name" required>
-                    <div class="invalid-feedback">
-                        Please put in your name.
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6">
-                <div class="form-group">
-                    <input type="email" class="form-control" name="input-email" id="input-email" placeholder="Email" required>
-                    <div class="invalid-feedback">
-                        Please put in a valid email.
-                    </div>
-                </div>
+        <div class="form-group">
+            <input type="text" class="form-control" name="input-name" id="input-name" placeholder="Name" required>
+            <div class="invalid-feedback">
+                Please put in your name.
             </div>
         </div>
         <div class="form-group">

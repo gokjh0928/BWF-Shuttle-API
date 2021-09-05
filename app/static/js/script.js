@@ -1,80 +1,101 @@
-document.getElementById('categories').addEventListener('change', function () {
-    var categoryNames = {
-        "MS": "Mens Singles",
-        "WS": "Womens Singles",
-        "MD": "Mens Doubles",
-        "WD": "Womens Doubles",
-        "XD": "Mixed Doubles"
-    }
-    if (this.value != "Choose...") {
-        for (let i = 0; i < document.getElementsByClassName('category-text').length; i++) {
-            if (i % 2 == 0) {
-                document.getElementsByClassName('category-text')[i].innerHTML = categoryNames[this.value];
-            }
-            else {
-                document.getElementsByClassName('category-text')[i].innerHTML = this.value;
+
+document.addEventListener('DOMContentLoaded', () => {
+    document.getElementById('categories').addEventListener('change', function () {
+        var categoryNames = {
+            "MS": "Mens Singles",
+            "WS": "Womens Singles",
+            "MD": "Mens Doubles",
+            "WD": "Womens Doubles",
+            "XD": "Mixed Doubles"
+        }
+        if (this.value != "Choose...") {
+            for (let i = 0; i < document.getElementsByClassName('category-text').length; i++) {
+                if (i % 2 == 0) {
+                    document.getElementsByClassName('category-text')[i].innerHTML = categoryNames[this.value];
+                }
+                else {
+                    document.getElementsByClassName('category-text')[i].innerHTML = this.value;
+                }
             }
         }
-    }
-    else {
-        for (text of document.getElementsByClassName('category-text')) {
-            text.innerHTML = '{category}';
+        else {
+            for (text of document.getElementsByClassName('category-text')) {
+                text.innerHTML = '{category}';
+            }
         }
-    }
+    });
 });
 
-document.getElementById('weeks').addEventListener('change', function () {
-    if (this.value != "Choose...") {
-        let yearVal = this.value.split('-')[0];
-        let weekVal = this.value.split('-')[1];
-        for (let i = 0; i < document.getElementsByClassName('yw-text').length; i++) {
-            if (i % 2 == 0) {
-                document.getElementsByClassName('yw-text')[i].innerHTML = yearVal;
-            }
-            else {
-                document.getElementsByClassName('yw-text')[i].innerHTML = weekVal;
-            }
-        }
-    }
-    else {
-        for (let i = 0; i < document.getElementsByClassName('yw-text').length; i++) {
-            if (i % 2 == 0) {
-                document.getElementsByClassName('yw-text')[i].innerHTML = '{year}';
-            }
-            else {
-                document.getElementsByClassName('yw-text')[i].innerHTML = '{week}';
+
+
+document.addEventListener('DOMContentLoaded', () => {
+    document.getElementById('weeks').addEventListener('change', function () {
+        if (this.value != "Choose...") {
+            let yearVal = this.value.split('-')[0];
+            let weekVal = this.value.split('-')[1];
+            for (let i = 0; i < document.getElementsByClassName('yw-text').length; i++) {
+                if (i % 2 == 0) {
+                    document.getElementsByClassName('yw-text')[i].innerHTML = yearVal;
+                }
+                else {
+                    document.getElementsByClassName('yw-text')[i].innerHTML = weekVal;
+                }
             }
         }
-    }
+        else {
+            for (let i = 0; i < document.getElementsByClassName('yw-text').length; i++) {
+                if (i % 2 == 0) {
+                    document.getElementsByClassName('yw-text')[i].innerHTML = '{year}';
+                }
+                else {
+                    document.getElementsByClassName('yw-text')[i].innerHTML = '{week}';
+                }
+            }
+        }
+    });
 });
 
-document.getElementById('dates').addEventListener('change', function () {
-    let emptyDates = ['{year}', '{month}', '{day}']
-    if (this.value != "Choose...") {
-        for (let i = 0; i <= 2; i++){
-            document.getElementsByClassName('ymd-text')[i].innerHTML = this.value.split('/')[i];
-            document.getElementsByClassName('ymd-text')[i+3].innerHTML = this.value.split('/')[i];
+
+document.addEventListener('DOMContentLoaded', () => {
+    document.getElementById('dates').addEventListener('change', function () {
+        let emptyDates = ['{year}', '{month}', '{day}']
+        if (this.value != "Choose...") {
+            for (let i = 0; i <= 2; i++) {
+                document.getElementsByClassName('ymd-text')[i].innerHTML = this.value.split('/')[i];
+                document.getElementsByClassName('ymd-text')[i + 3].innerHTML = this.value.split('/')[i];
+            }
         }
-    }
-    else {
-        for (let i = 0; i <= 2; i++) {
-            document.getElementsByClassName('ymd-text')[i].innerHTML = emptyDates[i];
-            document.getElementsByClassName('ymd-text')[i + 3].innerHTML = emptyDates[i];
+        else {
+            for (let i = 0; i <= 2; i++) {
+                document.getElementsByClassName('ymd-text')[i].innerHTML = emptyDates[i];
+                document.getElementsByClassName('ymd-text')[i + 3].innerHTML = emptyDates[i];
+            }
         }
-    }
+    });
 });
 
-document.getElementById('num-rows').addEventListener('keyup', function () {
-    if (this.value != '') {
-        for (text of document.getElementsByClassName('rows-text')) {
-            text.innerHTML = this.value;
+document.addEventListener('DOMContentLoaded', () => {
+    document.getElementById('num-rows').addEventListener('keyup', function () {
+        if (this.value != '') {
+            for (text of document.getElementsByClassName('rows-text')) {
+                text.innerHTML = this.value;
+            }
         }
-    }
-    else {
-        for (text of document.getElementsByClassName('rows-text')) {
-            text.innerHTML = "{rows}";
+        else {
+            for (text of document.getElementsByClassName('rows-text')) {
+                text.innerHTML = "{rows}";
+            }
         }
-    }
+    });
+});
+
+document.addEventListener('DOMContentLoaded', () => {
+    var max_chars = 4;
+    document.getElementById('ranking-rows').addEventListener('input', function () {
+        if ($(this).val().length >= max_chars) {
+            $(this).val($(this).val().substr(0, max_chars));
+        }
+    });
 });
 
 
@@ -117,3 +138,4 @@ $('#psw, #psw-repeat').on('keyup', function () {
         $('#message').css('display', 'None');
     }
 });
+

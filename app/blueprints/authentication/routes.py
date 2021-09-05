@@ -20,10 +20,10 @@ def register():
             auth.create_user_with_email_and_password(email, password)
         except HTTPError as e:
             if json.loads(e.args[1])['error']['message'] == "EMAIL_EXISTS":
-                flash(Markup('An account already exists for this email! <a href="/authentication/reset_password" class="alert-link">Forgot Password</a>?'), 'info')
+                flash(Markup('Error: An account already exists for this email! <a href="/authentication/reset_password" class="alert-link">Forgot Password</a>?'), 'info')
                 return redirect(url_for("authentication.login"))
             else:
-                flash('Invalid Info!', 'danger')
+                flash(json.loads(e.args[1])['error']['message'].replace('_', ' ').title(), 'danger')
                 return redirect(url_for("authentication.register"))
         user = auth.sign_in_with_email_and_password(email, password)
         user = auth.refresh(user['refreshToken'])
@@ -38,28 +38,30 @@ def register():
 def login():
     # Check if session has a previously logged in user that's already existing
     if request.method == "POST":
-            try:
-                email = request.form.get('email')
-                password = request.form.get('psw')
-                user = auth.sign_in_with_email_and_password(email, password)
-                # idTokens expire after an hour so logging back in would need to refresh it
-                user = auth.refresh(user['refreshToken'])
-                # userId and idToken
-                session['user'] = user['idToken']
-                session['refreshToken'] = user['refreshToken']
-                print(auth.get_account_info(user['idToken']))
-            except:
-                flash(Markup('Incorrect email or password! <a href="/authentication/reset_password" class="alert-link">Forgot Password</a>?'), 'info')
-                return redirect(url_for('authentication.login'))
-            flash('Logged in successsfully', 'success')
-            return redirect(url_for('main.home'))
+        try:
+            email = request.form.get('email')
+            password = request.form.get('psw')
+            user = auth.sign_in_with_email_and_password(email, password)
+            # idTokens expire after an hour so logging back in would need to refresh it
+            user = auth.refresh(user['refreshToken'])
+            # userId and idToken
+            session['user'] = user['idToken']
+            session['user_email'] = auth.get_account_info(user['idToken'])['users'][0]['email']
+            session['refreshToken'] = user['refreshToken']
+            # print(auth.get_account_info(user['idToken']))
+        except:
+            flash(Markup('Incorrect email or password! <a href="/authentication/reset_password" class="alert-link">Forgot Password</a>?'), 'info')
+            return redirect(url_for('authentication.login'))
+        flash('Logged in successsfully', 'success')
+        return redirect(url_for('main.home'))
     return render_template('login.html')
 
 @app.route('/logout')
 def logout():
-    if 'user' in session:
-        session.pop('user', None)
-        # flash('Logged out successully', 'success')
+    session.pop('user', None)
+    session.pop('user_email', None)
+    session.pop('refreshToken', None)
+    flash('Logged out successully', 'success')
     return render_template('login.html')
 
 @app.route('/reset_password', methods = ['GET', 'POST'])
