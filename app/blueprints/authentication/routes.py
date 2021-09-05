@@ -27,7 +27,7 @@ def register():
                 return redirect(url_for("authentication.register"))
         user = auth.sign_in_with_email_and_password(email, password)
         user = auth.refresh(user['refreshToken'])
-        # auth.send_email_verification(user['idToken'])
+        auth.send_email_verification(user['idToken'])
         session['user'] = user['idToken']
         session['refreshToken'] = user['refreshToken']
         flash('Successfully created account and sent email with verification link.', 'success')
