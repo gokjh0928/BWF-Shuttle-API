@@ -1,4 +1,5 @@
 from flask import render_template, request, redirect, url_for, flash, Markup, session, json, jsonify, Response
+from pandas.core.frame import DataFrame
 from app.context_processor import db, auth, getDates, getWeeks
 import pandas as pd
 import os
@@ -117,10 +118,6 @@ def download(type, altered, category, year, week, rows):
         return redirect(url_for('rankings.home'))
     valid_weeks = getWeeks()
     df = generate_table(category, valid_weeks[f'{year}-{week}'], rows)
-    if category in ['MS', 'WS']:
-        df.drop('profile_link', axis=1, inplace=True)
-    elif category in ['MD', 'WD', 'XD']:
-        df.drop(['profile_link1', 'profile_link2'], axis=1, inplace=True)
     
     # If we want to download the altered table
     if altered == "True":
@@ -128,25 +125,26 @@ def download(type, altered, category, year, week, rows):
         if ('search' in session) or ('ascending' in session) or ('descending' in session):
             if session['search']:
                 if category in ['MS', 'WS']:
-                    df = df[df.drop('profile_link', axis=1).apply(lambda row: row.astype(str).str.contains(session['search'], case=False).any(), axis=1)]
+                    df = df[df.apply(lambda row: row.astype(str).str.contains(session['search'], case=False).any(), axis=1)]
                 elif category in ['MD', 'WD', 'XD']:
-                    df = df[df.drop(['profile_link1', 'profile_link2'], axis=1).apply(lambda row: row.astype(str).str.contains(session['search'], case=False).any(), axis=1)]
-            if 'ascending' in session:
-                col_name = session['ascending']
-                if col_name in ['player', 'player1', 'player2']:
-                    df.sort_values(by=col_name, ascending=True, inplace=True, key=lambda col: col.str.lower())
-                elif col_name != 'rank':
-                    df.sort_values(by=[col_name, 'rank'], ascending=[True, True], inplace=True)
-                else:
-                    df.sort_values(by='rank', ascending=True, inplace=True)
-            if 'descending' in session:
-                col_name = session['descending']
-                if col_name in ['player', 'player1', 'player2']:
-                    df.sort_values(by=col_name, ascending=False, inplace=True, key=lambda col: col.str.lower())
-                elif col_name != 'rank':
-                    df.sort_values(by=[col_name, 'rank'], ascending=[False, True], inplace=True)
-                else:
-                    df.sort_values(by='rank', ascending=False, inplace=True)
+                    df = df[df.apply(lambda row: row.astype(str).str.contains(session['search'], case=False).any(), axis=1)]
+            if not df.empty:
+                if 'ascending' in session:
+                    col_name = session['ascending']
+                    if col_name in ['player', 'player1', 'player2']:
+                        df.sort_values(by=col_name, ascending=True, inplace=True, key=lambda col: col.str.lower())
+                    elif col_name != 'rank':
+                        df.sort_values(by=[col_name, 'rank'], ascending=[True, True], inplace=True)
+                    else:
+                        df.sort_values(by='rank', ascending=True, inplace=True)
+                if 'descending' in session:
+                    col_name = session['descending']
+                    if col_name in ['player', 'player1', 'player2']:
+                        df.sort_values(by=col_name, ascending=False, inplace=True, key=lambda col: col.str.lower())
+                    elif col_name != 'rank':
+                        df.sort_values(by=[col_name, 'rank'], ascending=[False, True], inplace=True)
+                    else:
+                        df.sort_values(by='rank', ascending=False, inplace=True)
     
     if type == 'csv':
         file = df.to_csv(index=False)
@@ -179,9 +177,9 @@ def flask_table(category, year, month, day, rows):
         total_records = len(df)
         if search and len(df) > 0:
             if category in ['MS', 'WS']:
-                df = df[df.drop('profile_link', axis=1).apply(lambda row: row.astype(str).str.contains(search, case=False).any(), axis=1)]
+                df = df[df.apply(lambda row: row.astype(str).str.contains(search, case=False).any(), axis=1)]
             elif category in ['MD', 'WD', 'XD']:
-                df = df[df.drop(['profile_link1', 'profile_link2'], axis=1).apply(lambda row: row.astype(str).str.contains(search, case=False).any(), axis=1)]
+                df = df[df.apply(lambda row: row.astype(str).str.contains(search, case=False).any(), axis=1)]
         total_filtered = len(df)
         order = []
         i = 0
@@ -371,9 +369,11 @@ def generate_table(category, date, num_rows):
         return None
     players = db.child('dates').child(date).child(category).get()
     if category in ['MS', 'WS']:
-        cols = ['rank', 'rank_change', 'prev_rank', 'country', 'player', 'member_id', 'points', 'tournaments', 'profile_link']
+        # cols = ['rank', 'rank_change', 'prev_rank', 'country', 'player', 'member_id', 'points', 'tournaments', 'profile_link']
+        cols = ['rank', 'rank_change', 'prev_rank', 'country', 'player', 'member_id', 'points', 'tournaments']        
     else:
-        cols = ['rank', 'rank_change', 'prev_rank', 'country', 'player1', 'player2', 'member_id1', 'member_id2', 'points', 'tournaments', 'profile_link1', 'profile_link2']
+        # cols = ['rank', 'rank_change', 'prev_rank', 'country', 'player1', 'player2', 'member_id1', 'member_id2', 'points', 'tournaments', 'profile_link1', 'profile_link2']
+        cols = ['rank', 'rank_change', 'prev_rank', 'country', 'player1', 'player2', 'member_id1', 'member_id2', 'points', 'tournaments']
     df = pd.DataFrame(columns=cols)
     for idx, player in enumerate(players.each()):
         if idx >= int(num_rows):
