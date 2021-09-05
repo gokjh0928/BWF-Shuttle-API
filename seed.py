@@ -1,5 +1,3 @@
-### Used for Scheduled Seeding in PythonAnywhere only ###
-
 import scores
 import os
 from dotenv import load_dotenv
