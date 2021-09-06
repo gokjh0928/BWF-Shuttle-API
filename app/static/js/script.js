@@ -101,9 +101,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 // Function that adds a spinner to display while loading
-function loading() {
+function loading(text) {
     document.getElementById("content").classList.add("loading");
     document.getElementById("loading").classList.remove("loading");
+    if (text || text.length > 0) {
+        document.getElementById("loading-text").innerHTML = text;
+    }
+    
 }
 
 (function () {

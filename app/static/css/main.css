@@ -96,26 +96,6 @@ html {
     height: -webkit-fill-available;
 }
 
-/* 
-#footer {
-    margin-top: auto;
-    margin-bottom: 0;
-} */
-
-/* Code that allows ranking table to scroll(disabled since using Flask Table) */
-
-/* .table-scroll {
-    position: relative;
-    height: 500px;
-    overflow: auto;
-}
-.table-scroll-y {
-    display: block;
-} */
-/* th, td {
-    white-space: nowrap; 
-} */
-
 tr:hover {
     background-color: #f6f6f6;
 }
@@ -338,6 +318,6 @@ div#loading {
 }
 
 
-.btn-round {
+.round {
     border-radius: 4px !important
 }

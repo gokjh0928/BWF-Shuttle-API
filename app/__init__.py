@@ -25,6 +25,8 @@ def create_app(config_class=Config):
         app.register_blueprint(authentication)
         from app.blueprints.rankings import bp as rankings
         app.register_blueprint(rankings)
+        from app.blueprints.players import bp as players
+        app.register_blueprint(players)
         # build routes(paths) ---> Not needed anymore since each blueprint has own route file
         # Create the tables in the database if not exists
         # db.create_all()

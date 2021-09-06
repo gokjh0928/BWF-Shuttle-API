@@ -13,7 +13,9 @@
     <h2 class="mb-3">Get in touch</h2>
     <p class="mb-3">If you wanna get in touch, suggest additional features, alert me of any errors in the data, or
         just say hi,
-        fill up the form below and let's talk!</p>
+        fill up the form below and let's talk!<br />
+        <small class="text-muted">(Only logged in users can send messages.)</small>
+    </p>
     <hr />
     <form action="{{ url_for('main.contact') }}" method="POST" class="needs-validation col-xl-10 offset-xl-1 text-center pb-5" enctype="multipart/form-data" novalidate>
         <div class="form-group">

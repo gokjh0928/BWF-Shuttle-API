@@ -11,7 +11,9 @@
             <li class="nav-item">
                 <a class="nav-link text-nowrap" href="{{ url_for('rankings.home') }}">Rankings</a>
             </li>
-            
+            <li class="nav-item">
+                <a class="nav-link text-nowrap" href="{{ url_for('players.search') }}">Players</a>
+            </li>
             <!-- <li class="nav-item">
                 <a class="nav-link" href="{{ url_for('rankings.players') }}">Players</a>
             </li> -->
@@ -44,9 +46,9 @@
                 <a href="{{ url_for('authentication.register') }}" class="nav-link text-nowrap">Register</a>
             </li>
             {% endif %}
-            <li class="nav-item">
+            <!-- <li class="nav-item">
                 <a href="https://bwfbadminton.com" class="nav-link text-nowrap">BWF Fansite</a>
-            </li>
+            </li> -->
         </ul>
     </div>
 </nav>
