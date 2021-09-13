@@ -38,6 +38,16 @@ td, tr {
     text-align: center;
 }
 
+.table-scrollbar {
+    position: relative;
+    height: 500px;
+    overflow: auto;
+}
+
+.table-scroll-y {
+    display: block;
+}
+
 
 @media (max-width:576px){
         .container {

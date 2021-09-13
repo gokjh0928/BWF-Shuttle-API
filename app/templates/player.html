@@ -1,0 +1,119 @@
+<!-- {% extends 'layout.html' %}
+{% block title %}
+<title>Player Profile Page | BWF Shuttle API</title>
+{% endblock title %}
+
+{% block description %}
+<meta name="description" content="A player's profile page that displays their personal description, ranking info, title info, and more. All info available for download in JSON format.">
+{% endblock description %}
+
+{% block content %}
+    <div class="col-8 offset-2">
+        <h2 class="mb-3 d-flex justify-content-center text-center">{{ personal_details['name'] }}</h2>
+    </div>
+    <hr />
+    <div class="text-center d-flex justify-content-center">
+        <div class="col-lg-10 col-xl-9">
+            {% if personal_details is defined %}
+            <h3 class="mb-3">Personal Details</h3>
+            <div class="table-responsive mb-3">
+                <table id="personal-details" class="table table-bordered" style="width:100%">
+                    <thead class="thead-light">
+                        {% for heading in personal_details.keys() %}
+                        <th class="align-middle" scope="col">{{ heading.replace('_', ' ').upper()}}</th>
+                        {% endfor %}
+                    </thead>
+                    <tbody>
+                        {% for value in personal_details.values() %}
+                        <th class="align-middle" scope="col">{{ value }}</th>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+            {% endif %}
+            {% if game_statistics is defined %}
+            <h3 class="mb-3">Game Statistics</h3>
+            <div class="table-responsive mb-3">
+                <table id="data" class="table table-bordered" style="width:100%">
+                    <thead class="thead-light">
+                        <th class="align-middle" scope="col">Time Period</th>
+                        {% for heading in game_statistics.keys() %}
+                        <th class="align-middle" scope="col">{{ heading.replace('_', ' ').upper()}}</th>
+                        {% endfor %}
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">Career</th>
+                            {% for value in game_statistics.values() %}
+                            <td class="align-middle">{{ value['Career'] }}</td>
+                            {% endfor %}
+                        </tr>
+                        <tr>
+                            <th scope="row">This Year</th>
+                            {% for value in game_statistics.values() %}
+                            <td class="align-middle">{{ value['This year'] }}</td>
+                            {% endfor %}
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            {% endif %}
+            {% if titles is defined %}
+            <h3 class="mb-3">Titles</h3>
+            <div class="table-responsive table-scrollbar table-scroll-y mb-3">
+                <table id="data" class="table table-bordered" style="width:100%">
+                    <thead class="thead-light">
+                        <th class="align-middle" scope="col">Year</th>
+                        <th class="align-middle" scope="col">Tournament</th>
+                        <th class="align-middle" scope="col">Category</th>
+                        <th class="align-middle" scope="col">Placing</th>
+                    </thead>
+                    
+                    <tbody>
+                        {% for year in titles.keys() %}
+                        {% for name, info in titles[year].items() %}
+                        <tr>
+                            <td class="align-middle">{{ year }}</td>
+                            <td class="align-middle">{{ name }}</td>
+                            <td class="align-middle">{{ info['category'] }}</td>
+                            <td class="align-middle">{{ info['placing'] }}</td>
+                        </tr>
+                        {% endfor %}
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+            {% endif %}
+            {% if prize_money is defined %}
+            <h3 class="mb-3">Prize Money</h3>
+            <div class="table-responsive mb-3">
+                <table id="data" class="table table-bordered" style="width:100%">
+                    <thead class="thead-light">
+                        <th class="align-middle" scope="col">Period</th>
+                        {% for category in prize_money['total']['career'].keys() %}
+                        <th class="align-middle" scope="col">{{ category }}</th>
+                        {% endfor %}
+                    </thead>
+                    <tbody>
+                        {% for time_period in prize_money['total'].keys() %}
+                        <tr>
+                            <td class="align-middle">{{ time_period.title().replace('_', ' ') }}</td>
+                            {% for category in prize_money['total'][time_period].keys() %}
+                            <td class="align-middle">{{ prize_money['total'][time_period][category] }}</td>
+                            {% endfor %}
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            
+            </div>
+            
+            {% endif %}
+        </div>
+    </div>
+    <div class="downloads text-center">
+        <span>JSON File:</span>
+        <a href="{{ url_for('players.download', profile_suffix=profile_suffix }}" class="btn btn-primary" role="button"
+            aria-pressed="true">JSON</a>
+    </div>
+{% endblock content %} -->

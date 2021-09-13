@@ -99,7 +99,6 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 
-
 // Function that adds a spinner to display while loading
 function loading(text) {
     document.getElementById("content").classList.add("loading");
@@ -108,6 +107,11 @@ function loading(text) {
         document.getElementById("loading-text").innerHTML = text;
     }
     
+}
+
+// Function that adds a spinner to display while loading
+function downloading() {
+    document.getElementById("downloading").classList.remove("loading");
 }
 
 (function () {
