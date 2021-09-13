@@ -7,8 +7,8 @@ import os
 from .import bp as app
 import requests
 from bs4 import BeautifulSoup
-from IPython.display import display
-from pprint import pprint
+# from IPython.display import display
+# from pprint import pprint
 from app import cache
 from app import limiter
 # headless webdriver to get the Prize Money, Titles/Finals after clicking links
@@ -177,17 +177,6 @@ def get_player_data(profile_suffix):
 @app.route('/download/<profile_suffix>')
 @limiter.limit(f"{per_day}/day;{per_minute}/minute", error_message=f'Please limit API calls to {per_day}/day, {per_minute}/minute')
 def download(profile_suffix):
-    if 'user' not in session:
-        flash("Please log in on the website before downloading data.", 'info')
-        return redirect(url_for('rankings.home'))
-    # See if the user's token has expired, and if so, refresh to get a new one
-    try:
-        auth.get_account_info(session['user'])
-    except:
-        session['user'] = auth.refresh(session['refreshToken'])['idToken']
-    if not auth.get_account_info(session['user'])['users'][0]['emailVerified']:
-        flash(Markup('Please verify your account before downloading data. <a href="/authentication/resend_verification" class="alert-link">Resend Verification</a>?'), 'info')
-        return redirect(url_for('rankings.home'))
     player_data = get_player_data(profile_suffix)
     name = player_data['Personal Details']['name'].replace(' ', '_')
     file = jsonify(json.loads(json.dumps(player_data, indent=4)))
