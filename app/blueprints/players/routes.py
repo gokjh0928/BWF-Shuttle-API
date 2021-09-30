@@ -1,4 +1,3 @@
-from typing import DefaultDict
 from flask import render_template, request, redirect, url_for, flash, Markup, session, json, jsonify, Response
 from pandas.core.frame import DataFrame
 from app.context_processor import db, auth, getDates, getWeeks
@@ -24,6 +23,7 @@ per_minute = 80
 
 chrome_options = Options()
 chrome_options.add_argument("--headless")
+chrome_options.add_argument("--disable-gpu")
 
 # URL prefix to search player
 search_url_prefix = "https://bwf.tournamentsoftware.com/find/player?q="
@@ -62,7 +62,8 @@ def search():
 
 @cache.memoize(timeout=500)
 def get_player_data(profile_suffix):
-    driver = webdriver.Chrome(options=chrome_options, executable_path='./chromedriver')
+    driver = webdriver.Chrome(options=chrome_options)
+    # driver = webdriver.Chrome(options=chrome_options, executable_path='./chromedriver')
     driver.get(profile_url_prefix + profile_suffix)
     player_info = {}
     personal_info = {}
@@ -104,7 +105,7 @@ def get_player_data(profile_suffix):
                 modules_left.remove(title)
                 print('Finished Statistics section')
                 continue
-                # Contains prize money info(Ignoring this since it's apparently not as accurate as it seems)      
+                # Contains prize money info(Ignoring this since it's apparently not as accurate as it seems)
             if title in modules_left and title == "prize_money":
                 module.find_element_by_link_text("All").click()
                 try:
@@ -183,6 +184,11 @@ def download(profile_suffix):
     file.headers['Content-Disposition'] = f'attachment;filename={name}.json'
     return file
 
+@app.route('/api/<profile_suffix>')
+@limiter.limit(f"{per_day}/day;{per_minute}/minute", error_message=f'Please limit API calls to {per_day}/day, {per_minute}/minute')
+def player_data(profile_suffix):
+    player_data = get_player_data(profile_suffix)
+    return jsonify(json.loads(json.dumps(player_data, indent=4)))
 
 @cache.memoize(timeout=120)
 def get_search_results(search_term):
@@ -202,4 +208,3 @@ def get_search_results(search_term):
         association = player.find('small', class_="media__subheading").find('span', class_="nav-link__value").string.strip()
         search_results.append((link_suffix, player_name, player_id, association))
     return search_results
-    

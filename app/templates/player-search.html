@@ -37,7 +37,7 @@
     <h3 class="mb-3 d-flex justify-content-center text-center">Results</h3>
 </div>
 <div id="downloading" class="justify-content-center text-center loading">
-    <p class="text-primary">Player data is currently being scraped for download. Please don't leave the page.</p>
+    <p class="text-primary">Player data is currently being scraped. Please do not leave the page.</p>
 </div>
 <hr />
 <div class="table-responsive table-scrollbar table-scroll-y mb-3">
@@ -47,6 +47,8 @@
                 <th scope="col">Name</th>
                 <th scope="col">Player ID</th>
                 <th scope="col">Association</th>
+                <!-- <th scope="col">Profile Suffix</th> -->
+                <th scope="col">JSON Data</th>
                 <th scope="col">JSON File</th>
             </tr>
         </thead>
@@ -56,6 +58,9 @@
                     <td class="align-middle">{{ player[1] }}</td>
                     <td class="align-middle">{{ player[2] }}</td>
                     <td class="align-middle">{{ player[3] }}</td>
+                    <!-- <td class="align-middle">{{ player[0] }}</td> -->
+                    <td class="align-middle"><a class="btn btn-primary" href="{{ url_for('players.player_data', profile_suffix=player[0]) }}"
+                            onclick="downloading()" role="button">View</a></td>
                     <td class="align-middle"><a class="btn btn-primary" href="{{ url_for('players.download', profile_suffix=player[0]) }}" onclick="downloading()" role="button">Download</a></td>
                 </tr>
             {% endfor %}
