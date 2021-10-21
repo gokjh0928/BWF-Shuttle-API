@@ -2,6 +2,7 @@ from flask import render_template, request, session, flash, redirect, url_for, j
 from .import bp as app
 from flask import current_app as curr_app
 from app.context_processor import getDates, getWeeks
+
 # Import smtplib for sending emails
 import smtplib
 from app import cache
@@ -16,7 +17,7 @@ def home():
             # all possible dates from which to get information from BWF Website
             'categories': ['MS', 'WS', 'MD', 'WD', 'XD'],
             'dates': valid_dates,
-            'weeks': valid_weeks.keys()
+            'weeks': valid_weeks
         }
     return render_template('home.html', **context)
 

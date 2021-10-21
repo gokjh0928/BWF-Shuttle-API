@@ -51,16 +51,16 @@
 </div>
 <div class="downloads text-center">
     <span>Download Original Table:</span>
-    <a href="{{ url_for('rankings.download', altered=False, category=category_abbr, year=year, week=week, type='csv', rows=rows) }}"
+    <a href="{{ url_for('rankings.download', type='csv', altered=False, category=category_abbr, date=date.replace('/', '_'), rows=rows) }}"
         class="btn btn-primary" role="button" aria-pressed="true">CSV</a>
-    <a href="{{ url_for('rankings.download', altered=False, category=category_abbr, year=year, week=week, type='json', rows=rows) }}"
+    <a href="{{ url_for('rankings.download', type='json', altered=False, category=category_abbr, date=date.replace('/', '_'), rows=rows) }}"
         class="btn btn-primary" role="button" aria-pressed="true">JSON</a>
 </div>
 <div class="downloads text-center">
     <span>Download Altered Table:</span>
-    <a href="{{ url_for('rankings.download', altered=True, category=category_abbr, year=year, week=week, type='csv', rows=rows) }}"
+    <a href="{{ url_for('rankings.download', type='csv', altered=True, category=category_abbr, date=date.replace('/', '_'), rows=rows) }}"
         class="btn btn-primary" role="button" aria-pressed="true">CSV</a>
-    <a href="{{ url_for('rankings.download', altered=True, category=category_abbr, year=year, week=week, type='json', rows=rows) }}"
+    <a href="{{ url_for('rankings.download', type='json', altered=True, category=category_abbr, date=date.replace('/', '_'), rows=rows) }}"
         class="btn btn-primary" role="button" aria-pressed="true">JSON</a>
 </div>
 

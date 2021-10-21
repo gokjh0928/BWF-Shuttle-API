@@ -1,6 +1,7 @@
 from flask import render_template, request, redirect, url_for, flash, Markup, session, json, jsonify, Response
 from pandas.core.frame import DataFrame
-from app.context_processor import db, auth, getDates, getWeeks
+# from app.context_processor import db, auth, getDates, getWeeks
+from app.context_processor import db, auth, getDates
 import pandas as pd
 import os
 from .import bp as app
@@ -74,7 +75,7 @@ def table():
         else:
             # if existing in database, generate ranking table
             df = generate_table(category, date, num_rows)
-            valid_weeks = getWeeks()
+            # valid_weeks = getWeeks()
             # Make sure to clear previous info that altered tables, since we're getting a new table
             for altering_term in ['search', 'ascending', 'descending']:
                 session.pop(altering_term, None)
@@ -84,7 +85,7 @@ def table():
                 'category_abbr': request.form.get('category-select'),
                 'date': date,
                 'year': date[:4],
-                'week': (list(valid_weeks.keys())[list(valid_weeks.values()).index(date)]).split('-')[1],
+                # 'week': (list(valid_weeks.keys())[list(valid_weeks.values()).index(date)]).split('-')[1],
                 'rows': num_rows
             }
             return render_template('ranking-table.html', **context)
@@ -95,13 +96,13 @@ def table():
 def players():
     return render_template('players.html')
 
-@app.route('/download/<type>/<altered>/<category>/<year>/<week>/<rows>')
+@app.route('/download/<type>/<altered>/<category>/<date>/<rows>')
 @limiter.limit(f"{per_day}/day;{per_minute}/minute", error_message=f'Please limit API calls to {per_day}/day, {per_minute}/minute')
-def download(type, altered, category, year, week, rows):
+def download(type, altered, category, date, rows):
     """
     type - type of file to download(csv, json, etc)
     category - chosen badminton category
-    year, week - chosen date to download from
+    date - chosen date to download from
     rows - number of rows
     Return: downloaded csv file that use wants
     """
@@ -116,11 +117,15 @@ def download(type, altered, category, year, week, rows):
     if not auth.get_account_info(session['user'])['users'][0]['emailVerified']:
         flash(Markup('Please verify your account before downloading data. <a href="/authentication/resend_verification" class="alert-link">Resend Verification</a>?'), 'info')
         return redirect(url_for('rankings.home'))
-    valid_weeks = getWeeks()
-    df = generate_table(category, valid_weeks[f'{year}-{week}'], rows)
     
+    date = date.replace('_', '/')
+    print(f'date(in download) is {date}')
+    df = generate_table(category, date, rows)
+    file_name_suffix = ''
+
     # If we want to download the altered table
     if altered == "True":
+        file_name_suffix = '_Altered'
         # Check if the user made any changes to the table and reflect those changes
         if ('search' in session) or ('ascending' in session) or ('descending' in session):
             if session['search']:
@@ -145,18 +150,17 @@ def download(type, altered, category, year, week, rows):
                         df.sort_values(by=[col_name, 'rank'], ascending=[False, True], inplace=True)
                     else:
                         df.sort_values(by='rank', ascending=False, inplace=True)
-    
     if type == 'csv':
         file = df.to_csv(index=False)
         return Response(
             file,
             mimetype="text/csv",
             headers={"Content-disposition":
-                    f"attachment; filename={category}_{year}_{week}.csv"})        
+                    f"attachment; filename={category}_{date}{file_name_suffix}.csv"})        
     elif type == 'json':
         data = df.to_json(orient='records')
         file = jsonify(json.loads(data))
-        file.headers['Content-Disposition'] = f'attachment;filename={category}_{year}_{week}.json'
+        file.headers['Content-Disposition'] = f'attachment;filename={category}_{date}{file_name_suffix}.json'
         return file
     else:
         # Catching any other error by doing nothing
@@ -275,11 +279,10 @@ def rank_year_week(category, year, week, rows):
     # error_message = not_verified()
     # if error_message:
     #     return jsonify(error_message)
-    valid_weeks = getWeeks()
-    if f'{year}-{week}' not in valid_weeks.keys():
+    valid_weeks = [week.key() for week in db.child('weeks').get().each()]
+    if f'{year}-{week}' not in valid_weeks:
         return jsonify(["Invalid Input"])
-    valid_weeks = getWeeks()
-    date = valid_weeks[f'{year}-{week}']
+    date = db.child('weeks').child(f'{year}-{week}').get().val()['ymd_date']
     df = generate_table(category, date, rows)
     if isinstance(df, pd.DataFrame): 
         data = df.to_json(orient='records')

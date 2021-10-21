@@ -29,17 +29,17 @@ def getValidDates():
         date_dict[date_str] = date['value']
     return date_dict
 
-def getWeeks():
-    valid_weeks = {}
-    page = requests.get('https://bwfbadminton.com/rankings/2/bwf-world-rankings/6/men-s-singles/2009/41/?rows=25&page_no=1')
-    soup = BeautifulSoup(page.content, "html.parser")
-    dates = soup.find(id="ranking-week").find_all('option')
-    for date in dates[:-1]:
-        date_string = date.text.strip().split(" ")
-        ymd_list = date_string[2][1:-1].split('-')
-        valid_weeks[f'{ymd_list[0]}-{date_string[1]}'] = '/'.join(ymd_list)
-    valid_weeks["2009-40"] = "2009/10/01"
-    return valid_weeks
+# def getWeeks():
+#     valid_weeks = {}
+#     page = requests.get('https://bwfbadminton.com/rankings/2/bwf-world-rankings/6/men-s-singles/2009/41/?rows=25&page_no=1')
+#     soup = BeautifulSoup(page.content, "html.parser")
+#     dates = soup.find(id="ranking-week").find_all('option')
+#     for date in dates[:-1]:
+#         date_string = date.text.strip().split(" ")
+#         ymd_list = date_string[2][1:-1].split('-')
+#         valid_weeks[f'{ymd_list[0]}-{date_string[1]}'] = '/'.join(ymd_list)
+#     valid_weeks["2009-40"] = "2009/10/01"
+#     return valid_weeks
 
 # today's date
 today = datetime.date.today().isocalendar()

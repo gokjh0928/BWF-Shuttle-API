@@ -25,12 +25,12 @@ storage = firebase.storage()
 @cache.memoize(timeout=600)
 def getDates():
     # Dictionary with valid dates as keys and values being the ones used for getting the url
-    valid_dates = sorted(list(scores.getValidDates().keys()), reverse=True)
+    valid_dates = sorted([week.val()['ymd_date'] for week in db.child('weeks').get().each()], reverse=True)
     return valid_dates
 
 # Memoize weeks
 @cache.memoize(timeout=600)
 def getWeeks():
     # Dict with keys formated like '{year}-{week}' and value being corresponding year/month/day
-    valid_weeks = scores.getWeeks()
+    valid_weeks = sorted([week.key() for week in db.child('weeks').get().each()], reverse=True)
     return valid_weeks

@@ -1,6 +1,6 @@
 from flask import render_template, request, redirect, url_for, flash, Markup, session, json, jsonify, Response
 from pandas.core.frame import DataFrame
-from app.context_processor import db, auth, getDates, getWeeks
+# from app.context_processor import db, auth, getDates, getWeeks
 import pandas as pd
 import os
 from .import bp as app
@@ -62,8 +62,8 @@ def search():
 
 @cache.memoize(timeout=500)
 def get_player_data(profile_suffix):
-    driver = webdriver.Chrome(options=chrome_options)
-    # driver = webdriver.Chrome(options=chrome_options, executable_path='./chromedriver')
+    # driver = webdriver.Chrome(options=chrome_options)
+    driver = webdriver.Chrome(options=chrome_options, executable_path='./chromedriver')
     driver.get(profile_url_prefix + profile_suffix)
     player_info = {}
     personal_info = {}
