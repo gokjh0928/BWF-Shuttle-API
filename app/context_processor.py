@@ -1,6 +1,6 @@
 from flask import current_app as curr_app
 from pyrebase import pyrebase
-import scores
+import scrape_table
 from app import cache
 
 # configure firebase database

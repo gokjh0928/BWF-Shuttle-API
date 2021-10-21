@@ -6,28 +6,28 @@ import pandas as pd
 from bs4 import BeautifulSoup
 import requests
 
-# Get all valid dates to get rankings from
-def getValidDates():
-    page = requests.get("https://bwf.tournamentsoftware.com/ranking/ranking.aspx?id=1078")
-    soup = BeautifulSoup(page.content, 'html.parser')
+# # Get all valid dates to get rankings from
+# def getValidDates():
+#     page = requests.get("https://bwf.tournamentsoftware.com/ranking/ranking.aspx?id=1078")
+#     soup = BeautifulSoup(page.content, 'html.parser')
 
-    # dictionary containing all possible dates along with the associated value to get the URL
-    date_dict = {}
-    for date in soup.find_all("option"):
-        if '/' not in date.text:
-            break
-        year = date.text.split('/')[2]
-        month = date.text.split('/')[0]
-        day = date.text.split('/')[1]
-        if len(month) == 1:
-            month = '0' + month
-        if len(day) == 1:
-            day = '0' + day
-        date_str = f'{year}/{month}/{day}'
-        if date_str == '2010/01/21' and date_str in date_dict:
-            date_str = '2009/10/01'
-        date_dict[date_str] = date['value']
-    return date_dict
+#     # dictionary containing all possible dates along with the associated value to get the URL
+#     date_dict = {}
+#     for date in soup.find_all("option"):
+#         if '/' not in date.text:
+#             break
+#         year = date.text.split('/')[2]
+#         month = date.text.split('/')[0]
+#         day = date.text.split('/')[1]
+#         if len(month) == 1:
+#             month = '0' + month
+#         if len(day) == 1:
+#             day = '0' + day
+#         date_str = f'{year}/{month}/{day}'
+#         if date_str == '2010/01/21' and date_str in date_dict:
+#             date_str = '2009/10/01'
+#         date_dict[date_str] = date['value']
+#     return date_dict
 
 # def getWeeks():
 #     valid_weeks = {}

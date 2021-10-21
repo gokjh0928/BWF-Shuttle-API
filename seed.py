@@ -1,10 +1,12 @@
-import scores
+from scrape_table import getTable
 import os
 from dotenv import load_dotenv
 from pyrebase import pyrebase
 from flask import json
 import smtplib
 import time
+import requests
+from bs4 import BeautifulSoup
 
 load_dotenv('/home/jaybaekimchi/BWF-Shuttle-API/.env')
 
@@ -114,7 +116,7 @@ def seed():
                 print(f'Scraping tables for {date}')
                 for category in ['MS', 'WS', 'MD', 'WD', 'XD']:
                     print(f'Starting {category} {date}')
-                    result = scores.getTable(category, date_dict[date], categories[category]).to_json(orient='records')
+                    result = getTable(category, date_dict[date], categories[category]).to_json(orient='records')
                     data = json.loads(result)
                     db.child('dates').child(date).child(category).set(data)
                     print(f'Done for {category} {date}')

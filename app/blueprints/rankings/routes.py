@@ -1,6 +1,5 @@
 from flask import render_template, request, redirect, url_for, flash, Markup, session, json, jsonify, Response
 from pandas.core.frame import DataFrame
-# from app.context_processor import db, auth, getDates, getWeeks
 from app.context_processor import db, auth, getDates
 import pandas as pd
 import os
@@ -13,8 +12,6 @@ from app import limiter
 
 # The path to the project's directory
 path = os.getcwd()
-
-# this is the altered dataframe from the dynamic table that will be available for download
 
 # limits number of api_calls allowed to prevent DDOS style attacks
 per_day = 3000
@@ -308,61 +305,6 @@ def rank_ymd(category, year, month, day, rows):
     else:
         return jsonify(["Invalid Input!"])
     return jsonify(json.loads(data))
-
-
-
-# @app.route('/seed')
-# def seed():
-#     date_dict = scores.getValidDates()
-#     seed_flag = False
-#     for date in valid_dates:
-#         # Check if the database contains the data for this date
-#         if not db.child('dates').child(date).shallow().get().val():
-#             for category in ['MS', 'WS', 'MD', 'WD', 'XD']:
-#                 print(f'Starting {category} {date}')
-#                 result = scores.getTable(category, date_dict[date], categories[category]).to_json(orient='records')
-#                 data = json.loads(result)
-#                 db.child('dates').child(date).child(category).set(data)
-#                 print(f'Done for {category} {date}')
-#             seed_flag = True
-#         # Since the dates are ordered, break once finding a date that is contained in database
-#         else:
-#             break
-#     if seed_flag:
-#         print("Successfully seeded new data!")
-#     else:
-#         print("Nothing to seed. Everything is up to date!")
-#     return render_template('home.html')
-
-
-# @app.route('/upload')
-# def upload():
-    # The next two lines delete everything in the database
-    # for date in valid_dates:
-    #     db.child('dates').child(date).remove()
-
-    # Uploading every csv file onto firebase database
-    # for date in valid_dates:
-    #     date_file_name = '_'.join(date.split('/'))
-    #     for category in ['MS','WS','MD','WD','XD']:
-    #         df = pd.read_csv(path + f'/rankings/{category}/{category}_{date_file_name}.csv')
-    #         result = df.to_json(orient='records')
-    #         data = json.loads(result)
-    #         db.child('dates').child(date).child(category).set(data)
-
-    # for thing in db.child('dates').child('2021/08/17').child('MD').child('0').get().each():
-    #     print(thing.key())
-    #     print(thing.val())
-
-    # how to check if a child exists
-    # print('test')
-    # if not db.child('dates').child('2021/08/17').shallow().get().val():
-    #     print('date does not exist')
-    # else:
-    #     print('date exists!')
-    # print('done')
-    # return render_template('home.html')
-
 
 # Helper function for generating the ranking table, memoized for efficiency
 @cache.memoize(timeout=600)
