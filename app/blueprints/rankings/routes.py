@@ -1,5 +1,4 @@
 from flask import render_template, request, redirect, url_for, flash, Markup, session, json, jsonify, Response
-from pandas.core.frame import DataFrame
 from app.context_processor import db, auth, getDates
 import pandas as pd
 import os
