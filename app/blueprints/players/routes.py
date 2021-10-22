@@ -58,12 +58,12 @@ def search():
 #     context['profile_suffix'] = profile_suffix
 #     pprint(context['prize_money'])
 
-    # return render_template('player.html', ** context)
+#     return render_template('player.html', ** context)
 
 @cache.memoize(timeout=500)
 def get_player_data(profile_suffix):
-    # driver = webdriver.Chrome(options=chrome_options)
-    driver = webdriver.Chrome(options=chrome_options, executable_path='./chromedriver')
+    driver = webdriver.Chrome(options=chrome_options)
+    # driver = webdriver.Chrome(options=chrome_options, executable_path='./chromedriver')
     driver.get(profile_url_prefix + profile_suffix)
     player_info = {}
     personal_info = {}
