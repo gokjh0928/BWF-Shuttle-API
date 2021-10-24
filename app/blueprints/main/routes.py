@@ -50,7 +50,7 @@ def send_message(name, email, subject, message):
         # Replace the '/' with '_' to prevent errors in sending message
         message = message.replace('/', '_')
         #Adding a newline before the body text fixes the missing message body
-        mailserver.sendmail(curr_app.config.get('MAIL_USERNAME'),curr_app.config.get('MAIL_USERNAME'), 
+        mailserver.sendmail(curr_app.config.get('MAIL_USERNAME'),curr_app.config.get('ALT_MAIL'), 
                 f'\nFROM: {name}({email})\nSUBJECT: {subject}\n\n' + message)
         mailserver.quit()
         # print('Finish')  

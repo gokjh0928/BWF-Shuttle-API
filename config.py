@@ -14,6 +14,7 @@ class Config:
     MAIL_PORT = os.getenv('MAIL_PORT')
     MAIL_USERNAME = os.getenv('MAIL_USERNAME')
     MAIL_PASSWORD = os.getenv('MAIL_PASSWORD')
+    ALT_MAIL = os.getenv('ALT_MAIL')
 
     FIREBASE_API_KEY=os.getenv('FIREBASE_API_KEY')
     FIREBASE_AUTH_DOMAIN=os.getenv('FIREBASE_AUTH_DOMAIN')

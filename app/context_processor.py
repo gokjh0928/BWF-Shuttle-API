@@ -32,5 +32,5 @@ def getDates():
 @cache.memoize(timeout=600)
 def getWeeks():
     # Dict with keys formated like '{year}-{week}' and value being corresponding year/month/day
-    valid_weeks = sorted([week.key() for week in db.child('weeks').get().each()], reverse=True)
+    valid_weeks = sorted(db.child('weeks').shallow().get().val(), reverse=True)
     return valid_weeks
