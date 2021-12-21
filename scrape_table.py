@@ -6,41 +6,6 @@ import pandas as pd
 from bs4 import BeautifulSoup
 import requests
 
-# # Get all valid dates to get rankings from
-# def getValidDates():
-#     page = requests.get("https://bwf.tournamentsoftware.com/ranking/ranking.aspx?id=1078")
-#     soup = BeautifulSoup(page.content, 'html.parser')
-
-#     # dictionary containing all possible dates along with the associated value to get the URL
-#     date_dict = {}
-#     for date in soup.find_all("option"):
-#         if '/' not in date.text:
-#             break
-#         year = date.text.split('/')[2]
-#         month = date.text.split('/')[0]
-#         day = date.text.split('/')[1]
-#         if len(month) == 1:
-#             month = '0' + month
-#         if len(day) == 1:
-#             day = '0' + day
-#         date_str = f'{year}/{month}/{day}'
-#         if date_str == '2010/01/21' and date_str in date_dict:
-#             date_str = '2009/10/01'
-#         date_dict[date_str] = date['value']
-#     return date_dict
-
-# def getWeeks():
-#     valid_weeks = {}
-#     page = requests.get('https://bwfbadminton.com/rankings/2/bwf-world-rankings/6/men-s-singles/2009/41/?rows=25&page_no=1')
-#     soup = BeautifulSoup(page.content, "html.parser")
-#     dates = soup.find(id="ranking-week").find_all('option')
-#     for date in dates[:-1]:
-#         date_string = date.text.strip().split(" ")
-#         ymd_list = date_string[2][1:-1].split('-')
-#         valid_weeks[f'{ymd_list[0]}-{date_string[1]}'] = '/'.join(ymd_list)
-#     valid_weeks["2009-40"] = "2009/10/01"
-#     return valid_weeks
-
 # today's date
 today = datetime.date.today().isocalendar()
 
@@ -62,9 +27,17 @@ alt_names = {
 
 
 # function to get the table at the url(only used for seeding at this point since we're using Firebase)
-# Link is: https://bwf.tournamentsoftware.com/ranking/category.aspx?id={ date_value }&category={ category_value }&C472FOC=&p=1&ps=100
-
 def getTable(category, date_value, category_value):
+    """Scrapes table from BWF's Tournament Software website
+    URL Format: https://bwf.tournamentsoftware.com/ranking/category.aspx?id={ date_value }&category={ category_value }&C472FOC=&p=1&ps=100
+    
+    Keyword arguments:
+    category -- The category to get the table for(MS, WS, MD, WD, XD)
+    date_value -- Special value for specific date(dict values from getValidDates function in seed.py)
+    argument -- Special value for specific category(values from categories dict in seed.py)
+    Return: Pandas DataFrame with ranking data for given arguments
+    """
+    
     page_number = 1
     # Singles categories
     if category in ['MS', 'WS']:
@@ -164,7 +137,6 @@ def getTable(category, date_value, category_value):
             df2.columns = df2.columns.map(lambda x: x.replace(' ', '').lower())
             df2.drop(['rank.1','unnamed:2','unnamed:5', 'memberid'], axis=1, inplace=True)
             
-            
             # Get names of each player in pair, member IDs, profile links, previous rank, then the ranking change(negative value indicates drop in rank)
             player_1 = []
             player_2 = []
@@ -218,7 +190,7 @@ def getTable(category, date_value, category_value):
 
 
             # Get additional data 
-            # Check to see if the lens of each column match
+            # Check to see if the lengths of each column match
             if not (len(player_1) == len(player_2) == len(member_id1) == len(member_id2) == len(previous_ranks) ==len(rank_changes) == len(profile_link1) == len(profile_link2)):
                 print(f'player1: {len(player_1)}')
                 print(f'player2: {len(player_2)}')
@@ -229,14 +201,11 @@ def getTable(category, date_value, category_value):
                 print(f'profile_link1: {len(profile_link1)}')
                 print(f'profile_link2: {len(profile_link2)}')
             
-            
-            
             # Drop invalid rows(0 or 1 player in the row) before appending columns(we set player column to NA if invalid)
             df2.dropna(subset=['country', 'player'], inplace = True)
             
             # country will be in the form 'country1/country2'
             df2['country'] = df2['player'].apply(lambda x: '/'.join(re.findall('\[(.*?)\]', x)))
-            
             
             # Drop rows without two players before attaching additional columns
             invalid_idx = df2['country'].index[df2['country'].str.contains('/') == False].values.tolist()

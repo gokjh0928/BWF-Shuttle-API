@@ -35,6 +35,12 @@ firebase = pyrebase.initialize_app(firebaseConfig)
 db = firebase.database()
 
 def getValidDates():
+    """Gets Year/Month/Day dates for each ranking table, and gets 
+    unique value for each date. The values will be used in URL for later 
+    scraping ranking table as 'date-value'.
+    
+    Return: dict with Year/Month/Day dates as keys and associated special values
+    """
     page = requests.get("https://bwf.tournamentsoftware.com/ranking/ranking.aspx?id=1078")
     soup = BeautifulSoup(page.content, 'html.parser')
 
@@ -58,6 +64,10 @@ def getValidDates():
 
 
 def recentWeeks():
+    """Uses Selenium headless driver to scrape Year-Week data from BWF Fansite
+    
+    Return: dict with key:value being Year/Month/Day:Year-Week
+    """
     # headless webdriver to get the Prize Money, Titles/Finals after clicking links
     from selenium import webdriver
     from selenium.webdriver.chrome.options import Options
@@ -91,7 +101,13 @@ def recentWeeks():
 #     valid_weeks["2009-40"] = "2009/10/01"
     return valid_weeks
 
+
 def seed():
+    """Gets Year/Month/Day dates from BWF Tournament Software website, and
+    connects to Year/Week dates from BWF Fansite as Key-Value pairs.
+    Scrape ranking tables for each category(MS,WS,MD,WD,XD) until 
+    reaching a previously scraped date.
+    """
     number_of_seeded_dates = 0
     date_dict = getValidDates()
     recent_weeks = recentWeeks()
@@ -99,9 +115,10 @@ def seed():
     invalid_dates = []
     seeded_dates = []
     for date in valid_dates:
-        print('============================================')
+        print('==================================================================')
         print('Date is', date)
-        print('============================================')
+        print('==================================================================')
+        # Check if year/month/day date is a key in recent_weeks dict and has an associated valid year-week value
         if date in recent_weeks:
             print(f'{recent_weeks[date]} is a valid and recent week')
             # Now check if the associated week is in database, and add it if it's not yet in there
@@ -128,9 +145,10 @@ def seed():
                 print(f'Date {date} is in database. Stopping seeding.')
                 break
         else:
-            # Error!!!
+            print(f'Date {date} is in Tournament Software, but not in BWF Fansite.')
             invalid_dates.append(date)
 
+    # If there are any dates that don't have associated weeks in BWF Fansite, then send email alert
     if invalid_dates:
         recent_weeks_str = json.dumps(recent_weeks, indent=4)
         try:
@@ -146,7 +164,7 @@ def seed():
             pass
 
     if seeded_dates:
-        print(f'Found additional seeded data. Seeded {number_of_seeded_dates} dates')
+        print(f'Found additional seeded data. Seeded {number_of_seeded_dates} date(s)')
         message = ', '.join(seeded_dates)
         try:
             mailserver = smtplib.SMTP(os.getenv('MAIL_SERVER'), os.getenv('MAIL_PORT'))
