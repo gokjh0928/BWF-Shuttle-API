@@ -2,7 +2,7 @@ from flask import render_template, request, redirect, url_for, flash, Markup, se
 from pandas.core.frame import DataFrame
 # from app.context_processor import db, auth, getDates, getWeeks
 import pandas as pd
-import os
+import os, shutil
 from .import bp as app
 import requests
 from bs4 import BeautifulSoup
@@ -172,6 +172,18 @@ def get_player_data(profile_suffix):
     player_info['Game Statistics'] = win_loss_info if win_loss_info else ["No info available"]
     player_info['Prize Money'] = prize_money_dict if prize_money_dict else ["No info available"]
     player_info['Titles'] = titles_dict if titles_dict else ["No info available"]
+    # Clearing tmp folder in PythonAnywhere post-Selenium scraping 
+    try:
+        dir = '/tmp'
+        for files in os.listdir(dir):
+            path = os.path.join(dir, files)
+            try:
+                shutil.rmtree(path)
+            except OSError:
+                os.remove(path)
+        print("Deleted tmp folder after running Selenium")
+    except:
+        print("Failed to clear the tmp folder")
     return player_info
 
 

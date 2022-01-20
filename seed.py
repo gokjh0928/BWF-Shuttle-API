@@ -1,5 +1,5 @@
 from scrape_table import getTable
-import os
+import os, shutil
 from dotenv import load_dotenv
 from pyrebase import pyrebase
 from flask import json
@@ -173,15 +173,15 @@ def seed():
             mailserver.starttls()
             mailserver.login(os.getenv('MAIL_USERNAME'), os.getenv('MAIL_PASSWORD'))
             #Adding a newline before the body text fixes the missing message body
-            mailserver.sendmail(os.getenv('MAIL_USERNAME'),os.getenv('MAIL_USERNAME'),
+            mailserver.sendmail(os.getenv('MAIL_USERNAME'),os.getenv('ALT_MAIL'),
                     f'\nSeeded New Data:\nSeeded Date(s): {message}\n')
             mailserver.quit()
         except:
             return
     else:
         print("Found no data to seed as of this moment.")
+    # Clearing tmp folder in PythonAnywhere post-Selenium scraping 
     try:
-        import os, shutil
         dir = '/tmp'
         for files in os.listdir(dir):
             path = os.path.join(dir, files)
