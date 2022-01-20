@@ -179,6 +179,18 @@ def seed():
             return
     else:
         print("Found no data to seed as of this moment.")
+    try:
+        import os, shutil
+        dir = '/tmp'
+        for files in os.listdir(dir):
+            path = os.path.join(dir, files)
+            try:
+                shutil.rmtree(path)
+            except OSError:
+                os.remove(path)
+        print("Deleted tmp folder after running Selenium")
+    except:
+        print("Failed to clear the tmp folder")
     return
 
 seed()
